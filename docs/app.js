@@ -82,7 +82,16 @@ function matchesGameFilter(anomaly) {
   return false;
 }
 
+/* Keys of anomalies shown in featured section — rebuilt each render */
+let featuredKeys = new Set();
+
+function anomalyKey(a) {
+  const name = a.player_name || a.team_name || "";
+  return `${name}|${a.stat}|${a.direction}`;
+}
+
 function renderAll() {
+  featuredKeys = new Set();
   renderFeaturedBets();
   renderPlayerAnomalies();
   renderTeamAnomalies();
@@ -105,90 +114,11 @@ function renderFeaturedBets() {
   }
   section.style.display = "";
 
-  container.innerHTML = featured
-    .slice(0, 10)
-    .map((a, i) => {
-      const rank = i + 1;
-      const sbUrl = a.sportsbet_url || "";
-      const linkOpen = sbUrl
-        ? `<a href="${sbUrl}" target="_blank" rel="noopener" class="betting-line-link">`
-        : "";
-      const linkClose = sbUrl ? "</a>" : "";
+  const shown = featured.slice(0, 12);
+  shown.forEach((a) => featuredKeys.add(anomalyKey(a)));
 
-      const isTeam = a.is_team;
-      const name = isTeam ? a.team_name : a.player_name;
-      const subtitle = isTeam
-        ? a.team_abbr || ""
-        : `${a.team || ""} \u00b7 ${a.games_played} GP`;
-      const gameTag = a.game
-        ? `<span class="game-tag">${a.game}</span>`
-        : "";
-
-      const bl = a.betting_line || {};
-      const line = bl.line;
-      let lineText = "";
-      if (bl.market_type === "over_under" || line != null) {
-        const over = bl.over_price != null ? bl.over_price : "\u2014";
-        const under = bl.under_price != null ? bl.under_price : "\u2014";
-        lineText = `${line} (O ${over} / U ${under})`;
-      } else if (bl.market_type === "threshold" && bl.thresholds) {
-        lineText = Object.entries(bl.thresholds)
-          .sort(([a], [b]) => Number(a) - Number(b))
-          .map(([t, d]) => `${t}+ @ ${d.price}`)
-          .join(", ");
-      }
-
-      let vsLineHTML = "";
-      if (line != null) {
-        const pct = (((a.last_3_avg - line) / line) * 100).toFixed(1);
-        const cls = Number(pct) > 0 ? "positive" : "negative";
-        const lbl = Number(pct) > 0 ? `+${pct}%` : `${pct}%`;
-        vsLineHTML = `<span class="deviation ${cls}">${lbl} vs line</span>`;
-      }
-
-      const seasonDev = isTeam
-        ? a.pct_diff
-        : Math.abs(a.pct_diff_season) > Math.abs(a.pct_diff_l10)
-          ? a.pct_diff_season
-          : a.pct_diff_l10;
-      const devClass = seasonDev > 0 ? "positive" : "negative";
-      const devLabel = seasonDev > 0 ? `+${seasonDev}%` : `${seasonDev}%`;
-      const devComp = isTeam
-        ? "vs season"
-        : Math.abs(a.pct_diff_season) > Math.abs(a.pct_diff_l10)
-          ? "vs season"
-          : "vs L10";
-
-      return `
-      <div class="featured-card ${a.direction}">
-        <div class="featured-rank">${rank}</div>
-        <div class="featured-content">
-          <div class="featured-header">
-            <div>
-              <span class="featured-action ${a.bet_action.toLowerCase()}">${a.bet_action}</span>
-              <strong>${name}</strong>
-              ${statBadge(a.stat || "total_points", a.stat_label || "Total Points")}
-            </div>
-            <span class="featured-score">Score ${a.score}</span>
-          </div>
-          ${gameTag}
-          <div class="last-3-games">
-            ${a.last_3.map((v) => `<span class="game-value">${v}</span>`).join("")}
-          </div>
-          <div class="averages">
-            <span>Season <strong>${a.season_avg}</strong></span>
-            <span>L10 <strong>${a.l10_avg}</strong></span>
-            <span>L3 <strong>${a.last_3_avg}</strong></span>
-          </div>
-          ${lineText ? `${linkOpen}<div class="betting-line">${lineText}</div>${linkClose}` : ""}
-          <div class="deviations">
-            <span class="deviation ${devClass}">${devLabel} ${devComp}</span>
-            ${vsLineHTML}
-          </div>
-        </div>
-      </div>
-    `;
-    })
+  container.innerHTML = shown
+    .map((a) => a.is_team ? renderTeamCard(a) : renderPlayerCard(a))
     .join("");
 }
 
@@ -204,6 +134,9 @@ function renderPlayerAnomalies() {
 
   const pa = allData.player_anomalies || {};
   let anomalies = [...(pa.hot || []), ...(pa.cold || [])];
+
+  // Exclude players already shown in featured section
+  anomalies = anomalies.filter((a) => !featuredKeys.has(anomalyKey(a)));
 
   if (filters.direction !== "all") {
     anomalies = anomalies.filter((a) => a.direction === filters.direction);
@@ -320,6 +253,9 @@ function renderTeamAnomalies() {
 
   const ta = allData.team_anomalies || {};
   let anomalies = [...(ta.hot || []), ...(ta.cold || [])];
+
+  // Exclude teams already shown in featured section
+  anomalies = anomalies.filter((a) => !featuredKeys.has(anomalyKey(a)));
 
   if (filters.direction !== "all") {
     anomalies = anomalies.filter((a) => a.direction === filters.direction);

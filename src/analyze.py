@@ -359,7 +359,7 @@ def _score_team_anomaly(a, stat_weight):
     return score
 
 
-def pick_featured_bets(player_anomalies, team_anomalies, count=10):
+def pick_featured_bets(player_anomalies, team_anomalies, count=12):
     """Score and rank anomalies to find the most actionable bets of the day.
 
     Scoring factors:
