@@ -58,9 +58,20 @@ def run_pipeline():
     )
 
     # Step 5: Build output
+    # Build games list for the filter dropdown
+    games = []
+    for event in odds_data.get("events", []):
+        home = event.get("home_team", "")
+        away = event.get("away_team", "")
+        if home and away:
+            games.append(f"{away} @ {home}")
+        else:
+            games.append(event.get("event_name", ""))
+
     output = {
         "generated_at": now.isoformat(),
         "season": "2025-26",
+        "games": sorted(set(games)),
         "player_anomalies": {
             "hot": [a for a in player_anomalies if a["direction"] == "hot"],
             "cold": [a for a in player_anomalies if a["direction"] == "cold"],

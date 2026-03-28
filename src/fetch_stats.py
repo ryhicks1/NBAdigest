@@ -12,17 +12,39 @@ from nba_api.stats.static import teams as nba_teams
 
 SEASON = "2025-26"
 STAT_COLS = ["PTS", "REB", "AST", "STL", "BLK", "FG3M"]
+NBA_API_TIMEOUT = 120  # seconds - NBA.com can be slow from CI
+MAX_RETRIES = 3
+
+
+def _fetch_with_retry(fetch_fn, description="data"):
+    """Retry nba_api calls with exponential backoff."""
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            result = fetch_fn()
+            time.sleep(0.6)
+            return result
+        except Exception as e:
+            print(f"  Attempt {attempt}/{MAX_RETRIES} for {description} failed: {e}")
+            if attempt < MAX_RETRIES:
+                wait = 5 * attempt
+                print(f"  Retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
 
 
 def get_all_player_game_logs():
     """Fetch game logs for all players who played this season via LeagueGameLog."""
     print("Fetching league-wide player game logs...")
-    logs = leaguegamelog.LeagueGameLog(
-        season=SEASON,
-        season_type_all_star="Regular Season",
-        player_or_team_abbreviation="P",
+    logs = _fetch_with_retry(
+        lambda: leaguegamelog.LeagueGameLog(
+            season=SEASON,
+            season_type_all_star="Regular Season",
+            player_or_team_abbreviation="P",
+            timeout=NBA_API_TIMEOUT,
+        ),
+        "player game logs",
     )
-    time.sleep(0.6)
     df = logs.get_data_frames()[0]
     df["GAME_DATE"] = pd.to_datetime(df["GAME_DATE"])
     df = df.sort_values(["PLAYER_ID", "GAME_DATE"], ascending=[True, False])
@@ -32,12 +54,15 @@ def get_all_player_game_logs():
 def get_team_game_logs():
     """Fetch game logs for all teams this season."""
     print("Fetching league-wide team game logs...")
-    logs = leaguegamelog.LeagueGameLog(
-        season=SEASON,
-        season_type_all_star="Regular Season",
-        player_or_team_abbreviation="T",
+    logs = _fetch_with_retry(
+        lambda: leaguegamelog.LeagueGameLog(
+            season=SEASON,
+            season_type_all_star="Regular Season",
+            player_or_team_abbreviation="T",
+            timeout=NBA_API_TIMEOUT,
+        ),
+        "team game logs",
     )
-    time.sleep(0.6)
     df = logs.get_data_frames()[0]
     df["GAME_DATE"] = pd.to_datetime(df["GAME_DATE"])
     df = df.sort_values(["TEAM_ID", "GAME_DATE"], ascending=[True, False])

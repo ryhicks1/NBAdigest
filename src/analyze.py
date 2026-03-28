@@ -160,47 +160,67 @@ def detect_team_anomalies(team_stats):
 
 
 def merge_with_odds(player_anomalies, team_anomalies, odds_data):
-    """Merge anomaly data with current Sportsbet betting lines.
+    """Merge anomaly data with current betting lines and tag with game info.
 
-    Adds the relevant betting line to each anomaly where available.
+    Adds the relevant betting line and game/event info to each anomaly.
     """
-    # Build a flat lookup: {player_name: {stat: line_data}} across all events
+    # Build lookups: player->event mapping and odds
     player_odds_lookup = {}
+    player_game_lookup = {}  # player_name -> {event_name, home_team, away_team}
     team_totals_lookup = {}
 
     for event in odds_data.get("events", []):
         event_name = event["event_name"]
+        home_team = event.get("home_team", "")
+        away_team = event.get("away_team", "")
+        game_label = f"{away_team} @ {home_team}" if home_team and away_team else event_name
+
         for player_name, props in event.get("player_props", {}).items():
             if player_name not in player_odds_lookup:
                 player_odds_lookup[player_name] = {}
             player_odds_lookup[player_name].update(props)
+            player_game_lookup[player_name] = {
+                "game": game_label,
+                "home_team": home_team,
+                "away_team": away_team,
+            }
 
-        # Extract team names from event name ("Team A At Team B")
         team_totals = event.get("team_totals", {})
         if team_totals:
-            team_totals_lookup[event_name] = team_totals
+            team_totals_lookup[event_name] = {
+                "totals": team_totals,
+                "game": game_label,
+                "home_team": home_team,
+                "away_team": away_team,
+            }
 
-    # Attach odds to player anomalies
+    # Attach odds and game info to player anomalies
     for anomaly in player_anomalies:
         player_name = anomaly["player_name"]
         stat = anomaly["stat"]
         odds = player_odds_lookup.get(player_name, {}).get(stat)
-        if odds:
-            anomaly["betting_line"] = odds
-        else:
-            anomaly["betting_line"] = None
+        anomaly["betting_line"] = odds if odds else None
 
-    # Attach odds to team anomalies
+        game_info = player_game_lookup.get(player_name)
+        if game_info:
+            anomaly["game"] = game_info["game"]
+        else:
+            anomaly["game"] = None
+
+    # Attach odds and game info to team anomalies
     for anomaly in team_anomalies:
-        # Try to find matching team totals
         team_name = anomaly["team_name"]
-        for event_name, totals in team_totals_lookup.items():
+        matched = False
+        for event_name, info in team_totals_lookup.items():
             if team_name.split()[-1] in event_name or any(
                 word in event_name for word in team_name.split()
             ):
-                anomaly["betting_line"] = totals.get("game_total")
+                anomaly["betting_line"] = info["totals"].get("game_total")
+                anomaly["game"] = info["game"]
+                matched = True
                 break
-        else:
+        if not matched:
             anomaly["betting_line"] = None
+            anomaly["game"] = None
 
     return player_anomalies, team_anomalies

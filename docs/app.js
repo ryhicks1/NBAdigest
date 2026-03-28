@@ -1,7 +1,7 @@
 const DATA_URL = "../data/anomalies.json";
 
 let allData = null;
-let filters = { direction: "all", stat: "all", type: "all" };
+let filters = { direction: "all", stat: "all", type: "all", game: "all" };
 
 async function loadData() {
   try {
@@ -9,6 +9,7 @@ async function loadData() {
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     allData = await resp.json();
     renderMeta();
+    populateGameFilter();
     renderAll();
   } catch (err) {
     document.getElementById("updated-at").textContent =
@@ -26,6 +27,32 @@ function renderMeta() {
   const m = allData.meta;
   document.getElementById("meta-info").textContent =
     `${m.players_with_sportsbet_markets} players with Sportsbet markets | ${m.events_count} events | ${m.total_teams_analyzed} teams`;
+}
+
+function populateGameFilter() {
+  const select = document.getElementById("game-filter");
+  const games = allData.games || [];
+  games.forEach((game) => {
+    const opt = document.createElement("option");
+    opt.value = game;
+    opt.textContent = game;
+    select.appendChild(opt);
+  });
+}
+
+function matchesGameFilter(anomaly) {
+  if (filters.game === "all") return true;
+  // Match player anomalies by their tagged game
+  if (anomaly.game) return anomaly.game === filters.game;
+  // Match team anomalies by team name appearing in the game filter
+  if (anomaly.team_name) {
+    return filters.game.includes(anomaly.team_name.split(" ").pop());
+  }
+  if (anomaly.team) {
+    // Check if team abbreviation appears in any part of the game
+    return filters.game.includes(anomaly.team);
+  }
+  return false;
 }
 
 function renderAll() {
@@ -55,6 +82,9 @@ function renderPlayerAnomalies() {
   if (filters.stat !== "all") {
     anomalies = anomalies.filter((a) => a.stat === filters.stat);
   }
+  if (filters.game !== "all") {
+    anomalies = anomalies.filter(matchesGameFilter);
+  }
 
   // Sort by deviation magnitude
   anomalies.sort(
@@ -72,6 +102,7 @@ function renderPlayerCard(a) {
   const devClass = devMax > 0 ? "positive" : "negative";
   const devLabel = devMax > 0 ? `+${devMax}%` : `${devMax}%`;
   const compLabel = Math.abs(a.pct_diff_season) > Math.abs(a.pct_diff_l10) ? "vs season" : "vs L10";
+  const gameTag = a.game ? `<span class="game-tag">${a.game}</span>` : "";
 
   return `
     <div class="anomaly-card ${a.direction}" data-stat="${a.stat}" data-direction="${a.direction}">
@@ -82,6 +113,7 @@ function renderPlayerCard(a) {
         </div>
         <span class="direction-badge ${a.direction}">${a.direction === "hot" ? "HOT" : "COLD"}</span>
       </div>
+      ${gameTag}
       <span class="stat-badge">${a.stat_label}</span>
       <div class="last-3-games">
         ${a.last_3.map((v) => `<span class="game-value">${v}</span>`).join("")}
@@ -98,8 +130,10 @@ function renderPlayerCard(a) {
 }
 
 function renderBettingLine(line, stat) {
-  if (line.market_type === "over_under") {
-    return `<div class="betting-line">Sportsbet Line: ${line.line} (O ${line.over_price} / U ${line.under_price})</div>`;
+  if (line.market_type === "over_under" || line.line != null) {
+    const over = line.over_price != null ? line.over_price : "—";
+    const under = line.under_price != null ? line.under_price : "—";
+    return `<div class="betting-line">Sportsbet Line: ${line.line} (O ${over} / U ${under})</div>`;
   }
   if (line.market_type === "threshold" && line.thresholds) {
     const entries = Object.entries(line.thresholds)
@@ -107,9 +141,6 @@ function renderBettingLine(line, stat) {
       .map(([t, d]) => `${t}+ @ ${d.price}`)
       .join(", ");
     return `<div class="betting-line">Sportsbet: ${entries}</div>`;
-  }
-  if (line.line) {
-    return `<div class="betting-line">Sportsbet Line: ${line.line}</div>`;
   }
   return "";
 }
@@ -132,6 +163,9 @@ function renderTeamAnomalies() {
   if (filters.direction !== "all") {
     anomalies = anomalies.filter((a) => a.direction === filters.direction);
   }
+  if (filters.game !== "all") {
+    anomalies = anomalies.filter(matchesGameFilter);
+  }
 
   anomalies.sort((a, b) => Math.abs(b.pct_diff) - Math.abs(a.pct_diff));
   container.innerHTML = anomalies.map(renderTeamCard).join("");
@@ -143,6 +177,7 @@ function renderTeamCard(a) {
     : "";
   const devClass = a.pct_diff > 0 ? "positive" : "negative";
   const devLabel = a.pct_diff > 0 ? `+${a.pct_diff}%` : `${a.pct_diff}%`;
+  const gameTag = a.game ? `<span class="game-tag">${a.game}</span>` : "";
 
   return `
     <div class="anomaly-card ${a.direction}">
@@ -153,6 +188,7 @@ function renderTeamCard(a) {
         </div>
         <span class="direction-badge ${a.direction}">${a.direction === "hot" ? "HOT" : "COLD"}</span>
       </div>
+      ${gameTag}
       <span class="stat-badge">${a.stat_label}</span>
       <div class="last-3-games">
         ${a.last_3.map((v) => `<span class="game-value">${v}</span>`).join("")}
@@ -200,6 +236,11 @@ document.querySelectorAll("[data-type]").forEach((btn) => {
 
 document.getElementById("stat-filter").addEventListener("change", (e) => {
   filters.stat = e.target.value;
+  renderAll();
+});
+
+document.getElementById("game-filter").addEventListener("change", (e) => {
+  filters.game = e.target.value;
   renderAll();
 });
 

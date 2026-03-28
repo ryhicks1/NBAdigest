@@ -157,6 +157,16 @@ section h2 {
 .direction-badge.hot { background: var(--hot); color: #fff; }
 .direction-badge.cold { background: var(--cold); color: #fff; }
 
+.game-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: var(--border);
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
 .stat-badge {
   display: inline-block;
   font-size: 0.75rem;
