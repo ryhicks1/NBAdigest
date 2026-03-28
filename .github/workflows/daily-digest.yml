@@ -2,10 +2,14 @@ name: NBA Betting Anomalies Digest
 
 on:
   schedule:
-    # 7am AEDT = 8pm UTC previous day (UTC+11)
-    # 7am AEST = 9pm UTC previous day (UTC+10)
-    # Using 20:00 UTC for AEDT (Nov-Apr), adjust to 21:00 for AEST (Apr-Oct)
+    # Run at 7am, 8am, 9am, 10am, 11am AEDT (UTC+11)
+    # = 8pm, 9pm, 10pm, 11pm, 12am UTC
+    # Later runs capture markets for later games
     - cron: "0 20 * * *"
+    - cron: "0 21 * * *"
+    - cron: "0 22 * * *"
+    - cron: "0 23 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -37,5 +41,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/anomalies.json
-          git diff --staged --quiet || git commit -m "Update anomalies digest $(date -u +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "Update anomalies digest $(date -u +%Y-%m-%d-%H%M)"
           git push

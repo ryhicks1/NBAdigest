@@ -52,6 +52,10 @@ def detect_player_anomalies(player_stats, players_with_markets):
             if season_avg < min_avg:
                 continue
 
+            # Skip if all last 3 games are zero (not interesting)
+            if all(v == 0 for v in last_3):
+                continue
+
             # Check if all 3 games are consistently above or below
             all_above_season = all(v > season_avg for v in last_3)
             all_below_season = all(v < season_avg for v in last_3)
@@ -222,5 +226,9 @@ def merge_with_odds(player_anomalies, team_anomalies, odds_data):
         if not matched:
             anomaly["betting_line"] = None
             anomaly["game"] = None
+
+    # Filter out anomalies without a betting line for that specific stat
+    player_anomalies = [a for a in player_anomalies if a["betting_line"] is not None]
+    team_anomalies = [a for a in team_anomalies if a["betting_line"] is not None]
 
     return player_anomalies, team_anomalies
