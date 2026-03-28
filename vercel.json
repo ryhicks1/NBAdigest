@@ -1,0 +1,6 @@
+{
+  "installCommand": "echo 'no install needed'",
+  "buildCommand": "mkdir -p dist/data && cp docs/index.html docs/style.css docs/app.js dist/ && cp data/anomalies.json dist/data/",
+  "outputDirectory": "dist",
+  "framework": null
+}
