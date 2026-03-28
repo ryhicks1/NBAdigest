@@ -1,53 +1,24 @@
-name: NBA Betting Anomalies Digest
+name: Deploy to Vercel
 
+# Triggered when data is updated (by local pipeline push) or manually
 on:
-  schedule:
-    # Run at 7am, 8am, 9am, 10am, 11am AEDT (UTC+11)
-    # = 8pm, 9pm, 10pm, 11pm, 12am UTC
-    # Later runs capture markets for later games
-    - cron: "0 20 * * *"
-    - cron: "0 21 * * *"
-    - cron: "0 22 * * *"
-    - cron: "0 23 * * *"
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+      - 'docs/**'
+  workflow_dispatch:
 
 jobs:
-  generate-digest:
+  deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-          cache: "pip"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Run pipeline
-        env:
-          THE_ODDS_API_KEY: ${{ secrets.THE_ODDS_API_KEY }}
-        run: python src/main.py
-
-      - name: Commit and push results
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/anomalies.json
-          git diff --staged --quiet || git commit -m "Update anomalies digest $(date -u +%Y-%m-%d-%H%M)"
-          git push
 
       - name: Deploy to Vercel
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-        if: env.VERCEL_TOKEN != ''
         run: npx vercel --prod --token "$VERCEL_TOKEN" --yes
