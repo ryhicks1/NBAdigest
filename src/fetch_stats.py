@@ -24,6 +24,8 @@ CUSTOM_HEADERS = {
     "Referer": "https://www.nba.com/",
     "Origin": "https://www.nba.com",
     "Connection": "keep-alive",
+    "x-nba-stats-origin": "stats",
+    "x-nba-stats-token": "true",
 }
 
 
