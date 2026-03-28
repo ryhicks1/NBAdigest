@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T22:10:44.518353+11:00",
+  "generated_at": "2026-03-28T23:07:01.331380+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -468,8 +468,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -623,8 +623,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1721,8 +1721,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -2534,8 +2534,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2657,17 +2657,17 @@
         "comparison": "l10",
         "games_played": 54,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 11.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-memphis-grizzlies-10302780",
-        "pct_vs_line": -49.5,
-        "score": 163.7,
+        "pct_vs_line": -53.9,
+        "score": 174.3,
         "bet_action": "UNDER",
-        "bet_description": "Taylor Hendricks UNDER 10.5 Points"
+        "bet_description": "Taylor Hendricks UNDER 11.5 Points"
       },
       {
         "player_name": "Jalen Johnson",
@@ -3294,7 +3294,7 @@
         "games_played": 61,
         "betting_line": {
           "line": 25.5,
-          "over_price": 1.87,
+          "over_price": 1.86,
           "under_price": 1.89,
           "market_type": "over_under"
         },
