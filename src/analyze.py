@@ -1,7 +1,5 @@
 """Detect statistical anomaly streaks in NBA player and team stats."""
 
-import statistics
-
 STAT_LABELS = {
     "PTS": "Points",
     "REB": "Rebounds",
@@ -236,10 +234,10 @@ def merge_with_odds(player_anomalies, team_anomalies, odds_data):
     player_anomalies = [a for a in player_anomalies if a["betting_line"] is not None]
     team_anomalies = [a for a in team_anomalies if a["betting_line"] is not None]
 
-    # Filter out anomalies where the betting line is 0.5 (too low / not meaningful)
+    # Filter out anomalies where the betting line is 0.5 or less (not meaningful)
     def has_meaningful_line(anomaly):
         bl = anomaly.get("betting_line")
-        if not bl:
+        if not isinstance(bl, dict):
             return False
         line = bl.get("line")
         if line is not None and line <= 0.5:
@@ -247,5 +245,151 @@ def merge_with_odds(player_anomalies, team_anomalies, odds_data):
         return True
 
     player_anomalies = [a for a in player_anomalies if has_meaningful_line(a)]
+    team_anomalies = [a for a in team_anomalies if has_meaningful_line(a)]
 
     return player_anomalies, team_anomalies
+
+
+def _safe_line(anomaly):
+    """Safely extract the betting line value from an anomaly dict.
+
+    Returns the numeric line value, or None if missing/invalid.
+    """
+    bl = anomaly.get("betting_line")
+    if not isinstance(bl, dict):
+        return None
+    line = bl.get("line")
+    if line is None or line <= 0:
+        return None
+    return line
+
+
+def _consistency_bonus(last_3):
+    """Score how tightly grouped the last 3 values are.
+
+    Uses coefficient of variation (stdev/mean). Lower CV = tighter grouping.
+    Returns a bonus between 0 and 15.
+    """
+    if len(last_3) < 2:
+        return 0
+    mean = sum(last_3) / len(last_3)
+    if mean == 0:
+        return 0
+    variance = sum((v - mean) ** 2 for v in last_3) / len(last_3)
+    stdev = variance ** 0.5
+    cv = stdev / mean  # coefficient of variation
+    # CV of 0 = perfect consistency -> 15 bonus
+    # CV of 0.5+ = high variance -> 0 bonus
+    bonus = max(0, 15 * (1 - cv / 0.5))
+    return round(bonus, 1)
+
+
+def _score_player_anomaly(a, stat_weight):
+    """Score a single player anomaly and mutate it with scoring fields."""
+    score = 0
+    line = _safe_line(a)
+
+    # Factor 1: % vs line (most important - this is where the value is)
+    if line:
+        pct_vs_line = abs((a["last_3_avg"] - line) / line * 100)
+        score += pct_vs_line * 2.0
+        a["pct_vs_line"] = round((a["last_3_avg"] - line) / line * 100, 1)
+    else:
+        a["pct_vs_line"] = None
+
+    # Factor 2: % vs season average
+    score += abs(a["pct_diff_season"]) * 1.0
+
+    # Factor 3: Consistency - how tightly grouped are the 3 games
+    score += _consistency_bonus(a["last_3"])
+
+    # Factor 4: Games played reliability (more GP = more trustworthy)
+    if a["games_played"] >= 50:
+        score += 10
+    elif a["games_played"] >= 30:
+        score += 5
+
+    # Factor 5: Stat weight (applied last as a multiplier)
+    stat_w = stat_weight.get(a["stat"], 1.0)
+    score *= stat_w
+
+    # Build the bet suggestion
+    bet_action = "OVER" if a["direction"] == "hot" else "UNDER"
+    if line:
+        bet_desc = f"{a['player_name']} {bet_action} {line} {a['stat_label']}"
+    else:
+        bet_desc = f"{a['player_name']} {a['stat_label']} trending {a['direction'].upper()}"
+
+    a["score"] = round(score, 1)
+    a["bet_action"] = bet_action
+    a["bet_description"] = bet_desc
+    return score
+
+
+def _score_team_anomaly(a, stat_weight):
+    """Score a single team anomaly and mutate it with scoring fields."""
+    score = 0
+    line = _safe_line(a)
+
+    if line:
+        pct_vs_line = abs((a["last_3_avg"] - line) / line * 100)
+        score += pct_vs_line * 2.0
+        a["pct_vs_line"] = round((a["last_3_avg"] - line) / line * 100, 1)
+    else:
+        a["pct_vs_line"] = None
+
+    score += abs(a["pct_diff"]) * 1.0
+
+    # GP bonus BEFORE the stat weight multiplier (consistent with player scoring)
+    if a["games_played"] >= 50:
+        score += 10
+
+    score *= stat_weight.get("total_points", 1.0)
+
+    bet_action = "OVER" if a["direction"] == "hot" else "UNDER"
+    if line:
+        bet_desc = f"{a['team_name']} {bet_action} {line} Total Points"
+    else:
+        bet_desc = f"{a['team_name']} Total Points trending {a['direction'].upper()}"
+
+    a["score"] = round(score, 1)
+    a["bet_action"] = bet_action
+    a["bet_description"] = bet_desc
+    a["is_team"] = True
+    return score
+
+
+def pick_featured_bets(player_anomalies, team_anomalies, count=10):
+    """Score and rank anomalies to find the most actionable bets of the day.
+
+    Scoring factors:
+    - % deviation from the Sportsbet line (heaviest weight - this IS the edge)
+    - % deviation from season average (confirms the trend)
+    - Consistency of the streak (all 3 games same direction = stronger)
+    - Games played (more GP = more reliable baseline)
+    - Stat importance (points/rebounds/assists are bigger markets)
+    """
+    STAT_WEIGHT = {
+        "PTS": 1.2,
+        "REB": 1.1,
+        "AST": 1.1,
+        "FG3M": 1.0,
+        "STL": 0.9,
+        "BLK": 0.9,
+        "total_points": 1.3,
+    }
+
+    candidates = []
+
+    for a in player_anomalies:
+        score = _score_player_anomaly(a, STAT_WEIGHT)
+        candidates.append(a)
+
+    # Also score team anomalies
+    for a in team_anomalies:
+        score = _score_team_anomaly(a, STAT_WEIGHT)
+        candidates.append(a)
+
+    # Sort by score descending and take top N
+    candidates.sort(key=lambda x: x["score"], reverse=True)
+    return candidates[:count]

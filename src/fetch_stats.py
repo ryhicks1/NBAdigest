@@ -1,148 +1,249 @@
-"""Fetch NBA player and team game logs.
+"""Fetch NBA player and team game logs via ESPN public API.
 
-Uses requests directly instead of nba_api's session management
-to have full control over headers and connection handling,
-which is critical for CI environments where NBA.com blocks cloud IPs.
+ESPN's API is free, requires no API key, and works from any IP
+(unlike stats.nba.com which blocks cloud/CI IPs).
 """
 
 import time
-import json
 import requests
-import pandas as pd
-from nba_api.stats.static import teams as nba_teams
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-SEASON = "2025-26"
+SEASON = 2026  # ESPN uses the end-year (2025-26 season = 2026)
 STAT_COLS = ["PTS", "REB", "AST", "STL", "BLK", "FG3M"]
-NBA_API_TIMEOUT = 60
-MAX_RETRIES = 5
 
-STATS_URL = "https://stats.nba.com/stats/leaguegamelog"
+ESPN_BASE = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba"
+ESPN_GAMELOG = "https://site.web.api.espn.com/apis/common/v3/sports/basketball/nba/athletes/{athlete_id}/gamelog?season={season}"
 
-HEADERS = {
-    "Host": "stats.nba.com",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "en-US,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Referer": "https://www.nba.com/",
-    "Origin": "https://www.nba.com",
-    "Connection": "keep-alive",
-    "x-nba-stats-origin": "stats",
-    "x-nba-stats-token": "true",
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Site": "same-site",
+# ESPN gamelog stat indices (from the 'labels' array):
+# MIN=0, FG=1, FG%=2, 3PT=3, 3P%=4, FT=5, FT%=6, REB=7, AST=8, BLK=9, STL=10, PF=11, TO=12, PTS=13
+STAT_INDEX = {
+    "MIN": 0,
+    "FG3M": 3,   # "3-5" format, we parse the made part
+    "REB": 7,
+    "AST": 8,
+    "BLK": 9,
+    "STL": 10,
+    "PTS": 13,
 }
 
 
-def _fetch_nba_stats(params, description="data"):
-    """Fetch from NBA stats API with retries and proper headers."""
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            # Use a fresh session each attempt to avoid stale connections
-            session = requests.Session()
-            session.headers.update(HEADERS)
-            resp = session.get(STATS_URL, params=params, timeout=NBA_API_TIMEOUT)
-            resp.raise_for_status()
-            data = resp.json()
-            session.close()
-            time.sleep(1)
-            return data
-        except Exception as e:
-            print(f"  Attempt {attempt}/{MAX_RETRIES} for {description} failed: {e}")
-            if attempt < MAX_RETRIES:
-                wait = 15 * attempt
-                print(f"  Retrying in {wait}s...")
-                time.sleep(wait)
-            else:
-                raise
+def _session_with_retries(retries=3, backoff=0.5):
+    """Create a requests Session with automatic retries on transient errors."""
+    session = requests.Session()
+    retry = Retry(
+        total=retries,
+        backoff_factor=backoff,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
 
 
-def _nba_json_to_df(data):
-    """Convert NBA stats API JSON response to DataFrame."""
-    result_set = data["resultSets"][0]
-    headers = result_set["headers"]
-    rows = result_set["rowSet"]
-    return pd.DataFrame(rows, columns=headers)
+_session = _session_with_retries()
 
 
-def get_all_player_game_logs():
-    """Fetch game logs for all players who played this season."""
-    print("Fetching league-wide player game logs...")
-    params = {
-        "Counter": "0",
-        "DateFrom": "",
-        "DateTo": "",
-        "Direction": "DESC",
-        "LeagueID": "00",
-        "PlayerOrTeam": "P",
-        "Season": SEASON,
-        "SeasonType": "Regular Season",
-        "Sorter": "DATE",
-    }
-    data = _fetch_nba_stats(params, "player game logs")
-    df = _nba_json_to_df(data)
-    df["GAME_DATE"] = pd.to_datetime(df["GAME_DATE"])
-    # Filter out DNP / garbage time entries (less than 3 minutes played)
-    df["MIN"] = pd.to_numeric(df["MIN"], errors="coerce")
-    df = df[df["MIN"] >= 3].copy()
-    df = df.sort_values(["PLAYER_ID", "GAME_DATE"], ascending=[True, False])
-    return df
+def get_all_teams():
+    """Get all NBA team IDs and names from ESPN."""
+    resp = _session.get(f"{ESPN_BASE}/teams", timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+    teams = data["sports"][0]["leagues"][0]["teams"]
+    return [
+        {
+            "id": t["team"]["id"],
+            "name": t["team"]["displayName"],
+            "abbreviation": t["team"]["abbreviation"],
+        }
+        for t in teams
+    ]
+
+
+def get_team_roster(team_id):
+    """Get player IDs for a team.
+
+    ESPN roster API returns athletes as a flat list:
+    data["athletes"] = [{"id": "...", "fullName": "...", ...}, ...]
+    """
+    resp = _session.get(f"{ESPN_BASE}/teams/{team_id}/roster", timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+    return [
+        {
+            "id": athlete["id"],
+            "name": athlete["fullName"],
+        }
+        for athlete in data.get("athletes", [])
+    ]
+
+
+def _safe_int(val, default=0):
+    """Safely parse a stat value to int, handling '--', empty strings, etc."""
+    try:
+        return int(val)
+    except (ValueError, TypeError, IndexError):
+        return default
+
+
+def get_player_gamelog(athlete_id):
+    """Get per-game stats for a player this season.
+
+    Returns games in chronological order (oldest first).
+    """
+    url = ESPN_GAMELOG.format(athlete_id=athlete_id, season=SEASON)
+    resp = _session.get(url, timeout=30)
+    resp.raise_for_status()
+    data = resp.json()
+
+    games = []
+
+    # Get regular season games
+    for season_type in data.get("seasonTypes", []):
+        if "Regular" not in season_type.get("displayName", ""):
+            continue
+        for category in season_type.get("categories", []):
+            for event in category.get("events", []):
+                stats = event.get("stats", [])
+                if not stats or len(stats) < 14:
+                    continue
+
+                # Parse minutes
+                minutes = _safe_int(stats[STAT_INDEX["MIN"]])
+
+                # Skip DNP / garbage time
+                if minutes < 3:
+                    continue
+
+                # Parse 3PT made from "made-attempted" format
+                fg3_str = stats[STAT_INDEX["FG3M"]]
+                try:
+                    fg3m = int(fg3_str.split("-")[0])
+                except (ValueError, AttributeError, IndexError):
+                    fg3m = 0
+
+                game = {
+                    "event_id": event.get("eventId", ""),
+                    "MIN": minutes,
+                    "PTS": _safe_int(stats[STAT_INDEX["PTS"]]),
+                    "REB": _safe_int(stats[STAT_INDEX["REB"]]),
+                    "AST": _safe_int(stats[STAT_INDEX["AST"]]),
+                    "STL": _safe_int(stats[STAT_INDEX["STL"]]),
+                    "BLK": _safe_int(stats[STAT_INDEX["BLK"]]),
+                    "FG3M": fg3m,
+                }
+                games.append(game)
+
+    return games
 
 
 def get_team_game_logs():
-    """Fetch game logs for all teams this season."""
-    print("Fetching league-wide team game logs...")
-    params = {
-        "Counter": "0",
-        "DateFrom": "",
-        "DateTo": "",
-        "Direction": "DESC",
-        "LeagueID": "00",
-        "PlayerOrTeam": "T",
-        "Season": SEASON,
-        "SeasonType": "Regular Season",
-        "Sorter": "DATE",
-    }
-    data = _fetch_nba_stats(params, "team game logs")
-    df = _nba_json_to_df(data)
-    df["GAME_DATE"] = pd.to_datetime(df["GAME_DATE"])
-    df = df.sort_values(["TEAM_ID", "GAME_DATE"], ascending=[True, False])
-    return df
+    """Get team game results from ESPN schedule endpoints."""
+    print("Fetching team game logs...")
+    teams = get_all_teams()
+    team_stats = {}
 
+    for team in teams:
+        team_id = team["id"]
+        team_name = team["name"]
+        team_abbr = team["abbreviation"]
 
-def compute_player_stats(df):
-    """For each player, compute season avg, L10 avg, and last 3 game values."""
-    results = {}
-    for player_id, group in df.groupby("PLAYER_ID"):
-        group = group.sort_values("GAME_DATE", ascending=False)
-        if len(group) < 3:
+        try:
+            # ESPN team schedule/results endpoint
+            sched_url = f"{ESPN_BASE}/teams/{team_id}/schedule?season={SEASON}"
+            resp = _session.get(sched_url, timeout=30)
+            resp.raise_for_status()
+            data = resp.json()
+
+            games = []
+            for event in data.get("events", []):
+                # Only completed games
+                competitions = event.get("competitions", [])
+                if not competitions:
+                    continue
+                status = competitions[0].get("status", {}).get("type", {}).get("name", "")
+                if status != "STATUS_FINAL":
+                    continue
+
+                # Find this team's score
+                for competitor in competitions[0].get("competitors", []):
+                    if competitor.get("team", {}).get("id") == str(team_id):
+                        raw_score = competitor.get("score", 0)
+                        # Score can be a dict {"value": 118.0}, a string "118", or an int
+                        if isinstance(raw_score, dict):
+                            score = _safe_int(raw_score.get("value", 0))
+                        else:
+                            score = _safe_int(raw_score)
+                        if score > 0:
+                            games.append(score)
+                        break
+
+            if len(games) >= 3:
+                # Games are chronological (oldest first); take from the end
+                last_3 = list(reversed(games[-3:]))   # Most recent first
+                last_10 = list(reversed(games[-10:]))  # Most recent first
+
+                team_stats[team_name] = {
+                    "team_name": team_name,
+                    "team_abbr": team_abbr,
+                    "team_id": _safe_int(team_id),
+                    "games_played": len(games),
+                    "total_points": {
+                        "season_avg": round(sum(games) / len(games), 1),
+                        "l10_avg": round(sum(last_10) / len(last_10), 1),
+                        "last_3": last_3,
+                        "last_3_avg": round(sum(last_3) / 3, 1),
+                    },
+                }
+
+            time.sleep(0.3)
+        except Exception as e:
+            print(f"  Error fetching {team_name}: {e}")
             continue
 
-        player_name = group.iloc[0]["PLAYER_NAME"]
-        team_abbr = group.iloc[0]["TEAM_ABBREVIATION"]
+    return team_stats
 
-        last_3 = group.head(3)
-        last_10 = group.head(10)
+
+def compute_player_stats(all_player_games):
+    """Compute season avg, L10 avg, and last 3 game values per player."""
+    results = {}
+
+    for player_name, info in all_player_games.items():
+        games = info["games"]
+        team = info["team"]
+
+        if len(games) < 3:
+            continue
+
+        # ESPN gamelog returns games chronologically (oldest first).
+        # Reverse so index 0 = most recent game.
+        games = list(reversed(games))
+        last_3 = games[:3]
+        last_10 = games[:10]
 
         player_data = {
-            "player_id": int(player_id),
+            "player_id": info["id"],
             "player_name": player_name,
-            "team": team_abbr,
-            "games_played": len(group),
+            "team": team,
+            "games_played": len(games),
             "stats": {},
         }
 
         for stat in STAT_COLS:
-            season_avg = round(group[stat].mean(), 1)
-            l10_avg = round(last_10[stat].mean(), 1)
-            last_3_values = last_3[stat].tolist()
-            last_3_avg = round(sum(last_3_values) / 3, 1)
+            all_vals = [g[stat] for g in games]
+            l3_vals = [g[stat] for g in last_3]
+            l10_vals = [g[stat] for g in last_10]
+
+            season_avg = round(sum(all_vals) / len(all_vals), 1)
+            l10_avg = round(sum(l10_vals) / len(l10_vals), 1)
+            last_3_avg = round(sum(l3_vals) / 3, 1)
 
             player_data["stats"][stat] = {
                 "season_avg": season_avg,
                 "l10_avg": l10_avg,
-                "last_3": last_3_values,
+                "last_3": l3_vals,
                 "last_3_avg": last_3_avg,
             }
 
@@ -151,51 +252,48 @@ def compute_player_stats(df):
     return results
 
 
-def compute_team_stats(df):
-    """For each team, compute season avg, L10 avg, and last 3 game total points."""
-    results = {}
-    team_list = nba_teams.get_teams()
-    team_id_to_name = {t["id"]: t["full_name"] for t in team_list}
-    team_id_to_abbr = {t["id"]: t["abbreviation"] for t in team_list}
-
-    for team_id, group in df.groupby("TEAM_ID"):
-        group = group.sort_values("GAME_DATE", ascending=False)
-        if len(group) < 3:
-            continue
-
-        team_name = team_id_to_name.get(team_id, group.iloc[0]["TEAM_ABBREVIATION"])
-        team_abbr = team_id_to_abbr.get(team_id, group.iloc[0]["TEAM_ABBREVIATION"])
-
-        last_3 = group.head(3)
-        last_10 = group.head(10)
-
-        season_avg = round(group["PTS"].mean(), 1)
-        l10_avg = round(last_10["PTS"].mean(), 1)
-        last_3_values = last_3["PTS"].tolist()
-
-        results[team_name] = {
-            "team_name": team_name,
-            "team_abbr": team_abbr,
-            "team_id": int(team_id),
-            "games_played": len(group),
-            "total_points": {
-                "season_avg": season_avg,
-                "l10_avg": l10_avg,
-                "last_3": last_3_values,
-                "last_3_avg": round(sum(last_3_values) / 3, 1),
-            },
-        }
-
-    return results
-
-
 def fetch_all_stats():
     """Main entry point: fetch all stats and return processed data."""
-    player_logs = get_all_player_game_logs()
-    team_logs = get_team_game_logs()
+    print("Fetching NBA stats via ESPN API...")
+    teams = get_all_teams()
+    print(f"Found {len(teams)} teams")
 
-    player_stats = compute_player_stats(player_logs)
-    team_stats = compute_team_stats(team_logs)
+    # Fetch all player game logs
+    all_player_games = {}
+    for i, team in enumerate(teams):
+        team_name = team["name"]
+        team_abbr = team["abbreviation"]
+        print(f"  [{i+1}/{len(teams)}] {team_name}...")
+
+        try:
+            roster = get_team_roster(team["id"])
+        except Exception as e:
+            print(f"    Error getting roster: {e}")
+            continue
+
+        for player in roster:
+            try:
+                games = get_player_gamelog(player["id"])
+                if games:
+                    all_player_games[player["name"]] = {
+                        "id": player["id"],
+                        "team": team_abbr,
+                        "games": games,
+                    }
+                time.sleep(0.15)  # Rate limit
+            except requests.exceptions.RequestException as e:
+                # Player may not have stats this season, or transient error
+                continue
+
+        time.sleep(0.3)
+
+    print(f"Fetched game logs for {len(all_player_games)} players")
+
+    # Compute stats
+    player_stats = compute_player_stats(all_player_games)
+
+    # Fetch team stats
+    team_stats = get_team_game_logs()
 
     print(f"Processed stats for {len(player_stats)} players and {len(team_stats)} teams")
     return {

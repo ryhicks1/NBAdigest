@@ -10,7 +10,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from fetch_stats import fetch_all_stats
 from fetch_odds import fetch_all_odds
-from analyze import detect_player_anomalies, detect_team_anomalies, merge_with_odds
+from analyze import detect_player_anomalies, detect_team_anomalies, merge_with_odds, pick_featured_bets
+from config import apply_affiliate_tag
 
 
 def run_pipeline():
@@ -57,7 +58,14 @@ def run_pipeline():
         player_anomalies, team_anomalies, odds_data
     )
 
-    # Step 5: Build output
+    # Step 5: Pick featured bets
+    print("--- Step 5: Picking featured bets ---")
+    featured = pick_featured_bets(player_anomalies, team_anomalies, count=10)
+    print(f"Selected {len(featured)} featured bets")
+    for i, f in enumerate(featured, 1):
+        print(f"  {i}. {f['bet_description']} (score: {f['score']})")
+
+    # Step 6: Build output
     # Build games list for the filter dropdown
     games = []
     for event in odds_data.get("events", []):
@@ -71,6 +79,7 @@ def run_pipeline():
     output = {
         "generated_at": now.isoformat(),
         "season": "2025-26",
+        "featured_bets": featured,
         "games": sorted(set(games)),
         "player_anomalies": {
             "hot": [a for a in player_anomalies if a["direction"] == "hot"],
@@ -87,6 +96,18 @@ def run_pipeline():
             "events_count": len(odds_data.get("events", [])),
         },
     }
+
+    # Apply affiliate tags to all sportsbet_url fields
+    for item in output["featured_bets"]:
+        if "sportsbet_url" in item:
+            item["sportsbet_url"] = apply_affiliate_tag(item["sportsbet_url"])
+    for direction in ("hot", "cold"):
+        for item in output["player_anomalies"][direction]:
+            if "sportsbet_url" in item:
+                item["sportsbet_url"] = apply_affiliate_tag(item["sportsbet_url"])
+        for item in output["team_anomalies"][direction]:
+            if "sportsbet_url" in item:
+                item["sportsbet_url"] = apply_affiliate_tag(item["sportsbet_url"])
 
     # Write to data/anomalies.json
     data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")

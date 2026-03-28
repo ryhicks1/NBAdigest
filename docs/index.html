@@ -3,70 +3,217 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BetStreak - Sports Betting Anomalies</title>
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+  <title>BetStreak.ai — NBA Betting Anomaly Detection | Player & Team Streak Analysis</title>
+  <meta name="description" content="AI-powered NBA betting anomaly detection. Find hot and cold streaks, compare against betting lines, and spot value bets with real-time data from NBA.com and Sportsbet.">
+  <meta name="keywords" content="NBA betting, player props, anomaly detection, hot streaks, cold streaks, NBA stats, sports betting, Sportsbet, over under, NBA picks">
+  <meta name="author" content="BetStreak.ai">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://betstreak.ai/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://betstreak.ai/">
+  <meta property="og:title" content="BetStreak.ai — NBA Betting Anomaly Detection">
+  <meta property="og:description" content="AI-powered streak detection for NBA player props and team totals. Spot value before the market catches up.">
+  <meta property="og:image" content="https://betstreak.ai/og-image.png">
+  <meta property="og:site_name" content="BetStreak.ai">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="BetStreak.ai — NBA Betting Anomaly Detection">
+  <meta name="twitter:description" content="AI-powered streak detection for NBA player props and team totals.">
+  <meta name="twitter:image" content="https://betstreak.ai/og-image.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230a0a0a'/%3E%3Cpath d='M8 22V10l6 6 6-6v12' stroke='%23e8b800' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="style.css">
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "BetStreak.ai",
+    "url": "https://betstreak.ai",
+    "description": "AI-powered NBA betting anomaly detection. Spot hot and cold streaks in player props and team totals.",
+    "applicationCategory": "SportsApplication",
+    "operatingSystem": "Web",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  }
+  </script>
 </head>
 <body>
-  <header>
-    <h1>BetStreak<span class="dot-ai">.ai</span></h1>
-    <p class="tagline">Sports Betting Anomaly Detection</p>
-    <p id="updated-at">Loading...</p>
-    <p id="meta-info"></p>
-  </header>
+  <div class="app">
+    <!-- Header -->
+    <header>
+      <div class="header-inner">
+        <div class="brand">
+          <h1>BetStreak<span class="brand-dot">.ai</span></h1>
+          <p class="tagline">Anomaly Detection for NBA Betting</p>
+        </div>
+        <div class="header-meta">
+          <span id="updated-at" class="meta-pill loading-shimmer">&nbsp;</span>
+          <span id="meta-info" class="meta-pill"></span>
+        </div>
+      </div>
+    </header>
 
-  <nav class="filters">
-    <div class="filter-group">
-      <label>Direction:</label>
-      <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn hot" data-filter="hot">Hot Streaks</button>
-      <button class="filter-btn cold" data-filter="cold">Cold Streaks</button>
-    </div>
-    <div class="filter-group">
-      <label>Stat:</label>
-      <select id="stat-filter">
-        <option value="all">All Stats</option>
-        <option value="PTS">Points</option>
-        <option value="REB">Rebounds</option>
-        <option value="AST">Assists</option>
-        <option value="STL">Steals</option>
-        <option value="BLK">Blocks</option>
-        <option value="FG3M">Threes</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <label>Game:</label>
-      <select id="game-filter">
-        <option value="all">All Games</option>
-      </select>
-    </div>
-    <div class="filter-group">
-      <label>Type:</label>
-      <button class="filter-btn active" data-type="all">All</button>
-      <button class="filter-btn" data-type="players">Players</button>
-      <button class="filter-btn" data-type="teams">Teams</button>
-    </div>
-  </nav>
+    <!-- Filters -->
+    <div class="filter-bar">
+      <div class="filter-bar-inner">
+        <div class="filter-group" role="radiogroup" aria-label="Direction filter">
+          <button class="chip active" data-filter="all">All</button>
+          <button class="chip chip-hot" data-filter="hot">
+            &#x1F525; Hot
+          </button>
+          <button class="chip chip-cold" data-filter="cold">
+            &#x2744;&#xFE0F; Cold
+          </button>
+        </div>
 
-  <main>
-    <section id="player-section">
-      <h2>Player Anomalies</h2>
-      <div id="player-anomalies" class="anomaly-grid"></div>
-    </section>
+        <div class="filter-divider"></div>
 
-    <section id="team-section">
-      <h2>Team Anomalies</h2>
-      <div id="team-anomalies" class="anomaly-grid"></div>
-    </section>
+        <div class="filter-group" role="radiogroup" aria-label="Type filter">
+          <button class="chip active" data-type="all">All</button>
+          <button class="chip" data-type="players">Players</button>
+          <button class="chip" data-type="teams">Teams</button>
+        </div>
 
-    <div id="no-results" class="no-results" style="display:none">
-      No anomalies match your filters.
+        <div class="filter-divider"></div>
+
+        <div class="filter-group">
+          <select id="stat-filter" aria-label="Stat filter">
+            <option value="all">All Stats</option>
+            <option value="PTS">Points</option>
+            <option value="REB">Rebounds</option>
+            <option value="AST">Assists</option>
+            <option value="STL">Steals</option>
+            <option value="BLK">Blocks</option>
+            <option value="FG3M">Threes</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <select id="game-filter" aria-label="Game filter">
+            <option value="all">All Games</option>
+          </select>
+        </div>
+      </div>
     </div>
-  </main>
 
-  <footer>
-    <p>BetStreak.ai | Data sourced from NBA.com and Sportsbet.com.au. For informational purposes only.</p>
-  </footer>
+    <!-- Main Content -->
+    <main>
+      <!-- Featured -->
+      <section id="featured-section" class="section">
+        <div class="section-header">
+          <h2 class="section-title featured-title">Top Picks</h2>
+          <span class="section-badge">AI-Ranked</span>
+        </div>
+        <div id="featured-bets" class="featured-grid"></div>
+      </section>
+
+      <!-- Waitlist CTA -->
+      <section class="section cta-section">
+        <div class="cta-banner">
+          <div class="cta-text">
+            <h2 class="cta-heading">Get daily alerts</h2>
+            <p class="cta-sub">Anomalies delivered to your inbox before tip-off.</p>
+          </div>
+          <form class="cta-form" onsubmit="event.preventDefault(); this.querySelector('button').textContent = 'Joined'; this.querySelector('input').disabled = true;">
+            <input type="email" placeholder="you@email.com" class="cta-input" required>
+            <button type="submit" class="cta-btn">Join Waitlist</button>
+          </form>
+        </div>
+      </section>
+
+      <!-- Players -->
+      <section id="player-section" class="section">
+        <div class="section-header">
+          <h2 class="section-title">Player Anomalies</h2>
+        </div>
+        <div id="player-anomalies" class="anomaly-grid"></div>
+      </section>
+
+      <!-- Teams -->
+      <section id="team-section" class="section">
+        <div class="section-header">
+          <h2 class="section-title">Team Anomalies</h2>
+        </div>
+        <div id="team-anomalies" class="anomaly-grid"></div>
+      </section>
+
+      <div id="no-results" class="no-results" style="display:none">
+        <div class="no-results-icon">&#8709;</div>
+        <p>No anomalies match your filters.</p>
+      </div>
+
+      <!-- FAQ -->
+      <section class="section faq-section">
+        <div class="faq-inner">
+          <div class="section-header">
+            <h2 class="section-title">FAQ</h2>
+          </div>
+
+          <details class="faq-item">
+            <summary>What is BetStreak.ai?</summary>
+            <p>BetStreak.ai is an AI-powered NBA anomaly detection tool. It identifies players and teams on statistically significant hot or cold streaks by comparing recent performance against season and last-10-game averages, then surfaces potential value against current betting lines.</p>
+          </details>
+
+          <details class="faq-item">
+            <summary>How does anomaly detection work?</summary>
+            <p>We compare each player's last 3 games (L3) against their season average and last 10 games (L10) average. When the L3 deviates significantly from these baselines, we flag it as an anomaly. Hot streaks indicate a player is performing well above their norm; cold streaks indicate the opposite. These deviations are then cross-referenced with live Sportsbet betting lines to highlight potential value.</p>
+          </details>
+
+          <details class="faq-item">
+            <summary>What data sources does BetStreak.ai use?</summary>
+            <p>Player and team statistics are sourced directly from NBA.com's official stats API. Betting lines and odds are pulled from Sportsbet.com.au. Data is refreshed daily before game tip-offs.</p>
+          </details>
+
+          <details class="faq-item">
+            <summary>Is BetStreak.ai free?</summary>
+            <p>Yes, BetStreak.ai is completely free to use. If you find it useful, you can optionally support the project via the link in the footer.</p>
+          </details>
+        </div>
+      </section>
+
+      <!-- Contact -->
+      <section class="section contact-section">
+        <div class="contact-inner">
+          <div class="section-header">
+            <h2 class="section-title">Contact</h2>
+          </div>
+          <p class="contact-sub">Feedback, partnerships, or press inquiries.</p>
+          <form class="contact-form" id="contact-form">
+            <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+            <input type="email" name="email" placeholder="Your email" class="contact-input" required>
+            <textarea name="message" placeholder="Your message" class="contact-textarea" rows="3" required></textarea>
+            <button type="submit" class="cta-btn" id="contact-submit">Send</button>
+          </form>
+          <p class="contact-note">We typically respond within 24 hours.</p>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <div class="footer-inner">
+        <div class="footer-brand">BetStreak.ai</div>
+        <p>Data sourced from NBA.com and Sportsbet.com.au. For informational purposes only. Please gamble responsibly.</p>
+        <p class="footer-legal">This site does not provide gambling advice. Past performance does not guarantee future results.</p>
+        <a href="https://buymeacoffee.com/betstreak" target="_blank" rel="noopener" class="footer-support">Support BetStreak</a>
+      </div>
+    </footer>
+  </div>
 
   <script src="app.js"></script>
   <script defer src="/_vercel/insights/script.js"></script>
