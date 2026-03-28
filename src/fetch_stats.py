@@ -1,65 +1,87 @@
-"""Fetch NBA player and team game logs via nba_api."""
+"""Fetch NBA player and team game logs.
+
+Uses requests directly instead of nba_api's session management
+to have full control over headers and connection handling,
+which is critical for CI environments where NBA.com blocks cloud IPs.
+"""
 
 import time
+import json
+import requests
 import pandas as pd
-from nba_api.stats.endpoints import (
-    leaguegamelog,
-    playergamelog,
-    boxscoretraditionalv2,
-    commonallplayers,
-)
 from nba_api.stats.static import teams as nba_teams
 
 SEASON = "2025-26"
 STAT_COLS = ["PTS", "REB", "AST", "STL", "BLK", "FG3M"]
-NBA_API_TIMEOUT = 120  # seconds - NBA.com can be slow from CI
+NBA_API_TIMEOUT = 60
 MAX_RETRIES = 5
 
-# Custom headers to avoid NBA.com blocking CI/cloud IPs
-CUSTOM_HEADERS = {
+STATS_URL = "https://stats.nba.com/stats/leaguegamelog"
+
+HEADERS = {
     "Host": "stats.nba.com",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
     "Referer": "https://www.nba.com/",
     "Origin": "https://www.nba.com",
     "Connection": "keep-alive",
     "x-nba-stats-origin": "stats",
     "x-nba-stats-token": "true",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site",
 }
 
 
-def _fetch_with_retry(fetch_fn, description="data"):
-    """Retry nba_api calls with exponential backoff."""
+def _fetch_nba_stats(params, description="data"):
+    """Fetch from NBA stats API with retries and proper headers."""
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            result = fetch_fn()
+            # Use a fresh session each attempt to avoid stale connections
+            session = requests.Session()
+            session.headers.update(HEADERS)
+            resp = session.get(STATS_URL, params=params, timeout=NBA_API_TIMEOUT)
+            resp.raise_for_status()
+            data = resp.json()
+            session.close()
             time.sleep(1)
-            return result
+            return data
         except Exception as e:
             print(f"  Attempt {attempt}/{MAX_RETRIES} for {description} failed: {e}")
             if attempt < MAX_RETRIES:
-                wait = 10 * attempt  # 10s, 20s, 30s, 40s
+                wait = 15 * attempt
                 print(f"  Retrying in {wait}s...")
                 time.sleep(wait)
             else:
                 raise
 
 
+def _nba_json_to_df(data):
+    """Convert NBA stats API JSON response to DataFrame."""
+    result_set = data["resultSets"][0]
+    headers = result_set["headers"]
+    rows = result_set["rowSet"]
+    return pd.DataFrame(rows, columns=headers)
+
+
 def get_all_player_game_logs():
-    """Fetch game logs for all players who played this season via LeagueGameLog."""
+    """Fetch game logs for all players who played this season."""
     print("Fetching league-wide player game logs...")
-    logs = _fetch_with_retry(
-        lambda: leaguegamelog.LeagueGameLog(
-            season=SEASON,
-            season_type_all_star="Regular Season",
-            player_or_team_abbreviation="P",
-            timeout=NBA_API_TIMEOUT,
-            headers=CUSTOM_HEADERS,
-        ),
-        "player game logs",
-    )
-    df = logs.get_data_frames()[0]
+    params = {
+        "Counter": "0",
+        "DateFrom": "",
+        "DateTo": "",
+        "Direction": "DESC",
+        "LeagueID": "00",
+        "PlayerOrTeam": "P",
+        "Season": SEASON,
+        "SeasonType": "Regular Season",
+        "Sorter": "DATE",
+    }
+    data = _fetch_nba_stats(params, "player game logs")
+    df = _nba_json_to_df(data)
     df["GAME_DATE"] = pd.to_datetime(df["GAME_DATE"])
     # Filter out DNP / garbage time entries (less than 3 minutes played)
     df["MIN"] = pd.to_numeric(df["MIN"], errors="coerce")
@@ -71,17 +93,19 @@ def get_all_player_game_logs():
 def get_team_game_logs():
     """Fetch game logs for all teams this season."""
     print("Fetching league-wide team game logs...")
-    logs = _fetch_with_retry(
-        lambda: leaguegamelog.LeagueGameLog(
-            season=SEASON,
-            season_type_all_star="Regular Season",
-            player_or_team_abbreviation="T",
-            timeout=NBA_API_TIMEOUT,
-            headers=CUSTOM_HEADERS,
-        ),
-        "team game logs",
-    )
-    df = logs.get_data_frames()[0]
+    params = {
+        "Counter": "0",
+        "DateFrom": "",
+        "DateTo": "",
+        "Direction": "DESC",
+        "LeagueID": "00",
+        "PlayerOrTeam": "T",
+        "Season": SEASON,
+        "SeasonType": "Regular Season",
+        "Sorter": "DATE",
+    }
+    data = _fetch_nba_stats(params, "team game logs")
+    df = _nba_json_to_df(data)
     df["GAME_DATE"] = pd.to_datetime(df["GAME_DATE"])
     df = df.sort_values(["TEAM_ID", "GAME_DATE"], ascending=[True, False])
     return df
@@ -163,42 +187,6 @@ def compute_team_stats(df):
         }
 
     return results
-
-
-def fetch_quarter_half_scores(game_ids):
-    """Fetch 1Q and 1H scores for given game IDs using box scores.
-
-    Returns dict: {game_id: {team_abbr: {"q1": pts, "first_half": pts}}}
-    """
-    results = {}
-    for game_id in game_ids:
-        try:
-            box = boxscoretraditionalv2.BoxScoreTraditionalV2(game_id=game_id)
-            time.sleep(0.6)
-            frames = box.get_data_frames()
-            # frames[1] is team stats - but doesn't have quarter breakdown
-            # We need to use the player stats and sum by team per period
-            # Actually BoxScoreTraditionalV2 doesn't give quarter breakdowns
-            # We need a different approach
-        except Exception as e:
-            print(f"Error fetching box score for {game_id}: {e}")
-            continue
-    return results
-
-
-def get_team_quarter_data():
-    """Get team 1Q and 1H scoring data from game logs.
-
-    nba_api's LeagueGameLog doesn't include quarter breakdowns.
-    We'll use the boxscoresummaryv2 endpoint for recent games.
-    """
-    from nba_api.stats.endpoints import leaguedashteamstats
-
-    # For now, we'll track total points only.
-    # Quarter/half data requires per-game box score fetching which is expensive.
-    # We can add this later if needed by fetching BoxScoreSummaryV2 for each game.
-    print("Note: 1Q/1H team scoring requires per-game fetching. Using total points for now.")
-    return {}
 
 
 def fetch_all_stats():
