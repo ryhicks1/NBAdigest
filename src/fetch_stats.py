@@ -91,12 +91,19 @@ def _safe_int(val, default=0):
 def get_player_gamelog(athlete_id):
     """Get per-game stats for a player this season.
 
-    Returns games in chronological order (oldest first).
+    Returns games sorted most-recent-first (descending by date).
     """
     url = ESPN_GAMELOG.format(athlete_id=athlete_id, season=SEASON)
     resp = _session.get(url, timeout=30)
     resp.raise_for_status()
     data = resp.json()
+
+    # Build a date lookup from the top-level events dict
+    event_dates = {}
+    top_events = data.get("events", {})
+    if isinstance(top_events, dict):
+        for eid, ev in top_events.items():
+            event_dates[eid] = ev.get("gameDate", "")
 
     games = []
 
@@ -124,8 +131,10 @@ def get_player_gamelog(athlete_id):
                 except (ValueError, AttributeError, IndexError):
                     fg3m = 0
 
+                event_id = event.get("eventId", "")
                 game = {
-                    "event_id": event.get("eventId", ""),
+                    "event_id": event_id,
+                    "game_date": event_dates.get(event_id, ""),
                     "MIN": minutes,
                     "PTS": _safe_int(stats[STAT_INDEX["PTS"]]),
                     "REB": _safe_int(stats[STAT_INDEX["REB"]]),
@@ -136,6 +145,8 @@ def get_player_gamelog(athlete_id):
                 }
                 games.append(game)
 
+    # Sort by date descending (most recent first) — don't trust ESPN ordering
+    games.sort(key=lambda g: g["game_date"], reverse=True)
     return games
 
 
@@ -217,9 +228,7 @@ def compute_player_stats(all_player_games):
         if len(games) < 3:
             continue
 
-        # ESPN gamelog returns games chronologically (oldest first).
-        # Reverse so index 0 = most recent game.
-        games = list(reversed(games))
+        # Games are sorted most-recent-first from get_player_gamelog
         last_3 = games[:3]
         last_10 = games[:10]
 
