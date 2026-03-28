@@ -1,6 +1,6 @@
 {
   "installCommand": "echo 'no install needed'",
-  "buildCommand": "mkdir -p dist/data && cp docs/index.html docs/style.css docs/app.js docs/robots.txt docs/sitemap.xml docs/llms.txt dist/ && cp data/anomalies.json dist/data/ && cp docs/CNAME dist/ 2>/dev/null || true",
+  "buildCommand": "mkdir -p dist/data && cp docs/index.html docs/style.css docs/app.js dist/ && cp data/anomalies.json dist/data/ && for f in docs/robots.txt docs/sitemap.xml docs/llms.txt docs/CNAME; do cp $f dist/ 2>/dev/null; done; true",
   "outputDirectory": "dist",
   "framework": null
 }
