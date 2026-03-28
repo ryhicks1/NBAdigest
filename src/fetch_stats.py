@@ -13,7 +13,18 @@ from nba_api.stats.static import teams as nba_teams
 SEASON = "2025-26"
 STAT_COLS = ["PTS", "REB", "AST", "STL", "BLK", "FG3M"]
 NBA_API_TIMEOUT = 120  # seconds - NBA.com can be slow from CI
-MAX_RETRIES = 3
+MAX_RETRIES = 5
+
+# Custom headers to avoid NBA.com blocking CI/cloud IPs
+CUSTOM_HEADERS = {
+    "Host": "stats.nba.com",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.nba.com/",
+    "Origin": "https://www.nba.com",
+    "Connection": "keep-alive",
+}
 
 
 def _fetch_with_retry(fetch_fn, description="data"):
@@ -21,12 +32,12 @@ def _fetch_with_retry(fetch_fn, description="data"):
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             result = fetch_fn()
-            time.sleep(0.6)
+            time.sleep(1)
             return result
         except Exception as e:
             print(f"  Attempt {attempt}/{MAX_RETRIES} for {description} failed: {e}")
             if attempt < MAX_RETRIES:
-                wait = 5 * attempt
+                wait = 10 * attempt  # 10s, 20s, 30s, 40s
                 print(f"  Retrying in {wait}s...")
                 time.sleep(wait)
             else:
@@ -42,6 +53,7 @@ def get_all_player_game_logs():
             season_type_all_star="Regular Season",
             player_or_team_abbreviation="P",
             timeout=NBA_API_TIMEOUT,
+            headers=CUSTOM_HEADERS,
         ),
         "player game logs",
     )
@@ -60,6 +72,7 @@ def get_team_game_logs():
             season_type_all_star="Regular Season",
             player_or_team_abbreviation="T",
             timeout=NBA_API_TIMEOUT,
+            headers=CUSTOM_HEADERS,
         ),
         "team game logs",
     )
