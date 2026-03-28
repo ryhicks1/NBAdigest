@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T02:07:00.765186+11:00",
+  "generated_at": "2026-03-29T03:07:01.182975+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 56,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.56,
-        "under_price": 2.3,
+        "over_price": 1.58,
+        "under_price": 2.25,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -146,8 +146,8 @@
       "games_played": 62,
       "betting_line": {
         "line": 16.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -301,8 +301,8 @@
       "games_played": 71,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.52,
-        "under_price": 2.4,
+        "over_price": 1.64,
+        "under_price": 2.15,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Phoenix Suns",
@@ -406,8 +406,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 16.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -468,8 +468,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -623,8 +623,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.56,
-          "under_price": 2.3,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -778,8 +778,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -809,8 +809,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -871,8 +871,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -933,8 +933,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Phoenix Suns",
@@ -1158,8 +1158,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -1375,8 +1375,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -1469,10 +1469,10 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.53
+              "price": 1.54
             },
             "2": {
-              "price": 3.45
+              "price": 3.5
             }
           },
           "market_type": "threshold"
@@ -1566,8 +1566,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -1629,7 +1629,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 1.92,
-          "under_price": 1.85,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1690,8 +1690,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -1721,8 +1721,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1814,8 +1814,8 @@
         "games_played": 42,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -2031,8 +2031,8 @@
         "games_played": 25,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Phoenix Suns",
@@ -2472,8 +2472,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -2534,8 +2534,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -2658,8 +2658,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -2883,8 +2883,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -3046,8 +3046,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -3077,8 +3077,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -3296,15 +3296,15 @@
         "pct_diff": -11.0,
         "games_played": 73,
         "betting_line": {
-          "line": 223.5,
-          "over_price": 1.9,
-          "under_price": 1.9
+          "line": 222.5,
+          "over_price": 1.91,
+          "under_price": 1.89
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
-        "pct_vs_line": -52.9,
-        "score": 164.8,
+        "pct_vs_line": -52.7,
+        "score": 164.3,
         "bet_action": "UNDER",
-        "bet_description": "Minnesota Timberwolves UNDER 223.5 Total Points",
+        "bet_description": "Minnesota Timberwolves UNDER 222.5 Total Points",
         "is_team": true
       }
     ]
