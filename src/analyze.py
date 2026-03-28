@@ -179,6 +179,8 @@ def merge_with_odds(player_anomalies, team_anomalies, odds_data):
         away_team = event.get("away_team", "")
         game_label = f"{away_team} @ {home_team}" if home_team and away_team else event_name
 
+        sportsbet_url = event.get("sportsbet_url", "")
+
         for player_name, props in event.get("player_props", {}).items():
             if player_name not in player_odds_lookup:
                 player_odds_lookup[player_name] = {}
@@ -187,6 +189,7 @@ def merge_with_odds(player_anomalies, team_anomalies, odds_data):
                 "game": game_label,
                 "home_team": home_team,
                 "away_team": away_team,
+                "sportsbet_url": sportsbet_url,
             }
 
         team_totals = event.get("team_totals", {})
@@ -208,8 +211,10 @@ def merge_with_odds(player_anomalies, team_anomalies, odds_data):
         game_info = player_game_lookup.get(player_name)
         if game_info:
             anomaly["game"] = game_info["game"]
+            anomaly["sportsbet_url"] = game_info.get("sportsbet_url", "")
         else:
             anomaly["game"] = None
+            anomaly["sportsbet_url"] = ""
 
     # Attach odds and game info to team anomalies
     for anomaly in team_anomalies:

@@ -53,6 +53,13 @@ THRESHOLD_PATTERNS = {
 }
 
 
+def _sportsbet_event_url(event_name, event_id):
+    """Build a Sportsbet.com.au URL for a given event."""
+    # "Philadelphia 76ers At Charlotte Hornets" -> "philadelphia-76ers-at-charlotte-hornets"
+    slug = event_name.lower().replace(" ", "-").replace(".", "")
+    return f"https://www.sportsbet.com.au/betting/basketball-us/nba/{slug}-{event_id}"
+
+
 # =====================
 # The Odds API (primary)
 # =====================
@@ -184,6 +191,10 @@ def fetch_odds_api():
             player_props = parse_odds_api_player_props(event_odds)
             team_totals = parse_odds_api_team_totals(event_odds)
 
+            # Build Sportsbet URL (works for both sources)
+            sb_name = f"{away} At {home}"
+            sb_url = _sportsbet_event_url(sb_name, event_id)
+
             all_event_data.append({
                 "event_id": event_id,
                 "event_name": event_name,
@@ -192,6 +203,7 @@ def fetch_odds_api():
                 "commence_time": event.get("commence_time", ""),
                 "player_props": player_props,
                 "team_totals": team_totals,
+                "sportsbet_url": sb_url,
             })
 
             all_players.update(player_props.keys())
@@ -343,6 +355,8 @@ def fetch_sportsbet():
         away_team = parts[0] if len(parts) == 2 else ""
         home_team = parts[1] if len(parts) == 2 else ""
 
+        sb_url = _sportsbet_event_url(event_name, event_id)
+
         all_event_data.append({
             "event_id": event_id,
             "event_name": event_name,
@@ -351,6 +365,7 @@ def fetch_sportsbet():
             "commence_time": event.get("start_time", ""),
             "player_props": player_props,
             "team_totals": team_totals,
+            "sportsbet_url": sb_url,
         })
 
         all_players.update(player_props.keys())

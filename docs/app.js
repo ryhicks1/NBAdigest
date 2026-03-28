@@ -97,12 +97,23 @@ function renderPlayerAnomalies() {
 }
 
 function renderPlayerCard(a) {
-  const lineHTML = a.betting_line ? renderBettingLine(a.betting_line, a.stat) : "";
+  const sbUrl = a.sportsbet_url || "";
+  const lineHTML = a.betting_line ? renderBettingLine(a.betting_line, a.stat, sbUrl) : "";
   const devMax = Math.abs(a.pct_diff_season) > Math.abs(a.pct_diff_l10) ? a.pct_diff_season : a.pct_diff_l10;
   const devClass = devMax > 0 ? "positive" : "negative";
   const devLabel = devMax > 0 ? `+${devMax}%` : `${devMax}%`;
   const compLabel = Math.abs(a.pct_diff_season) > Math.abs(a.pct_diff_l10) ? "vs season" : "vs L10";
   const gameTag = a.game ? `<span class="game-tag">${a.game}</span>` : "";
+
+  // % vs line calculation
+  let vsLineHTML = "";
+  if (a.betting_line && a.betting_line.line != null) {
+    const line = a.betting_line.line;
+    const pctVsLine = ((a.last_3_avg - line) / line * 100).toFixed(1);
+    const vsLineClass = Number(pctVsLine) > 0 ? "positive" : "negative";
+    const vsLineLabel = Number(pctVsLine) > 0 ? `+${pctVsLine}%` : `${pctVsLine}%`;
+    vsLineHTML = `<span class="deviation ${vsLineClass}">${vsLineLabel} vs line</span>`;
+  }
 
   return `
     <div class="anomaly-card ${a.direction}" data-stat="${a.stat}" data-direction="${a.direction}">
@@ -124,23 +135,29 @@ function renderPlayerCard(a) {
         <span>L3: <strong>${a.last_3_avg}</strong></span>
       </div>
       ${lineHTML}
-      <div class="deviation ${devClass}">${devLabel} ${compLabel}</div>
+      <div class="deviations">
+        <span class="deviation ${devClass}">${devLabel} ${compLabel}</span>
+        ${vsLineHTML}
+      </div>
     </div>
   `;
 }
 
-function renderBettingLine(line, stat) {
+function renderBettingLine(line, stat, sbUrl) {
+  const linkOpen = sbUrl ? `<a href="${sbUrl}" target="_blank" rel="noopener" class="betting-line-link">` : "";
+  const linkClose = sbUrl ? "</a>" : "";
+
   if (line.market_type === "over_under" || line.line != null) {
     const over = line.over_price != null ? line.over_price : "—";
     const under = line.under_price != null ? line.under_price : "—";
-    return `<div class="betting-line">Sportsbet Line: ${line.line} (O ${over} / U ${under})</div>`;
+    return `${linkOpen}<div class="betting-line">Sportsbet: ${line.line} (O ${over} / U ${under})</div>${linkClose}`;
   }
   if (line.market_type === "threshold" && line.thresholds) {
     const entries = Object.entries(line.thresholds)
       .sort(([a], [b]) => Number(a) - Number(b))
       .map(([t, d]) => `${t}+ @ ${d.price}`)
       .join(", ");
-    return `<div class="betting-line">Sportsbet: ${entries}</div>`;
+    return `${linkOpen}<div class="betting-line">Sportsbet: ${entries}</div>${linkClose}`;
   }
   return "";
 }
@@ -172,12 +189,21 @@ function renderTeamAnomalies() {
 }
 
 function renderTeamCard(a) {
+  const sbUrl = a.sportsbet_url || "";
   const lineHTML = a.betting_line
-    ? `<div class="betting-line">Sportsbet Line: ${a.betting_line.line} (O ${a.betting_line.over_price} / U ${a.betting_line.under_price})</div>`
+    ? renderBettingLine(a.betting_line, "total_points", sbUrl)
     : "";
   const devClass = a.pct_diff > 0 ? "positive" : "negative";
   const devLabel = a.pct_diff > 0 ? `+${a.pct_diff}%` : `${a.pct_diff}%`;
   const gameTag = a.game ? `<span class="game-tag">${a.game}</span>` : "";
+
+  let vsLineHTML = "";
+  if (a.betting_line && a.betting_line.line != null) {
+    const pctVsLine = ((a.last_3_avg - a.betting_line.line) / a.betting_line.line * 100).toFixed(1);
+    const vsLineClass = Number(pctVsLine) > 0 ? "positive" : "negative";
+    const vsLineLabel = Number(pctVsLine) > 0 ? `+${pctVsLine}%` : `${pctVsLine}%`;
+    vsLineHTML = `<span class="deviation ${vsLineClass}">${vsLineLabel} vs line</span>`;
+  }
 
   return `
     <div class="anomaly-card ${a.direction}">
@@ -199,7 +225,10 @@ function renderTeamCard(a) {
         <span>L3: <strong>${a.last_3_avg}</strong></span>
       </div>
       ${lineHTML}
-      <div class="deviation ${devClass}">${devLabel} vs season</div>
+      <div class="deviations">
+        <span class="deviation ${devClass}">${devLabel} vs season</span>
+        ${vsLineHTML}
+      </div>
     </div>
   `;
 }
