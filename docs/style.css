@@ -31,12 +31,26 @@ header {
 }
 
 header h1 {
-  font-size: 1.6rem;
-  font-weight: 700;
-  margin-bottom: 6px;
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 2px;
   background: linear-gradient(90deg, var(--hot), var(--accent));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  letter-spacing: -0.5px;
+}
+
+header h1 .dot-ai {
+  font-weight: 400;
+  font-size: 1.4rem;
+}
+
+header .tagline {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 6px;
 }
 
 header p {

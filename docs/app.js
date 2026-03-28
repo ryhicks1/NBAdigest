@@ -1,4 +1,4 @@
-const DATA_URL = "../data/anomalies.json";
+const DATA_URL = "data/anomalies.json";
 
 let allData = null;
 let filters = { direction: "all", stat: "all", type: "all", game: "all" };
