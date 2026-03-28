@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T23:07:01.331380+11:00",
+  "generated_at": "2026-03-29T00:07:00.951696+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -146,8 +146,8 @@
       "games_played": 57,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.15,
-        "under_price": 1.64,
+        "over_price": 2.1,
+        "under_price": 1.68,
         "market_type": "over_under"
       },
       "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -282,35 +282,35 @@
       "bet_description": "Mikal Bridges UNDER 3.5 Rebounds"
     },
     {
-      "player_name": "Kyle Filipowski",
-      "team": "UTAH",
-      "stat": "AST",
-      "stat_label": "Assists",
+      "player_name": "VJ Edgecombe",
+      "team": "PHI",
+      "stat": "PTS",
+      "stat_label": "Points",
       "direction": "hot",
       "last_3": [
-        5,
-        4,
-        4
+        22,
+        35,
+        22
       ],
-      "last_3_avg": 4.3,
-      "season_avg": 2.5,
-      "l10_avg": 4.2,
-      "pct_diff_season": 72.0,
-      "pct_diff_l10": 2.4,
+      "last_3_avg": 26.3,
+      "season_avg": 16.1,
+      "l10_avg": 19.7,
+      "pct_diff_season": 63.4,
+      "pct_diff_l10": 33.5,
       "comparison": "season",
-      "games_played": 71,
+      "games_played": 66,
       "betting_line": {
-        "line": 2.5,
-        "over_price": 1.52,
-        "under_price": 2.4,
+        "line": 15.5,
+        "over_price": 1.86,
+        "under_price": 1.9,
         "market_type": "over_under"
       },
-      "game": "Utah Jazz @ Phoenix Suns",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-phoenix-suns-10302781",
-      "pct_vs_line": 72.0,
-      "score": 261.5,
+      "game": "Philadelphia 76ers @ Charlotte Hornets",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-charlotte-hornets-10302784",
+      "pct_vs_line": 69.7,
+      "score": 264.9,
       "bet_action": "OVER",
-      "bet_description": "Kyle Filipowski OVER 2.5 Assists"
+      "bet_description": "VJ Edgecombe OVER 15.5 Points"
     }
   ],
   "games": [
@@ -530,8 +530,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -592,8 +592,8 @@
         "games_played": 30,
         "betting_line": {
           "line": 13.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -623,8 +623,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -685,8 +685,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -871,8 +871,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -964,8 +964,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1033,7 +1033,7 @@
               "price": 2.12
             },
             "3": {
-              "price": 4.6
+              "price": 4.5
             }
           },
           "market_type": "threshold"
@@ -1126,17 +1126,17 @@
         "comparison": "season",
         "games_played": 66,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "line": 15.5,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Charlotte Hornets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-charlotte-hornets-10302784",
-        "pct_vs_line": 59.4,
-        "score": 240.2,
+        "pct_vs_line": 69.7,
+        "score": 264.9,
         "bet_action": "OVER",
-        "bet_description": "VJ Edgecombe OVER 16.5 Points"
+        "bet_description": "VJ Edgecombe OVER 15.5 Points"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -1251,8 +1251,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -1530,8 +1530,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Charlotte Hornets",
@@ -1659,8 +1659,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -1721,8 +1721,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1938,8 +1938,8 @@
         "games_played": 42,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -2316,7 +2316,7 @@
               "price": 1.49
             },
             "2": {
-              "price": 3.3
+              "price": 3.4
             }
           },
           "market_type": "threshold"
@@ -2472,8 +2472,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2503,8 +2503,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2534,8 +2534,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2876,7 +2876,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 2.85
+              "price": 2.95
             },
             "3": {
               "price": 7.25
@@ -2914,8 +2914,8 @@
         "games_played": 30,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -3070,13 +3070,13 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.35
+              "price": 1.36
             },
             "2": {
               "price": 2.7
             },
             "3": {
-              "price": 6.25
+              "price": 6.75
             }
           },
           "market_type": "threshold"
@@ -3294,8 +3294,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 25.5,
-          "over_price": 1.86,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
