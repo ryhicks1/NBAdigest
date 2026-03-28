@@ -43,3 +43,9 @@ jobs:
           git add data/anomalies.json
           git diff --staged --quiet || git commit -m "Update anomalies digest $(date -u +%Y-%m-%d-%H%M)"
           git push
+
+      - name: Deploy to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        if: env.VERCEL_TOKEN != ''
+        run: npx vercel --prod --token "$VERCEL_TOKEN" --yes

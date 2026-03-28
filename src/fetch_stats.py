@@ -59,6 +59,9 @@ def get_all_player_game_logs():
     )
     df = logs.get_data_frames()[0]
     df["GAME_DATE"] = pd.to_datetime(df["GAME_DATE"])
+    # Filter out DNP / garbage time entries (less than 3 minutes played)
+    df["MIN"] = pd.to_numeric(df["MIN"], errors="coerce")
+    df = df[df["MIN"] >= 3].copy()
     df = df.sort_values(["PLAYER_ID", "GAME_DATE"], ascending=[True, False])
     return df
 

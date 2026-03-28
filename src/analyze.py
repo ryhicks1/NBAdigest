@@ -231,4 +231,16 @@ def merge_with_odds(player_anomalies, team_anomalies, odds_data):
     player_anomalies = [a for a in player_anomalies if a["betting_line"] is not None]
     team_anomalies = [a for a in team_anomalies if a["betting_line"] is not None]
 
+    # Filter out anomalies where the betting line is 0.5 (too low / not meaningful)
+    def has_meaningful_line(anomaly):
+        bl = anomaly.get("betting_line")
+        if not bl:
+            return False
+        line = bl.get("line")
+        if line is not None and line <= 0.5:
+            return False
+        return True
+
+    player_anomalies = [a for a in player_anomalies if has_meaningful_line(a)]
+
     return player_anomalies, team_anomalies
