@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NBA Betting Anomalies Digest</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>NBA Betting Anomalies Digest</h1>
+    <p id="updated-at">Loading...</p>
+    <p id="meta-info"></p>
+  </header>
+
+  <nav class="filters">
+    <div class="filter-group">
+      <label>Direction:</label>
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn hot" data-filter="hot">Hot Streaks</button>
+      <button class="filter-btn cold" data-filter="cold">Cold Streaks</button>
+    </div>
+    <div class="filter-group">
+      <label>Stat:</label>
+      <select id="stat-filter">
+        <option value="all">All Stats</option>
+        <option value="PTS">Points</option>
+        <option value="REB">Rebounds</option>
+        <option value="AST">Assists</option>
+        <option value="STL">Steals</option>
+        <option value="BLK">Blocks</option>
+        <option value="FG3M">Threes</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Type:</label>
+      <button class="filter-btn active" data-type="all">All</button>
+      <button class="filter-btn" data-type="players">Players</button>
+      <button class="filter-btn" data-type="teams">Teams</button>
+    </div>
+  </nav>
+
+  <main>
+    <section id="player-section">
+      <h2>Player Anomalies</h2>
+      <div id="player-anomalies" class="anomaly-grid"></div>
+    </section>
+
+    <section id="team-section">
+      <h2>Team Anomalies</h2>
+      <div id="team-anomalies" class="anomaly-grid"></div>
+    </section>
+
+    <div id="no-results" class="no-results" style="display:none">
+      No anomalies match your filters.
+    </div>
+  </main>
+
+  <footer>
+    <p>Data sourced from NBA.com and Sportsbet.com.au. For informational purposes only.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
