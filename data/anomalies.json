@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T03:07:01.182975+11:00",
+  "generated_at": "2026-03-29T04:07:00.773207+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 58,
       "betting_line": {
         "line": 13.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.88,
+        "under_price": 1.88,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Phoenix Suns",
@@ -53,8 +53,8 @@
       "games_played": 56,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.58,
-        "under_price": 2.25,
+        "over_price": 1.64,
+        "under_price": 2.15,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -84,8 +84,8 @@
       "games_played": 57,
       "betting_line": {
         "line": 5.5,
-        "over_price": 2.15,
-        "under_price": 1.64,
+        "over_price": 2.25,
+        "under_price": 1.58,
         "market_type": "over_under"
       },
       "game": "Sacramento Kings @ Atlanta Hawks",
@@ -146,8 +146,8 @@
       "games_played": 62,
       "betting_line": {
         "line": 16.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -177,8 +177,8 @@
       "games_played": 68,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.6,
-        "under_price": 2.2,
+        "over_price": 1.52,
+        "under_price": 2.4,
         "market_type": "over_under"
       },
       "game": "Sacramento Kings @ Atlanta Hawks",
@@ -208,8 +208,8 @@
       "games_played": 73,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.68,
-        "under_price": 2.1,
+        "over_price": 1.74,
+        "under_price": 2.05,
         "market_type": "over_under"
       },
       "game": "Sacramento Kings @ Atlanta Hawks",
@@ -270,8 +270,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 15.5,
-        "over_price": 1.88,
-        "under_price": 1.87,
+        "over_price": 1.9,
+        "under_price": 1.86,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Charlotte Hornets",
@@ -316,7 +316,9 @@
   "games": [
     "Chicago Bulls @ Memphis Grizzlies",
     "Detroit Pistons @ Minnesota Timberwolves",
+    "Miami Heat @ Indiana Pacers",
     "New York Knicks @ Oklahoma City Thunder",
+    "Orlando Magic @ Toronto Raptors",
     "Philadelphia 76ers @ Charlotte Hornets",
     "Sacramento Kings @ Atlanta Hawks",
     "San Antonio Spurs @ Milwaukee Bucks",
@@ -344,8 +346,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -375,8 +377,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Phoenix Suns",
@@ -406,8 +408,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -560,17 +562,17 @@
         "comparison": "season",
         "games_played": 30,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "line": 12.5,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/sacramento-kings-at-atlanta-hawks-10302782",
-        "pct_vs_line": 18.5,
-        "score": 194.1,
+        "pct_vs_line": 28.0,
+        "score": 216.8,
         "bet_action": "OVER",
-        "bet_description": "Devin Carter OVER 13.5 Points"
+        "bet_description": "Devin Carter OVER 12.5 Points"
       },
       {
         "player_name": "Guerschon Yabusele",
@@ -623,8 +625,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -685,8 +687,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -747,8 +749,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.52,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -778,8 +780,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -840,8 +842,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -902,8 +904,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1065,8 +1067,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.88,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Charlotte Hornets",
@@ -1096,8 +1098,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -1189,8 +1191,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -1313,8 +1315,8 @@
         "games_played": 30,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.88,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -1375,8 +1377,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -1469,7 +1471,7 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.54
+              "price": 1.53
             },
             "2": {
               "price": 3.5
@@ -1565,17 +1567,17 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 12.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/sacramento-kings-at-atlanta-hawks-10302782",
-        "pct_vs_line": -1.5,
-        "score": 80.8,
+        "pct_vs_line": 6.4,
+        "score": 92.6,
         "bet_action": "OVER",
-        "bet_description": "Precious Achiuwa OVER 13.5 Points"
+        "bet_description": "Precious Achiuwa OVER 12.5 Points"
       },
       {
         "player_name": "Brice Sensabaugh",
@@ -1628,8 +1630,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1659,8 +1661,8 @@
         "games_played": 30,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -1690,8 +1692,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -1721,8 +1723,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ Memphis Grizzlies",
@@ -1907,8 +1909,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -1969,8 +1971,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2000,8 +2002,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Phoenix Suns",
@@ -2093,8 +2095,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 20.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Charlotte Hornets",
@@ -2192,7 +2194,7 @@
               "price": 1.49
             },
             "2": {
-              "price": 3.35
+              "price": 3.2
             }
           },
           "market_type": "threshold"
@@ -2286,8 +2288,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2317,8 +2319,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2327,37 +2329,6 @@
         "score": 201.8,
         "bet_action": "UNDER",
         "bet_description": "Myles Turner UNDER 4.5 Rebounds"
-      },
-      {
-        "player_name": "Kyle Kuzma",
-        "team": "MIL",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          2
-        ],
-        "last_3_avg": 1.3,
-        "season_avg": 2.6,
-        "l10_avg": 2.8,
-        "pct_diff_season": -50.0,
-        "pct_diff_l10": -53.6,
-        "comparison": "l10",
-        "games_played": 65,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.5,
-          "under_price": 1.48,
-          "market_type": "over_under"
-        },
-        "game": "San Antonio Spurs @ Milwaukee Bucks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-milwaukee-bucks-10302785",
-        "pct_vs_line": -48.0,
-        "score": 176.4,
-        "bet_action": "UNDER",
-        "bet_description": "Kyle Kuzma UNDER 2.5 Assists"
       },
       {
         "player_name": "Myles Turner",
@@ -2410,8 +2381,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
@@ -2472,8 +2443,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Minnesota Timberwolves",
@@ -2720,8 +2691,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -2752,10 +2723,10 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 2.95
+              "price": 2.9
             },
             "3": {
-              "price": 7.5
+              "price": 7
             },
             "1": {
               "price": 1.41
@@ -2833,6 +2804,37 @@
         "bet_description": "Ajay Mitchell UNDER 2.5 Rebounds"
       },
       {
+        "player_name": "Kyle Anderson",
+        "team": "MIN",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          3,
+          6,
+          4
+        ],
+        "last_3_avg": 4.3,
+        "season_avg": 6.4,
+        "l10_avg": 4.2,
+        "pct_diff_season": -32.8,
+        "pct_diff_l10": 2.4,
+        "comparison": "season",
+        "games_played": 35,
+        "betting_line": {
+          "line": 7.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Detroit Pistons @ Minnesota Timberwolves",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-minnesota-timberwolves-10302783",
+        "pct_vs_line": -42.7,
+        "score": 155.4,
+        "bet_action": "UNDER",
+        "bet_description": "Kyle Anderson UNDER 7.5 Points"
+      },
+      {
         "player_name": "Tyrese Maxey",
         "team": "PHI",
         "stat": "AST",
@@ -2851,17 +2853,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "line": 6.5,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Charlotte Hornets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-charlotte-hornets-10302784",
-        "pct_vs_line": -21.8,
-        "score": 98.6,
+        "pct_vs_line": -33.8,
+        "score": 125.1,
         "bet_action": "UNDER",
-        "bet_description": "Tyrese Maxey UNDER 5.5 Assists"
+        "bet_description": "Tyrese Maxey UNDER 6.5 Assists"
       },
       {
         "player_name": "Donte DiVincenzo",
@@ -2946,13 +2948,13 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.35
+              "price": 1.37
             },
             "2": {
               "price": 2.7
             },
             "3": {
-              "price": 7
+              "price": 6.75
             }
           },
           "market_type": "threshold"
@@ -3015,8 +3017,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Atlanta Hawks",
@@ -3109,7 +3111,7 @@
         "betting_line": {
           "line": 14.5,
           "over_price": 1.88,
-          "under_price": 1.88,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Charlotte Hornets",
@@ -3169,17 +3171,17 @@
         "comparison": "l10",
         "games_played": 61,
         "betting_line": {
-          "line": 25.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 24.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Milwaukee Bucks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-milwaukee-bucks-10302785",
-        "pct_vs_line": -14.9,
-        "score": 71.6,
+        "pct_vs_line": -11.4,
+        "score": 63.3,
         "bet_action": "UNDER",
-        "bet_description": "Victor Wembanyama UNDER 25.5 Points"
+        "bet_description": "Victor Wembanyama UNDER 24.5 Points"
       },
       {
         "player_name": "Collin Gillespie",
@@ -3277,7 +3279,36 @@
     ]
   },
   "team_anomalies": {
-    "hot": [],
+    "hot": [
+      {
+        "team_name": "Indiana Pacers",
+        "team_abbr": "IND",
+        "stat": "total_points",
+        "stat_label": "Total Points",
+        "direction": "hot",
+        "last_3": [
+          113,
+          130,
+          128
+        ],
+        "last_3_avg": 123.7,
+        "season_avg": 111.9,
+        "l10_avg": 115.1,
+        "pct_diff": 10.5,
+        "games_played": 74,
+        "betting_line": {
+          "line": 244.5,
+          "over_price": 1.9,
+          "under_price": 1.9
+        },
+        "game": "Miami Heat @ Indiana Pacers",
+        "pct_vs_line": -49.4,
+        "score": 155.1,
+        "bet_action": "OVER",
+        "bet_description": "Indiana Pacers OVER 244.5 Total Points",
+        "is_team": true
+      }
+    ],
     "cold": [
       {
         "team_name": "Minnesota Timberwolves",
@@ -3312,7 +3343,7 @@
   "meta": {
     "total_players_analyzed": 508,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 81,
-    "events_count": 7
+    "players_with_sportsbet_markets": 82,
+    "events_count": 9
   }
 }
