@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 .vercel
 docs/data/
+data/stats_cache.json

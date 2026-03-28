@@ -1,18 +1,19 @@
 #!/bin/bash
 # Run the NBA anomalies pipeline and push results
-# Designed to be triggered by a scheduled task (cron/launchd/Claude Code)
+# Usage:
+#   ./run.sh              Full run (ESPN stats + odds)
+#   ./run.sh --odds-only  Odds-only refresh (reuse cached stats)
 
 set -e
 cd "$(dirname "$0")"
 
-# Activate venv
-source .venv/bin/activate
+# Activate venv if it exists
+if [ -d ".venv" ]; then
+  source .venv/bin/activate
+fi
 
-# Export API key
-export THE_ODDS_API_KEY="8c6f102e5a0cbe7d6862bc389f0accac"
-
-# Run pipeline
-python src/main.py
+# Run pipeline (pass through any flags like --odds-only)
+python3 src/main.py "$@"
 
 # Commit and push if data changed
 git add data/anomalies.json

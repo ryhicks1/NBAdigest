@@ -14,17 +14,55 @@ from analyze import detect_player_anomalies, detect_team_anomalies, merge_with_o
 from config import apply_affiliate_tag
 
 
-def run_pipeline():
-    """Run the full data pipeline and generate anomalies.json."""
+STATS_CACHE_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "data", "stats_cache.json",
+)
+
+
+def _load_cached_stats():
+    """Load cached ESPN stats from disk if available."""
+    if os.path.exists(STATS_CACHE_PATH):
+        with open(STATS_CACHE_PATH) as f:
+            return json.load(f)
+    return None
+
+
+def _save_stats_cache(stats_data):
+    """Save ESPN stats to disk for hourly odds-only refreshes."""
+    os.makedirs(os.path.dirname(STATS_CACHE_PATH), exist_ok=True)
+    with open(STATS_CACHE_PATH, "w") as f:
+        json.dump(stats_data, f, default=str)
+
+
+def run_pipeline(odds_only=False):
+    """Run the data pipeline and generate anomalies.json.
+
+    Args:
+        odds_only: If True, reuse cached ESPN stats and only refresh odds.
+                   If False (default), fetch fresh stats from ESPN too.
+    """
     sydney_tz = timezone(timedelta(hours=11))  # AEDT
     now = datetime.now(sydney_tz)
-    print(f"=== NBA Betting Anomalies Digest ===")
+    mode = "odds-only refresh" if odds_only else "full run"
+    print(f"=== NBA Betting Anomalies Digest ({mode}) ===")
     print(f"Run time: {now.strftime('%Y-%m-%d %H:%M:%S %Z')}")
     print()
 
-    # Step 1: Fetch NBA stats
-    print("--- Step 1: Fetching NBA stats ---")
-    stats_data = fetch_all_stats()
+    # Step 1: Fetch or load NBA stats
+    if odds_only:
+        print("--- Step 1: Loading cached ESPN stats ---")
+        stats_data = _load_cached_stats()
+        if not stats_data:
+            print("No cached stats found — falling back to full ESPN fetch")
+            stats_data = fetch_all_stats()
+            _save_stats_cache(stats_data)
+        else:
+            print(f"Loaded cached stats ({len(stats_data.get('players', {}))} players)")
+    else:
+        print("--- Step 1: Fetching NBA stats ---")
+        stats_data = fetch_all_stats()
+        _save_stats_cache(stats_data)
     print()
 
     # Step 2: Fetch Sportsbet odds
@@ -127,4 +165,5 @@ def run_pipeline():
 
 
 if __name__ == "__main__":
-    run_pipeline()
+    odds_only = "--odds-only" in sys.argv
+    run_pipeline(odds_only=odds_only)
