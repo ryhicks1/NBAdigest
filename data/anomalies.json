@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T01:07:01.608151+11:00",
+  "generated_at": "2026-03-30T02:07:01.384720+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 67,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 1.89,
+        "under_price": 1.87,
         "market_type": "over_under"
       },
       "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -53,8 +53,8 @@
       "games_played": 58,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.72,
-        "under_price": 2.08,
+        "over_price": 1.68,
+        "under_price": 2.1,
         "market_type": "over_under"
       },
       "game": "Sacramento Kings @ Brooklyn Nets",
@@ -146,8 +146,8 @@
       "games_played": 47,
       "betting_line": {
         "line": 3.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.74,
+        "under_price": 2.05,
         "market_type": "over_under"
       },
       "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -177,8 +177,8 @@
       "games_played": 68,
       "betting_line": {
         "line": 10.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.78,
+        "under_price": 2,
         "market_type": "over_under"
       },
       "game": "Orlando Magic @ Toronto Raptors",
@@ -239,8 +239,8 @@
       "games_played": 68,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.86,
-        "under_price": 1.9,
+        "over_price": 1.85,
+        "under_price": 1.92,
         "market_type": "over_under"
       },
       "game": "Orlando Magic @ Toronto Raptors",
@@ -346,8 +346,8 @@
         "games_played": 47,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -377,8 +377,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Brooklyn Nets",
@@ -470,8 +470,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -540,14 +540,11 @@
         "games_played": 61,
         "betting_line": {
           "thresholds": {
-            "3": {
-              "price": 8.25
-            },
             "1": {
               "price": 1.49
             },
             "2": {
-              "price": 3.25
+              "price": 3.35
             }
           },
           "market_type": "threshold"
@@ -580,7 +577,7 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.5
+              "price": 1.49
             },
             "2": {
               "price": 3.4
@@ -770,8 +767,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -832,8 +829,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Portland Trail Blazers",
@@ -862,17 +859,17 @@
         "comparison": "season",
         "games_played": 47,
         "betting_line": {
-          "line": 11.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "line": 12.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-clippers-at-milwaukee-bucks-10306706",
-        "pct_vs_line": 1.7,
-        "score": 116.1,
+        "pct_vs_line": -6.4,
+        "score": 127.3,
         "bet_action": "OVER",
-        "bet_description": "Ousmane Dieng OVER 11.5 Points"
+        "bet_description": "Ousmane Dieng OVER 12.5 Points"
       },
       {
         "player_name": "Reed Sheppard",
@@ -956,8 +953,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -1297,8 +1294,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Brooklyn Nets",
@@ -1328,8 +1325,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -1459,7 +1456,7 @@
               "price": 8
             },
             "2": {
-              "price": 3.1
+              "price": 3.05
             }
           },
           "market_type": "threshold"
@@ -1491,8 +1488,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Brooklyn Nets",
@@ -1553,8 +1550,8 @@
         "games_played": 45,
         "betting_line": {
           "line": 13.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Indiana Pacers",
@@ -1677,8 +1674,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Brooklyn Nets",
@@ -1770,8 +1767,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Charlotte Hornets",
@@ -1831,17 +1828,17 @@
         "comparison": "season",
         "games_played": 70,
         "betting_line": {
-          "line": 14.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "line": 13.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Portland Trail Blazers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-portland-trail-blazers-10306707",
-        "pct_vs_line": 8.3,
-        "score": 80.1,
+        "pct_vs_line": 16.3,
+        "score": 97.8,
         "bet_action": "OVER",
-        "bet_description": "Donovan Clingan OVER 14.5 Rebounds"
+        "bet_description": "Donovan Clingan OVER 13.5 Rebounds"
       },
       {
         "player_name": "Brandin Podziemski",
@@ -1929,7 +1926,7 @@
               "price": 5.4
             },
             "1": {
-              "price": 1.27
+              "price": 1.28
             },
             "2": {
               "price": 2.3
@@ -1997,8 +1994,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Charlotte Hornets",
@@ -2183,8 +2180,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -2338,8 +2335,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
@@ -2493,8 +2490,8 @@
         "games_played": 42,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -2648,8 +2645,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.85,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Indiana Pacers",
@@ -2710,8 +2707,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ New Orleans Pelicans",
@@ -2741,8 +2738,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ New Orleans Pelicans",
@@ -2803,8 +2800,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Indiana Pacers",
@@ -2958,8 +2955,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Indiana Pacers",
@@ -2993,10 +2990,10 @@
               "price": 1.41
             },
             "3": {
-              "price": 7
+              "price": 7.75
             },
             "2": {
-              "price": 2.85
+              "price": 3.05
             }
           },
           "market_type": "threshold"
@@ -3028,8 +3025,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ New Orleans Pelicans",
@@ -3120,17 +3117,17 @@
         "comparison": "l10",
         "games_played": 70,
         "betting_line": {
-          "line": 17.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "line": 16.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Portland Trail Blazers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-portland-trail-blazers-10306707",
-        "pct_vs_line": -48.6,
-        "score": 164.5,
+        "pct_vs_line": -45.5,
+        "score": 157.0,
         "bet_action": "UNDER",
-        "bet_description": "Donovan Clingan UNDER 17.5 Points"
+        "bet_description": "Donovan Clingan UNDER 16.5 Points"
       },
       {
         "player_name": "Robert Williams III",
@@ -3245,8 +3242,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Brooklyn Nets",
@@ -3347,7 +3344,7 @@
         "betting_line": {
           "line": 4.5,
           "over_price": 2.2,
-          "under_price": 1.58,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -3408,8 +3405,8 @@
         "games_played": 39,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
@@ -3501,8 +3498,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Portland Trail Blazers",
@@ -3656,8 +3653,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -3686,17 +3683,17 @@
         "comparison": "season",
         "games_played": 27,
         "betting_line": {
-          "line": 21.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 22.5,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Indiana Pacers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/miami-heat-at-indiana-pacers-10306709",
-        "pct_vs_line": -27.0,
-        "score": 105.1,
+        "pct_vs_line": -30.2,
+        "score": 112.9,
         "bet_action": "UNDER",
-        "bet_description": "Tyler Herro UNDER 21.5 Points"
+        "bet_description": "Tyler Herro UNDER 22.5 Points"
       },
       {
         "player_name": "John Collins",
@@ -3780,8 +3777,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Indiana Pacers",
@@ -3935,8 +3932,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
@@ -3995,15 +3992,15 @@
         "pct_diff": 10.5,
         "games_played": 74,
         "betting_line": {
-          "line": 243.5,
-          "over_price": 1.88,
-          "under_price": 1.92
+          "line": 244.5,
+          "over_price": 1.9,
+          "under_price": 1.9
         },
         "game": "Miami Heat @ Indiana Pacers",
-        "pct_vs_line": -49.2,
-        "score": 154.6,
+        "pct_vs_line": -49.4,
+        "score": 155.1,
         "bet_action": "OVER",
-        "bet_description": "Indiana Pacers OVER 243.5 Total Points",
+        "bet_description": "Indiana Pacers OVER 244.5 Total Points",
         "is_team": true
       }
     ],
@@ -4025,15 +4022,15 @@
         "pct_diff": -12.4,
         "games_played": 73,
         "betting_line": {
-          "line": 222.5,
-          "over_price": 1.9,
-          "under_price": 1.9
+          "line": 220.5,
+          "over_price": 1.86,
+          "under_price": 1.94
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
-        "pct_vs_line": -56.5,
-        "score": 176.1,
+        "pct_vs_line": -56.1,
+        "score": 175.1,
         "bet_action": "UNDER",
-        "bet_description": "Milwaukee Bucks UNDER 222.5 Total Points",
+        "bet_description": "Milwaukee Bucks UNDER 220.5 Total Points",
         "is_team": true
       }
     ]
