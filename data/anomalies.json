@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:07:01.058590+11:00",
+  "generated_at": "2026-03-29T20:07:00.876357+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -2454,8 +2454,8 @@
         "games_played": 43,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Charlotte Hornets",
