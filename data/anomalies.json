@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T21:07:00.945170+11:00",
+  "generated_at": "2026-03-29T22:07:00.491820+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 58,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.78,
-        "under_price": 2,
+        "over_price": 1.68,
+        "under_price": 2.1,
         "market_type": "over_under"
       },
       "game": "Sacramento Kings @ Brooklyn Nets",
@@ -208,7 +208,7 @@
       "games_played": 67,
       "betting_line": {
         "line": 9.5,
-        "over_price": 1.93,
+        "over_price": 1.92,
         "under_price": 1.83,
         "market_type": "over_under"
       },
@@ -270,8 +270,8 @@
       "games_played": 68,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.86,
-        "under_price": 1.9,
+        "over_price": 1.85,
+        "under_price": 1.91,
         "market_type": "over_under"
       },
       "game": "Orlando Magic @ Toronto Raptors",
@@ -377,8 +377,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Brooklyn Nets",
@@ -544,7 +544,7 @@
               "price": 1.49
             },
             "2": {
-              "price": 3.3
+              "price": 3.35
             }
           },
           "market_type": "threshold"
@@ -669,7 +669,7 @@
         "games_played": 67,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.93,
+          "over_price": 1.92,
           "under_price": 1.83,
           "market_type": "over_under"
         },
@@ -855,8 +855,8 @@
         "games_played": 47,
         "betting_line": {
           "line": 11.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -948,8 +948,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -1258,8 +1258,8 @@
         "games_played": 49,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -1351,8 +1351,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 24.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -1669,8 +1669,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Brooklyn Nets",
@@ -2175,8 +2175,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -2516,8 +2516,8 @@
         "games_played": 42,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -3144,8 +3144,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -3645,8 +3645,8 @@
         "games_played": 48,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -3831,8 +3831,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Los Angeles Clippers @ Milwaukee Bucks",
@@ -3893,8 +3893,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Indiana Pacers",
