@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T22:07:00.491820+11:00",
+  "generated_at": "2026-03-29T22:36:46.100494+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -239,8 +239,8 @@
       "games_played": 74,
       "betting_line": {
         "line": 6.5,
-        "over_price": 1.72,
-        "under_price": 2.08,
+        "over_price": 1.68,
+        "under_price": 2.1,
         "market_type": "over_under"
       },
       "game": "Orlando Magic @ Toronto Raptors",
@@ -270,8 +270,8 @@
       "games_played": 68,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.85,
-        "under_price": 1.91,
+        "over_price": 1.86,
+        "under_price": 1.9,
         "market_type": "over_under"
       },
       "game": "Orlando Magic @ Toronto Raptors",
@@ -607,8 +607,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -948,8 +948,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -1258,8 +1258,8 @@
         "games_played": 49,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -1351,8 +1351,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 24.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -3144,8 +3144,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
@@ -3645,8 +3645,8 @@
         "games_played": 48,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Toronto Raptors",
