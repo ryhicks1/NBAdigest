@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T18:07:00.894878+11:00",
+  "generated_at": "2026-03-30T19:07:01.390948+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -686,8 +686,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Oklahoma City Thunder",
@@ -2646,8 +2646,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -2742,8 +2742,11 @@
             "1": {
               "price": 1.45
             },
+            "3": {
+              "price": 8.25
+            },
             "2": {
-              "price": 3.25
+              "price": 3.05
             }
           },
           "market_type": "threshold"
