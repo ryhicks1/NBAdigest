@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T08:00:00.832040+11:00",
+  "generated_at": "2026-03-31T08:07:01.415674+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -270,8 +270,8 @@
       "games_played": 35,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.05,
-        "under_price": 1.74,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Miami Heat",
@@ -593,8 +593,8 @@
         "games_played": 35,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -623,17 +623,17 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "line": 14.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
-        "pct_vs_line": 35.6,
-        "score": 220.0,
+        "pct_vs_line": 26.2,
+        "score": 197.5,
         "bet_action": "OVER",
-        "bet_description": "Will Riley OVER 13.5 Points"
+        "bet_description": "Will Riley OVER 14.5 Points"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -748,8 +748,8 @@
         "games_played": 26,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -1306,8 +1306,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 24.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -1367,17 +1367,17 @@
         "comparison": "season",
         "games_played": 26,
         "betting_line": {
-          "line": 22.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 21.5,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-memphis-grizzlies-10307831",
-        "pct_vs_line": 6.7,
-        "score": 64.8,
+        "pct_vs_line": 11.6,
+        "score": 76.7,
         "bet_action": "OVER",
-        "bet_description": "Jalen Green OVER 22.5 Points"
+        "bet_description": "Jalen Green OVER 21.5 Points"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -1399,8 +1399,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 15.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -1430,8 +1430,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
@@ -2057,8 +2057,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -2336,8 +2336,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -2429,8 +2429,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Oklahoma City Thunder",
@@ -2522,8 +2522,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -2894,8 +2894,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 18.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
@@ -2925,8 +2925,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ San Antonio Spurs",
@@ -3237,8 +3237,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 229.5,
-          "over_price": 1.92,
-          "under_price": 1.88
+          "over_price": 1.9,
+          "under_price": 1.9
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
         "pct_vs_line": -45.2,
@@ -3267,8 +3267,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 235.5,
-          "over_price": 1.88,
-          "under_price": 1.92
+          "over_price": 1.9,
+          "under_price": 1.9
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
         "pct_vs_line": -57.7,
