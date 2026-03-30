@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T20:07:01.435160+11:00",
+  "generated_at": "2026-03-30T21:07:01.208322+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -177,8 +177,8 @@
       "games_played": 62,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.45,
-        "under_price": 1.5,
+        "over_price": 2.6,
+        "under_price": 1.45,
         "market_type": "over_under"
       },
       "game": "Chicago Bulls @ San Antonio Spurs",
@@ -376,8 +376,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.6,
+          "under_price": 1.45,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ San Antonio Spurs",
@@ -779,7 +779,7 @@
         "games_played": 11,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.2,
+          "over_price": 2.25,
           "under_price": 1.58,
           "market_type": "over_under"
         },
@@ -1368,8 +1368,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -1709,8 +1709,8 @@
         "games_played": 52,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ San Antonio Spurs",
@@ -1867,7 +1867,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 4
+              "price": 3.9
             },
             "1": {
               "price": 1.63
@@ -3088,8 +3088,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
