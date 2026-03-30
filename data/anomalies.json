@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T17:07:01.177410+11:00",
+  "generated_at": "2026-03-30T18:00:01.059759+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -63,37 +63,6 @@
       "score": 564.6,
       "bet_action": "OVER",
       "bet_description": "VJ Edgecombe OVER 1.5 Threes"
-    },
-    {
-      "player_name": "Will Riley",
-      "team": "WSH",
-      "stat": "AST",
-      "stat_label": "Assists",
-      "direction": "hot",
-      "last_3": [
-        5,
-        5,
-        4
-      ],
-      "last_3_avg": 4.7,
-      "season_avg": 1.8,
-      "l10_avg": 3.0,
-      "pct_diff_season": 161.1,
-      "pct_diff_l10": 56.7,
-      "comparison": "season",
-      "games_played": 64,
-      "betting_line": {
-        "line": 2.5,
-        "over_price": 1.64,
-        "under_price": 2.15,
-        "market_type": "over_under"
-      },
-      "game": "Washington Wizards @ Los Angeles Lakers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
-      "pct_vs_line": 88.0,
-      "score": 395.0,
-      "bet_action": "OVER",
-      "bet_description": "Will Riley OVER 2.5 Assists"
     },
     {
       "player_name": "Ausar Thompson",
@@ -311,6 +280,37 @@
       "score": 252.4,
       "bet_action": "UNDER",
       "bet_description": "Rui Hachimura UNDER 1.5 Threes"
+    },
+    {
+      "player_name": "LeBron James",
+      "team": "LAL",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "cold",
+      "last_3": [
+        0,
+        0,
+        1
+      ],
+      "last_3_avg": 0.3,
+      "season_avg": 1.3,
+      "l10_avg": 0.5,
+      "pct_diff_season": -76.9,
+      "pct_diff_l10": -40.0,
+      "comparison": "season",
+      "games_played": 56,
+      "betting_line": {
+        "line": 1.5,
+        "over_price": 2,
+        "under_price": 1.78,
+        "market_type": "over_under"
+      },
+      "game": "Washington Wizards @ Los Angeles Lakers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
+      "pct_vs_line": -80.0,
+      "score": 246.9,
+      "bet_action": "UNDER",
+      "bet_description": "LeBron James UNDER 1.5 Threes"
     }
   ],
   "games": [
@@ -355,37 +355,6 @@
         "score": 569.6,
         "bet_action": "OVER",
         "bet_description": "Ayo Dosunmu OVER 3.5 Rebounds"
-      },
-      {
-        "player_name": "Will Riley",
-        "team": "WSH",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          5,
-          5,
-          4
-        ],
-        "last_3_avg": 4.7,
-        "season_avg": 1.8,
-        "l10_avg": 3.0,
-        "pct_diff_season": 161.1,
-        "pct_diff_l10": 56.7,
-        "comparison": "season",
-        "games_played": 64,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
-          "market_type": "over_under"
-        },
-        "game": "Washington Wizards @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
-        "pct_vs_line": 88.0,
-        "score": 395.0,
-        "bet_action": "OVER",
-        "bet_description": "Will Riley OVER 2.5 Assists"
       },
       {
         "player_name": "Dylan Harper",
@@ -636,6 +605,37 @@
         "bet_description": "Joel Embiid OVER 1.5 Threes"
       },
       {
+        "player_name": "Will Riley",
+        "team": "WSH",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          14,
+          22,
+          19
+        ],
+        "last_3_avg": 18.3,
+        "season_avg": 9.5,
+        "l10_avg": 14.5,
+        "pct_diff_season": 92.6,
+        "pct_diff_l10": 26.2,
+        "comparison": "season",
+        "games_played": 65,
+        "betting_line": {
+          "line": 13.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Washington Wizards @ Los Angeles Lakers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
+        "pct_vs_line": 35.6,
+        "score": 220.0,
+        "bet_action": "OVER",
+        "bet_description": "Will Riley OVER 13.5 Points"
+      },
+      {
         "player_name": "Ayo Dosunmu",
         "team": "MIN",
         "stat": "AST",
@@ -729,37 +729,6 @@
         "bet_description": "Ausar Thompson OVER 1.5 Steals"
       },
       {
-        "player_name": "Will Riley",
-        "team": "WSH",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          22,
-          19,
-          11
-        ],
-        "last_3_avg": 17.3,
-        "season_avg": 9.4,
-        "l10_avg": 15.3,
-        "pct_diff_season": 84.0,
-        "pct_diff_l10": 13.1,
-        "comparison": "season",
-        "games_played": 64,
-        "betting_line": {
-          "line": 13.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Washington Wizards @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
-        "pct_vs_line": 28.1,
-        "score": 188.8,
-        "bet_action": "OVER",
-        "bet_description": "Will Riley OVER 13.5 Points"
-      },
-      {
         "player_name": "Jalen Green",
         "team": "PHX",
         "stat": "AST",
@@ -789,6 +758,37 @@
         "score": 210.2,
         "bet_action": "OVER",
         "bet_description": "Jalen Green OVER 3.5 Assists"
+      },
+      {
+        "player_name": "Jayson Tatum",
+        "team": "BOS",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "hot",
+        "last_3": [
+          8,
+          5,
+          7
+        ],
+        "last_3_avg": 6.7,
+        "season_avg": 4.2,
+        "l10_avg": 3.9,
+        "pct_diff_season": 59.5,
+        "pct_diff_l10": 71.8,
+        "comparison": "l10",
+        "games_played": 11,
+        "betting_line": {
+          "line": 5.5,
+          "over_price": 2.2,
+          "under_price": 1.58,
+          "market_type": "over_under"
+        },
+        "game": "Boston Celtics @ Atlanta Hawks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-atlanta-hawks-10307822",
+        "pct_vs_line": 21.8,
+        "score": 123.8,
+        "bet_action": "OVER",
+        "bet_description": "Jayson Tatum OVER 5.5 Assists"
       },
       {
         "player_name": "Taylor Hendricks",
@@ -1119,17 +1119,17 @@
         "comparison": "season",
         "games_played": 74,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "line": 7.5,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-memphis-grizzlies-10307831",
-        "pct_vs_line": 7.7,
-        "score": 84.6,
+        "pct_vs_line": -6.7,
+        "score": 82.3,
         "bet_action": "OVER",
-        "bet_description": "Oso Ighodaro OVER 6.5 Rebounds"
+        "bet_description": "Oso Ighodaro OVER 7.5 Rebounds"
       },
       {
         "player_name": "Anthony Edwards",
@@ -1473,6 +1473,99 @@
         "bet_description": "Ayo Dosunmu OVER 16.5 Points"
       },
       {
+        "player_name": "Sam Hauser",
+        "team": "BOS",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          7,
+          10,
+          9
+        ],
+        "last_3_avg": 8.7,
+        "season_avg": 8.9,
+        "l10_avg": 6.7,
+        "pct_diff_season": -2.2,
+        "pct_diff_l10": 29.9,
+        "comparison": "l10",
+        "games_played": 71,
+        "betting_line": {
+          "line": 8.5,
+          "over_price": 1.89,
+          "under_price": 1.87,
+          "market_type": "over_under"
+        },
+        "game": "Boston Celtics @ Atlanta Hawks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-atlanta-hawks-10307822",
+        "pct_vs_line": 2.4,
+        "score": 33.1,
+        "bet_action": "OVER",
+        "bet_description": "Sam Hauser OVER 8.5 Points"
+      },
+      {
+        "player_name": "Bam Adebayo",
+        "team": "MIA",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          12,
+          16,
+          10
+        ],
+        "last_3_avg": 12.7,
+        "season_avg": 9.9,
+        "l10_avg": 10.5,
+        "pct_diff_season": 28.3,
+        "pct_diff_l10": 21.0,
+        "comparison": "season",
+        "games_played": 66,
+        "betting_line": {
+          "line": 10.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+        "pct_vs_line": 21.0,
+        "score": 98.2,
+        "bet_action": "OVER",
+        "bet_description": "Bam Adebayo OVER 10.5 Rebounds"
+      },
+      {
+        "player_name": "Sam Hauser",
+        "team": "BOS",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "hot",
+        "last_3": [
+          2,
+          2,
+          3
+        ],
+        "last_3_avg": 2.3,
+        "season_avg": 2.5,
+        "l10_avg": 1.8,
+        "pct_diff_season": -8.0,
+        "pct_diff_l10": 27.8,
+        "comparison": "l10",
+        "games_played": 71,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 2.25,
+          "under_price": 1.58,
+          "market_type": "over_under"
+        },
+        "game": "Boston Celtics @ Atlanta Hawks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-atlanta-hawks-10307822",
+        "pct_vs_line": -8.0,
+        "score": 42.9,
+        "bet_action": "OVER",
+        "bet_description": "Sam Hauser OVER 2.5 Threes"
+      },
+      {
         "player_name": "Nickeil Alexander-Walker",
         "team": "ATL",
         "stat": "REB",
@@ -1564,37 +1657,6 @@
         "score": 121.3,
         "bet_action": "OVER",
         "bet_description": "Jalen Johnson OVER 21.5 Points"
-      },
-      {
-        "player_name": "Jayson Tatum",
-        "team": "BOS",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "hot",
-        "last_3": [
-          12,
-          12,
-          11
-        ],
-        "last_3_avg": 11.7,
-        "season_avg": 9.5,
-        "l10_avg": 9.5,
-        "pct_diff_season": 23.2,
-        "pct_diff_l10": 23.2,
-        "comparison": "season",
-        "games_played": 10,
-        "betting_line": {
-          "line": 9.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
-          "market_type": "over_under"
-        },
-        "game": "Boston Celtics @ Atlanta Hawks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-atlanta-hawks-10307822",
-        "pct_vs_line": 23.2,
-        "score": 91.6,
-        "bet_action": "OVER",
-        "bet_description": "Jayson Tatum OVER 9.5 Rebounds"
       },
       {
         "player_name": "Naji Marshall",
@@ -1883,45 +1945,6 @@
         "bet_description": "Julius Randle UNDER 1.5 Threes"
       },
       {
-        "player_name": "Jalen Williams",
-        "team": "OKC",
-        "stat": "STL",
-        "stat_label": "Steals",
-        "direction": "cold",
-        "last_3": [
-          1,
-          0,
-          0
-        ],
-        "last_3_avg": 0.3,
-        "season_avg": 1.2,
-        "l10_avg": 0.7,
-        "pct_diff_season": -75.0,
-        "pct_diff_l10": -57.1,
-        "comparison": "season",
-        "games_played": 29,
-        "betting_line": {
-          "thresholds": {
-            "1": {
-              "price": 1.44
-            },
-            "3": {
-              "price": 8.75
-            },
-            "2": {
-              "price": 3.2
-            }
-          },
-          "market_type": "threshold"
-        },
-        "game": "Detroit Pistons @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-oklahoma-city-thunder-10308060",
-        "pct_vs_line": null,
-        "score": 67.5,
-        "bet_action": "UNDER",
-        "bet_description": "Jalen Williams Steals trending COLD"
-      },
-      {
         "player_name": "Victor Wembanyama",
         "team": "SA",
         "stat": "FG3M",
@@ -1984,6 +2007,37 @@
         "bet_description": "Ace Bailey UNDER 2.5 Threes"
       },
       {
+        "player_name": "Bam Adebayo",
+        "team": "MIA",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          0,
+          1,
+          1
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 1.7,
+        "l10_avg": 2.2,
+        "pct_diff_season": -58.8,
+        "pct_diff_l10": -68.2,
+        "comparison": "l10",
+        "games_played": 66,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+        "pct_vs_line": -53.3,
+        "score": 175.5,
+        "bet_action": "UNDER",
+        "bet_description": "Bam Adebayo UNDER 1.5 Threes"
+      },
+      {
         "player_name": "Brandon Williams",
         "team": "DAL",
         "stat": "REB",
@@ -2044,6 +2098,37 @@
         "score": 194.3,
         "bet_action": "UNDER",
         "bet_description": "Derrick White UNDER 2.5 Threes"
+      },
+      {
+        "player_name": "Cason Wallace",
+        "team": "OKC",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "cold",
+        "last_3": [
+          1,
+          2,
+          0
+        ],
+        "last_3_avg": 1.0,
+        "season_avg": 2.7,
+        "l10_avg": 2.4,
+        "pct_diff_season": -63.0,
+        "pct_diff_l10": -58.3,
+        "comparison": "season",
+        "games_played": 72,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 1.58,
+          "under_price": 2.25,
+          "market_type": "over_under"
+        },
+        "game": "Detroit Pistons @ Oklahoma City Thunder",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-oklahoma-city-thunder-10308060",
+        "pct_vs_line": -60.0,
+        "score": 212.3,
+        "bet_action": "UNDER",
+        "bet_description": "Cason Wallace UNDER 2.5 Assists"
       },
       {
         "player_name": "Kelly Oubre Jr.",
@@ -2139,37 +2224,6 @@
         "bet_description": "P.J. Washington UNDER 1.5 Threes"
       },
       {
-        "player_name": "Andrew Wiggins",
-        "team": "MIA",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          1,
-          3,
-          3
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 5.0,
-        "l10_avg": 4.8,
-        "pct_diff_season": -54.0,
-        "pct_diff_l10": -52.1,
-        "comparison": "season",
-        "games_played": 60,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ Miami Heat",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
-        "pct_vs_line": -48.9,
-        "score": 181.1,
-        "bet_action": "UNDER",
-        "bet_description": "Andrew Wiggins UNDER 4.5 Rebounds"
-      },
-      {
         "player_name": "LeBron James",
         "team": "LAL",
         "stat": "STL",
@@ -2230,6 +2284,37 @@
         "score": 129.1,
         "bet_action": "UNDER",
         "bet_description": "Naz Reid UNDER 1.5 Threes"
+      },
+      {
+        "player_name": "Tyler Herro",
+        "team": "MIA",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "cold",
+        "last_3": [
+          3,
+          3,
+          2
+        ],
+        "last_3_avg": 2.7,
+        "season_avg": 4.7,
+        "l10_avg": 5.6,
+        "pct_diff_season": -42.6,
+        "pct_diff_l10": -51.8,
+        "comparison": "l10",
+        "games_played": 28,
+        "betting_line": {
+          "line": 4.5,
+          "over_price": 1.88,
+          "under_price": 1.88,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+        "pct_vs_line": -40.0,
+        "score": 145.5,
+        "bet_action": "UNDER",
+        "bet_description": "Tyler Herro UNDER 4.5 Rebounds"
       },
       {
         "player_name": "Alex Sarr",
@@ -2325,37 +2410,6 @@
         "bet_description": "Donte DiVincenzo UNDER 3.5 Assists"
       },
       {
-        "player_name": "Davion Mitchell",
-        "team": "MIA",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          4,
-          3,
-          3
-        ],
-        "last_3_avg": 3.3,
-        "season_avg": 6.5,
-        "l10_avg": 4.8,
-        "pct_diff_season": -49.2,
-        "pct_diff_l10": -31.2,
-        "comparison": "season",
-        "games_played": 63,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ Miami Heat",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
-        "pct_vs_line": -40.0,
-        "score": 165.0,
-        "bet_action": "UNDER",
-        "bet_description": "Davion Mitchell UNDER 5.5 Assists"
-      },
-      {
         "player_name": "Rui Hachimura",
         "team": "LAL",
         "stat": "PTS",
@@ -2406,8 +2460,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.92,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -2416,37 +2470,6 @@
         "score": 174.3,
         "bet_action": "UNDER",
         "bet_description": "Taylor Hendricks UNDER 11.5 Points"
-      },
-      {
-        "player_name": "Payton Pritchard",
-        "team": "BOS",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          4,
-          1,
-          3
-        ],
-        "last_3_avg": 2.7,
-        "season_avg": 5.2,
-        "l10_avg": 4.5,
-        "pct_diff_season": -48.1,
-        "pct_diff_l10": -40.0,
-        "comparison": "season",
-        "games_played": 71,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "Boston Celtics @ Atlanta Hawks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-atlanta-hawks-10307822",
-        "pct_vs_line": -50.9,
-        "score": 177.0,
-        "bet_action": "UNDER",
-        "bet_description": "Payton Pritchard UNDER 5.5 Assists"
       },
       {
         "player_name": "Rui Hachimura",
@@ -2478,6 +2501,37 @@
         "score": 175.7,
         "bet_action": "UNDER",
         "bet_description": "Rui Hachimura UNDER 3.5 Rebounds"
+      },
+      {
+        "player_name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "cold",
+        "last_3": [
+          3,
+          2,
+          2
+        ],
+        "last_3_avg": 2.3,
+        "season_avg": 4.3,
+        "l10_avg": 4.1,
+        "pct_diff_season": -46.5,
+        "pct_diff_l10": -43.9,
+        "comparison": "season",
+        "games_played": 63,
+        "betting_line": {
+          "line": 3.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
+          "market_type": "over_under"
+        },
+        "game": "Detroit Pistons @ Oklahoma City Thunder",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-oklahoma-city-thunder-10308060",
+        "pct_vs_line": -34.3,
+        "score": 147.4,
+        "bet_action": "UNDER",
+        "bet_description": "Shai Gilgeous-Alexander UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Jalen Johnson",
@@ -2573,54 +2627,23 @@
         "bet_description": "Brandon Williams UNDER 10.5 Points"
       },
       {
-        "player_name": "Tyler Herro",
-        "team": "MIA",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          3,
-          2,
-          5
-        ],
-        "last_3_avg": 3.3,
-        "season_avg": 4.8,
-        "l10_avg": 5.7,
-        "pct_diff_season": -31.2,
-        "pct_diff_l10": -42.1,
-        "comparison": "l10",
-        "games_played": 27,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ Miami Heat",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
-        "pct_vs_line": -26.7,
-        "score": 97.2,
-        "bet_action": "UNDER",
-        "bet_description": "Tyler Herro UNDER 4.5 Rebounds"
-      },
-      {
         "player_name": "Bam Adebayo",
         "team": "MIA",
         "stat": "PTS",
         "stat_label": "Points",
         "direction": "cold",
         "last_3": [
+          15,
           14,
-          17,
-          18
+          17
         ],
-        "last_3_avg": 16.3,
-        "season_avg": 20.2,
-        "l10_avg": 28.1,
-        "pct_diff_season": -19.3,
-        "pct_diff_l10": -42.0,
+        "last_3_avg": 15.3,
+        "season_avg": 20.1,
+        "l10_avg": 27.2,
+        "pct_diff_season": -23.9,
+        "pct_diff_l10": -43.7,
         "comparison": "l10",
-        "games_played": 65,
+        "games_played": 66,
         "betting_line": {
           "line": 21.5,
           "over_price": 1.8,
@@ -2629,8 +2652,8 @@
         },
         "game": "Philadelphia 76ers @ Miami Heat",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
-        "pct_vs_line": -24.2,
-        "score": 107.5,
+        "pct_vs_line": -28.8,
+        "score": 125.0,
         "bet_action": "UNDER",
         "bet_description": "Bam Adebayo UNDER 21.5 Points"
       },
@@ -2697,6 +2720,42 @@
         "bet_description": "Daniss Jenkins UNDER 1.5 Steals"
       },
       {
+        "player_name": "Jalen Williams",
+        "team": "OKC",
+        "stat": "STL",
+        "stat_label": "Steals",
+        "direction": "cold",
+        "last_3": [
+          1,
+          1,
+          0
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 1.2,
+        "l10_avg": 0.7,
+        "pct_diff_season": -41.7,
+        "pct_diff_l10": 0.0,
+        "comparison": "season",
+        "games_played": 30,
+        "betting_line": {
+          "thresholds": {
+            "1": {
+              "price": 1.45
+            },
+            "2": {
+              "price": 3.25
+            }
+          },
+          "market_type": "threshold"
+        },
+        "game": "Detroit Pistons @ Oklahoma City Thunder",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-oklahoma-city-thunder-10308060",
+        "pct_vs_line": null,
+        "score": 42.0,
+        "bet_action": "UNDER",
+        "bet_description": "Jalen Williams Steals trending COLD"
+      },
+      {
         "player_name": "Grayson Allen",
         "team": "PHX",
         "stat": "AST",
@@ -2716,8 +2775,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -2726,37 +2785,6 @@
         "score": 104.0,
         "bet_action": "UNDER",
         "bet_description": "Grayson Allen UNDER 3.5 Assists"
-      },
-      {
-        "player_name": "Bam Adebayo",
-        "team": "MIA",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          2
-        ],
-        "last_3_avg": 1.3,
-        "season_avg": 1.7,
-        "l10_avg": 2.2,
-        "pct_diff_season": -23.5,
-        "pct_diff_l10": -40.9,
-        "comparison": "l10",
-        "games_played": 65,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ Miami Heat",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
-        "pct_vs_line": -13.3,
-        "score": 64.6,
-        "bet_action": "UNDER",
-        "bet_description": "Bam Adebayo UNDER 1.5 Threes"
       },
       {
         "player_name": "Max Christie",
@@ -2976,68 +3004,6 @@
         "bet_description": "Jonathan Kuminga UNDER 3.5 Rebounds"
       },
       {
-        "player_name": "Ajay Mitchell",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          3,
-          3,
-          1
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.5,
-        "l10_avg": 3.2,
-        "pct_diff_season": -34.3,
-        "pct_diff_l10": -28.1,
-        "comparison": "season",
-        "games_played": 51,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-oklahoma-city-thunder-10308060",
-        "pct_vs_line": -34.3,
-        "score": 127.3,
-        "bet_action": "UNDER",
-        "bet_description": "Ajay Mitchell UNDER 3.5 Rebounds"
-      },
-      {
-        "player_name": "Andrew Wiggins",
-        "team": "MIA",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          12,
-          12,
-          9
-        ],
-        "last_3_avg": 11.0,
-        "season_avg": 15.6,
-        "l10_avg": 14.1,
-        "pct_diff_season": -29.5,
-        "pct_diff_l10": -22.0,
-        "comparison": "season",
-        "games_played": 60,
-        "betting_line": {
-          "line": 13.5,
-          "over_price": 2,
-          "under_price": 1.78,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ Miami Heat",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
-        "pct_vs_line": -18.5,
-        "score": 105.2,
-        "bet_action": "UNDER",
-        "bet_description": "Andrew Wiggins UNDER 13.5 Points"
-      },
-      {
         "player_name": "Derrick White",
         "team": "BOS",
         "stat": "PTS",
@@ -3200,8 +3166,8 @@
         "direction": "cold",
         "last_3": [
           2,
-          3,
-          2
+          2,
+          3
         ],
         "last_3_avg": 2.3,
         "season_avg": 2.6,
@@ -3209,7 +3175,7 @@
         "pct_diff_season": -11.5,
         "pct_diff_l10": -25.8,
         "comparison": "l10",
-        "games_played": 51,
+        "games_played": 52,
         "betting_line": {
           "line": 2.5,
           "over_price": 2.15,
@@ -3222,37 +3188,6 @@
         "score": 51.0,
         "bet_action": "UNDER",
         "bet_description": "Bilal Coulibaly UNDER 2.5 Assists"
-      },
-      {
-        "player_name": "Tyler Herro",
-        "team": "MIA",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          11,
-          18,
-          18
-        ],
-        "last_3_avg": 15.7,
-        "season_avg": 20.9,
-        "l10_avg": 20.6,
-        "pct_diff_season": -24.9,
-        "pct_diff_l10": -23.8,
-        "comparison": "season",
-        "games_played": 27,
-        "betting_line": {
-          "line": 21.5,
-          "over_price": 1.87,
-          "under_price": 1.88,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ Miami Heat",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
-        "pct_vs_line": -27.0,
-        "score": 105.1,
-        "bet_action": "UNDER",
-        "bet_description": "Tyler Herro UNDER 21.5 Points"
       },
       {
         "player_name": "Devin Booker",
@@ -3367,8 +3302,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -3408,6 +3343,37 @@
         "score": 93.5,
         "bet_action": "UNDER",
         "bet_description": "Norman Powell UNDER 2.5 Assists"
+      },
+      {
+        "player_name": "Andrew Wiggins",
+        "team": "MIA",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          15,
+          12,
+          12
+        ],
+        "last_3_avg": 13.0,
+        "season_avg": 15.6,
+        "l10_avg": 14.3,
+        "pct_diff_season": -16.7,
+        "pct_diff_l10": -9.1,
+        "comparison": "season",
+        "games_played": 61,
+        "betting_line": {
+          "line": 13.5,
+          "over_price": 2,
+          "under_price": 1.78,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+        "pct_vs_line": -3.7,
+        "score": 55.0,
+        "bet_action": "UNDER",
+        "bet_description": "Andrew Wiggins UNDER 13.5 Points"
       },
       {
         "player_name": "Tyrese Maxey",
@@ -3462,8 +3428,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 229.5,
-          "over_price": 1.92,
-          "under_price": 1.88
+          "over_price": 1.9,
+          "under_price": 1.9
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
         "pct_vs_line": -45.2,
@@ -3505,7 +3471,7 @@
     ]
   },
   "meta": {
-    "total_players_analyzed": 509,
+    "total_players_analyzed": 512,
     "total_teams_analyzed": 30,
     "players_with_sportsbet_markets": 102,
     "events_count": 8
