@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T12:07:00.695249+11:00",
+  "generated_at": "2026-03-30T13:07:01.029834+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -34,66 +34,35 @@
       "bet_description": "Gui Santos OVER 15.5 Points"
     },
     {
-      "player_name": "Jalen Brunson",
-      "team": "NY",
-      "stat": "REB",
-      "stat_label": "Rebounds",
-      "direction": "cold",
+      "player_name": "Joel Embiid",
+      "team": "PHI",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "hot",
       "last_3": [
-        2,
-        1,
-        0
+        3,
+        3,
+        2
       ],
-      "last_3_avg": 1.0,
-      "season_avg": 3.3,
-      "l10_avg": 3.1,
-      "pct_diff_season": -69.7,
-      "pct_diff_l10": -67.7,
+      "last_3_avg": 2.7,
+      "season_avg": 1.4,
+      "l10_avg": 2.0,
+      "pct_diff_season": 92.9,
+      "pct_diff_l10": 35.0,
       "comparison": "season",
-      "games_played": 72,
-      "betting_line": {
-        "line": 6.5,
-        "over_price": 2.1,
-        "under_price": 1.62,
-        "market_type": "over_under"
-      },
-      "game": "New York Knicks @ Oklahoma City Thunder",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-      "pct_vs_line": -84.6,
-      "score": 273.8,
-      "bet_action": "UNDER",
-      "bet_description": "Jalen Brunson UNDER 6.5 Rebounds"
-    },
-    {
-      "player_name": "Mikal Bridges",
-      "team": "NY",
-      "stat": "REB",
-      "stat_label": "Rebounds",
-      "direction": "cold",
-      "last_3": [
-        0,
-        2,
-        0
-      ],
-      "last_3_avg": 0.7,
-      "season_avg": 4.0,
-      "l10_avg": 3.8,
-      "pct_diff_season": -82.5,
-      "pct_diff_l10": -81.6,
-      "comparison": "season",
-      "games_played": 75,
+      "games_played": 35,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.05,
-        "under_price": 1.66,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
-      "game": "New York Knicks @ Oklahoma City Thunder",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-      "pct_vs_line": -53.3,
-      "score": 219.1,
-      "bet_action": "UNDER",
-      "bet_description": "Mikal Bridges UNDER 1.5 Rebounds"
+      "game": "Philadelphia 76ers @ Miami Heat",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+      "pct_vs_line": 80.0,
+      "score": 267.6,
+      "bet_action": "OVER",
+      "bet_description": "Joel Embiid OVER 1.5 Threes"
     },
     {
       "player_name": "Brandin Podziemski",
@@ -127,35 +96,66 @@
       "bet_description": "Brandin Podziemski OVER 5.5 Rebounds"
     },
     {
-      "player_name": "Gary Payton II",
-      "team": "GS",
-      "stat": "PTS",
-      "stat_label": "Points",
+      "player_name": "Kyle Filipowski",
+      "team": "UTAH",
+      "stat": "AST",
+      "stat_label": "Assists",
       "direction": "hot",
       "last_3": [
-        15,
-        10,
-        17
+        3,
+        5,
+        4
       ],
-      "last_3_avg": 14.0,
-      "season_avg": 7.2,
-      "l10_avg": 14.1,
-      "pct_diff_season": 94.4,
-      "pct_diff_l10": -0.7,
+      "last_3_avg": 4.0,
+      "season_avg": 2.5,
+      "l10_avg": 4.2,
+      "pct_diff_season": 60.0,
+      "pct_diff_l10": -4.8,
       "comparison": "season",
-      "games_played": 66,
+      "games_played": 72,
       "betting_line": {
-        "line": 10.5,
-        "over_price": 1.83,
-        "under_price": 1.93,
+        "line": 2.5,
+        "over_price": 1.78,
+        "under_price": 2,
         "market_type": "over_under"
       },
-      "game": "Golden State Warriors @ Denver Nuggets",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-denver-nuggets-10306712",
-      "pct_vs_line": 33.3,
-      "score": 215.7,
+      "game": "Cleveland Cavaliers @ Utah Jazz",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+      "pct_vs_line": 60.0,
+      "score": 218.8,
       "bet_action": "OVER",
-      "bet_description": "Gary Payton II OVER 10.5 Points"
+      "bet_description": "Kyle Filipowski OVER 2.5 Assists"
+    },
+    {
+      "player_name": "Victor Wembanyama",
+      "team": "SA",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "cold",
+      "last_3": [
+        0,
+        1,
+        1
+      ],
+      "last_3_avg": 0.7,
+      "season_avg": 1.9,
+      "l10_avg": 2.4,
+      "pct_diff_season": -63.2,
+      "pct_diff_l10": -70.8,
+      "comparison": "l10",
+      "games_played": 62,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 2.5,
+        "under_price": 1.48,
+        "market_type": "over_under"
+      },
+      "game": "Chicago Bulls @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-san-antonio-spurs-10307879",
+      "pct_vs_line": -72.0,
+      "score": 217.2,
+      "bet_action": "UNDER",
+      "bet_description": "Victor Wembanyama UNDER 2.5 Threes"
     },
     {
       "player_name": "Brandin Podziemski",
@@ -189,37 +189,6 @@
       "bet_description": "Brandin Podziemski OVER 14.5 Points"
     },
     {
-      "player_name": "Spencer Jones",
-      "team": "DEN",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "cold",
-      "last_3": [
-        0,
-        4,
-        4
-      ],
-      "last_3_avg": 2.7,
-      "season_avg": 5.8,
-      "l10_avg": 5.0,
-      "pct_diff_season": -53.4,
-      "pct_diff_l10": -46.0,
-      "comparison": "season",
-      "games_played": 61,
-      "betting_line": {
-        "line": 5.5,
-        "over_price": 1.9,
-        "under_price": 1.86,
-        "market_type": "over_under"
-      },
-      "game": "Golden State Warriors @ Denver Nuggets",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-denver-nuggets-10306712",
-      "pct_vs_line": -50.9,
-      "score": 198.3,
-      "bet_action": "UNDER",
-      "bet_description": "Spencer Jones UNDER 5.5 Points"
-    },
-    {
       "player_name": "Jalen Brunson",
       "team": "NY",
       "stat": "FG3M",
@@ -238,17 +207,79 @@
       "comparison": "season",
       "games_played": 72,
       "betting_line": {
-        "line": 3.5,
-        "over_price": 1.55,
-        "under_price": 2.3,
+        "line": 4.5,
+        "over_price": 5.1,
+        "under_price": 1.13,
         "market_type": "over_under"
       },
       "game": "New York Knicks @ Oklahoma City Thunder",
       "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-      "pct_vs_line": -62.9,
-      "score": 185.7,
+      "pct_vs_line": -71.1,
+      "score": 202.2,
       "bet_action": "UNDER",
-      "bet_description": "Jalen Brunson UNDER 3.5 Threes"
+      "bet_description": "Jalen Brunson UNDER 4.5 Threes"
+    },
+    {
+      "player_name": "Ace Bailey",
+      "team": "UTAH",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "cold",
+      "last_3": [
+        1,
+        1,
+        1
+      ],
+      "last_3_avg": 1.0,
+      "season_avg": 1.9,
+      "l10_avg": 3.4,
+      "pct_diff_season": -47.4,
+      "pct_diff_l10": -70.6,
+      "comparison": "l10",
+      "games_played": 66,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 1.68,
+        "under_price": 2.1,
+        "market_type": "over_under"
+      },
+      "game": "Cleveland Cavaliers @ Utah Jazz",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+      "pct_vs_line": -60.0,
+      "score": 192.4,
+      "bet_action": "UNDER",
+      "bet_description": "Ace Bailey UNDER 2.5 Threes"
+    },
+    {
+      "player_name": "Gary Payton II",
+      "team": "GS",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        15,
+        10,
+        17
+      ],
+      "last_3_avg": 14.0,
+      "season_avg": 7.2,
+      "l10_avg": 14.1,
+      "pct_diff_season": 94.4,
+      "pct_diff_l10": -0.7,
+      "comparison": "season",
+      "games_played": 66,
+      "betting_line": {
+        "line": 11.5,
+        "over_price": 1.96,
+        "under_price": 1.8,
+        "market_type": "over_under"
+      },
+      "game": "Golden State Warriors @ Denver Nuggets",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-denver-nuggets-10306712",
+      "pct_vs_line": 21.7,
+      "score": 187.9,
+      "bet_action": "OVER",
+      "bet_description": "Gary Payton II OVER 11.5 Points"
     },
     {
       "team_name": "Minnesota Timberwolves",
@@ -277,37 +308,6 @@
       "bet_action": "UNDER",
       "bet_description": "Minnesota Timberwolves UNDER 235.5 Total Points",
       "is_team": true
-    },
-    {
-      "player_name": "Draymond Green",
-      "team": "GS",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "cold",
-      "last_3": [
-        1,
-        1,
-        0
-      ],
-      "last_3_avg": 0.7,
-      "season_avg": 1.5,
-      "l10_avg": 1.7,
-      "pct_diff_season": -53.3,
-      "pct_diff_l10": -58.8,
-      "comparison": "l10",
-      "games_played": 61,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.91,
-        "under_price": 1.85,
-        "market_type": "over_under"
-      },
-      "game": "Golden State Warriors @ Denver Nuggets",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-denver-nuggets-10306712",
-      "pct_vs_line": -53.3,
-      "score": 170.0,
-      "bet_action": "UNDER",
-      "bet_description": "Draymond Green UNDER 1.5 Threes"
     }
   ],
   "games": [
@@ -316,7 +316,6 @@
     "Cleveland Cavaliers @ Utah Jazz",
     "Detroit Pistons @ Oklahoma City Thunder",
     "Golden State Warriors @ Denver Nuggets",
-    "Houston Rockets @ New Orleans Pelicans",
     "Minnesota Timberwolves @ Dallas Mavericks",
     "New York Knicks @ Oklahoma City Thunder",
     "Philadelphia 76ers @ Miami Heat",
@@ -376,9 +375,6 @@
         "games_played": 61,
         "betting_line": {
           "thresholds": {
-            "3": {
-              "price": 8.75
-            },
             "1": {
               "price": 1.49
             },
@@ -414,48 +410,48 @@
         "comparison": "season",
         "games_played": 66,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "line": 11.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-denver-nuggets-10306712",
-        "pct_vs_line": 33.3,
-        "score": 215.7,
+        "pct_vs_line": 21.7,
+        "score": 187.9,
         "bet_action": "OVER",
-        "bet_description": "Gary Payton II OVER 10.5 Points"
+        "bet_description": "Gary Payton II OVER 11.5 Points"
       },
       {
-        "player_name": "Mikal Bridges",
-        "team": "NY",
+        "player_name": "Joel Embiid",
+        "team": "PHI",
         "stat": "FG3M",
         "stat_label": "Threes",
         "direction": "hot",
         "last_3": [
-          2,
-          4,
+          3,
+          3,
           2
         ],
         "last_3_avg": 2.7,
-        "season_avg": 2.0,
-        "l10_avg": 1.5,
-        "pct_diff_season": 35.0,
-        "pct_diff_l10": 80.0,
-        "comparison": "l10",
-        "games_played": 75,
+        "season_avg": 1.4,
+        "l10_avg": 2.0,
+        "pct_diff_season": 92.9,
+        "pct_diff_l10": 35.0,
+        "comparison": "season",
+        "games_played": 35,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.72,
-          "under_price": 2.02,
+          "line": 1.5,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
-        "game": "New York Knicks @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": 8.0,
-        "score": 65.4,
+        "game": "Philadelphia 76ers @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+        "pct_vs_line": 80.0,
+        "score": 267.6,
         "bet_action": "OVER",
-        "bet_description": "Mikal Bridges OVER 2.5 Threes"
+        "bet_description": "Joel Embiid OVER 1.5 Threes"
       },
       {
         "player_name": "Brandin Podziemski",
@@ -520,6 +516,37 @@
         "bet_description": "Brandin Podziemski OVER 14.5 Points"
       },
       {
+        "player_name": "Kyle Filipowski",
+        "team": "UTAH",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "hot",
+        "last_3": [
+          3,
+          5,
+          4
+        ],
+        "last_3_avg": 4.0,
+        "season_avg": 2.5,
+        "l10_avg": 4.2,
+        "pct_diff_season": 60.0,
+        "pct_diff_l10": -4.8,
+        "comparison": "season",
+        "games_played": 72,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 1.78,
+          "under_price": 2,
+          "market_type": "over_under"
+        },
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": 60.0,
+        "score": 218.8,
+        "bet_action": "OVER",
+        "bet_description": "Kyle Filipowski OVER 2.5 Assists"
+      },
+      {
         "player_name": "Brandin Podziemski",
         "team": "GS",
         "stat": "AST",
@@ -551,35 +578,35 @@
         "bet_description": "Brandin Podziemski OVER 4.5 Assists"
       },
       {
-        "player_name": "Mikal Bridges",
-        "team": "NY",
-        "stat": "PTS",
-        "stat_label": "Points",
+        "player_name": "Thomas Bryant",
+        "team": "CLE",
+        "stat": "REB",
+        "stat_label": "Rebounds",
         "direction": "hot",
         "last_3": [
-          14,
-          14,
-          14
+          4,
+          5,
+          6
         ],
-        "last_3_avg": 14.0,
-        "season_avg": 14.6,
-        "l10_avg": 9.1,
-        "pct_diff_season": -4.1,
-        "pct_diff_l10": 53.8,
-        "comparison": "l10",
-        "games_played": 75,
+        "last_3_avg": 5.0,
+        "season_avg": 3.3,
+        "l10_avg": 4.3,
+        "pct_diff_season": 51.5,
+        "pct_diff_l10": 16.3,
+        "comparison": "season",
+        "games_played": 54,
         "betting_line": {
-          "line": 15.5,
-          "over_price": 1.95,
-          "under_price": 1.73,
+          "line": 4.5,
+          "over_price": 2.2,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
-        "game": "New York Knicks @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": -9.7,
-        "score": 58.1,
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": 11.1,
+        "score": 103.2,
         "bet_action": "OVER",
-        "bet_description": "Mikal Bridges OVER 15.5 Points"
+        "bet_description": "Thomas Bryant OVER 4.5 Rebounds"
       },
       {
         "player_name": "Nikola Jokic",
@@ -613,6 +640,37 @@
         "bet_description": "Nikola Jokic OVER 11.5 Assists"
       },
       {
+        "player_name": "Victor Wembanyama",
+        "team": "SA",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "hot",
+        "last_3": [
+          6,
+          3,
+          4
+        ],
+        "last_3_avg": 4.3,
+        "season_avg": 2.9,
+        "l10_avg": 3.7,
+        "pct_diff_season": 48.3,
+        "pct_diff_l10": 16.2,
+        "comparison": "season",
+        "games_played": 62,
+        "betting_line": {
+          "line": 3.5,
+          "over_price": 2.4,
+          "under_price": 1.52,
+          "market_type": "over_under"
+        },
+        "game": "Chicago Bulls @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-san-antonio-spurs-10307879",
+        "pct_vs_line": 22.9,
+        "score": 121.5,
+        "bet_action": "OVER",
+        "bet_description": "Victor Wembanyama OVER 3.5 Assists"
+      },
+      {
         "player_name": "Gary Payton II",
         "team": "GS",
         "stat": "REB",
@@ -632,8 +690,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
@@ -642,6 +700,37 @@
         "score": 110.8,
         "bet_action": "OVER",
         "bet_description": "Gary Payton II OVER 4.5 Rebounds"
+      },
+      {
+        "player_name": "Ace Bailey",
+        "team": "UTAH",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          6,
+          7,
+          5
+        ],
+        "last_3_avg": 6.0,
+        "season_avg": 4.2,
+        "l10_avg": 5.3,
+        "pct_diff_season": 42.9,
+        "pct_diff_l10": 13.2,
+        "comparison": "season",
+        "games_played": 66,
+        "betting_line": {
+          "line": 4.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
+          "market_type": "over_under"
+        },
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": 33.3,
+        "score": 143.5,
+        "bet_action": "OVER",
+        "bet_description": "Ace Bailey OVER 4.5 Rebounds"
       },
       {
         "player_name": "Kristaps Porzingis",
@@ -706,6 +795,37 @@
         "bet_description": "Nikola Jokic OVER 13.5 Rebounds"
       },
       {
+        "player_name": "Victor Wembanyama",
+        "team": "SA",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          15,
+          15,
+          15
+        ],
+        "last_3_avg": 15.0,
+        "season_avg": 11.0,
+        "l10_avg": 11.7,
+        "pct_diff_season": 36.4,
+        "pct_diff_l10": 28.2,
+        "comparison": "season",
+        "games_played": 62,
+        "betting_line": {
+          "line": 12.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Chicago Bulls @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-san-antonio-spurs-10307879",
+        "pct_vs_line": 20.0,
+        "score": 111.5,
+        "bet_action": "OVER",
+        "bet_description": "Victor Wembanyama OVER 12.5 Rebounds"
+      },
+      {
         "player_name": "Brandin Podziemski",
         "team": "GS",
         "stat": "FG3M",
@@ -737,99 +857,99 @@
         "bet_description": "Brandin Podziemski OVER 2.5 Threes"
       },
       {
-        "player_name": "Isaiah Hartenstein",
-        "team": "OKC",
-        "stat": "PTS",
-        "stat_label": "Points",
+        "player_name": "Kyle Filipowski",
+        "team": "UTAH",
+        "stat": "REB",
+        "stat_label": "Rebounds",
         "direction": "hot",
         "last_3": [
-          6,
-          6,
-          10
+          9,
+          8,
+          8
         ],
-        "last_3_avg": 7.3,
-        "season_avg": 9.5,
-        "l10_avg": 5.8,
-        "pct_diff_season": -23.2,
-        "pct_diff_l10": 25.9,
-        "comparison": "l10",
-        "games_played": 42,
+        "last_3_avg": 8.3,
+        "season_avg": 7.0,
+        "l10_avg": 8.1,
+        "pct_diff_season": 18.6,
+        "pct_diff_l10": 2.5,
+        "comparison": "season",
+        "games_played": 72,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.92,
+          "line": 7.5,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
-        "game": "New York Knicks @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": 12.3,
-        "score": 72.1,
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": 10.7,
+        "score": 69.6,
         "bet_action": "OVER",
-        "bet_description": "Isaiah Hartenstein OVER 6.5 Points"
+        "bet_description": "Kyle Filipowski OVER 7.5 Rebounds"
       }
     ],
     "cold": [
       {
-        "player_name": "Mikal Bridges",
-        "team": "NY",
-        "stat": "REB",
-        "stat_label": "Rebounds",
+        "player_name": "Victor Wembanyama",
+        "team": "SA",
+        "stat": "FG3M",
+        "stat_label": "Threes",
         "direction": "cold",
         "last_3": [
           0,
-          2,
-          0
+          1,
+          1
         ],
         "last_3_avg": 0.7,
-        "season_avg": 4.0,
-        "l10_avg": 3.8,
-        "pct_diff_season": -82.5,
-        "pct_diff_l10": -81.6,
-        "comparison": "season",
-        "games_played": 75,
+        "season_avg": 1.9,
+        "l10_avg": 2.4,
+        "pct_diff_season": -63.2,
+        "pct_diff_l10": -70.8,
+        "comparison": "l10",
+        "games_played": 62,
         "betting_line": {
-          "line": 1.5,
-          "over_price": 2.05,
-          "under_price": 1.66,
+          "line": 2.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
-        "game": "New York Knicks @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": -53.3,
-        "score": 219.1,
+        "game": "Chicago Bulls @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-san-antonio-spurs-10307879",
+        "pct_vs_line": -72.0,
+        "score": 217.2,
         "bet_action": "UNDER",
-        "bet_description": "Mikal Bridges UNDER 1.5 Rebounds"
+        "bet_description": "Victor Wembanyama UNDER 2.5 Threes"
       },
       {
-        "player_name": "Jalen Brunson",
-        "team": "NY",
-        "stat": "REB",
-        "stat_label": "Rebounds",
+        "player_name": "Ace Bailey",
+        "team": "UTAH",
+        "stat": "FG3M",
+        "stat_label": "Threes",
         "direction": "cold",
         "last_3": [
-          2,
           1,
-          0
+          1,
+          1
         ],
         "last_3_avg": 1.0,
-        "season_avg": 3.3,
-        "l10_avg": 3.1,
-        "pct_diff_season": -69.7,
-        "pct_diff_l10": -67.7,
-        "comparison": "season",
-        "games_played": 72,
+        "season_avg": 1.9,
+        "l10_avg": 3.4,
+        "pct_diff_season": -47.4,
+        "pct_diff_l10": -70.6,
+        "comparison": "l10",
+        "games_played": 66,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 2.1,
-          "under_price": 1.62,
+          "line": 2.5,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
-        "game": "New York Knicks @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": -84.6,
-        "score": 273.8,
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": -60.0,
+        "score": 192.4,
         "bet_action": "UNDER",
-        "bet_description": "Jalen Brunson UNDER 6.5 Rebounds"
+        "bet_description": "Ace Bailey UNDER 2.5 Threes"
       },
       {
         "player_name": "Nikola Jokic",
@@ -882,8 +1002,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
@@ -912,17 +1032,17 @@
         "comparison": "season",
         "games_played": 61,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "line": 4.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-denver-nuggets-10306712",
-        "pct_vs_line": -50.9,
-        "score": 198.3,
+        "pct_vs_line": -40.0,
+        "score": 172.1,
         "bet_action": "UNDER",
-        "bet_description": "Spencer Jones UNDER 5.5 Points"
+        "bet_description": "Spencer Jones UNDER 4.5 Points"
       },
       {
         "player_name": "Jalen Brunson",
@@ -943,17 +1063,48 @@
         "comparison": "season",
         "games_played": 72,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.55,
-          "under_price": 2.3,
+          "line": 4.5,
+          "over_price": 5.1,
+          "under_price": 1.13,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Oklahoma City Thunder",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": -62.9,
-        "score": 185.7,
+        "pct_vs_line": -71.1,
+        "score": 202.2,
         "bet_action": "UNDER",
-        "bet_description": "Jalen Brunson UNDER 3.5 Threes"
+        "bet_description": "Jalen Brunson UNDER 4.5 Threes"
+      },
+      {
+        "player_name": "Dennis Schroder",
+        "team": "CLE",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          8,
+          4,
+          6
+        ],
+        "last_3_avg": 6.0,
+        "season_avg": 11.0,
+        "l10_avg": 5.1,
+        "pct_diff_season": -45.5,
+        "pct_diff_l10": 17.6,
+        "comparison": "season",
+        "games_played": 63,
+        "betting_line": {
+          "line": 8.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": -29.4,
+        "score": 145.3,
+        "bet_action": "UNDER",
+        "bet_description": "Dennis Schroder UNDER 8.5 Points"
       },
       {
         "player_name": "Christian Braun",
@@ -1006,8 +1157,8 @@
         "games_played": 52,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
@@ -1037,8 +1188,8 @@
         "games_played": 39,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Denver Nuggets",
@@ -1080,66 +1231,66 @@
         "bet_description": "Quinten Post UNDER 3.5 Rebounds"
       },
       {
-        "player_name": "Josh Hart",
-        "team": "NY",
-        "stat": "AST",
-        "stat_label": "Assists",
+        "player_name": "Ace Bailey",
+        "team": "UTAH",
+        "stat": "PTS",
+        "stat_label": "Points",
         "direction": "cold",
         "last_3": [
-          4,
-          3,
-          4
+          13,
+          15,
+          15
         ],
-        "last_3_avg": 3.7,
-        "season_avg": 5.0,
-        "l10_avg": 3.8,
-        "pct_diff_season": -26.0,
-        "pct_diff_l10": -2.6,
-        "comparison": "season",
-        "games_played": 60,
+        "last_3_avg": 14.3,
+        "season_avg": 13.5,
+        "l10_avg": 19.3,
+        "pct_diff_season": 5.9,
+        "pct_diff_l10": -25.9,
+        "comparison": "l10",
+        "games_played": 66,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.53,
-          "under_price": 2.3,
+          "line": 17.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
-        "game": "New York Knicks @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": 48.0,
-        "score": 157.4,
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": -18.3,
+        "score": 78.6,
         "bet_action": "UNDER",
-        "bet_description": "Josh Hart UNDER 2.5 Assists"
+        "bet_description": "Ace Bailey UNDER 17.5 Points"
       },
       {
-        "player_name": "Josh Hart",
-        "team": "NY",
-        "stat": "REB",
-        "stat_label": "Rebounds",
+        "player_name": "Tyrese Maxey",
+        "team": "PHI",
+        "stat": "FG3M",
+        "stat_label": "Threes",
         "direction": "cold",
         "last_3": [
-          7,
-          8,
-          6
+          3,
+          3,
+          2
         ],
-        "last_3_avg": 7.0,
-        "season_avg": 7.6,
-        "l10_avg": 8.3,
-        "pct_diff_season": -7.9,
-        "pct_diff_l10": -15.7,
-        "comparison": "l10",
-        "games_played": 60,
+        "last_3_avg": 2.7,
+        "season_avg": 3.2,
+        "l10_avg": 3.1,
+        "pct_diff_season": -15.6,
+        "pct_diff_l10": -12.9,
+        "comparison": "season",
+        "games_played": 65,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 2.12,
-          "under_price": 1.62,
+          "line": 2.5,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
-        "game": "New York Knicks @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-oklahoma-city-thunder-10306714",
-        "pct_vs_line": 27.3,
-        "score": 92.3,
+        "game": "Philadelphia 76ers @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+        "pct_vs_line": 8.0,
+        "score": 51.3,
         "bet_action": "UNDER",
-        "bet_description": "Josh Hart UNDER 5.5 Rebounds"
+        "bet_description": "Tyrese Maxey UNDER 2.5 Threes"
       }
     ]
   },
@@ -1236,7 +1387,7 @@
   "meta": {
     "total_players_analyzed": 509,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 26,
-    "events_count": 11
+    "players_with_sportsbet_markets": 36,
+    "events_count": 10
   }
 }
