@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T16:07:00.837235+11:00",
+  "generated_at": "2026-03-30T17:07:01.177410+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -208,8 +208,8 @@
       "games_played": 62,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.6,
-        "under_price": 1.45,
+        "over_price": 2.45,
+        "under_price": 1.5,
         "market_type": "over_under"
       },
       "game": "Chicago Bulls @ San Antonio Spurs",
@@ -301,8 +301,8 @@
       "games_played": 60,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.6,
-        "under_price": 2.2,
+        "over_price": 1.58,
+        "under_price": 2.25,
         "market_type": "over_under"
       },
       "game": "Washington Wizards @ Los Angeles Lakers",
@@ -407,8 +407,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ San Antonio Spurs",
@@ -1213,8 +1213,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -1305,17 +1305,17 @@
         "comparison": "season",
         "games_played": 56,
         "betting_line": {
-          "line": 7.5,
+          "line": 8.5,
           "over_price": 1.96,
           "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
-        "pct_vs_line": 20.0,
-        "score": 106.3,
+        "pct_vs_line": 5.9,
+        "score": 75.2,
         "bet_action": "OVER",
-        "bet_description": "LeBron James OVER 7.5 Assists"
+        "bet_description": "LeBron James OVER 8.5 Assists"
       },
       {
         "player_name": "Keldon Johnson",
@@ -1336,17 +1336,17 @@
         "comparison": "season",
         "games_played": 75,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "line": 12.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-san-antonio-spurs-10307879",
-        "pct_vs_line": 28.1,
-        "score": 133.1,
+        "pct_vs_line": 38.4,
+        "score": 157.7,
         "bet_action": "OVER",
-        "bet_description": "Keldon Johnson OVER 13.5 Points"
+        "bet_description": "Keldon Johnson OVER 12.5 Points"
       },
       {
         "player_name": "Cooper Flagg",
@@ -1368,8 +1368,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -1461,8 +1461,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
@@ -1723,6 +1723,37 @@
     ],
     "cold": [
       {
+        "player_name": "Evan Mobley",
+        "team": "CLE",
+        "stat": "BLK",
+        "stat_label": "Blocks",
+        "direction": "cold",
+        "last_3": [
+          0,
+          0,
+          1
+        ],
+        "last_3_avg": 0.3,
+        "season_avg": 1.8,
+        "l10_avg": 1.5,
+        "pct_diff_season": -83.3,
+        "pct_diff_l10": -80.0,
+        "comparison": "season",
+        "games_played": 59,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": -80.0,
+        "score": 228.0,
+        "bet_action": "UNDER",
+        "bet_description": "Evan Mobley UNDER 1.5 Blocks"
+      },
+      {
         "player_name": "Rui Hachimura",
         "team": "LAL",
         "stat": "FG3M",
@@ -1742,8 +1773,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -2139,6 +2170,37 @@
         "bet_description": "Andrew Wiggins UNDER 4.5 Rebounds"
       },
       {
+        "player_name": "LeBron James",
+        "team": "LAL",
+        "stat": "STL",
+        "stat_label": "Steals",
+        "direction": "cold",
+        "last_3": [
+          1,
+          1,
+          0
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 1.1,
+        "l10_avg": 1.5,
+        "pct_diff_season": -36.4,
+        "pct_diff_l10": -53.3,
+        "comparison": "l10",
+        "games_played": 56,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.2,
+          "under_price": 1.6,
+          "market_type": "over_under"
+        },
+        "game": "Washington Wizards @ Los Angeles Lakers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
+        "pct_vs_line": -53.3,
+        "score": 137.8,
+        "bet_action": "UNDER",
+        "bet_description": "LeBron James UNDER 1.5 Steals"
+      },
+      {
         "player_name": "Naz Reid",
         "team": "MIN",
         "stat": "FG3M",
@@ -2282,8 +2344,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -2313,8 +2375,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -2344,8 +2406,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -2375,8 +2437,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
@@ -2654,8 +2716,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -2685,8 +2747,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -2788,6 +2850,37 @@
         "score": 103.3,
         "bet_action": "UNDER",
         "bet_description": "Anthony Edwards UNDER 1.5 Steals"
+      },
+      {
+        "player_name": "Brice Sensabaugh",
+        "team": "UTAH",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          2,
+          3,
+          1
+        ],
+        "last_3_avg": 2.0,
+        "season_avg": 2.1,
+        "l10_avg": 3.2,
+        "pct_diff_season": -4.8,
+        "pct_diff_l10": -37.5,
+        "comparison": "l10",
+        "games_played": 68,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 1.78,
+          "under_price": 2,
+          "market_type": "over_under"
+        },
+        "game": "Cleveland Cavaliers @ Utah Jazz",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-utah-jazz-10307979",
+        "pct_vs_line": -20.0,
+        "score": 57.6,
+        "bet_action": "UNDER",
+        "bet_description": "Brice Sensabaugh UNDER 2.5 Threes"
       },
       {
         "player_name": "Donte DiVincenzo",
@@ -2933,8 +3026,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 13.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -2995,8 +3088,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ San Antonio Spurs",
@@ -3026,8 +3119,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
@@ -3088,8 +3181,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Utah Jazz",
@@ -3150,7 +3243,7 @@
         "games_played": 27,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.88,
+          "over_price": 1.87,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -3368,15 +3461,15 @@
         "pct_diff": 11.5,
         "games_played": 74,
         "betting_line": {
-          "line": 228.5,
-          "over_price": 1.9,
-          "under_price": 1.9
+          "line": 229.5,
+          "over_price": 1.92,
+          "under_price": 1.88
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
-        "pct_vs_line": -45.0,
-        "score": 144.9,
+        "pct_vs_line": -45.2,
+        "score": 145.5,
         "bet_action": "OVER",
-        "bet_description": "Phoenix Suns OVER 228.5 Total Points",
+        "bet_description": "Phoenix Suns OVER 229.5 Total Points",
         "is_team": true
       }
     ],
@@ -3398,15 +3491,15 @@
         "pct_diff": -15.4,
         "games_played": 74,
         "betting_line": {
-          "line": 235.5,
+          "line": 236.5,
           "over_price": 1.9,
           "under_price": 1.9
         },
         "game": "Minnesota Timberwolves @ Dallas Mavericks",
-        "pct_vs_line": -57.7,
-        "score": 182.9,
+        "pct_vs_line": -57.8,
+        "score": 183.4,
         "bet_action": "UNDER",
-        "bet_description": "Minnesota Timberwolves UNDER 235.5 Total Points",
+        "bet_description": "Minnesota Timberwolves UNDER 236.5 Total Points",
         "is_team": true
       }
     ]
@@ -3414,7 +3507,7 @@
   "meta": {
     "total_players_analyzed": 509,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 101,
+    "players_with_sportsbet_markets": 102,
     "events_count": 8
   }
 }
