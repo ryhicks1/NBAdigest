@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T02:07:00.665992+11:00",
+  "generated_at": "2026-03-31T03:07:01.464307+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 67,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.72,
-        "under_price": 2.08,
+        "over_price": 1.74,
+        "under_price": 2.05,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Miami Heat",
@@ -239,8 +239,8 @@
       "games_played": 35,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Miami Heat",
@@ -270,8 +270,8 @@
       "games_played": 60,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.6,
-        "under_price": 2.2,
+        "over_price": 1.68,
+        "under_price": 2.1,
         "market_type": "over_under"
       },
       "game": "Washington Wizards @ Los Angeles Lakers",
@@ -407,8 +407,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -593,8 +593,8 @@
         "games_played": 35,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -779,8 +779,8 @@
         "games_played": 11,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
@@ -841,8 +841,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -1089,8 +1089,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -1275,8 +1275,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -1398,17 +1398,17 @@
         "comparison": "season",
         "games_played": 26,
         "betting_line": {
-          "line": 21.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "line": 22.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-memphis-grizzlies-10307831",
-        "pct_vs_line": 11.6,
-        "score": 76.7,
+        "pct_vs_line": 6.7,
+        "score": 64.8,
         "bet_action": "OVER",
-        "bet_description": "Jalen Green OVER 21.5 Points"
+        "bet_description": "Jalen Green OVER 22.5 Points"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -1461,8 +1461,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
@@ -1616,7 +1616,7 @@
         "games_played": 69,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.83,
+          "over_price": 1.8,
           "under_price": 1.93,
           "market_type": "over_under"
         },
@@ -1804,8 +1804,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -1836,7 +1836,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 4.1
+              "price": 4
             },
             "1": {
               "price": 1.63
@@ -2031,8 +2031,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -2309,17 +2309,17 @@
         "comparison": "season",
         "games_played": 60,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "line": 12.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-los-angeles-lakers-10308070",
-        "pct_vs_line": -57.8,
-        "score": 210.3,
+        "pct_vs_line": -54.4,
+        "score": 202.2,
         "bet_action": "UNDER",
-        "bet_description": "Rui Hachimura UNDER 13.5 Points"
+        "bet_description": "Rui Hachimura UNDER 12.5 Points"
       },
       {
         "player_name": "Taylor Hendricks",
@@ -2907,8 +2907,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Atlanta Hawks",
@@ -3000,8 +3000,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -3093,8 +3093,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
@@ -3103,6 +3103,37 @@
         "score": 56.9,
         "bet_action": "UNDER",
         "bet_description": "Collin Gillespie UNDER 3.5 Rebounds"
+      },
+      {
+        "player_name": "Norman Powell",
+        "team": "MIA",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "cold",
+        "last_3": [
+          2,
+          2,
+          2
+        ],
+        "last_3_avg": 2.0,
+        "season_avg": 2.5,
+        "l10_avg": 2.5,
+        "pct_diff_season": -20.0,
+        "pct_diff_l10": -20.0,
+        "comparison": "season",
+        "games_played": 57,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 2.05,
+          "under_price": 1.74,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-miami-heat-10307782",
+        "pct_vs_line": -20.0,
+        "score": 93.5,
+        "bet_action": "UNDER",
+        "bet_description": "Norman Powell UNDER 2.5 Assists"
       },
       {
         "player_name": "Andrew Wiggins",
@@ -3188,8 +3219,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 229.5,
-          "over_price": 1.9,
-          "under_price": 1.9
+          "over_price": 1.92,
+          "under_price": 1.88
         },
         "game": "Phoenix Suns @ Memphis Grizzlies",
         "pct_vs_line": -45.2,
