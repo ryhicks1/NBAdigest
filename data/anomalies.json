@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T19:07:01.390948+11:00",
+  "generated_at": "2026-03-30T20:07:01.435160+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -239,8 +239,8 @@
       "games_played": 35,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2,
-        "under_price": 1.78,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Miami Heat",
@@ -271,7 +271,7 @@
       "betting_line": {
         "line": 1.5,
         "over_price": 1.58,
-        "under_price": 2.25,
+        "under_price": 2.2,
         "market_type": "over_under"
       },
       "game": "Washington Wizards @ Los Angeles Lakers",
@@ -593,8 +593,8 @@
         "games_played": 35,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -686,8 +686,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Oklahoma City Thunder",
@@ -872,8 +872,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Utah Jazz",
@@ -1836,7 +1836,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 1.58,
-          "under_price": 2.25,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -2026,8 +2026,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -2429,8 +2429,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Los Angeles Lakers",
@@ -2646,8 +2646,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Miami Heat",
@@ -2743,10 +2743,10 @@
               "price": 1.45
             },
             "3": {
-              "price": 8.25
+              "price": 8.5
             },
             "2": {
-              "price": 3.05
+              "price": 3.15
             }
           },
           "market_type": "threshold"
