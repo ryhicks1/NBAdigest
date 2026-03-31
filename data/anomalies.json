@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T10:29:43.447065+11:00",
+  "generated_at": "2026-04-01T10:34:44.468055+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -177,8 +177,8 @@
       "games_played": 27,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.58,
-        "under_price": 2.25,
+        "over_price": 1.5,
+        "under_price": 2.4,
         "market_type": "over_under"
       },
       "game": "Phoenix Suns @ Orlando Magic",
@@ -320,6 +320,7 @@
     "Dallas Mavericks @ Milwaukee Bucks",
     "Denver Nuggets @ Utah Jazz",
     "New York Knicks @ Houston Rockets",
+    "Philadelphia 76ers @ Washington Wizards",
     "Phoenix Suns @ Orlando Magic",
     "Portland Trail Blazers @ Los Angeles Clippers",
     "San Antonio Spurs @ Golden State Warriors",
@@ -357,6 +358,45 @@
         "score": 304.2,
         "bet_action": "OVER",
         "bet_description": "Drake Powell OVER 1.5 Threes"
+      },
+      {
+        "player_name": "Jamal Shead",
+        "team": "TOR",
+        "stat": "STL",
+        "stat_label": "Steals",
+        "direction": "hot",
+        "last_3": [
+          3,
+          2,
+          2
+        ],
+        "last_3_avg": 2.3,
+        "season_avg": 0.9,
+        "l10_avg": 0.8,
+        "pct_diff_season": 155.6,
+        "pct_diff_l10": 187.5,
+        "comparison": "l10",
+        "games_played": 74,
+        "betting_line": {
+          "thresholds": {
+            "3": {
+              "price": 7.5
+            },
+            "1": {
+              "price": 1.41
+            },
+            "2": {
+              "price": 2.95
+            }
+          },
+          "market_type": "threshold"
+        },
+        "game": "Toronto Raptors @ Detroit Pistons",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-detroit-pistons-10311851",
+        "pct_vs_line": null,
+        "score": 157.1,
+        "bet_action": "OVER",
+        "bet_description": "Jamal Shead Steals trending HOT"
       },
       {
         "player_name": "Ziaire Williams",
@@ -470,17 +510,17 @@
         "comparison": "season",
         "games_played": 48,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "line": 3.5,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Dallas Mavericks @ Milwaukee Bucks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/dallas-mavericks-at-milwaukee-bucks-10311899",
-        "pct_vs_line": -4.4,
-        "score": 180.9,
+        "pct_vs_line": 22.9,
+        "score": 221.4,
         "bet_action": "OVER",
-        "bet_description": "Ousmane Dieng OVER 4.5 Assists"
+        "bet_description": "Ousmane Dieng OVER 3.5 Assists"
       },
       {
         "player_name": "Scottie Barnes",
@@ -688,8 +728,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.77,
-          "under_price": 1.91,
+          "over_price": 1.87,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Orlando Magic",
@@ -842,17 +882,17 @@
         "comparison": "season",
         "games_played": 48,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 1.83,
+          "line": 12.5,
+          "over_price": 1.84,
           "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Dallas Mavericks @ Milwaukee Bucks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/dallas-mavericks-at-milwaukee-bucks-10311899",
-        "pct_vs_line": -13.3,
-        "score": 144.0,
+        "pct_vs_line": -6.4,
+        "score": 127.3,
         "bet_action": "OVER",
-        "bet_description": "Ousmane Dieng OVER 13.5 Points"
+        "bet_description": "Ousmane Dieng OVER 12.5 Points"
       },
       {
         "player_name": "Josh Minott",
@@ -1029,8 +1069,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Detroit Pistons",
@@ -1339,8 +1379,8 @@
         "games_played": 27,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.5,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Orlando Magic",
@@ -1742,8 +1782,8 @@
         "games_played": 27,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.93,
-          "under_price": 1.75,
+          "over_price": 1.85,
+          "under_price": 1.82,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Orlando Magic",
@@ -1961,7 +2001,7 @@
         "games_played": 70,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
+          "over_price": 1.93,
           "under_price": 1.8,
           "market_type": "over_under"
         },
@@ -2240,8 +2280,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Dallas Mavericks @ Milwaukee Bucks",
@@ -2334,7 +2374,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 1.87,
-          "under_price": 1.89,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Brooklyn Nets",
@@ -2395,8 +2435,8 @@
         "games_played": 50,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.6,
-          "under_price": 1.44,
+          "over_price": 2.75,
+          "under_price": 1.4,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Orlando Magic",
@@ -2519,8 +2559,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Dallas Mavericks @ Milwaukee Bucks",
@@ -2611,17 +2651,17 @@
         "comparison": "season",
         "games_played": 74,
         "betting_line": {
-          "line": 8.5,
+          "line": 10.5,
           "over_price": 1.91,
           "under_price": 1.77,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-orlando-magic-10311828",
-        "pct_vs_line": -14.1,
-        "score": 99.0,
+        "pct_vs_line": -30.5,
+        "score": 138.3,
         "bet_action": "UNDER",
-        "bet_description": "Collin Gillespie UNDER 8.5 Points"
+        "bet_description": "Collin Gillespie UNDER 10.5 Points"
       },
       {
         "player_name": "Derrick White",
@@ -2681,7 +2721,7 @@
               "price": 7.25
             },
             "2": {
-              "price": 2.9
+              "price": 2.95
             }
           },
           "market_type": "threshold"
@@ -2776,7 +2816,7 @@
         "betting_line": {
           "line": 20.5,
           "over_price": 1.87,
-          "under_price": 1.88,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Detroit Pistons",
@@ -2971,6 +3011,42 @@
         "score": 98.3,
         "bet_action": "UNDER",
         "bet_description": "Mitchell Robinson UNDER 7.5 Rebounds"
+      },
+      {
+        "player_name": "Jakob Poeltl",
+        "team": "TOR",
+        "stat": "BLK",
+        "stat_label": "Blocks",
+        "direction": "cold",
+        "last_3": [
+          1,
+          1,
+          0
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 0.7,
+        "l10_avg": 1.1,
+        "pct_diff_season": 0.0,
+        "pct_diff_l10": -36.4,
+        "comparison": "l10",
+        "games_played": 38,
+        "betting_line": {
+          "thresholds": {
+            "1": {
+              "price": 1.54
+            },
+            "2": {
+              "price": 3.5
+            }
+          },
+          "market_type": "threshold"
+        },
+        "game": "Toronto Raptors @ Detroit Pistons",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-detroit-pistons-10311851",
+        "pct_vs_line": null,
+        "score": 4.5,
+        "bet_action": "UNDER",
+        "bet_description": "Jakob Poeltl Blocks trending COLD"
       },
       {
         "player_name": "Bam Adebayo",
@@ -3240,8 +3316,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.67,
-          "under_price": 2.03,
+          "over_price": 1.83,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Orlando Magic",
@@ -3520,15 +3596,15 @@
         "pct_diff": 14.5,
         "games_played": 75,
         "betting_line": {
-          "line": 220.5,
-          "over_price": 1.8,
-          "under_price": 1.94
+          "line": 219.5,
+          "over_price": 1.77,
+          "under_price": 1.97
         },
         "game": "Phoenix Suns @ Orlando Magic",
-        "pct_vs_line": -41.4,
-        "score": 139.4,
+        "pct_vs_line": -41.1,
+        "score": 138.7,
         "bet_action": "OVER",
-        "bet_description": "Phoenix Suns OVER 220.5 Total Points",
+        "bet_description": "Phoenix Suns OVER 219.5 Total Points",
         "is_team": true
       }
     ],
@@ -3538,6 +3614,6 @@
     "total_players_analyzed": 511,
     "total_teams_analyzed": 30,
     "players_with_sportsbet_markets": 113,
-    "events_count": 10
+    "events_count": 11
   }
 }
