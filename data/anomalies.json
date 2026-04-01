@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T18:07:01.245226+11:00",
+  "generated_at": "2026-04-01T19:07:01.397133+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -625,8 +625,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Toronto Raptors",
@@ -687,8 +687,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Toronto Raptors",
@@ -1563,8 +1563,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Toronto Raptors",
@@ -1594,8 +1594,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Toronto Raptors",
@@ -2217,10 +2217,10 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.45
+              "price": 3.6
             },
             "1": {
-              "price": 1.52
+              "price": 1.54
             }
           },
           "market_type": "threshold"
@@ -2624,8 +2624,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Toronto Raptors",
@@ -2817,7 +2817,7 @@
               "price": 1.41
             },
             "2": {
-              "price": 3.05
+              "price": 3
             }
           },
           "market_type": "threshold"
@@ -3314,8 +3314,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Sacramento Kings @ Toronto Raptors",
