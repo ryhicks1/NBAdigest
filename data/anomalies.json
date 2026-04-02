@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T20:07:00.697836+11:00",
+  "generated_at": "2026-04-02T21:07:00.798134+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1335,8 +1335,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 32.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -1709,8 +1709,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -1833,8 +1833,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -2113,7 +2113,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 2.6,
-          "under_price": 1.44,
+          "under_price": 1.45,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -2205,8 +2205,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -2267,8 +2267,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
