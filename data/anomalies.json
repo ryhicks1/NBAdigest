@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T08:05:27.807614+11:00",
+  "generated_at": "2026-04-03T09:00:45.830374+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -115,8 +115,8 @@
       "games_played": 58,
       "betting_line": {
         "line": 7.5,
-        "over_price": 1.83,
-        "under_price": 1.93,
+        "over_price": 1.84,
+        "under_price": 1.92,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -239,8 +239,8 @@
       "games_played": 69,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.52,
-        "under_price": 2.4,
+        "over_price": 1.5,
+        "under_price": 2.45,
         "market_type": "over_under"
       },
       "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -560,8 +560,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -622,8 +622,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -747,13 +747,13 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.44
+              "price": 1.45
             },
             "2": {
-              "price": 3.05
+              "price": 3.2
             },
             "3": {
-              "price": 7.5
+              "price": 8.5
             }
           },
           "market_type": "threshold"
@@ -816,8 +816,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -847,8 +847,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.5,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -1126,8 +1126,8 @@
         "games_played": 55,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -2028,7 +2028,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 1.85,
-          "under_price": 1.92,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -2492,8 +2492,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
