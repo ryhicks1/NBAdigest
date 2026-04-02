@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T21:07:00.798134+11:00",
+  "generated_at": "2026-04-02T22:07:00.847219+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -32,37 +32,6 @@
       "score": 484.6,
       "bet_action": "OVER",
       "bet_description": "Ayo Dosunmu OVER 5.5 Rebounds"
-    },
-    {
-      "player_name": "Jalen Duren",
-      "team": "DET",
-      "stat": "AST",
-      "stat_label": "Assists",
-      "direction": "hot",
-      "last_3": [
-        3,
-        5,
-        7
-      ],
-      "last_3_avg": 5.0,
-      "season_avg": 1.8,
-      "l10_avg": 2.4,
-      "pct_diff_season": 177.8,
-      "pct_diff_l10": 108.3,
-      "comparison": "season",
-      "games_played": 68,
-      "betting_line": {
-        "line": 2.5,
-        "over_price": 1.68,
-        "under_price": 2.1,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ Detroit Pistons",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-      "pct_vs_line": 100.0,
-      "score": 432.3,
-      "bet_action": "OVER",
-      "bet_description": "Jalen Duren OVER 2.5 Assists"
     },
     {
       "player_name": "Ayo Dosunmu",
@@ -239,8 +208,8 @@
       "games_played": 75,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.78,
-        "under_price": 2,
+        "over_price": 1.8,
+        "under_price": 1.96,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -311,6 +280,37 @@
       "score": 273.9,
       "bet_action": "OVER",
       "bet_description": "Stephon Castle OVER 4.5 Rebounds"
+    },
+    {
+      "player_name": "De'Aaron Fox",
+      "team": "SA",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "cold",
+      "last_3": [
+        1,
+        0,
+        0
+      ],
+      "last_3_avg": 0.3,
+      "season_avg": 1.8,
+      "l10_avg": 1.3,
+      "pct_diff_season": -83.3,
+      "pct_diff_l10": -76.9,
+      "comparison": "season",
+      "games_played": 70,
+      "betting_line": {
+        "line": 1.5,
+        "over_price": 1.88,
+        "under_price": 1.88,
+        "market_type": "over_under"
+      },
+      "game": "San Antonio Spurs @ Los Angeles Clippers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-los-angeles-clippers-10320485",
+      "pct_vs_line": -80.0,
+      "score": 253.3,
+      "bet_action": "UNDER",
+      "bet_description": "De'Aaron Fox UNDER 1.5 Threes"
     }
   ],
   "games": [
@@ -353,37 +353,6 @@
         "score": 484.6,
         "bet_action": "OVER",
         "bet_description": "Ayo Dosunmu OVER 5.5 Rebounds"
-      },
-      {
-        "player_name": "Jalen Duren",
-        "team": "DET",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          3,
-          5,
-          7
-        ],
-        "last_3_avg": 5.0,
-        "season_avg": 1.8,
-        "l10_avg": 2.4,
-        "pct_diff_season": 177.8,
-        "pct_diff_l10": 108.3,
-        "comparison": "season",
-        "games_played": 68,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Detroit Pistons",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": 100.0,
-        "score": 432.3,
-        "bet_action": "OVER",
-        "bet_description": "Jalen Duren OVER 2.5 Assists"
       },
       {
         "player_name": "Daniss Jenkins",
@@ -653,8 +622,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -727,35 +696,43 @@
         "bet_description": "Keldon Johnson OVER 1.5 Threes"
       },
       {
-        "player_name": "Sam Merrill",
-        "team": "CLE",
-        "stat": "AST",
-        "stat_label": "Assists",
+        "player_name": "Jalen Duren",
+        "team": "DET",
+        "stat": "BLK",
+        "stat_label": "Blocks",
         "direction": "hot",
         "last_3": [
-          3,
-          4,
-          4
+          1,
+          1,
+          2
         ],
-        "last_3_avg": 3.7,
-        "season_avg": 2.3,
-        "l10_avg": 3.0,
-        "pct_diff_season": 60.9,
-        "pct_diff_l10": 23.3,
+        "last_3_avg": 1.3,
+        "season_avg": 0.8,
+        "l10_avg": 0.9,
+        "pct_diff_season": 62.5,
+        "pct_diff_l10": 44.4,
         "comparison": "season",
-        "games_played": 49,
+        "games_played": 68,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
-          "market_type": "over_under"
+          "thresholds": {
+            "1": {
+              "price": 1.45
+            },
+            "2": {
+              "price": 3.05
+            },
+            "3": {
+              "price": 7.75
+            }
+          },
+          "market_type": "threshold"
         },
-        "game": "Cleveland Cavaliers @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-golden-state-warriors-10320492",
-        "pct_vs_line": 48.0,
-        "score": 190.3,
+        "game": "Minnesota Timberwolves @ Detroit Pistons",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
+        "pct_vs_line": null,
+        "score": 69.2,
         "bet_action": "OVER",
-        "bet_description": "Sam Merrill OVER 2.5 Assists"
+        "bet_description": "Jalen Duren Blocks trending HOT"
       },
       {
         "player_name": "Stephon Castle",
@@ -808,8 +785,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -870,8 +847,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -963,8 +940,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Golden State Warriors",
@@ -1211,8 +1188,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -1242,8 +1219,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -1442,37 +1419,6 @@
         "bet_description": "De'Aaron Fox UNDER 1.5 Threes"
       },
       {
-        "player_name": "Derik Queen",
-        "team": "NO",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          0,
-          2
-        ],
-        "last_3_avg": 1.0,
-        "season_avg": 3.6,
-        "l10_avg": 1.8,
-        "pct_diff_season": -72.2,
-        "pct_diff_l10": -44.4,
-        "comparison": "season",
-        "games_played": 75,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Portland Trail Blazers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-portland-trail-blazers-10320484",
-        "pct_vs_line": -60.0,
-        "score": 222.4,
-        "bet_action": "UNDER",
-        "bet_description": "Derik Queen UNDER 2.5 Assists"
-      },
-      {
         "player_name": "Donovan Mitchell",
         "team": "CLE",
         "stat": "FG3M",
@@ -1616,8 +1562,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -1741,7 +1687,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 2.2,
-          "under_price": 1.6,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -1771,8 +1717,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -1833,8 +1779,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -2000,37 +1946,6 @@
         "bet_description": "Dejounte Murray UNDER 1.5 Threes"
       },
       {
-        "player_name": "Donte DiVincenzo",
-        "team": "MIN",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          2,
-          2,
-          2
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 4.0,
-        "l10_avg": 2.4,
-        "pct_diff_season": -50.0,
-        "pct_diff_l10": -16.7,
-        "comparison": "season",
-        "games_played": 75,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.56,
-          "under_price": 2.3,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Detroit Pistons",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": -20.0,
-        "score": 126.5,
-        "bet_action": "UNDER",
-        "bet_description": "Donte DiVincenzo UNDER 2.5 Assists"
-      },
-      {
         "player_name": "Anthony Edwards",
         "team": "MIN",
         "stat": "STL",
@@ -2060,37 +1975,6 @@
         "score": 146.6,
         "bet_action": "UNDER",
         "bet_description": "Anthony Edwards UNDER 1.5 Steals"
-      },
-      {
-        "player_name": "Herbert Jones",
-        "team": "NO",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          3,
-          2,
-          0
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 3.4,
-        "l10_avg": 3.0,
-        "pct_diff_season": -50.0,
-        "pct_diff_l10": -43.3,
-        "comparison": "season",
-        "games_played": 53,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Portland Trail Blazers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-portland-trail-blazers-10320484",
-        "pct_vs_line": -32.0,
-        "score": 136.4,
-        "bet_action": "UNDER",
-        "bet_description": "Herbert Jones UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Alex Caruso",
@@ -2205,8 +2089,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.5,
-          "under_price": 1.48,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -2215,37 +2099,6 @@
         "score": 158.4,
         "bet_action": "UNDER",
         "bet_description": "Chet Holmgren UNDER 1.5 Threes"
-      },
-      {
-        "player_name": "Darius Garland",
-        "team": "LAC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          2,
-          2,
-          0
-        ],
-        "last_3_avg": 1.3,
-        "season_avg": 2.4,
-        "l10_avg": 2.0,
-        "pct_diff_season": -45.8,
-        "pct_diff_l10": -35.0,
-        "comparison": "season",
-        "games_played": 40,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
-          "market_type": "over_under"
-        },
-        "game": "San Antonio Spurs @ Los Angeles Clippers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-los-angeles-clippers-10320485",
-        "pct_vs_line": -48.0,
-        "score": 161.5,
-        "bet_action": "UNDER",
-        "bet_description": "Darius Garland UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Collin Gillespie",
@@ -2329,8 +2182,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Golden State Warriors",
@@ -2546,8 +2399,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Golden State Warriors",
@@ -2556,37 +2409,6 @@
         "score": 68.8,
         "bet_action": "UNDER",
         "bet_description": "Dennis Schroder UNDER 6.5 Points"
-      },
-      {
-        "player_name": "Luguentz Dort",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          3,
-          2,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.7,
-        "l10_avg": 3.1,
-        "pct_diff_season": -37.8,
-        "pct_diff_l10": -25.8,
-        "comparison": "season",
-        "games_played": 63,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Los Angeles Lakers @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-lakers-at-oklahoma-city-thunder-10320482",
-        "pct_vs_line": -8.0,
-        "score": 80.0,
-        "bet_action": "UNDER",
-        "bet_description": "Luguentz Dort UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Trey Murphy III",
@@ -2701,8 +2523,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -2825,8 +2647,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Portland Trail Blazers",
@@ -2899,37 +2721,6 @@
         "bet_description": "Devin Booker UNDER 3.5 Rebounds"
       },
       {
-        "player_name": "Sam Merrill",
-        "team": "CLE",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          4,
-          3,
-          2
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 2.6,
-        "l10_avg": 4.2,
-        "pct_diff_season": 15.4,
-        "pct_diff_l10": -28.6,
-        "comparison": "l10",
-        "games_played": 49,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "Cleveland Cavaliers @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-golden-state-warriors-10320492",
-        "pct_vs_line": 20.0,
-        "score": 73.9,
-        "bet_action": "UNDER",
-        "bet_description": "Sam Merrill UNDER 2.5 Rebounds"
-      },
-      {
         "player_name": "Robert Williams III",
         "team": "POR",
         "stat": "REB",
@@ -2992,37 +2783,6 @@
         "bet_description": "Chet Holmgren UNDER 14.5 Points"
       },
       {
-        "player_name": "Alex Caruso",
-        "team": "OKC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          3,
-          6,
-          6
-        ],
-        "last_3_avg": 5.0,
-        "season_avg": 6.4,
-        "l10_avg": 5.8,
-        "pct_diff_season": -21.9,
-        "pct_diff_l10": -13.8,
-        "comparison": "season",
-        "games_played": 52,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Los Angeles Lakers @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-lakers-at-oklahoma-city-thunder-10320482",
-        "pct_vs_line": 11.1,
-        "score": 72.7,
-        "bet_action": "UNDER",
-        "bet_description": "Alex Caruso UNDER 4.5 Points"
-      },
-      {
         "player_name": "Jarrett Allen",
         "team": "CLE",
         "stat": "PTS",
@@ -3042,8 +2802,8 @@
         "games_played": 53,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Golden State Warriors",
@@ -3073,8 +2833,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -3104,8 +2864,8 @@
         "games_played": 45,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
