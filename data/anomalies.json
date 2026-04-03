@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T20:07:01.781944+11:00",
+  "generated_at": "2026-04-03T21:07:01.164993+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 65,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.68,
-        "under_price": 2.1,
+        "over_price": 1.64,
+        "under_price": 2.15,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -94,37 +94,6 @@
       "score": 416.8,
       "bet_action": "OVER",
       "bet_description": "Kyle Filipowski OVER 1.5 Threes"
-    },
-    {
-      "player_name": "Ayo Dosunmu",
-      "team": "MIN",
-      "stat": "AST",
-      "stat_label": "Assists",
-      "direction": "hot",
-      "last_3": [
-        4,
-        12,
-        6
-      ],
-      "last_3_avg": 7.3,
-      "season_avg": 3.7,
-      "l10_avg": 4.8,
-      "pct_diff_season": 97.3,
-      "pct_diff_l10": 52.1,
-      "comparison": "season",
-      "games_played": 65,
-      "betting_line": {
-        "line": 3.5,
-        "over_price": 1.64,
-        "under_price": 2.15,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ Philadelphia 76ers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
-      "pct_vs_line": 108.6,
-      "score": 358.1,
-      "bet_action": "OVER",
-      "bet_description": "Ayo Dosunmu OVER 3.5 Assists"
     },
     {
       "player_name": "Kobe Brown",
@@ -311,6 +280,37 @@
       "score": 261.4,
       "bet_action": "UNDER",
       "bet_description": "Franz Wagner UNDER 4.5 Rebounds"
+    },
+    {
+      "player_name": "Max Christie",
+      "team": "DAL",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "cold",
+      "last_3": [
+        3,
+        3,
+        5
+      ],
+      "last_3_avg": 3.7,
+      "season_avg": 12.2,
+      "l10_avg": 8.8,
+      "pct_diff_season": -69.7,
+      "pct_diff_l10": -58.0,
+      "comparison": "season",
+      "games_played": 71,
+      "betting_line": {
+        "line": 10.5,
+        "over_price": 1.96,
+        "under_price": 1.8,
+        "market_type": "over_under"
+      },
+      "game": "Orlando Magic @ Dallas Mavericks",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
+      "pct_vs_line": -64.8,
+      "score": 259.8,
+      "bet_action": "UNDER",
+      "bet_description": "Max Christie UNDER 10.5 Points"
     }
   ],
   "games": [
@@ -470,8 +470,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -655,17 +655,17 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "line": 4.5,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
-        "pct_vs_line": 108.6,
-        "score": 358.1,
+        "pct_vs_line": 62.2,
+        "score": 256.1,
         "bet_action": "OVER",
-        "bet_description": "Ayo Dosunmu OVER 3.5 Assists"
+        "bet_description": "Ayo Dosunmu OVER 4.5 Assists"
       },
       {
         "player_name": "Jamal Shead",
@@ -1772,7 +1772,7 @@
         "games_played": 65,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.85,
+          "over_price": 1.86,
           "under_price": 1.9,
           "market_type": "over_under"
         },
@@ -1991,8 +1991,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -2306,7 +2306,7 @@
         "games_played": 55,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.58,
+          "over_price": 1.56,
           "under_price": 2.3,
           "market_type": "over_under"
         },
@@ -2900,8 +2900,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -3179,8 +3179,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -3520,8 +3520,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -3644,15 +3644,15 @@
         "pct_diff": -13.8,
         "games_played": 76,
         "betting_line": {
-          "line": 236.5,
+          "line": 237.5,
           "over_price": 1.9,
           "under_price": 1.9
         },
         "game": "Orlando Magic @ Dallas Mavericks",
-        "pct_vs_line": -58.7,
-        "score": 183.5,
+        "pct_vs_line": -58.9,
+        "score": 184.0,
         "bet_action": "UNDER",
-        "bet_description": "Dallas Mavericks UNDER 236.5 Total Points",
+        "bet_description": "Dallas Mavericks UNDER 237.5 Total Points",
         "is_team": true
       },
       {
@@ -3672,15 +3672,15 @@
         "pct_diff": -12.3,
         "games_played": 76,
         "betting_line": {
-          "line": 236.5,
+          "line": 237.5,
           "over_price": 1.9,
           "under_price": 1.9
         },
         "game": "Orlando Magic @ Dallas Mavericks",
-        "pct_vs_line": -57.3,
-        "score": 178.0,
+        "pct_vs_line": -57.5,
+        "score": 178.4,
         "bet_action": "UNDER",
-        "bet_description": "Orlando Magic UNDER 236.5 Total Points",
+        "bet_description": "Orlando Magic UNDER 237.5 Total Points",
         "is_team": true
       }
     ]
