@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T09:07:01.070868+11:00",
+  "generated_at": "2026-04-04T09:06:01.910595+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -189,6 +189,37 @@
       "bet_description": "Cody Williams OVER 3.5 Assists"
     },
     {
+      "player_name": "Guerschon Yabusele",
+      "team": "CHI",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        20,
+        15,
+        6
+      ],
+      "last_3_avg": 13.7,
+      "season_avg": 5.6,
+      "l10_avg": 9.7,
+      "pct_diff_season": 144.6,
+      "pct_diff_l10": 41.2,
+      "comparison": "season",
+      "games_played": 62,
+      "betting_line": {
+        "line": 9.5,
+        "over_price": 1.8,
+        "under_price": 1.96,
+        "market_type": "over_under"
+      },
+      "game": "Chicago Bulls @ New York Knicks",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
+      "pct_vs_line": 44.2,
+      "score": 294.4,
+      "bet_action": "OVER",
+      "bet_description": "Guerschon Yabusele OVER 9.5 Points"
+    },
+    {
       "player_name": "Kyle Filipowski",
       "team": "UTAH",
       "stat": "PTS",
@@ -280,37 +311,6 @@
       "score": 267.6,
       "bet_action": "OVER",
       "bet_description": "Joel Embiid OVER 1.5 Threes"
-    },
-    {
-      "player_name": "Max Christie",
-      "team": "DAL",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "cold",
-      "last_3": [
-        3,
-        3,
-        5
-      ],
-      "last_3_avg": 3.7,
-      "season_avg": 12.2,
-      "l10_avg": 8.8,
-      "pct_diff_season": -69.7,
-      "pct_diff_l10": -58.0,
-      "comparison": "season",
-      "games_played": 71,
-      "betting_line": {
-        "line": 10.5,
-        "over_price": 2.05,
-        "under_price": 1.74,
-        "market_type": "over_under"
-      },
-      "game": "Orlando Magic @ Dallas Mavericks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-      "pct_vs_line": -64.8,
-      "score": 259.8,
-      "bet_action": "UNDER",
-      "bet_description": "Max Christie UNDER 10.5 Points"
     }
   ],
   "games": [
@@ -513,6 +513,37 @@
         "score": 323.7,
         "bet_action": "OVER",
         "bet_description": "Kobe Brown OVER 10.5 Points"
+      },
+      {
+        "player_name": "Guerschon Yabusele",
+        "team": "CHI",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          20,
+          15,
+          6
+        ],
+        "last_3_avg": 13.7,
+        "season_avg": 5.6,
+        "l10_avg": 9.7,
+        "pct_diff_season": 144.6,
+        "pct_diff_l10": 41.2,
+        "comparison": "season",
+        "games_played": 62,
+        "betting_line": {
+          "line": 9.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Chicago Bulls @ New York Knicks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
+        "pct_vs_line": 44.2,
+        "score": 294.4,
+        "bet_action": "OVER",
+        "bet_description": "Guerschon Yabusele OVER 9.5 Points"
       },
       {
         "player_name": "Scottie Barnes",
@@ -813,8 +844,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -1195,6 +1226,37 @@
         "score": 84.4,
         "bet_action": "OVER",
         "bet_description": "Kyle Filipowski OVER 3.5 Assists"
+      },
+      {
+        "player_name": "Guerschon Yabusele",
+        "team": "CHI",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          6,
+          5,
+          4
+        ],
+        "last_3_avg": 5.0,
+        "season_avg": 3.4,
+        "l10_avg": 4.5,
+        "pct_diff_season": 47.1,
+        "pct_diff_l10": 11.1,
+        "comparison": "season",
+        "games_played": 62,
+        "betting_line": {
+          "line": 6.5,
+          "over_price": 2.15,
+          "under_price": 1.64,
+          "market_type": "over_under"
+        },
+        "game": "Chicago Bulls @ New York Knicks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
+        "pct_vs_line": -23.1,
+        "score": 124.7,
+        "bet_action": "OVER",
+        "bet_description": "Guerschon Yabusele OVER 6.5 Rebounds"
       },
       {
         "player_name": "Nolan Traore",
@@ -2928,14 +2990,11 @@
         "games_played": 74,
         "betting_line": {
           "thresholds": {
-            "3": {
-              "price": 8.75
-            },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.15
+              "price": 3.2
             }
           },
           "market_type": "threshold"
@@ -3277,8 +3336,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3587,8 +3646,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3774,15 +3833,15 @@
         "pct_diff": 16.3,
         "games_played": 76,
         "betting_line": {
-          "line": 234.5,
+          "line": 233.5,
           "over_price": 1.9,
           "under_price": 1.9
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
-        "pct_vs_line": -44.1,
-        "score": 148.9,
+        "pct_vs_line": -43.9,
+        "score": 148.3,
         "bet_action": "OVER",
-        "bet_description": "Indiana Pacers OVER 234.5 Total Points",
+        "bet_description": "Indiana Pacers OVER 233.5 Total Points",
         "is_team": true
       }
     ],
@@ -3848,7 +3907,7 @@
   "meta": {
     "total_players_analyzed": 511,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 104,
+    "players_with_sportsbet_markets": 105,
     "events_count": 11
   }
 }
