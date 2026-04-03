@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T17:07:01.716034+11:00",
+  "generated_at": "2026-04-03T18:00:01.565860+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -127,6 +127,37 @@
       "bet_description": "Ayo Dosunmu OVER 3.5 Assists"
     },
     {
+      "player_name": "Kobe Brown",
+      "team": "IND",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        17,
+        18,
+        11
+      ],
+      "last_3_avg": 15.3,
+      "season_avg": 5.9,
+      "l10_avg": 10.0,
+      "pct_diff_season": 159.3,
+      "pct_diff_l10": 53.0,
+      "comparison": "season",
+      "games_played": 51,
+      "betting_line": {
+        "line": 10.5,
+        "over_price": 1.8,
+        "under_price": 1.96,
+        "market_type": "over_under"
+      },
+      "game": "Indiana Pacers @ Charlotte Hornets",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+      "pct_vs_line": 45.7,
+      "score": 323.7,
+      "bet_action": "OVER",
+      "bet_description": "Kobe Brown OVER 10.5 Points"
+    },
+    {
       "player_name": "Drake Powell",
       "team": "BKN",
       "stat": "FG3M",
@@ -220,6 +251,37 @@
       "bet_description": "Derrick White UNDER 2.5 Threes"
     },
     {
+      "player_name": "Kyle Filipowski",
+      "team": "UTAH",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        25,
+        20,
+        26
+      ],
+      "last_3_avg": 23.7,
+      "season_avg": 11.3,
+      "l10_avg": 16.3,
+      "pct_diff_season": 109.7,
+      "pct_diff_l10": 45.4,
+      "comparison": "season",
+      "games_played": 74,
+      "betting_line": {
+        "line": 16.5,
+        "over_price": 2.02,
+        "under_price": 1.76,
+        "market_type": "over_under"
+      },
+      "game": "Utah Jazz @ Houston Rockets",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
+      "pct_vs_line": 43.6,
+      "score": 262.4,
+      "bet_action": "OVER",
+      "bet_description": "Kyle Filipowski OVER 16.5 Points"
+    },
+    {
       "player_name": "Franz Wagner",
       "team": "ORL",
       "stat": "REB",
@@ -249,68 +311,6 @@
       "score": 261.4,
       "bet_action": "UNDER",
       "bet_description": "Franz Wagner UNDER 4.5 Rebounds"
-    },
-    {
-      "player_name": "Max Christie",
-      "team": "DAL",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "cold",
-      "last_3": [
-        3,
-        3,
-        5
-      ],
-      "last_3_avg": 3.7,
-      "season_avg": 12.2,
-      "l10_avg": 8.8,
-      "pct_diff_season": -69.7,
-      "pct_diff_l10": -58.0,
-      "comparison": "season",
-      "games_played": 71,
-      "betting_line": {
-        "line": 10.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
-        "market_type": "over_under"
-      },
-      "game": "Orlando Magic @ Dallas Mavericks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-      "pct_vs_line": -64.8,
-      "score": 259.8,
-      "bet_action": "UNDER",
-      "bet_description": "Max Christie UNDER 10.5 Points"
-    },
-    {
-      "player_name": "Paul George",
-      "team": "PHI",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "hot",
-      "last_3": [
-        6,
-        4,
-        4
-      ],
-      "last_3_avg": 4.7,
-      "season_avg": 2.8,
-      "l10_avg": 3.6,
-      "pct_diff_season": 67.9,
-      "pct_diff_l10": 30.6,
-      "comparison": "season",
-      "games_played": 31,
-      "betting_line": {
-        "line": 2.5,
-        "over_price": 1.64,
-        "under_price": 2.15,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ Philadelphia 76ers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
-      "pct_vs_line": 88.0,
-      "score": 257.8,
-      "bet_action": "OVER",
-      "bet_description": "Paul George OVER 2.5 Threes"
     }
   ],
   "games": [
@@ -482,6 +482,37 @@
         "bet_description": "Ayo Dosunmu OVER 4.5 Rebounds"
       },
       {
+        "player_name": "Kobe Brown",
+        "team": "IND",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          17,
+          18,
+          11
+        ],
+        "last_3_avg": 15.3,
+        "season_avg": 5.9,
+        "l10_avg": 10.0,
+        "pct_diff_season": 159.3,
+        "pct_diff_l10": 53.0,
+        "comparison": "season",
+        "games_played": 51,
+        "betting_line": {
+          "line": 10.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": 45.7,
+        "score": 323.7,
+        "bet_action": "OVER",
+        "bet_description": "Kobe Brown OVER 10.5 Points"
+      },
+      {
         "player_name": "Scottie Barnes",
         "team": "TOR",
         "stat": "AST",
@@ -531,17 +562,17 @@
         "comparison": "season",
         "games_played": 74,
         "betting_line": {
-          "line": 17.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "line": 16.5,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
-        "pct_vs_line": 35.4,
-        "score": 242.7,
+        "pct_vs_line": 43.6,
+        "score": 262.4,
         "bet_action": "OVER",
-        "bet_description": "Kyle Filipowski OVER 17.5 Points"
+        "bet_description": "Kyle Filipowski OVER 16.5 Points"
       },
       {
         "player_name": "Brice Sensabaugh",
@@ -563,8 +594,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.56,
+          "under_price": 2.3,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -761,6 +792,37 @@
         "bet_description": "Jamal Shead OVER 7.5 Assists"
       },
       {
+        "player_name": "Kobe Brown",
+        "team": "IND",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          8,
+          4,
+          4
+        ],
+        "last_3_avg": 5.3,
+        "season_avg": 3.0,
+        "l10_avg": 3.8,
+        "pct_diff_season": 76.7,
+        "pct_diff_l10": 39.5,
+        "comparison": "season",
+        "games_played": 51,
+        "betting_line": {
+          "line": 5.5,
+          "over_price": 2.08,
+          "under_price": 1.72,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": -3.6,
+        "score": 108.2,
+        "bet_action": "OVER",
+        "bet_description": "Kobe Brown OVER 5.5 Rebounds"
+      },
+      {
         "player_name": "Drake Powell",
         "team": "BKN",
         "stat": "PTS",
@@ -780,8 +842,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -790,6 +852,37 @@
         "score": 177.9,
         "bet_action": "OVER",
         "bet_description": "Drake Powell OVER 8.5 Points"
+      },
+      {
+        "player_name": "Kevin Durant",
+        "team": "HOU",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "hot",
+        "last_3": [
+          9,
+          8,
+          6
+        ],
+        "last_3_avg": 7.7,
+        "season_avg": 4.5,
+        "l10_avg": 6.1,
+        "pct_diff_season": 71.1,
+        "pct_diff_l10": 26.2,
+        "comparison": "season",
+        "games_played": 76,
+        "betting_line": {
+          "line": 5.5,
+          "over_price": 1.89,
+          "under_price": 1.87,
+          "market_type": "over_under"
+        },
+        "game": "Utah Jazz @ Houston Rockets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
+        "pct_vs_line": 40.0,
+        "score": 188.3,
+        "bet_action": "OVER",
+        "bet_description": "Kevin Durant OVER 5.5 Assists"
       },
       {
         "player_name": "Paul George",
@@ -873,8 +966,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -935,8 +1028,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -966,8 +1059,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -984,17 +1077,17 @@
         "stat_label": "Threes",
         "direction": "hot",
         "last_3": [
-          4,
           3,
+          4,
           3
         ],
         "last_3_avg": 3.3,
         "season_avg": 2.1,
-        "l10_avg": 2.8,
+        "l10_avg": 3.0,
         "pct_diff_season": 57.1,
-        "pct_diff_l10": 17.9,
+        "pct_diff_l10": 10.0,
         "comparison": "season",
-        "games_played": 69,
+        "games_played": 70,
         "betting_line": {
           "line": 2.5,
           "over_price": 2.25,
@@ -1071,37 +1164,6 @@
         "bet_description": "Sandro Mamukelashvili OVER 11.5 Points"
       },
       {
-        "player_name": "Derik Queen",
-        "team": "NO",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          13,
-          13,
-          11
-        ],
-        "last_3_avg": 12.3,
-        "season_avg": 11.4,
-        "l10_avg": 8.2,
-        "pct_diff_season": 7.9,
-        "pct_diff_l10": 50.0,
-        "comparison": "l10",
-        "games_played": 75,
-        "betting_line": {
-          "line": 11.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": 7.0,
-        "score": 53.4,
-        "bet_action": "OVER",
-        "bet_description": "Derik Queen OVER 11.5 Points"
-      },
-      {
         "player_name": "DeMar DeRozan",
         "team": "SAC",
         "stat": "PTS",
@@ -1152,8 +1214,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1244,17 +1306,17 @@
         "comparison": "season",
         "games_played": 74,
         "betting_line": {
-          "line": 8.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "line": 7.5,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
-        "pct_vs_line": 21.2,
-        "score": 119.7,
+        "pct_vs_line": 37.3,
+        "score": 155.3,
         "bet_action": "OVER",
-        "bet_description": "Kyle Filipowski OVER 8.5 Rebounds"
+        "bet_description": "Kyle Filipowski OVER 7.5 Rebounds"
       },
       {
         "player_name": "Matas Buzelis",
@@ -1338,8 +1400,8 @@
         "games_played": 59,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.8,
-          "under_price": 1.93,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -1348,6 +1410,37 @@
         "score": 148.4,
         "bet_action": "OVER",
         "bet_description": "Tre Jones OVER 14.5 Points"
+      },
+      {
+        "player_name": "Derik Queen",
+        "team": "NO",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          12,
+          13,
+          13
+        ],
+        "last_3_avg": 12.7,
+        "season_avg": 11.4,
+        "l10_avg": 9.1,
+        "pct_diff_season": 11.4,
+        "pct_diff_l10": 39.6,
+        "comparison": "l10",
+        "games_played": 76,
+        "betting_line": {
+          "line": 11.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "New Orleans Pelicans @ Sacramento Kings",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+        "pct_vs_line": 10.4,
+        "score": 67.4,
+        "bet_action": "OVER",
+        "bet_description": "Derik Queen OVER 11.5 Points"
       },
       {
         "player_name": "Nolan Traore",
@@ -1379,6 +1472,68 @@
         "score": 75.2,
         "bet_action": "OVER",
         "bet_description": "Nolan Traore OVER 11.5 Points"
+      },
+      {
+        "player_name": "Miles Bridges",
+        "team": "CHA",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "hot",
+        "last_3": [
+          2,
+          2,
+          2
+        ],
+        "last_3_avg": 2.0,
+        "season_avg": 3.2,
+        "l10_avg": 1.9,
+        "pct_diff_season": -37.5,
+        "pct_diff_l10": 5.3,
+        "comparison": "season",
+        "games_played": 72,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": -20.0,
+        "score": 112.8,
+        "bet_action": "OVER",
+        "bet_description": "Miles Bridges OVER 2.5 Assists"
+      },
+      {
+        "player_name": "Quenton Jackson",
+        "team": "IND",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          8,
+          10,
+          7
+        ],
+        "last_3_avg": 8.3,
+        "season_avg": 8.7,
+        "l10_avg": 6.2,
+        "pct_diff_season": -4.6,
+        "pct_diff_l10": 33.9,
+        "comparison": "l10",
+        "games_played": 41,
+        "betting_line": {
+          "line": 10.5,
+          "over_price": 1.9,
+          "under_price": 1.86,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": -21.0,
+        "score": 74.4,
+        "bet_action": "OVER",
+        "bet_description": "Quenton Jackson OVER 10.5 Points"
       },
       {
         "player_name": "Onyeka Okongwu",
@@ -1474,6 +1629,37 @@
         "bet_description": "Quentin Grimes OVER 1.5 Threes"
       },
       {
+        "player_name": "Zion Williamson",
+        "team": "NO",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "hot",
+        "last_3": [
+          3,
+          3,
+          4
+        ],
+        "last_3_avg": 3.3,
+        "season_avg": 3.2,
+        "l10_avg": 2.5,
+        "pct_diff_season": 3.1,
+        "pct_diff_l10": 32.0,
+        "comparison": "l10",
+        "games_played": 60,
+        "betting_line": {
+          "line": 3.5,
+          "over_price": 2.1,
+          "under_price": 1.68,
+          "market_type": "over_under"
+        },
+        "game": "New Orleans Pelicans @ Sacramento Kings",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+        "pct_vs_line": -5.7,
+        "score": 38.9,
+        "bet_action": "OVER",
+        "bet_description": "Zion Williamson OVER 3.5 Assists"
+      },
+      {
         "player_name": "Jayson Tatum",
         "team": "BOS",
         "stat": "PTS",
@@ -1567,6 +1753,37 @@
         "bet_description": "Jakob Poeltl OVER 12.5 Points"
       },
       {
+        "player_name": "Yves Missi",
+        "team": "NO",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          6,
+          8,
+          7
+        ],
+        "last_3_avg": 7.0,
+        "season_avg": 5.6,
+        "l10_avg": 5.5,
+        "pct_diff_season": 25.0,
+        "pct_diff_l10": 27.3,
+        "comparison": "l10",
+        "games_played": 63,
+        "betting_line": {
+          "line": 6.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "New Orleans Pelicans @ Sacramento Kings",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+        "pct_vs_line": 7.7,
+        "score": 74.3,
+        "bet_action": "OVER",
+        "bet_description": "Yves Missi OVER 6.5 Points"
+      },
+      {
         "player_name": "Jaylen Brown",
         "team": "BOS",
         "stat": "PTS",
@@ -1617,7 +1834,7 @@
         "games_played": 65,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.86,
+          "over_price": 1.85,
           "under_price": 1.9,
           "market_type": "over_under"
         },
@@ -1679,8 +1896,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 17.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -1741,8 +1958,8 @@
         "games_played": 52,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -1836,8 +2053,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -1977,37 +2194,6 @@
         "bet_description": "Donte DiVincenzo UNDER 1.5 Steals"
       },
       {
-        "player_name": "Derik Queen",
-        "team": "NO",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          0,
-          2
-        ],
-        "last_3_avg": 1.0,
-        "season_avg": 3.6,
-        "l10_avg": 1.8,
-        "pct_diff_season": -72.2,
-        "pct_diff_l10": -44.4,
-        "comparison": "season",
-        "games_played": 75,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -71.4,
-        "score": 247.6,
-        "bet_action": "UNDER",
-        "bet_description": "Derik Queen UNDER 3.5 Assists"
-      },
-      {
         "player_name": "Max Christie",
         "team": "DAL",
         "stat": "PTS",
@@ -2101,6 +2287,37 @@
         "bet_description": "Tyrese Maxey UNDER 1.5 Steals"
       },
       {
+        "player_name": "Kon Knueppel",
+        "team": "CHA",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "cold",
+        "last_3": [
+          2,
+          0,
+          2
+        ],
+        "last_3_avg": 1.3,
+        "season_avg": 3.4,
+        "l10_avg": 3.1,
+        "pct_diff_season": -61.8,
+        "pct_diff_l10": -58.1,
+        "comparison": "season",
+        "games_played": 76,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 1.58,
+          "under_price": 2.25,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": -48.0,
+        "score": 184.6,
+        "bet_action": "UNDER",
+        "bet_description": "Kon Knueppel UNDER 2.5 Assists"
+      },
+      {
         "player_name": "Taylor Hendricks",
         "team": "MEM",
         "stat": "PTS",
@@ -2151,7 +2368,7 @@
         "games_played": 55,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.56,
+          "over_price": 1.58,
           "under_price": 2.3,
           "market_type": "over_under"
         },
@@ -2244,8 +2461,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.56,
-          "under_price": 2.3,
+          "over_price": 1.52,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -2306,8 +2523,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -2347,6 +2564,37 @@
         "score": 153.1,
         "bet_action": "UNDER",
         "bet_description": "Ousmane Dieng UNDER 1.5 Threes"
+      },
+      {
+        "player_name": "Saddiq Bey",
+        "team": "NO",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "cold",
+        "last_3": [
+          1,
+          1,
+          2
+        ],
+        "last_3_avg": 1.3,
+        "season_avg": 2.5,
+        "l10_avg": 2.7,
+        "pct_diff_season": -48.0,
+        "pct_diff_l10": -51.9,
+        "comparison": "l10",
+        "games_played": 70,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 1.76,
+          "under_price": 2.02,
+          "market_type": "over_under"
+        },
+        "game": "New Orleans Pelicans @ Sacramento Kings",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+        "pct_vs_line": -48.0,
+        "score": 174.2,
+        "bet_action": "UNDER",
+        "bet_description": "Saddiq Bey UNDER 2.5 Assists"
       },
       {
         "player_name": "Franz Wagner",
@@ -2411,68 +2659,6 @@
         "bet_description": "Anthony Edwards UNDER 1.5 Steals"
       },
       {
-        "player_name": "Jeremiah Fears",
-        "team": "NO",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          0
-        ],
-        "last_3_avg": 0.7,
-        "season_avg": 1.1,
-        "l10_avg": 1.4,
-        "pct_diff_season": -36.4,
-        "pct_diff_l10": -50.0,
-        "comparison": "l10",
-        "games_played": 76,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -53.3,
-        "score": 153.1,
-        "bet_action": "UNDER",
-        "bet_description": "Jeremiah Fears UNDER 1.5 Threes"
-      },
-      {
-        "player_name": "Herbert Jones",
-        "team": "NO",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          3,
-          2,
-          0
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 3.4,
-        "l10_avg": 3.0,
-        "pct_diff_season": -50.0,
-        "pct_diff_l10": -43.3,
-        "comparison": "season",
-        "games_played": 53,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -51.4,
-        "score": 179.1,
-        "bet_action": "UNDER",
-        "bet_description": "Herbert Jones UNDER 3.5 Rebounds"
-      },
-      {
         "player_name": "VJ Edgecombe",
         "team": "PHI",
         "stat": "REB",
@@ -2492,8 +2678,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.2,
-          "under_price": 1.58,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2628,37 +2814,6 @@
         "bet_description": "Donte DiVincenzo UNDER 4.5 Rebounds"
       },
       {
-        "player_name": "Yves Missi",
-        "team": "NO",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          5,
-          2,
-          4
-        ],
-        "last_3_avg": 3.7,
-        "season_avg": 5.8,
-        "l10_avg": 6.9,
-        "pct_diff_season": -36.2,
-        "pct_diff_l10": -46.4,
-        "comparison": "l10",
-        "games_played": 62,
-        "betting_line": {
-          "line": 6.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -43.1,
-        "score": 150.9,
-        "bet_action": "UNDER",
-        "bet_description": "Yves Missi UNDER 6.5 Rebounds"
-      },
-      {
         "player_name": "Dominick Barlow",
         "team": "PHI",
         "stat": "PTS",
@@ -2678,8 +2833,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2741,7 +2896,7 @@
         "betting_line": {
           "line": 13.5,
           "over_price": 1.83,
-          "under_price": 1.93,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2772,13 +2927,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.25
+              "price": 8.75
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.1
+              "price": 3.15
             }
           },
           "market_type": "threshold"
@@ -2822,37 +2977,6 @@
         "bet_description": "Dominick Barlow UNDER 4.5 Rebounds"
       },
       {
-        "player_name": "Dylan Cardwell",
-        "team": "SAC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          2,
-          4,
-          3
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 5.0,
-        "l10_avg": 4.0,
-        "pct_diff_season": -40.0,
-        "pct_diff_l10": -25.0,
-        "comparison": "season",
-        "games_played": 39,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -14.3,
-        "score": 96.4,
-        "bet_action": "UNDER",
-        "bet_description": "Dylan Cardwell UNDER 3.5 Points"
-      },
-      {
         "player_name": "Zaccharie Risacher",
         "team": "ATL",
         "stat": "REB",
@@ -2872,8 +2996,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -2946,6 +3070,37 @@
         "bet_description": "Nique Clifford UNDER 1.5 Threes"
       },
       {
+        "player_name": "Miles Bridges",
+        "team": "CHA",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "cold",
+        "last_3": [
+          4,
+          5,
+          2
+        ],
+        "last_3_avg": 3.7,
+        "season_avg": 5.8,
+        "l10_avg": 5.1,
+        "pct_diff_season": -36.2,
+        "pct_diff_l10": -27.5,
+        "comparison": "season",
+        "games_played": 72,
+        "betting_line": {
+          "line": 4.5,
+          "over_price": 1.68,
+          "under_price": 2.1,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": -17.8,
+        "score": 95.2,
+        "bet_action": "UNDER",
+        "bet_description": "Miles Bridges UNDER 4.5 Rebounds"
+      },
+      {
         "player_name": "Ja'Kobe Walter",
         "team": "TOR",
         "stat": "PTS",
@@ -3008,6 +3163,37 @@
         "bet_description": "Tyrese Maxey UNDER 2.5 Threes"
       },
       {
+        "player_name": "LaMelo Ball",
+        "team": "CHA",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          2,
+          3,
+          3
+        ],
+        "last_3_avg": 2.7,
+        "season_avg": 3.6,
+        "l10_avg": 4.1,
+        "pct_diff_season": -25.0,
+        "pct_diff_l10": -34.1,
+        "comparison": "l10",
+        "games_played": 67,
+        "betting_line": {
+          "line": 3.5,
+          "over_price": 1.9,
+          "under_price": 1.86,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": -22.9,
+        "score": 90.4,
+        "bet_action": "UNDER",
+        "bet_description": "LaMelo Ball UNDER 3.5 Threes"
+      },
+      {
         "player_name": "Ziaire Williams",
         "team": "BKN",
         "stat": "FG3M",
@@ -3058,8 +3244,8 @@
         "games_played": 53,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -3089,8 +3275,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -3161,6 +3347,37 @@
         "score": 51.7,
         "bet_action": "UNDER",
         "bet_description": "Dylan Cardwell UNDER 5.5 Rebounds"
+      },
+      {
+        "player_name": "Herbert Jones",
+        "team": "NO",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "cold",
+        "last_3": [
+          3,
+          2,
+          2
+        ],
+        "last_3_avg": 2.3,
+        "season_avg": 2.8,
+        "l10_avg": 3.2,
+        "pct_diff_season": -17.9,
+        "pct_diff_l10": -28.1,
+        "comparison": "l10",
+        "games_played": 54,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 1.72,
+          "under_price": 2.08,
+          "market_type": "over_under"
+        },
+        "game": "New Orleans Pelicans @ Sacramento Kings",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+        "pct_vs_line": -8.0,
+        "score": 58.1,
+        "bet_action": "UNDER",
+        "bet_description": "Herbert Jones UNDER 2.5 Assists"
       },
       {
         "player_name": "Kelly Oubre Jr.",
@@ -3285,6 +3502,68 @@
         "score": 82.4,
         "bet_action": "UNDER",
         "bet_description": "Ace Bailey UNDER 18.5 Points"
+      },
+      {
+        "player_name": "Amen Thompson",
+        "team": "HOU",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "cold",
+        "last_3": [
+          8,
+          4,
+          8
+        ],
+        "last_3_avg": 6.7,
+        "season_avg": 7.8,
+        "l10_avg": 8.8,
+        "pct_diff_season": -14.1,
+        "pct_diff_l10": -23.9,
+        "comparison": "l10",
+        "games_played": 74,
+        "betting_line": {
+          "line": 7.5,
+          "over_price": 2,
+          "under_price": 1.78,
+          "market_type": "over_under"
+        },
+        "game": "Utah Jazz @ Houston Rockets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
+        "pct_vs_line": -10.7,
+        "score": 57.1,
+        "bet_action": "UNDER",
+        "bet_description": "Amen Thompson UNDER 7.5 Rebounds"
+      },
+      {
+        "player_name": "LaMelo Ball",
+        "team": "CHA",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          15,
+          14,
+          19
+        ],
+        "last_3_avg": 16.0,
+        "season_avg": 19.6,
+        "l10_avg": 20.6,
+        "pct_diff_season": -18.4,
+        "pct_diff_l10": -22.3,
+        "comparison": "l10",
+        "games_played": 67,
+        "betting_line": {
+          "line": 20.5,
+          "over_price": 2,
+          "under_price": 1.78,
+          "market_type": "over_under"
+        },
+        "game": "Indiana Pacers @ Charlotte Hornets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
+        "pct_vs_line": -22.0,
+        "score": 99.8,
+        "bet_action": "UNDER",
+        "bet_description": "LaMelo Ball UNDER 20.5 Points"
       },
       {
         "player_name": "Derrick White",
@@ -3536,7 +3815,7 @@
   "meta": {
     "total_players_analyzed": 511,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 85,
+    "players_with_sportsbet_markets": 103,
     "events_count": 9
   }
 }
