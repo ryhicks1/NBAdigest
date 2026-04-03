@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T08:00:01.599712+11:00",
+  "generated_at": "2026-04-04T08:07:00.886064+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -84,8 +84,8 @@
       "games_played": 74,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2.05,
+        "under_price": 1.74,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Houston Rockets",
@@ -177,8 +177,8 @@
       "games_played": 61,
       "betting_line": {
         "line": 3.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.88,
+        "under_price": 1.88,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Houston Rockets",
@@ -187,6 +187,37 @@
       "score": 300.9,
       "bet_action": "OVER",
       "bet_description": "Cody Williams OVER 3.5 Assists"
+    },
+    {
+      "player_name": "Kyle Filipowski",
+      "team": "UTAH",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        25,
+        20,
+        26
+      ],
+      "last_3_avg": 23.7,
+      "season_avg": 11.3,
+      "l10_avg": 16.3,
+      "pct_diff_season": 109.7,
+      "pct_diff_l10": 45.4,
+      "comparison": "season",
+      "games_played": 74,
+      "betting_line": {
+        "line": 15.5,
+        "over_price": 1.8,
+        "under_price": 1.96,
+        "market_type": "over_under"
+      },
+      "game": "Utah Jazz @ Houston Rockets",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
+      "pct_vs_line": 52.9,
+      "score": 284.6,
+      "bet_action": "OVER",
+      "bet_description": "Kyle Filipowski OVER 15.5 Points"
     },
     {
       "player_name": "Paul George",
@@ -271,7 +302,7 @@
       "betting_line": {
         "line": 1.5,
         "over_price": 2.2,
-        "under_price": 1.58,
+        "under_price": 1.6,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -280,37 +311,6 @@
       "score": 267.6,
       "bet_action": "OVER",
       "bet_description": "Joel Embiid OVER 1.5 Threes"
-    },
-    {
-      "player_name": "Kyle Filipowski",
-      "team": "UTAH",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        25,
-        20,
-        26
-      ],
-      "last_3_avg": 23.7,
-      "season_avg": 11.3,
-      "l10_avg": 16.3,
-      "pct_diff_season": 109.7,
-      "pct_diff_l10": 45.4,
-      "comparison": "season",
-      "games_played": 74,
-      "betting_line": {
-        "line": 16.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
-        "market_type": "over_under"
-      },
-      "game": "Utah Jazz @ Houston Rockets",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
-      "pct_vs_line": 43.6,
-      "score": 262.4,
-      "bet_action": "OVER",
-      "bet_description": "Kyle Filipowski OVER 16.5 Points"
     }
   ],
   "games": [
@@ -379,8 +379,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -441,8 +441,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -534,8 +534,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -564,17 +564,17 @@
         "comparison": "season",
         "games_played": 74,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "line": 15.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
-        "pct_vs_line": 43.6,
-        "score": 262.4,
+        "pct_vs_line": 52.9,
+        "score": 284.6,
         "bet_action": "OVER",
-        "bet_description": "Kyle Filipowski OVER 16.5 Points"
+        "bet_description": "Kyle Filipowski OVER 15.5 Points"
       },
       {
         "player_name": "Precious Achiuwa",
@@ -627,8 +627,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -659,7 +659,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 2.2,
-          "under_price": 1.58,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -751,8 +751,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -813,8 +813,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -968,8 +968,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1154,8 +1154,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1247,8 +1247,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1433,8 +1433,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -1464,8 +1464,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -1495,8 +1495,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -1619,8 +1619,8 @@
         "games_played": 40,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -1836,8 +1836,8 @@
         "games_played": 52,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -1966,7 +1966,7 @@
               "price": 1.49
             },
             "2": {
-              "price": 3.45
+              "price": 3.4
             }
           },
           "market_type": "threshold"
@@ -2029,8 +2029,8 @@
         "games_played": 55,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -2370,8 +2370,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -3153,8 +3153,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3401,8 +3401,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.9,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -3432,8 +3432,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
