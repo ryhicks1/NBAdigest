@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T11:01:18.522842+11:00",
+  "generated_at": "2026-04-03T11:07:01.472258+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 64,
       "betting_line": {
         "line": 3.5,
-        "over_price": 1.66,
-        "under_price": 2.05,
+        "over_price": 1.72,
+        "under_price": 1.97,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -32,37 +32,6 @@
       "score": 736.0,
       "bet_action": "OVER",
       "bet_description": "Ayo Dosunmu OVER 3.5 Rebounds"
-    },
-    {
-      "player_name": "Paul Reed",
-      "team": "DET",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        10,
-        21,
-        12
-      ],
-      "last_3_avg": 14.3,
-      "season_avg": 7.6,
-      "l10_avg": 11.1,
-      "pct_diff_season": 88.2,
-      "pct_diff_l10": 28.8,
-      "comparison": "season",
-      "games_played": 58,
-      "betting_line": {
-        "line": 4.5,
-        "over_price": 2.02,
-        "under_price": 1.68,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ Detroit Pistons",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-      "pct_vs_line": 217.8,
-      "score": 646.5,
-      "bet_action": "OVER",
-      "bet_description": "Paul Reed OVER 4.5 Points"
     },
     {
       "player_name": "Donte DiVincenzo",
@@ -84,8 +53,8 @@
       "games_played": 75,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.87,
-        "under_price": 1.84,
+        "over_price": 1.95,
+        "under_price": 1.77,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -115,8 +84,8 @@
       "games_played": 68,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.78,
-        "under_price": 1.9,
+        "over_price": 1.95,
+        "under_price": 1.73,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -125,6 +94,37 @@
       "score": 432.3,
       "bet_action": "OVER",
       "bet_description": "Jalen Duren OVER 2.5 Assists"
+    },
+    {
+      "player_name": "Paul Reed",
+      "team": "DET",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        10,
+        21,
+        12
+      ],
+      "last_3_avg": 14.3,
+      "season_avg": 7.6,
+      "l10_avg": 11.1,
+      "pct_diff_season": 88.2,
+      "pct_diff_l10": 28.8,
+      "comparison": "season",
+      "games_played": 58,
+      "betting_line": {
+        "line": 6.5,
+        "over_price": 2.01,
+        "under_price": 1.69,
+        "market_type": "over_under"
+      },
+      "game": "Minnesota Timberwolves @ Detroit Pistons",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
+      "pct_vs_line": 120.0,
+      "score": 411.8,
+      "bet_action": "OVER",
+      "bet_description": "Paul Reed OVER 6.5 Points"
     },
     {
       "player_name": "Gui Santos",
@@ -177,8 +177,8 @@
       "games_played": 75,
       "betting_line": {
         "line": 8.5,
-        "over_price": 1.76,
-        "under_price": 1.97,
+        "over_price": 1.83,
+        "under_price": 1.88,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -239,8 +239,8 @@
       "games_played": 65,
       "betting_line": {
         "line": 3.5,
-        "over_price": 2.3,
-        "under_price": 1.52,
+        "over_price": 2.4,
+        "under_price": 1.48,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -386,8 +386,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.66,
-          "under_price": 2.05,
+          "over_price": 1.72,
+          "under_price": 1.97,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -417,8 +417,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
+          "over_price": 1.95,
+          "under_price": 1.73,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -448,8 +448,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.3,
-          "under_price": 1.52,
+          "over_price": 2.4,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -509,17 +509,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 7.5,
-          "over_price": 2.15,
-          "under_price": 1.6,
+          "line": 6.5,
+          "over_price": 2.3,
+          "under_price": 1.53,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": 16.0,
-        "score": 201.8,
+        "pct_vs_line": 33.8,
+        "score": 241.1,
         "bet_action": "OVER",
-        "bet_description": "Ayo Dosunmu OVER 7.5 Assists"
+        "bet_description": "Ayo Dosunmu OVER 6.5 Assists"
       },
       {
         "player_name": "Brook Lopez",
@@ -633,17 +633,17 @@
         "comparison": "season",
         "games_played": 58,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.02,
-          "under_price": 1.68,
+          "line": 6.5,
+          "over_price": 2.01,
+          "under_price": 1.69,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": 217.8,
-        "score": 646.5,
+        "pct_vs_line": 120.0,
+        "score": 411.8,
         "bet_action": "OVER",
-        "bet_description": "Paul Reed OVER 4.5 Points"
+        "bet_description": "Paul Reed OVER 6.5 Points"
       },
       {
         "player_name": "Brandin Podziemski",
@@ -695,17 +695,17 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 18.5,
-          "over_price": 1.85,
-          "under_price": 1.82,
+          "line": 19.5,
+          "over_price": 1.75,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": -11.9,
-        "score": 146.0,
+        "pct_vs_line": -16.4,
+        "score": 156.9,
         "bet_action": "OVER",
-        "bet_description": "Daniss Jenkins OVER 18.5 Points"
+        "bet_description": "Daniss Jenkins OVER 19.5 Points"
       },
       {
         "player_name": "Donte DiVincenzo",
@@ -727,8 +727,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.87,
-          "under_price": 1.84,
+          "over_price": 1.95,
+          "under_price": 1.77,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -851,8 +851,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.76,
-          "under_price": 1.97,
+          "over_price": 1.83,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -1098,17 +1098,17 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 1.83,
-          "under_price": 1.84,
+          "line": 6.5,
+          "over_price": 1.91,
+          "under_price": 1.77,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": -9.1,
-        "score": 84.9,
+        "pct_vs_line": -23.1,
+        "score": 115.7,
         "bet_action": "OVER",
-        "bet_description": "Daniss Jenkins OVER 5.5 Assists"
+        "bet_description": "Daniss Jenkins OVER 6.5 Assists"
       },
       {
         "player_name": "Darius Garland",
@@ -1191,17 +1191,17 @@
         "comparison": "season",
         "games_played": 55,
         "betting_line": {
-          "line": 8.5,
-          "over_price": 1.73,
-          "under_price": 1.96,
+          "line": 9.5,
+          "over_price": 2,
+          "under_price": 1.7,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": 17.6,
-        "score": 106.4,
+        "pct_vs_line": 5.3,
+        "score": 76.7,
         "bet_action": "OVER",
-        "bet_description": "Caris LeVert OVER 8.5 Points"
+        "bet_description": "Caris LeVert OVER 9.5 Points"
       },
       {
         "player_name": "Kawhi Leonard",
@@ -1285,8 +1285,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 31.5,
-          "over_price": 1.85,
-          "under_price": 1.82,
+          "over_price": 1.87,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -1316,8 +1316,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.14,
-          "under_price": 1.61,
+          "over_price": 2.2,
+          "under_price": 1.57,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -1377,17 +1377,17 @@
         "comparison": "season",
         "games_played": 72,
         "betting_line": {
-          "line": 8.5,
-          "over_price": 1.91,
-          "under_price": 1.77,
+          "line": 7.5,
+          "over_price": 1.66,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": 64.7,
-        "score": 216.6,
+        "pct_vs_line": 86.7,
+        "score": 269.3,
         "bet_action": "OVER",
-        "bet_description": "Rudy Gobert OVER 8.5 Points"
+        "bet_description": "Rudy Gobert OVER 7.5 Points"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -1409,8 +1409,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.77,
-          "under_price": 1.91,
+          "over_price": 1.95,
+          "under_price": 1.73,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -1473,8 +1473,8 @@
         "games_played": 37,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.1,
-          "under_price": 1.63,
+          "over_price": 2.18,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -1535,8 +1535,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.66,
-          "under_price": 2.05,
+          "over_price": 1.69,
+          "under_price": 2.01,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -1628,8 +1628,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.86,
-          "under_price": 1.85,
+          "over_price": 1.84,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -1690,8 +1690,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.12,
-          "under_price": 1.64,
+          "over_price": 2.15,
+          "under_price": 1.63,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -1783,8 +1783,8 @@
         "games_played": 45,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.62,
-          "under_price": 2.15,
+          "over_price": 1.65,
+          "under_price": 2.12,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -1814,8 +1814,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.66,
-          "under_price": 2.1,
+          "over_price": 1.68,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -1938,8 +1938,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.77,
-          "under_price": 1.91,
+          "over_price": 1.78,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -2186,8 +2186,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.7,
-          "under_price": 2,
+          "over_price": 1.72,
+          "under_price": 1.97,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -2380,8 +2380,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.65,
-          "under_price": 2.1,
+          "over_price": 1.71,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -2504,8 +2504,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.75,
-          "under_price": 1.93,
+          "over_price": 1.68,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -2604,17 +2604,17 @@
         "comparison": "l10",
         "games_played": 64,
         "betting_line": {
-          "line": 9.5,
-          "over_price": 1.73,
-          "under_price": 1.96,
+          "line": 13.5,
+          "over_price": 1.9,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-detroit-pistons-10320483",
-        "pct_vs_line": -8.4,
-        "score": 45.7,
+        "pct_vs_line": -35.6,
+        "score": 110.8,
         "bet_action": "UNDER",
-        "bet_description": "Bones Hyland UNDER 9.5 Points"
+        "bet_description": "Bones Hyland UNDER 13.5 Points"
       },
       {
         "player_name": "Kris Dunn",
@@ -2698,8 +2698,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.18,
-          "under_price": 1.58,
+          "over_price": 2.38,
+          "under_price": 1.49,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Detroit Pistons",
@@ -2760,8 +2760,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.53,
-          "under_price": 2.3,
+          "over_price": 1.5,
+          "under_price": 2.35,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
@@ -2915,8 +2915,8 @@
         "games_played": 45,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.75,
-          "under_price": 1.93,
+          "over_price": 1.73,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Charlotte Hornets",
