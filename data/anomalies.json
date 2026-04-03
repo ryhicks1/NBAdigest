@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T08:08:29.107001+11:00",
+  "generated_at": "2026-04-04T09:07:01.070868+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -34,37 +34,6 @@
       "bet_description": "Ayo Dosunmu OVER 4.5 Rebounds"
     },
     {
-      "player_name": "Ousmane Dieng",
-      "team": "MIL",
-      "stat": "AST",
-      "stat_label": "Assists",
-      "direction": "hot",
-      "last_3": [
-        10,
-        5,
-        4
-      ],
-      "last_3_avg": 6.3,
-      "season_avg": 2.0,
-      "l10_avg": 3.9,
-      "pct_diff_season": 215.0,
-      "pct_diff_l10": 61.5,
-      "comparison": "season",
-      "games_played": 50,
-      "betting_line": {
-        "line": 3.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
-        "market_type": "over_under"
-      },
-      "game": "Boston Celtics @ Milwaukee Bucks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-milwaukee-bucks-10322550",
-      "pct_vs_line": 80.0,
-      "score": 426.4,
-      "bet_action": "OVER",
-      "bet_description": "Ousmane Dieng OVER 3.5 Assists"
-    },
-    {
       "player_name": "Kyle Filipowski",
       "team": "UTAH",
       "stat": "FG3M",
@@ -84,8 +53,8 @@
       "games_played": 74,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.05,
-        "under_price": 1.74,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Houston Rockets",
@@ -94,6 +63,37 @@
       "score": 416.8,
       "bet_action": "OVER",
       "bet_description": "Kyle Filipowski OVER 1.5 Threes"
+    },
+    {
+      "player_name": "Ousmane Dieng",
+      "team": "MIL",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "hot",
+      "last_3": [
+        10,
+        5,
+        4
+      ],
+      "last_3_avg": 6.3,
+      "season_avg": 2.0,
+      "l10_avg": 3.9,
+      "pct_diff_season": 215.0,
+      "pct_diff_l10": 61.5,
+      "comparison": "season",
+      "games_played": 50,
+      "betting_line": {
+        "line": 4.5,
+        "over_price": 2.15,
+        "under_price": 1.64,
+        "market_type": "over_under"
+      },
+      "game": "Boston Celtics @ Milwaukee Bucks",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-milwaukee-bucks-10322550",
+      "pct_vs_line": 40.0,
+      "score": 338.4,
+      "bet_action": "OVER",
+      "bet_description": "Ousmane Dieng OVER 4.5 Assists"
     },
     {
       "player_name": "Kobe Brown",
@@ -220,37 +220,6 @@
       "bet_description": "Kyle Filipowski OVER 15.5 Points"
     },
     {
-      "player_name": "Paul George",
-      "team": "PHI",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        39,
-        19,
-        26
-      ],
-      "last_3_avg": 28.0,
-      "season_avg": 17.5,
-      "l10_avg": 20.9,
-      "pct_diff_season": 60.0,
-      "pct_diff_l10": 34.0,
-      "comparison": "season",
-      "games_played": 31,
-      "betting_line": {
-        "line": 15.5,
-        "over_price": 1.85,
-        "under_price": 1.91,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ Philadelphia 76ers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
-      "pct_vs_line": 80.6,
-      "score": 278.9,
-      "bet_action": "OVER",
-      "bet_description": "Paul George OVER 15.5 Points"
-    },
-    {
       "player_name": "Derrick White",
       "team": "BOS",
       "stat": "FG3M",
@@ -301,8 +270,8 @@
       "games_played": 36,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.2,
-        "under_price": 1.6,
+        "over_price": 2.25,
+        "under_price": 1.58,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -311,6 +280,37 @@
       "score": 267.6,
       "bet_action": "OVER",
       "bet_description": "Joel Embiid OVER 1.5 Threes"
+    },
+    {
+      "player_name": "Max Christie",
+      "team": "DAL",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "cold",
+      "last_3": [
+        3,
+        3,
+        5
+      ],
+      "last_3_avg": 3.7,
+      "season_avg": 12.2,
+      "l10_avg": 8.8,
+      "pct_diff_season": -69.7,
+      "pct_diff_l10": -58.0,
+      "comparison": "season",
+      "games_played": 71,
+      "betting_line": {
+        "line": 10.5,
+        "over_price": 2.05,
+        "under_price": 1.74,
+        "market_type": "over_under"
+      },
+      "game": "Orlando Magic @ Dallas Mavericks",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
+      "pct_vs_line": -64.8,
+      "score": 259.8,
+      "bet_action": "UNDER",
+      "bet_description": "Max Christie UNDER 10.5 Points"
     }
   ],
   "games": [
@@ -347,17 +347,17 @@
         "comparison": "season",
         "games_played": 50,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 4.5,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-milwaukee-bucks-10322550",
-        "pct_vs_line": 80.0,
-        "score": 426.4,
+        "pct_vs_line": 40.0,
+        "score": 338.4,
         "bet_action": "OVER",
-        "bet_description": "Ousmane Dieng OVER 3.5 Assists"
+        "bet_description": "Ousmane Dieng OVER 4.5 Assists"
       },
       {
         "player_name": "Kyle Filipowski",
@@ -379,8 +379,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -534,8 +534,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -627,8 +627,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -658,8 +658,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -906,8 +906,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -938,7 +938,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 2.2,
-          "under_price": 1.6,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -968,8 +968,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -978,6 +978,37 @@
         "score": 140.5,
         "bet_action": "OVER",
         "bet_description": "Brice Sensabaugh OVER 20.5 Points"
+      },
+      {
+        "player_name": "AJ Green",
+        "team": "MIL",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          15,
+          17,
+          15
+        ],
+        "last_3_avg": 15.7,
+        "season_avg": 9.7,
+        "l10_avg": 10.0,
+        "pct_diff_season": 61.9,
+        "pct_diff_l10": 57.0,
+        "comparison": "season",
+        "games_played": 72,
+        "betting_line": {
+          "line": 9.5,
+          "over_price": 1.87,
+          "under_price": 1.89,
+          "market_type": "over_under"
+        },
+        "game": "Boston Celtics @ Milwaukee Bucks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-milwaukee-bucks-10322550",
+        "pct_vs_line": 65.3,
+        "score": 258.8,
+        "bet_action": "OVER",
+        "bet_description": "AJ Green OVER 9.5 Points"
       },
       {
         "player_name": "Paul George",
@@ -998,17 +1029,17 @@
         "comparison": "season",
         "games_played": 31,
         "betting_line": {
-          "line": 15.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "line": 16.5,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
-        "pct_vs_line": 80.6,
-        "score": 278.9,
+        "pct_vs_line": 69.7,
+        "score": 252.6,
         "bet_action": "OVER",
-        "bet_description": "Paul George OVER 15.5 Points"
+        "bet_description": "Paul George OVER 16.5 Points"
       },
       {
         "player_name": "Saddiq Bey",
@@ -1061,7 +1092,7 @@
         "games_played": 70,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.25,
+          "over_price": 2.2,
           "under_price": 1.58,
           "market_type": "over_under"
         },
@@ -1216,8 +1247,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -1402,8 +1433,8 @@
         "games_played": 41,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -1464,8 +1495,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -1495,8 +1526,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -1557,8 +1588,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -1588,8 +1619,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -1711,17 +1742,17 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 15.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "line": 14.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
-        "pct_vs_line": 16.1,
-        "score": 95.0,
+        "pct_vs_line": 24.1,
+        "score": 114.2,
         "bet_action": "OVER",
-        "bet_description": "Ayo Dosunmu OVER 15.5 Points"
+        "bet_description": "Ayo Dosunmu OVER 14.5 Points"
       },
       {
         "player_name": "Nickeil Alexander-Walker",
@@ -1743,8 +1774,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -1963,10 +1994,10 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.49
+              "price": 1.58
             },
             "2": {
-              "price": 3.4
+              "price": 3.8
             }
           },
           "market_type": "threshold"
@@ -1998,8 +2029,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -2121,17 +2152,17 @@
         "comparison": "season",
         "games_played": 71,
         "betting_line": {
-          "line": 9.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 10.5,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -61.1,
-        "score": 250.9,
+        "pct_vs_line": -64.8,
+        "score": 259.8,
         "bet_action": "UNDER",
-        "bet_description": "Max Christie UNDER 9.5 Points"
+        "bet_description": "Max Christie UNDER 10.5 Points"
       },
       {
         "player_name": "Cooper Flagg",
@@ -2339,8 +2370,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2349,6 +2380,37 @@
         "score": 193.3,
         "bet_action": "UNDER",
         "bet_description": "Donte DiVincenzo UNDER 3.5 Assists"
+      },
+      {
+        "player_name": "Bones Hyland",
+        "team": "MIN",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          0,
+          1,
+          2
+        ],
+        "last_3_avg": 1.0,
+        "season_avg": 1.5,
+        "l10_avg": 2.2,
+        "pct_diff_season": -33.3,
+        "pct_diff_l10": -54.5,
+        "comparison": "l10",
+        "games_played": 65,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 1.72,
+          "under_price": 2.08,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ Philadelphia 76ers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
+        "pct_vs_line": -33.3,
+        "score": 110.0,
+        "bet_action": "UNDER",
+        "bet_description": "Bones Hyland UNDER 1.5 Threes"
       },
       {
         "player_name": "Derrick White",
@@ -2370,8 +2432,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -2431,17 +2493,17 @@
         "comparison": "l10",
         "games_played": 50,
         "betting_line": {
-          "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "line": 2.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-milwaukee-bucks-10322550",
-        "pct_vs_line": -53.3,
-        "score": 153.1,
+        "pct_vs_line": -72.0,
+        "score": 190.4,
         "bet_action": "UNDER",
-        "bet_description": "Ousmane Dieng UNDER 1.5 Threes"
+        "bet_description": "Ousmane Dieng UNDER 2.5 Threes"
       },
       {
         "player_name": "Franz Wagner",
@@ -2494,8 +2556,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.9,
+          "under_price": 1.36,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2556,8 +2618,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -2617,17 +2679,17 @@
         "comparison": "l10",
         "games_played": 58,
         "betting_line": {
-          "line": 9.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 10.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
-        "pct_vs_line": -47.4,
-        "score": 173.8,
+        "pct_vs_line": -52.4,
+        "score": 184.9,
         "bet_action": "UNDER",
-        "bet_description": "Mitchell Robinson UNDER 9.5 Rebounds"
+        "bet_description": "Mitchell Robinson UNDER 10.5 Rebounds"
       },
       {
         "player_name": "Ace Bailey",
@@ -2680,8 +2742,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2690,6 +2752,37 @@
         "score": 172.9,
         "bet_action": "UNDER",
         "bet_description": "Donte DiVincenzo UNDER 4.5 Rebounds"
+      },
+      {
+        "player_name": "Kelly Oubre Jr.",
+        "team": "PHI",
+        "stat": "STL",
+        "stat_label": "Steals",
+        "direction": "cold",
+        "last_3": [
+          1,
+          0,
+          1
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 1.3,
+        "l10_avg": 1.2,
+        "pct_diff_season": -46.2,
+        "pct_diff_l10": -41.7,
+        "comparison": "season",
+        "games_played": 44,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.75,
+          "under_price": 1.4,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ Philadelphia 76ers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
+        "pct_vs_line": -53.3,
+        "score": 142.1,
+        "bet_action": "UNDER",
+        "bet_description": "Kelly Oubre Jr. UNDER 1.5 Steals"
       },
       {
         "player_name": "Dominick Barlow",
@@ -2711,8 +2804,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2773,8 +2866,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.92,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2836,13 +2929,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.25
+              "price": 8.75
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.1
+              "price": 3.15
             }
           },
           "market_type": "threshold"
@@ -2905,8 +2998,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -2966,17 +3059,17 @@
         "comparison": "l10",
         "games_played": 58,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "line": 7.5,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
-        "pct_vs_line": -38.5,
-        "score": 146.1,
+        "pct_vs_line": -46.7,
+        "score": 165.8,
         "bet_action": "UNDER",
-        "bet_description": "Mitchell Robinson UNDER 6.5 Points"
+        "bet_description": "Mitchell Robinson UNDER 7.5 Points"
       },
       {
         "player_name": "Rudy Gobert",
@@ -3041,6 +3134,37 @@
         "bet_description": "Nique Clifford UNDER 1.5 Threes"
       },
       {
+        "player_name": "Bones Hyland",
+        "team": "MIN",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          6,
+          12,
+          6
+        ],
+        "last_3_avg": 8.0,
+        "season_avg": 8.3,
+        "l10_avg": 12.6,
+        "pct_diff_season": -3.6,
+        "pct_diff_l10": -36.5,
+        "comparison": "l10",
+        "games_played": 65,
+        "betting_line": {
+          "line": 9.5,
+          "over_price": 2,
+          "under_price": 1.78,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ Philadelphia 76ers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
+        "pct_vs_line": -15.8,
+        "score": 59.5,
+        "bet_action": "UNDER",
+        "bet_description": "Bones Hyland UNDER 9.5 Points"
+      },
+      {
         "player_name": "Miles Bridges",
         "team": "CHA",
         "stat": "REB",
@@ -3060,8 +3184,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.92,
-          "under_price": 1.85,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3091,8 +3215,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -3153,8 +3277,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3307,17 +3431,17 @@
         "comparison": "l10",
         "games_played": 44,
         "betting_line": {
-          "line": 9.5,
+          "line": 10.5,
           "over_price": 1.8,
           "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-philadelphia-76ers-10322546",
-        "pct_vs_line": 12.6,
-        "score": 81.0,
+        "pct_vs_line": 1.9,
+        "score": 55.2,
         "bet_action": "UNDER",
-        "bet_description": "Kelly Oubre Jr. UNDER 9.5 Points"
+        "bet_description": "Kelly Oubre Jr. UNDER 10.5 Points"
       },
       {
         "player_name": "Tristan da Silva",
@@ -3339,8 +3463,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Dallas Mavericks",
@@ -3370,8 +3494,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -3401,8 +3525,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -3432,8 +3556,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -3462,17 +3586,17 @@
         "comparison": "l10",
         "games_played": 67,
         "betting_line": {
-          "line": 19.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 20.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
-        "pct_vs_line": -17.9,
-        "score": 90.2,
+        "pct_vs_line": -22.0,
+        "score": 99.8,
         "bet_action": "UNDER",
-        "bet_description": "LaMelo Ball UNDER 19.5 Points"
+        "bet_description": "LaMelo Ball UNDER 20.5 Points"
       },
       {
         "player_name": "Derrick White",
