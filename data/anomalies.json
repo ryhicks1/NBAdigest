@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T10:07:01.179028+11:00",
+  "generated_at": "2026-04-04T10:05:15.153765+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -301,8 +301,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.72,
+        "under_price": 2.08,
         "market_type": "over_under"
       },
       "game": "Boston Celtics @ Milwaukee Bucks",
@@ -534,8 +534,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -999,8 +999,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -1123,8 +1123,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -1255,8 +1255,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -1348,8 +1348,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -1658,8 +1658,8 @@
         "games_played": 59,
         "betting_line": {
           "line": 13.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -1751,8 +1751,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -1814,7 +1814,7 @@
         "betting_line": {
           "line": 7.5,
           "over_price": 1.88,
-          "under_price": 1.88,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -1999,8 +1999,8 @@
         "games_played": 40,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -2092,8 +2092,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 25.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -2216,8 +2216,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -2311,8 +2311,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -2471,8 +2471,8 @@
         "games_played": 55,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -2534,13 +2534,13 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.15
+              "price": 3.1
             },
             "1": {
               "price": 1.45
             },
             "3": {
-              "price": 8.25
+              "price": 8.5
             }
           },
           "market_type": "threshold"
@@ -2551,6 +2551,37 @@
         "score": 76.5,
         "bet_action": "UNDER",
         "bet_description": "Derrick White Steals trending COLD"
+      },
+      {
+        "player_name": "Miles McBride",
+        "team": "NY",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          1,
+          0,
+          1
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 2.8,
+        "l10_avg": 2.2,
+        "pct_diff_season": -75.0,
+        "pct_diff_l10": -68.2,
+        "comparison": "season",
+        "games_played": 37,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2,
+          "under_price": 1.78,
+          "market_type": "over_under"
+        },
+        "game": "Chicago Bulls @ New York Knicks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
+        "pct_vs_line": -53.3,
+        "score": 186.7,
+        "bet_action": "UNDER",
+        "bet_description": "Miles McBride UNDER 1.5 Threes"
       },
       {
         "player_name": "Max Christie",
@@ -2582,6 +2613,37 @@
         "score": 259.8,
         "bet_action": "UNDER",
         "bet_description": "Max Christie UNDER 10.5 Points"
+      },
+      {
+        "player_name": "Miles McBride",
+        "team": "NY",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          3,
+          0,
+          9
+        ],
+        "last_3_avg": 4.0,
+        "season_avg": 12.3,
+        "l10_avg": 10.6,
+        "pct_diff_season": -67.5,
+        "pct_diff_l10": -62.3,
+        "comparison": "season",
+        "games_played": 37,
+        "betting_line": {
+          "line": 7.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Chicago Bulls @ New York Knicks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
+        "pct_vs_line": -46.7,
+        "score": 199.0,
+        "bet_action": "UNDER",
+        "bet_description": "Miles McBride UNDER 7.5 Points"
       },
       {
         "player_name": "Cooper Flagg",
@@ -3192,8 +3254,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -3564,8 +3626,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -3594,17 +3656,17 @@
         "comparison": "l10",
         "games_played": 58,
         "betting_line": {
-          "line": 8.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 7.5,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/chicago-bulls-at-new-york-knicks-10322548",
-        "pct_vs_line": -52.9,
-        "score": 180.8,
+        "pct_vs_line": -46.7,
+        "score": 165.8,
         "bet_action": "UNDER",
-        "bet_description": "Mitchell Robinson UNDER 8.5 Points"
+        "bet_description": "Mitchell Robinson UNDER 7.5 Points"
       },
       {
         "player_name": "Rudy Gobert",
@@ -3998,8 +4060,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -4122,8 +4184,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -4153,8 +4215,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -4352,7 +4414,7 @@
   "meta": {
     "total_players_analyzed": 511,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 115,
+    "players_with_sportsbet_markets": 118,
     "events_count": 11
   }
 }
