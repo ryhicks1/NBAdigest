@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T18:07:00.978991+11:00",
+  "generated_at": "2026-04-03T19:07:00.758126+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -270,8 +270,8 @@
       "games_played": 74,
       "betting_line": {
         "line": 16.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Houston Rockets",
@@ -563,8 +563,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 16.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -625,8 +625,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
@@ -873,8 +873,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -947,37 +947,6 @@
         "bet_description": "Jayson Tatum OVER 4.5 Assists"
       },
       {
-        "player_name": "Ace Bailey",
-        "team": "UTAH",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          2,
-          5,
-          2
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 1.8,
-        "l10_avg": 2.7,
-        "pct_diff_season": 66.7,
-        "pct_diff_l10": 11.1,
-        "comparison": "season",
-        "games_played": 68,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
-          "market_type": "over_under"
-        },
-        "game": "Utah Jazz @ Houston Rockets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-houston-rockets-10322549",
-        "pct_vs_line": 20.0,
-        "score": 129.4,
-        "bet_action": "OVER",
-        "bet_description": "Ace Bailey OVER 2.5 Assists"
-      },
-      {
         "player_name": "Sandro Mamukelashvili",
         "team": "TOR",
         "stat": "FG3M",
@@ -1028,8 +997,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1184,7 +1153,7 @@
         "betting_line": {
           "line": 19.5,
           "over_price": 1.8,
-          "under_price": 1.96,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
@@ -1214,8 +1183,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1307,8 +1276,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1400,8 +1369,8 @@
         "games_played": 59,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -1472,37 +1441,6 @@
         "score": 75.2,
         "bet_action": "OVER",
         "bet_description": "Nolan Traore OVER 11.5 Points"
-      },
-      {
-        "player_name": "Miles Bridges",
-        "team": "CHA",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          2,
-          2,
-          2
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 3.2,
-        "l10_avg": 1.9,
-        "pct_diff_season": -37.5,
-        "pct_diff_l10": 5.3,
-        "comparison": "season",
-        "games_played": 72,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.5,
-          "under_price": 1.48,
-          "market_type": "over_under"
-        },
-        "game": "Indiana Pacers @ Charlotte Hornets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/indiana-pacers-at-charlotte-hornets-10322545",
-        "pct_vs_line": -20.0,
-        "score": 112.8,
-        "bet_action": "OVER",
-        "bet_description": "Miles Bridges OVER 2.5 Assists"
       },
       {
         "player_name": "Quenton Jackson",
@@ -2566,37 +2504,6 @@
         "bet_description": "Ousmane Dieng UNDER 1.5 Threes"
       },
       {
-        "player_name": "Saddiq Bey",
-        "team": "NO",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          2
-        ],
-        "last_3_avg": 1.3,
-        "season_avg": 2.5,
-        "l10_avg": 2.7,
-        "pct_diff_season": -48.0,
-        "pct_diff_l10": -51.9,
-        "comparison": "l10",
-        "games_played": 70,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -48.0,
-        "score": 174.2,
-        "bet_action": "UNDER",
-        "bet_description": "Saddiq Bey UNDER 2.5 Assists"
-      },
-      {
         "player_name": "Franz Wagner",
         "team": "ORL",
         "stat": "PTS",
@@ -2926,14 +2833,11 @@
         "games_played": 74,
         "betting_line": {
           "thresholds": {
-            "3": {
-              "price": 8.75
-            },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.15
+              "price": 3.25
             }
           },
           "market_type": "threshold"
@@ -3182,8 +3086,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3347,37 +3251,6 @@
         "score": 51.7,
         "bet_action": "UNDER",
         "bet_description": "Dylan Cardwell UNDER 5.5 Rebounds"
-      },
-      {
-        "player_name": "Herbert Jones",
-        "team": "NO",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          3,
-          2,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 2.8,
-        "l10_avg": 3.2,
-        "pct_diff_season": -17.9,
-        "pct_diff_l10": -28.1,
-        "comparison": "l10",
-        "games_played": 54,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -8.0,
-        "score": 58.1,
-        "bet_action": "UNDER",
-        "bet_description": "Herbert Jones UNDER 2.5 Assists"
       },
       {
         "player_name": "Kelly Oubre Jr.",
@@ -3741,15 +3614,15 @@
         "pct_diff": 16.3,
         "games_played": 76,
         "betting_line": {
-          "line": 234.5,
-          "over_price": 1.88,
-          "under_price": 1.92
+          "line": 236.5,
+          "over_price": 1.9,
+          "under_price": 1.9
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
-        "pct_vs_line": -44.1,
-        "score": 148.9,
+        "pct_vs_line": -44.6,
+        "score": 150.2,
         "bet_action": "OVER",
-        "bet_description": "Indiana Pacers OVER 234.5 Total Points",
+        "bet_description": "Indiana Pacers OVER 236.5 Total Points",
         "is_team": true
       }
     ],
