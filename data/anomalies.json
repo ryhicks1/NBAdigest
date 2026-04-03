@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T07:07:01.059550+11:00",
+  "generated_at": "2026-04-04T07:06:58.547239+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -323,7 +323,8 @@
     "Orlando Magic @ Dallas Mavericks",
     "San Antonio Spurs @ Denver Nuggets",
     "Toronto Raptors @ Memphis Grizzlies",
-    "Utah Jazz @ Houston Rockets"
+    "Utah Jazz @ Houston Rockets",
+    "Washington Wizards @ Miami Heat"
   ],
   "player_anomalies": {
     "hot": [
@@ -533,8 +534,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -595,8 +596,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
@@ -967,8 +968,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -1339,8 +1340,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
@@ -1618,7 +1619,7 @@
         "games_played": 40,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.88,
+          "over_price": 1.87,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -1835,7 +1836,7 @@
         "games_played": 52,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.86,
+          "over_price": 1.87,
           "under_price": 1.89,
           "market_type": "over_under"
         },
@@ -2215,7 +2216,7 @@
         "betting_line": {
           "line": 9.5,
           "over_price": 1.89,
-          "under_price": 1.87,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -2555,8 +2556,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -2586,8 +2587,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -2617,8 +2618,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -2834,11 +2835,14 @@
         "games_played": 74,
         "betting_line": {
           "thresholds": {
+            "3": {
+              "price": 8.5
+            },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.25
+              "price": 3.1
             }
           },
           "market_type": "threshold"
@@ -2963,8 +2967,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -3149,8 +3153,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3304,8 +3308,8 @@
         "games_played": 39,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
@@ -3428,8 +3432,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -3459,8 +3463,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -3490,8 +3494,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3752,6 +3756,6 @@
     "total_players_analyzed": 511,
     "total_teams_analyzed": 30,
     "players_with_sportsbet_markets": 105,
-    "events_count": 10
+    "events_count": 11
   }
 }
