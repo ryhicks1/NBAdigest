@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T01:07:01.670832+11:00",
+  "generated_at": "2026-04-04T02:07:01.250959+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 65,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.76,
-        "under_price": 2.02,
+        "over_price": 1.74,
+        "under_price": 2.05,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -177,8 +177,8 @@
       "games_played": 61,
       "betting_line": {
         "line": 3.5,
-        "over_price": 1.88,
-        "under_price": 1.88,
+        "over_price": 1.8,
+        "under_price": 1.96,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Houston Rockets",
@@ -208,8 +208,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.68,
-        "under_price": 2.1,
+        "over_price": 1.72,
+        "under_price": 2.08,
         "market_type": "over_under"
       },
       "game": "Boston Celtics @ Milwaukee Bucks",
@@ -239,8 +239,8 @@
       "games_played": 74,
       "betting_line": {
         "line": 16.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Utah Jazz @ Houston Rockets",
@@ -439,8 +439,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -470,8 +470,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -563,8 +563,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -904,8 +904,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -966,8 +966,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -997,8 +997,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -1121,8 +1121,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
@@ -1276,8 +1276,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -1586,8 +1586,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Philadelphia 76ers",
@@ -1741,8 +1741,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -1867,8 +1867,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -1964,7 +1964,7 @@
               "price": 1.49
             },
             "2": {
-              "price": 3.35
+              "price": 3.3
             }
           },
           "market_type": "threshold"
@@ -2089,8 +2089,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.9,
-          "under_price": 1.36,
+          "over_price": 2.6,
+          "under_price": 1.45,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -2803,13 +2803,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.5
+              "price": 8.25
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.15
+              "price": 3.1
             }
           },
           "market_type": "threshold"
@@ -2872,8 +2872,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Brooklyn Nets",
@@ -2996,8 +2996,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
@@ -3058,8 +3058,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
@@ -3181,17 +3181,17 @@
         "comparison": "l10",
         "games_played": 40,
         "betting_line": {
-          "line": 7.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 8.5,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Memphis Grizzlies",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-memphis-grizzlies-10322561",
-        "pct_vs_line": -29.3,
-        "score": 111.1,
+        "pct_vs_line": -37.6,
+        "score": 129.4,
         "bet_action": "UNDER",
-        "bet_description": "Jakob Poeltl UNDER 7.5 Rebounds"
+        "bet_description": "Jakob Poeltl UNDER 8.5 Rebounds"
       },
       {
         "player_name": "Dylan Cardwell",
@@ -3306,8 +3306,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Chicago Bulls @ New York Knicks",
@@ -3368,8 +3368,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Houston Rockets",
@@ -3461,8 +3461,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Milwaukee Bucks",
@@ -3587,8 +3587,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 235.5,
-          "over_price": 1.92,
-          "under_price": 1.88
+          "over_price": 1.94,
+          "under_price": 1.86
         },
         "game": "Indiana Pacers @ Charlotte Hornets",
         "pct_vs_line": -44.4,
