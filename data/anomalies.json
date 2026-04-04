@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T15:07:00.637981+11:00",
+  "generated_at": "2026-04-04T16:07:01.575498+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -115,8 +115,8 @@
       "games_played": 63,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.6,
-        "under_price": 2.2,
+        "over_price": 1.64,
+        "under_price": 2.15,
         "market_type": "over_under"
       },
       "game": "Washington Wizards @ Miami Heat",
@@ -239,8 +239,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 5.5,
-        "over_price": 2.05,
-        "under_price": 1.74,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Philadelphia 76ers",
@@ -270,8 +270,8 @@
       "games_played": 65,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.15,
-        "under_price": 1.64,
+        "over_price": 2.1,
+        "under_price": 1.68,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Philadelphia 76ers",
@@ -314,9 +314,11 @@
     }
   ],
   "games": [
+    "Charlotte Hornets @ Minnesota Timberwolves",
     "Detroit Pistons @ Philadelphia 76ers",
     "Houston Rockets @ Golden State Warriors",
-    "New Orleans Pelicans @ Sacramento Kings",
+    "Los Angeles Lakers @ Dallas Mavericks",
+    "Orlando Magic @ New Orleans Pelicans",
     "San Antonio Spurs @ Denver Nuggets",
     "Toronto Raptors @ Boston Celtics",
     "Washington Wizards @ Miami Heat"
@@ -529,8 +531,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 15.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Miami Heat",
@@ -591,8 +593,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Philadelphia 76ers",
@@ -622,8 +624,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Miami Heat",
@@ -684,8 +686,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Miami Heat",
@@ -745,17 +747,48 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 11.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "line": 12.5,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-denver-nuggets-10328307",
-        "pct_vs_line": 41.7,
-        "score": 166.8,
+        "pct_vs_line": 30.4,
+        "score": 141.9,
         "bet_action": "OVER",
-        "bet_description": "Victor Wembanyama OVER 11.5 Rebounds"
+        "bet_description": "Victor Wembanyama OVER 12.5 Rebounds"
+      },
+      {
+        "player_name": "LeBron James",
+        "team": "LAL",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "hot",
+        "last_3": [
+          1,
+          1,
+          1
+        ],
+        "last_3_avg": 1.0,
+        "season_avg": 1.3,
+        "l10_avg": 0.7,
+        "pct_diff_season": -23.1,
+        "pct_diff_l10": 42.9,
+        "comparison": "l10",
+        "games_played": 59,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.15,
+          "under_price": 1.64,
+          "market_type": "over_under"
+        },
+        "game": "Los Angeles Lakers @ Dallas Mavericks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-lakers-at-dallas-mavericks-10330006",
+        "pct_vs_line": -33.3,
+        "score": 114.8,
+        "bet_action": "OVER",
+        "bet_description": "LeBron James OVER 1.5 Threes"
       },
       {
         "player_name": "Tyrese Maxey",
@@ -787,6 +820,37 @@
         "score": 137.4,
         "bet_action": "OVER",
         "bet_description": "Tyrese Maxey OVER 6.5 Assists"
+      },
+      {
+        "player_name": "Quentin Grimes",
+        "team": "PHI",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "hot",
+        "last_3": [
+          2,
+          2,
+          2
+        ],
+        "last_3_avg": 2.0,
+        "season_avg": 1.8,
+        "l10_avg": 1.5,
+        "pct_diff_season": 11.1,
+        "pct_diff_l10": 33.3,
+        "comparison": "l10",
+        "games_played": 69,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.1,
+          "under_price": 1.68,
+          "market_type": "over_under"
+        },
+        "game": "Detroit Pistons @ Philadelphia 76ers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-philadelphia-76ers-10328305",
+        "pct_vs_line": 33.3,
+        "score": 102.8,
+        "bet_action": "OVER",
+        "bet_description": "Quentin Grimes OVER 1.5 Threes"
       },
       {
         "player_name": "Ausar Thompson",
@@ -932,8 +996,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Denver Nuggets",
@@ -1151,8 +1215,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Philadelphia 76ers",
@@ -1275,8 +1339,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Miami Heat",
@@ -1285,6 +1349,68 @@
         "score": 146.1,
         "bet_action": "UNDER",
         "bet_description": "Kel'el Ware UNDER 8.5 Points"
+      },
+      {
+        "player_name": "Austin Reaves",
+        "team": "LAL",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          2,
+          2,
+          0
+        ],
+        "last_3_avg": 1.3,
+        "season_avg": 2.3,
+        "l10_avg": 1.7,
+        "pct_diff_season": -43.5,
+        "pct_diff_l10": -23.5,
+        "comparison": "season",
+        "games_played": 51,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 1.72,
+          "under_price": 2.08,
+          "market_type": "over_under"
+        },
+        "game": "Los Angeles Lakers @ Dallas Mavericks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-lakers-at-dallas-mavericks-10330006",
+        "pct_vs_line": -48.0,
+        "score": 149.5,
+        "bet_action": "UNDER",
+        "bet_description": "Austin Reaves UNDER 2.5 Threes"
+      },
+      {
+        "player_name": "Quentin Grimes",
+        "team": "PHI",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          12,
+          11,
+          8
+        ],
+        "last_3_avg": 10.3,
+        "season_avg": 13.7,
+        "l10_avg": 18.1,
+        "pct_diff_season": -24.8,
+        "pct_diff_l10": -43.1,
+        "comparison": "l10",
+        "games_played": 69,
+        "betting_line": {
+          "line": 12.5,
+          "over_price": 1.88,
+          "under_price": 1.88,
+          "market_type": "over_under"
+        },
+        "game": "Detroit Pistons @ Philadelphia 76ers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-philadelphia-76ers-10328305",
+        "pct_vs_line": -17.6,
+        "score": 96.1,
+        "bet_action": "UNDER",
+        "bet_description": "Quentin Grimes UNDER 12.5 Points"
       },
       {
         "player_name": "Tobias Harris",
@@ -1367,17 +1493,17 @@
         "comparison": "l10",
         "games_played": 65,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "line": 4.5,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Philadelphia 76ers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-philadelphia-76ers-10328305",
-        "pct_vs_line": -14.3,
-        "score": 89.7,
+        "pct_vs_line": -33.3,
+        "score": 131.6,
         "bet_action": "UNDER",
-        "bet_description": "Dominick Barlow UNDER 3.5 Rebounds"
+        "bet_description": "Dominick Barlow UNDER 4.5 Rebounds"
       },
       {
         "player_name": "Bruce Brown",
@@ -1566,6 +1692,37 @@
         "bet_description": "Kelly Oubre Jr. UNDER 16.5 Points"
       },
       {
+        "player_name": "Austin Reaves",
+        "team": "LAL",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          15,
+          19,
+          19
+        ],
+        "last_3_avg": 17.7,
+        "season_avg": 23.3,
+        "l10_avg": 20.1,
+        "pct_diff_season": -24.0,
+        "pct_diff_l10": -11.9,
+        "comparison": "season",
+        "games_played": 51,
+        "betting_line": {
+          "line": 28.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Los Angeles Lakers @ Dallas Mavericks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-lakers-at-dallas-mavericks-10330006",
+        "pct_vs_line": -37.9,
+        "score": 145.9,
+        "bet_action": "UNDER",
+        "bet_description": "Austin Reaves UNDER 28.5 Points"
+      },
+      {
         "player_name": "Tre Johnson",
         "team": "WSH",
         "stat": "PTS",
@@ -1631,12 +1788,69 @@
   },
   "team_anomalies": {
     "hot": [],
-    "cold": []
+    "cold": [
+      {
+        "team_name": "Dallas Mavericks",
+        "team_abbr": "DAL",
+        "stat": "total_points",
+        "stat_label": "Total Points",
+        "direction": "cold",
+        "last_3": [
+          99,
+          94,
+          100
+        ],
+        "last_3_avg": 97.7,
+        "season_avg": 113.4,
+        "l10_avg": 115.6,
+        "pct_diff": -13.8,
+        "games_played": 76,
+        "betting_line": {
+          "line": 235.5,
+          "over_price": 1.9,
+          "under_price": 1.9
+        },
+        "game": "Los Angeles Lakers @ Dallas Mavericks",
+        "pct_vs_line": -58.5,
+        "score": 183.1,
+        "bet_action": "UNDER",
+        "bet_description": "Dallas Mavericks UNDER 235.5 Total Points",
+        "is_team": true
+      },
+      {
+        "team_name": "Orlando Magic",
+        "team_abbr": "ORL",
+        "stat": "total_points",
+        "stat_label": "Total Points",
+        "direction": "cold",
+        "last_3": [
+          101,
+          115,
+          87
+        ],
+        "last_3_avg": 101.0,
+        "season_avg": 115.1,
+        "l10_avg": 111.6,
+        "pct_diff": -12.3,
+        "games_played": 76,
+        "betting_line": {
+          "line": 235.5,
+          "over_price": 1.9,
+          "under_price": 1.9
+        },
+        "game": "Orlando Magic @ New Orleans Pelicans",
+        "pct_vs_line": -57.1,
+        "score": 177.5,
+        "bet_action": "UNDER",
+        "bet_description": "Orlando Magic UNDER 235.5 Total Points",
+        "is_team": true
+      }
+    ]
   },
   "meta": {
     "total_players_analyzed": 511,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 44,
-    "events_count": 6
+    "players_with_sportsbet_markets": 41,
+    "events_count": 8
   }
 }
