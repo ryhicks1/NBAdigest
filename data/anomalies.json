@@ -1,130 +1,68 @@
 {
-  "generated_at": "2026-04-04T13:07:01.150718+11:00",
+  "generated_at": "2026-04-04T14:07:00.814862+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
-      "player_name": "Scottie Barnes",
-      "team": "TOR",
-      "stat": "AST",
-      "stat_label": "Assists",
-      "direction": "hot",
-      "last_3": [
-        10,
-        12,
-        15
-      ],
-      "last_3_avg": 12.3,
-      "season_avg": 5.7,
-      "l10_avg": 9.6,
-      "pct_diff_season": 115.8,
-      "pct_diff_l10": 28.1,
-      "comparison": "season",
-      "games_played": 77,
-      "betting_line": {
-        "line": 7.5,
-        "over_price": 2.35,
-        "under_price": 1.5,
-        "market_type": "over_under"
-      },
-      "game": "Toronto Raptors @ Memphis Grizzlies",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-memphis-grizzlies-10322561",
-      "pct_vs_line": 64.0,
-      "score": 290.2,
-      "bet_action": "OVER",
-      "bet_description": "Scottie Barnes OVER 7.5 Assists"
-    },
-    {
-      "player_name": "Max Christie",
-      "team": "DAL",
+      "player_name": "Precious Achiuwa",
+      "team": "SAC",
       "stat": "PTS",
       "stat_label": "Points",
-      "direction": "cold",
+      "direction": "hot",
       "last_3": [
-        3,
-        3,
-        5
+        28,
+        16,
+        16
       ],
-      "last_3_avg": 3.7,
-      "season_avg": 12.2,
-      "l10_avg": 8.8,
-      "pct_diff_season": -69.7,
-      "pct_diff_l10": -58.0,
+      "last_3_avg": 20.0,
+      "season_avg": 9.9,
+      "l10_avg": 16.9,
+      "pct_diff_season": 102.0,
+      "pct_diff_l10": 18.3,
       "comparison": "season",
-      "games_played": 71,
+      "games_played": 68,
+      "betting_line": {
+        "line": 9.5,
+        "over_price": 1.93,
+        "under_price": 1.75,
+        "market_type": "over_under"
+      },
+      "game": "New Orleans Pelicans @ Sacramento Kings",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+      "pct_vs_line": 110.5,
+      "score": 407.5,
+      "bet_action": "OVER",
+      "bet_description": "Precious Achiuwa OVER 9.5 Points"
+    },
+    {
+      "player_name": "DeMar DeRozan",
+      "team": "SAC",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        28,
+        22,
+        33
+      ],
+      "last_3_avg": 27.7,
+      "season_avg": 18.6,
+      "l10_avg": 22.2,
+      "pct_diff_season": 48.9,
+      "pct_diff_l10": 24.8,
+      "comparison": "season",
+      "games_played": 75,
       "betting_line": {
         "line": 12.5,
-        "over_price": 2.07,
-        "under_price": 1.65,
+        "over_price": 1.75,
+        "under_price": 1.93,
         "market_type": "over_under"
       },
-      "game": "Orlando Magic @ Dallas Mavericks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-      "pct_vs_line": -70.4,
-      "score": 273.4,
-      "bet_action": "UNDER",
-      "bet_description": "Max Christie UNDER 12.5 Points"
-    },
-    {
-      "player_name": "Jakob Poeltl",
-      "team": "TOR",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        18,
-        13,
-        11
-      ],
-      "last_3_avg": 14.0,
-      "season_avg": 10.8,
-      "l10_avg": 13.7,
-      "pct_diff_season": 29.6,
-      "pct_diff_l10": 2.2,
-      "comparison": "season",
-      "games_played": 40,
-      "betting_line": {
-        "line": 7.5,
-        "over_price": 1.78,
-        "under_price": 1.9,
-        "market_type": "over_under"
-      },
-      "game": "Toronto Raptors @ Memphis Grizzlies",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-memphis-grizzlies-10322561",
-      "pct_vs_line": 86.7,
-      "score": 260.0,
+      "game": "New Orleans Pelicans @ Sacramento Kings",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+      "pct_vs_line": 121.6,
+      "score": 374.6,
       "bet_action": "OVER",
-      "bet_description": "Jakob Poeltl OVER 7.5 Points"
-    },
-    {
-      "player_name": "Paolo Banchero",
-      "team": "ORL",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "cold",
-      "last_3": [
-        0,
-        1,
-        0
-      ],
-      "last_3_avg": 0.3,
-      "season_avg": 1.2,
-      "l10_avg": 1.4,
-      "pct_diff_season": -75.0,
-      "pct_diff_l10": -78.6,
-      "comparison": "l10",
-      "games_played": 66,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 2.3,
-        "under_price": 1.55,
-        "market_type": "over_under"
-      },
-      "game": "Orlando Magic @ Dallas Mavericks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-      "pct_vs_line": -80.0,
-      "score": 245.0,
-      "bet_action": "UNDER",
-      "bet_description": "Paolo Banchero UNDER 1.5 Threes"
+      "bet_description": "DeMar DeRozan OVER 12.5 Points"
     },
     {
       "player_name": "Trey Murphy III",
@@ -145,110 +83,48 @@
       "comparison": "season",
       "games_played": 65,
       "betting_line": {
-        "line": 4.5,
-        "over_price": 2.2,
-        "under_price": 1.6,
+        "line": 3.5,
+        "over_price": 1.48,
+        "under_price": 2.4,
         "market_type": "over_under"
       },
       "game": "New Orleans Pelicans @ Sacramento Kings",
       "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-      "pct_vs_line": -71.1,
-      "score": 239.8,
+      "pct_vs_line": -62.9,
+      "score": 221.7,
       "bet_action": "UNDER",
-      "bet_description": "Trey Murphy III UNDER 4.5 Assists"
+      "bet_description": "Trey Murphy III UNDER 3.5 Assists"
     },
     {
-      "player_name": "Klay Thompson",
-      "team": "DAL",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "cold",
-      "last_3": [
-        5,
-        7,
-        8
-      ],
-      "last_3_avg": 6.7,
-      "season_avg": 11.7,
-      "l10_avg": 11.5,
-      "pct_diff_season": -42.7,
-      "pct_diff_l10": -41.7,
-      "comparison": "season",
-      "games_played": 65,
-      "betting_line": {
-        "line": 20.5,
-        "over_price": 2.01,
-        "under_price": 1.69,
-        "market_type": "over_under"
-      },
-      "game": "Orlando Magic @ Dallas Mavericks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-      "pct_vs_line": -67.3,
-      "score": 236.1,
-      "bet_action": "UNDER",
-      "bet_description": "Klay Thompson UNDER 20.5 Points"
-    },
-    {
-      "player_name": "Max Christie",
-      "team": "DAL",
+      "player_name": "Andrew Wiggins",
+      "team": "MIA",
       "stat": "FG3M",
       "stat_label": "Threes",
-      "direction": "cold",
-      "last_3": [
-        1,
-        1,
-        1
-      ],
-      "last_3_avg": 1.0,
-      "season_avg": 2.3,
-      "l10_avg": 2.0,
-      "pct_diff_season": -56.5,
-      "pct_diff_l10": -50.0,
-      "comparison": "season",
-      "games_played": 71,
-      "betting_line": {
-        "line": 3.5,
-        "over_price": 1.87,
-        "under_price": 1.87,
-        "market_type": "over_under"
-      },
-      "game": "Orlando Magic @ Dallas Mavericks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-      "pct_vs_line": -71.4,
-      "score": 224.4,
-      "bet_action": "UNDER",
-      "bet_description": "Max Christie UNDER 3.5 Threes"
-    },
-    {
-      "player_name": "Precious Achiuwa",
-      "team": "SAC",
-      "stat": "PTS",
-      "stat_label": "Points",
       "direction": "hot",
       "last_3": [
-        28,
-        16,
-        16
+        3,
+        2,
+        3
       ],
-      "last_3_avg": 20.0,
-      "season_avg": 9.9,
-      "l10_avg": 16.9,
-      "pct_diff_season": 102.0,
-      "pct_diff_l10": 18.3,
-      "comparison": "season",
-      "games_played": 68,
+      "last_3_avg": 2.7,
+      "season_avg": 2.0,
+      "l10_avg": 1.8,
+      "pct_diff_season": 35.0,
+      "pct_diff_l10": 50.0,
+      "comparison": "l10",
+      "games_played": 63,
       "betting_line": {
-        "line": 15.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "line": 1.5,
+        "over_price": 1.6,
+        "under_price": 2.2,
         "market_type": "over_under"
       },
-      "game": "New Orleans Pelicans @ Sacramento Kings",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-      "pct_vs_line": 29.0,
-      "score": 211.9,
+      "game": "Washington Wizards @ Miami Heat",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+      "pct_vs_line": 80.0,
+      "score": 214.7,
       "bet_action": "OVER",
-      "bet_description": "Precious Achiuwa OVER 15.5 Points"
+      "bet_description": "Andrew Wiggins OVER 1.5 Threes"
     },
     {
       "player_name": "Will Riley",
@@ -298,61 +174,149 @@
       "pct_diff": -13.8,
       "games_played": 76,
       "betting_line": {
-        "line": 250.5,
-        "over_price": 1.85,
-        "under_price": 1.89
+        "line": 269.5,
+        "over_price": 2.07,
+        "under_price": 1.7
       },
       "game": "Orlando Magic @ Dallas Mavericks",
-      "pct_vs_line": -61.0,
-      "score": 189.5,
+      "pct_vs_line": -63.7,
+      "score": 196.7,
       "bet_action": "UNDER",
-      "bet_description": "Dallas Mavericks UNDER 250.5 Total Points",
+      "bet_description": "Dallas Mavericks UNDER 269.5 Total Points",
       "is_team": true
+    },
+    {
+      "team_name": "Orlando Magic",
+      "team_abbr": "ORL",
+      "stat": "total_points",
+      "stat_label": "Total Points",
+      "direction": "cold",
+      "last_3": [
+        101,
+        115,
+        87
+      ],
+      "last_3_avg": 101.0,
+      "season_avg": 115.1,
+      "l10_avg": 111.6,
+      "pct_diff": -12.3,
+      "games_played": 76,
+      "betting_line": {
+        "line": 269.5,
+        "over_price": 2.07,
+        "under_price": 1.7
+      },
+      "game": "Orlando Magic @ Dallas Mavericks",
+      "pct_vs_line": -62.5,
+      "score": 191.6,
+      "bet_action": "UNDER",
+      "bet_description": "Orlando Magic UNDER 269.5 Total Points",
+      "is_team": true
+    },
+    {
+      "player_name": "Tyler Herro",
+      "team": "MIA",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "hot",
+      "last_3": [
+        4,
+        3,
+        5
+      ],
+      "last_3_avg": 4.0,
+      "season_avg": 2.6,
+      "l10_avg": 2.8,
+      "pct_diff_season": 53.8,
+      "pct_diff_l10": 42.9,
+      "comparison": "season",
+      "games_played": 30,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 1.56,
+        "under_price": 2.3,
+        "market_type": "over_under"
+      },
+      "game": "Washington Wizards @ Miami Heat",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+      "pct_vs_line": 60.0,
+      "score": 187.7,
+      "bet_action": "OVER",
+      "bet_description": "Tyler Herro OVER 2.5 Threes"
+    },
+    {
+      "player_name": "Jaime Jaquez Jr.",
+      "team": "MIA",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "hot",
+      "last_3": [
+        10,
+        6,
+        8
+      ],
+      "last_3_avg": 8.0,
+      "season_avg": 5.1,
+      "l10_avg": 4.3,
+      "pct_diff_season": 56.9,
+      "pct_diff_l10": 86.0,
+      "comparison": "l10",
+      "games_played": 70,
+      "betting_line": {
+        "line": 5.5,
+        "over_price": 2.1,
+        "under_price": 1.68,
+        "market_type": "over_under"
+      },
+      "game": "Washington Wizards @ Miami Heat",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+      "pct_vs_line": 45.5,
+      "score": 183.4,
+      "bet_action": "OVER",
+      "bet_description": "Jaime Jaquez Jr. OVER 5.5 Rebounds"
+    },
+    {
+      "player_name": "Kel'el Ware",
+      "team": "MIA",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "cold",
+      "last_3": [
+        2,
+        6,
+        3
+      ],
+      "last_3_avg": 3.7,
+      "season_avg": 9.0,
+      "l10_avg": 6.5,
+      "pct_diff_season": -58.9,
+      "pct_diff_l10": -43.1,
+      "comparison": "season",
+      "games_played": 72,
+      "betting_line": {
+        "line": 6.5,
+        "over_price": 1.64,
+        "under_price": 2.15,
+        "market_type": "over_under"
+      },
+      "game": "Washington Wizards @ Miami Heat",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+      "pct_vs_line": -43.1,
+      "score": 171.8,
+      "bet_action": "UNDER",
+      "bet_description": "Kel'el Ware UNDER 6.5 Rebounds"
     }
   ],
   "games": [
-    "Boston Celtics @ Milwaukee Bucks",
     "Detroit Pistons @ Philadelphia 76ers",
+    "Houston Rockets @ Golden State Warriors",
     "New Orleans Pelicans @ Sacramento Kings",
     "Orlando Magic @ Dallas Mavericks",
     "San Antonio Spurs @ Denver Nuggets",
-    "Toronto Raptors @ Memphis Grizzlies",
-    "Utah Jazz @ Houston Rockets",
     "Washington Wizards @ Miami Heat"
   ],
   "player_anomalies": {
     "hot": [
-      {
-        "player_name": "Scottie Barnes",
-        "team": "TOR",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          10,
-          12,
-          15
-        ],
-        "last_3_avg": 12.3,
-        "season_avg": 5.7,
-        "l10_avg": 9.6,
-        "pct_diff_season": 115.8,
-        "pct_diff_l10": 28.1,
-        "comparison": "season",
-        "games_played": 77,
-        "betting_line": {
-          "line": 7.5,
-          "over_price": 2.35,
-          "under_price": 1.5,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Memphis Grizzlies",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-memphis-grizzlies-10322561",
-        "pct_vs_line": 64.0,
-        "score": 290.2,
-        "bet_action": "OVER",
-        "bet_description": "Scottie Barnes OVER 7.5 Assists"
-      },
       {
         "player_name": "Precious Achiuwa",
         "team": "SAC",
@@ -372,17 +336,48 @@
         "comparison": "season",
         "games_played": 68,
         "betting_line": {
-          "line": 15.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 9.5,
+          "over_price": 1.93,
+          "under_price": 1.75,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": 29.0,
-        "score": 211.9,
+        "pct_vs_line": 110.5,
+        "score": 407.5,
         "bet_action": "OVER",
-        "bet_description": "Precious Achiuwa OVER 15.5 Points"
+        "bet_description": "Precious Achiuwa OVER 9.5 Points"
+      },
+      {
+        "player_name": "Jaime Jaquez Jr.",
+        "team": "MIA",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          10,
+          6,
+          8
+        ],
+        "last_3_avg": 8.0,
+        "season_avg": 5.1,
+        "l10_avg": 4.3,
+        "pct_diff_season": 56.9,
+        "pct_diff_l10": 86.0,
+        "comparison": "l10",
+        "games_played": 70,
+        "betting_line": {
+          "line": 5.5,
+          "over_price": 2.1,
+          "under_price": 1.68,
+          "market_type": "over_under"
+        },
+        "game": "Washington Wizards @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+        "pct_vs_line": 45.5,
+        "score": 183.4,
+        "bet_action": "OVER",
+        "bet_description": "Jaime Jaquez Jr. OVER 5.5 Rebounds"
       },
       {
         "player_name": "Will Riley",
@@ -435,8 +430,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.72,
+          "under_price": 1.42,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
@@ -445,6 +440,37 @@
         "score": 141.9,
         "bet_action": "OVER",
         "bet_description": "Saddiq Bey OVER 2.5 Threes"
+      },
+      {
+        "player_name": "Pelle Larsson",
+        "team": "MIA",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          18,
+          20,
+          15
+        ],
+        "last_3_avg": 17.7,
+        "season_avg": 11.3,
+        "l10_avg": 14.3,
+        "pct_diff_season": 56.6,
+        "pct_diff_l10": 23.8,
+        "comparison": "season",
+        "games_played": 66,
+        "betting_line": {
+          "line": 15.5,
+          "over_price": 1.88,
+          "under_price": 1.88,
+          "market_type": "over_under"
+        },
+        "game": "Washington Wizards @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+        "pct_vs_line": 14.2,
+        "score": 127.8,
+        "bet_action": "OVER",
+        "bet_description": "Pelle Larsson OVER 15.5 Points"
       },
       {
         "player_name": "Tyler Herro",
@@ -478,6 +504,37 @@
         "bet_description": "Tyler Herro OVER 2.5 Threes"
       },
       {
+        "player_name": "Andrew Wiggins",
+        "team": "MIA",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "hot",
+        "last_3": [
+          3,
+          2,
+          3
+        ],
+        "last_3_avg": 2.7,
+        "season_avg": 2.0,
+        "l10_avg": 1.8,
+        "pct_diff_season": 35.0,
+        "pct_diff_l10": 50.0,
+        "comparison": "l10",
+        "games_played": 63,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 1.6,
+          "under_price": 2.2,
+          "market_type": "over_under"
+        },
+        "game": "Washington Wizards @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+        "pct_vs_line": 80.0,
+        "score": 214.7,
+        "bet_action": "OVER",
+        "bet_description": "Andrew Wiggins OVER 1.5 Threes"
+      },
+      {
         "player_name": "DeMar DeRozan",
         "team": "SAC",
         "stat": "PTS",
@@ -496,48 +553,17 @@
         "comparison": "season",
         "games_played": 75,
         "betting_line": {
-          "line": 19.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 12.5,
+          "over_price": 1.75,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": 42.1,
-        "score": 183.7,
+        "pct_vs_line": 121.6,
+        "score": 374.6,
         "bet_action": "OVER",
-        "bet_description": "DeMar DeRozan OVER 19.5 Points"
-      },
-      {
-        "player_name": "Jalen Suggs",
-        "team": "ORL",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "hot",
-        "last_3": [
-          5,
-          8,
-          4
-        ],
-        "last_3_avg": 5.7,
-        "season_avg": 3.9,
-        "l10_avg": 4.6,
-        "pct_diff_season": 46.2,
-        "pct_diff_l10": 23.9,
-        "comparison": "season",
-        "games_played": 51,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 2.05,
-          "under_price": 1.66,
-          "market_type": "over_under"
-        },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": 26.7,
-        "score": 127.1,
-        "bet_action": "OVER",
-        "bet_description": "Jalen Suggs OVER 4.5 Rebounds"
+        "bet_description": "DeMar DeRozan OVER 12.5 Points"
       },
       {
         "player_name": "Derik Queen",
@@ -558,141 +584,48 @@
         "comparison": "l10",
         "games_played": 76,
         "betting_line": {
-          "line": 11.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 9.5,
+          "over_price": 1.82,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": 10.4,
-        "score": 67.4,
+        "pct_vs_line": 33.7,
+        "score": 123.2,
         "bet_action": "OVER",
-        "bet_description": "Derik Queen OVER 11.5 Points"
+        "bet_description": "Derik Queen OVER 9.5 Points"
       },
       {
-        "player_name": "Zion Williamson",
-        "team": "NO",
-        "stat": "AST",
-        "stat_label": "Assists",
+        "player_name": "Jaime Jaquez Jr.",
+        "team": "MIA",
+        "stat": "PTS",
+        "stat_label": "Points",
         "direction": "hot",
         "last_3": [
-          3,
-          3,
-          4
+          17,
+          14,
+          17
         ],
-        "last_3_avg": 3.3,
-        "season_avg": 3.2,
-        "l10_avg": 2.5,
-        "pct_diff_season": 3.1,
-        "pct_diff_l10": 32.0,
+        "last_3_avg": 16.0,
+        "season_avg": 15.0,
+        "l10_avg": 12.9,
+        "pct_diff_season": 6.7,
+        "pct_diff_l10": 24.0,
         "comparison": "l10",
-        "games_played": 60,
+        "games_played": 70,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "line": 16.5,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -5.7,
-        "score": 38.9,
+        "game": "Washington Wizards @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+        "pct_vs_line": -3.0,
+        "score": 42.1,
         "bet_action": "OVER",
-        "bet_description": "Zion Williamson OVER 3.5 Assists"
-      },
-      {
-        "player_name": "Jakob Poeltl",
-        "team": "TOR",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          18,
-          13,
-          11
-        ],
-        "last_3_avg": 14.0,
-        "season_avg": 10.8,
-        "l10_avg": 13.7,
-        "pct_diff_season": 29.6,
-        "pct_diff_l10": 2.2,
-        "comparison": "season",
-        "games_played": 40,
-        "betting_line": {
-          "line": 7.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Memphis Grizzlies",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-memphis-grizzlies-10322561",
-        "pct_vs_line": 86.7,
-        "score": 260.0,
-        "bet_action": "OVER",
-        "bet_description": "Jakob Poeltl OVER 7.5 Points"
-      },
-      {
-        "player_name": "Yves Missi",
-        "team": "NO",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          6,
-          8,
-          7
-        ],
-        "last_3_avg": 7.0,
-        "season_avg": 5.6,
-        "l10_avg": 5.5,
-        "pct_diff_season": 25.0,
-        "pct_diff_l10": 27.3,
-        "comparison": "l10",
-        "games_played": 63,
-        "betting_line": {
-          "line": 6.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": 7.7,
-        "score": 74.3,
-        "bet_action": "OVER",
-        "bet_description": "Yves Missi OVER 6.5 Points"
-      },
-      {
-        "player_name": "Naji Marshall",
-        "team": "DAL",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          19,
-          22,
-          16
-        ],
-        "last_3_avg": 19.0,
-        "season_avg": 15.5,
-        "l10_avg": 18.2,
-        "pct_diff_season": 22.6,
-        "pct_diff_l10": 4.4,
-        "comparison": "season",
-        "games_played": 71,
-        "betting_line": {
-          "line": 12.5,
-          "over_price": 1.73,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": 52.0,
-        "score": 177.2,
-        "bet_action": "OVER",
-        "bet_description": "Naji Marshall OVER 12.5 Points"
+        "bet_description": "Jaime Jaquez Jr. OVER 16.5 Points"
       },
       {
         "player_name": "Maxime Raynaud",
@@ -713,183 +646,20 @@
         "comparison": "season",
         "games_played": 69,
         "betting_line": {
-          "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": 2.4,
-        "score": 50.2,
-        "bet_action": "OVER",
-        "bet_description": "Maxime Raynaud OVER 8.5 Rebounds"
-      },
-      {
-        "player_name": "RJ Barrett",
-        "team": "TOR",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          20,
-          24,
-          24
-        ],
-        "last_3_avg": 22.7,
-        "season_avg": 19.1,
-        "l10_avg": 20.6,
-        "pct_diff_season": 18.8,
-        "pct_diff_l10": 10.2,
-        "comparison": "season",
-        "games_played": 52,
-        "betting_line": {
-          "line": 26.5,
-          "over_price": 1.93,
-          "under_price": 1.75,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Memphis Grizzlies",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-memphis-grizzlies-10322561",
-        "pct_vs_line": -14.3,
-        "score": 84.0,
-        "bet_action": "OVER",
-        "bet_description": "RJ Barrett OVER 26.5 Points"
-      },
-      {
-        "player_name": "Trey Murphy III",
-        "team": "NO",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "hot",
-        "last_3": [
-          8,
-          6,
-          6
-        ],
-        "last_3_avg": 6.7,
-        "season_avg": 5.7,
-        "l10_avg": 5.9,
-        "pct_diff_season": 17.5,
-        "pct_diff_l10": 13.6,
-        "comparison": "season",
-        "games_played": 65,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": 21.8,
-        "score": 90.1,
-        "bet_action": "OVER",
-        "bet_description": "Trey Murphy III OVER 5.5 Rebounds"
-      }
-    ],
-    "cold": [
-      {
-        "player_name": "Paolo Banchero",
-        "team": "ORL",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          0,
-          1,
-          0
-        ],
-        "last_3_avg": 0.3,
-        "season_avg": 1.2,
-        "l10_avg": 1.4,
-        "pct_diff_season": -75.0,
-        "pct_diff_l10": -78.6,
-        "comparison": "l10",
-        "games_played": 66,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.3,
-          "under_price": 1.55,
-          "market_type": "over_under"
-        },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -80.0,
-        "score": 245.0,
-        "bet_action": "UNDER",
-        "bet_description": "Paolo Banchero UNDER 1.5 Threes"
-      },
-      {
-        "player_name": "Precious Achiuwa",
-        "team": "SAC",
-        "stat": "BLK",
-        "stat_label": "Blocks",
-        "direction": "cold",
-        "last_3": [
-          1,
-          0,
-          0
-        ],
-        "last_3_avg": 0.3,
-        "season_avg": 0.7,
-        "l10_avg": 1.1,
-        "pct_diff_season": -57.1,
-        "pct_diff_l10": -72.7,
-        "comparison": "l10",
-        "games_played": 68,
-        "betting_line": {
-          "thresholds": {
-            "3": {
-              "price": 7.75
-            },
-            "2": {
-              "price": 3
-            },
-            "1": {
-              "price": 1.44
-            }
-          },
-          "market_type": "threshold"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": null,
-        "score": 60.4,
-        "bet_action": "UNDER",
-        "bet_description": "Precious Achiuwa Blocks trending COLD"
-      },
-      {
-        "player_name": "Max Christie",
-        "team": "DAL",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          3,
-          3,
-          5
-        ],
-        "last_3_avg": 3.7,
-        "season_avg": 12.2,
-        "l10_avg": 8.8,
-        "pct_diff_season": -69.7,
-        "pct_diff_l10": -58.0,
-        "comparison": "season",
-        "games_played": 71,
-        "betting_line": {
           "line": 12.5,
           "over_price": 2.07,
           "under_price": 1.65,
           "market_type": "over_under"
         },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -70.4,
-        "score": 273.4,
-        "bet_action": "UNDER",
-        "bet_description": "Max Christie UNDER 12.5 Points"
-      },
+        "game": "New Orleans Pelicans @ Sacramento Kings",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
+        "pct_vs_line": -30.4,
+        "score": 111.9,
+        "bet_action": "OVER",
+        "bet_description": "Maxime Raynaud OVER 12.5 Rebounds"
+      }
+    ],
+    "cold": [
       {
         "player_name": "Trey Murphy III",
         "team": "NO",
@@ -909,48 +679,48 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "line": 3.5,
+          "over_price": 1.48,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -71.1,
-        "score": 239.8,
+        "pct_vs_line": -62.9,
+        "score": 221.7,
         "bet_action": "UNDER",
-        "bet_description": "Trey Murphy III UNDER 4.5 Assists"
+        "bet_description": "Trey Murphy III UNDER 3.5 Assists"
       },
       {
-        "player_name": "Cooper Flagg",
-        "team": "DAL",
-        "stat": "AST",
-        "stat_label": "Assists",
+        "player_name": "Kel'el Ware",
+        "team": "MIA",
+        "stat": "REB",
+        "stat_label": "Rebounds",
         "direction": "cold",
         "last_3": [
-          3,
-          1,
-          2
+          2,
+          6,
+          3
         ],
-        "last_3_avg": 2.0,
-        "season_avg": 4.5,
-        "l10_avg": 5.8,
-        "pct_diff_season": -55.6,
-        "pct_diff_l10": -65.5,
-        "comparison": "l10",
-        "games_played": 64,
+        "last_3_avg": 3.7,
+        "season_avg": 9.0,
+        "l10_avg": 6.5,
+        "pct_diff_season": -58.9,
+        "pct_diff_l10": -43.1,
+        "comparison": "season",
+        "games_played": 72,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.6,
+          "line": 6.5,
+          "over_price": 1.64,
           "under_price": 2.15,
           "market_type": "over_under"
         },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -42.9,
-        "score": 169.5,
+        "game": "Washington Wizards @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+        "pct_vs_line": -43.1,
+        "score": 171.8,
         "bet_action": "UNDER",
-        "bet_description": "Cooper Flagg UNDER 3.5 Assists"
+        "bet_description": "Kel'el Ware UNDER 6.5 Rebounds"
       },
       {
         "player_name": "Will Riley",
@@ -1015,68 +785,6 @@
         "bet_description": "Bilal Coulibaly UNDER 2.5 Assists"
       },
       {
-        "player_name": "Max Christie",
-        "team": "DAL",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          1
-        ],
-        "last_3_avg": 1.0,
-        "season_avg": 2.3,
-        "l10_avg": 2.0,
-        "pct_diff_season": -56.5,
-        "pct_diff_l10": -50.0,
-        "comparison": "season",
-        "games_played": 71,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.87,
-          "under_price": 1.87,
-          "market_type": "over_under"
-        },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -71.4,
-        "score": 224.4,
-        "bet_action": "UNDER",
-        "bet_description": "Max Christie UNDER 3.5 Threes"
-      },
-      {
-        "player_name": "Franz Wagner",
-        "team": "ORL",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          12,
-          5,
-          14
-        ],
-        "last_3_avg": 10.3,
-        "season_avg": 21.0,
-        "l10_avg": 17.3,
-        "pct_diff_season": -51.0,
-        "pct_diff_l10": -40.5,
-        "comparison": "season",
-        "games_played": 29,
-        "betting_line": {
-          "line": 13.5,
-          "over_price": 1.87,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -23.7,
-        "score": 122.6,
-        "bet_action": "UNDER",
-        "bet_description": "Franz Wagner UNDER 13.5 Points"
-      },
-      {
         "player_name": "Alex Sarr",
         "team": "WSH",
         "stat": "PTS",
@@ -1108,159 +816,66 @@
         "bet_description": "Alex Sarr UNDER 13.5 Points"
       },
       {
-        "player_name": "Paolo Banchero",
-        "team": "ORL",
+        "player_name": "Kel'el Ware",
+        "team": "MIA",
         "stat": "PTS",
         "stat_label": "Points",
         "direction": "cold",
         "last_3": [
-          11,
-          19,
-          9
-        ],
-        "last_3_avg": 13.0,
-        "season_avg": 22.4,
-        "l10_avg": 23.0,
-        "pct_diff_season": -42.0,
-        "pct_diff_l10": -43.5,
-        "comparison": "l10",
-        "games_played": 66,
-        "betting_line": {
-          "line": 16.5,
-          "over_price": 1.9,
-          "under_price": 1.78,
-          "market_type": "over_under"
-        },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -21.2,
-        "score": 119.3,
-        "bet_action": "UNDER",
-        "bet_description": "Paolo Banchero UNDER 16.5 Points"
-      },
-      {
-        "player_name": "Klay Thompson",
-        "team": "DAL",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
+          8,
           5,
-          7,
-          8
+          5
         ],
-        "last_3_avg": 6.7,
-        "season_avg": 11.7,
-        "l10_avg": 11.5,
-        "pct_diff_season": -42.7,
-        "pct_diff_l10": -41.7,
+        "last_3_avg": 6.0,
+        "season_avg": 10.9,
+        "l10_avg": 8.6,
+        "pct_diff_season": -45.0,
+        "pct_diff_l10": -30.2,
         "comparison": "season",
-        "games_played": 65,
+        "games_played": 72,
         "betting_line": {
-          "line": 20.5,
-          "over_price": 2.01,
-          "under_price": 1.69,
+          "line": 8.5,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -67.3,
-        "score": 236.1,
+        "game": "Washington Wizards @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+        "pct_vs_line": -29.4,
+        "score": 146.1,
         "bet_action": "UNDER",
-        "bet_description": "Klay Thompson UNDER 20.5 Points"
+        "bet_description": "Kel'el Ware UNDER 8.5 Points"
       },
       {
-        "player_name": "Dylan Cardwell",
-        "team": "SAC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          2,
-          4,
-          3
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 5.0,
-        "l10_avg": 4.0,
-        "pct_diff_season": -40.0,
-        "pct_diff_l10": -25.0,
-        "comparison": "season",
-        "games_played": 39,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -33.3,
-        "score": 142.2,
-        "bet_action": "UNDER",
-        "bet_description": "Dylan Cardwell UNDER 4.5 Points"
-      },
-      {
-        "player_name": "Nique Clifford",
-        "team": "SAC",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          1
-        ],
-        "last_3_avg": 1.0,
-        "season_avg": 1.0,
-        "l10_avg": 1.6,
-        "pct_diff_season": 0.0,
-        "pct_diff_l10": -37.5,
-        "comparison": "l10",
-        "games_played": 70,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -33.3,
-        "score": 91.7,
-        "bet_action": "UNDER",
-        "bet_description": "Nique Clifford UNDER 1.5 Threes"
-      },
-      {
-        "player_name": "Ryan Nembhard",
-        "team": "DAL",
+        "player_name": "Jaime Jaquez Jr.",
+        "team": "MIA",
         "stat": "AST",
         "stat_label": "Assists",
         "direction": "cold",
         "last_3": [
-          4,
+          2,
           5,
           2
         ],
-        "last_3_avg": 3.7,
-        "season_avg": 4.9,
-        "l10_avg": 5.8,
-        "pct_diff_season": -24.5,
-        "pct_diff_l10": -36.2,
+        "last_3_avg": 3.0,
+        "season_avg": 4.7,
+        "l10_avg": 5.1,
+        "pct_diff_season": -36.2,
+        "pct_diff_l10": -41.2,
         "comparison": "l10",
-        "games_played": 54,
+        "games_played": 70,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.55,
-          "under_price": 2.25,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
-        "game": "Orlando Magic @ Dallas Mavericks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-dallas-mavericks-10322565",
-        "pct_vs_line": -17.8,
-        "score": 82.3,
+        "game": "Washington Wizards @ Miami Heat",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/washington-wizards-at-miami-heat-10328306",
+        "pct_vs_line": -33.3,
+        "score": 125.1,
         "bet_action": "UNDER",
-        "bet_description": "Ryan Nembhard UNDER 4.5 Assists"
+        "bet_description": "Jaime Jaquez Jr. UNDER 4.5 Assists"
       },
       {
         "player_name": "Will Riley",
@@ -1313,8 +928,8 @@
         "games_played": 30,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Miami Heat",
@@ -1343,79 +958,17 @@
         "comparison": "season",
         "games_played": 65,
         "betting_line": {
-          "line": 20.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "line": 19.5,
+          "over_price": 1.93,
+          "under_price": 1.75,
           "market_type": "over_under"
         },
         "game": "New Orleans Pelicans @ Sacramento Kings",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -26.8,
-        "score": 122.1,
+        "pct_vs_line": -23.1,
+        "score": 113.1,
         "bet_action": "UNDER",
-        "bet_description": "Trey Murphy III UNDER 20.5 Points"
-      },
-      {
-        "player_name": "Jakob Poeltl",
-        "team": "TOR",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          5,
-          4,
-          7
-        ],
-        "last_3_avg": 5.3,
-        "season_avg": 7.5,
-        "l10_avg": 7.6,
-        "pct_diff_season": -29.3,
-        "pct_diff_l10": -30.3,
-        "comparison": "l10",
-        "games_played": 40,
-        "betting_line": {
-          "line": 6.5,
-          "over_price": 1.52,
-          "under_price": 2.3,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Memphis Grizzlies",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-memphis-grizzlies-10322561",
-        "pct_vs_line": -18.5,
-        "score": 87.1,
-        "bet_action": "UNDER",
-        "bet_description": "Jakob Poeltl UNDER 6.5 Rebounds"
-      },
-      {
-        "player_name": "Dylan Cardwell",
-        "team": "SAC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          6,
-          3,
-          7
-        ],
-        "last_3_avg": 5.3,
-        "season_avg": 7.5,
-        "l10_avg": 6.9,
-        "pct_diff_season": -29.3,
-        "pct_diff_l10": -23.2,
-        "comparison": "season",
-        "games_played": 39,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "New Orleans Pelicans @ Sacramento Kings",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-orleans-pelicans-at-sacramento-kings-10322567",
-        "pct_vs_line": -3.6,
-        "score": 51.7,
-        "bet_action": "UNDER",
-        "bet_description": "Dylan Cardwell UNDER 5.5 Rebounds"
+        "bet_description": "Trey Murphy III UNDER 19.5 Points"
       },
       {
         "player_name": "Tre Johnson",
@@ -1470,15 +1023,15 @@
         "pct_diff": -13.8,
         "games_played": 76,
         "betting_line": {
-          "line": 250.5,
-          "over_price": 1.85,
-          "under_price": 1.89
+          "line": 269.5,
+          "over_price": 2.07,
+          "under_price": 1.7
         },
         "game": "Orlando Magic @ Dallas Mavericks",
-        "pct_vs_line": -61.0,
-        "score": 189.5,
+        "pct_vs_line": -63.7,
+        "score": 196.7,
         "bet_action": "UNDER",
-        "bet_description": "Dallas Mavericks UNDER 250.5 Total Points",
+        "bet_description": "Dallas Mavericks UNDER 269.5 Total Points",
         "is_team": true
       },
       {
@@ -1498,15 +1051,15 @@
         "pct_diff": -12.3,
         "games_played": 76,
         "betting_line": {
-          "line": 250.5,
-          "over_price": 1.85,
-          "under_price": 1.89
+          "line": 269.5,
+          "over_price": 2.07,
+          "under_price": 1.7
         },
         "game": "Orlando Magic @ Dallas Mavericks",
-        "pct_vs_line": -59.7,
-        "score": 184.2,
+        "pct_vs_line": -62.5,
+        "score": 191.6,
         "bet_action": "UNDER",
-        "bet_description": "Orlando Magic UNDER 250.5 Total Points",
+        "bet_description": "Orlando Magic UNDER 269.5 Total Points",
         "is_team": true
       }
     ]
@@ -1514,7 +1067,7 @@
   "meta": {
     "total_players_analyzed": 511,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 33,
-    "events_count": 8
+    "players_with_sportsbet_markets": 22,
+    "events_count": 6
   }
 }
