@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T20:07:00.999389+11:00",
+  "generated_at": "2026-04-05T21:07:00.988007+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -732,13 +732,13 @@
         "betting_line": {
           "thresholds": {
             "1": {
-              "price": 1.33
+              "price": 1.32
             },
             "2": {
               "price": 2.55
             },
             "3": {
-              "price": 6
+              "price": 6.25
             }
           },
           "market_type": "threshold"
@@ -1553,8 +1553,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Golden State Warriors",
@@ -1646,8 +1646,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.5,
-          "under_price": 2.45,
+          "over_price": 1.48,
+          "under_price": 2.5,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Chicago Bulls",
@@ -2111,8 +2111,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Golden State Warriors",
@@ -2173,8 +2173,8 @@
         "games_played": 52,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Brooklyn Nets",
@@ -2394,7 +2394,7 @@
               "price": 7.25
             },
             "2": {
-              "price": 2.9
+              "price": 2.95
             },
             "1": {
               "price": 1.41
@@ -2497,7 +2497,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 1.8,
-          "under_price": 1.93,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Dallas Mavericks",
@@ -3209,8 +3209,8 @@
         "games_played": 52,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Brooklyn Nets",
@@ -5118,8 +5118,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Brooklyn Nets",
@@ -5367,13 +5367,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7.5
+              "price": 7.75
             },
             "1": {
               "price": 1.41
             },
             "2": {
-              "price": 2.95
+              "price": 3
             }
           },
           "market_type": "threshold"
@@ -5870,7 +5870,7 @@
         "games_played": 66,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.84,
+          "over_price": 1.83,
           "under_price": 1.92,
           "market_type": "over_under"
         },
@@ -6057,7 +6057,7 @@
         "betting_line": {
           "line": 9.5,
           "over_price": 1.9,
-          "under_price": 1.85,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Chicago Bulls",
@@ -6180,8 +6180,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Washington Wizards @ Brooklyn Nets",
