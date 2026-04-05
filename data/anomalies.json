@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T21:07:00.988007+11:00",
+  "generated_at": "2026-04-05T22:07:00.834436+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -220,6 +220,37 @@
       "bet_description": "OG Anunoby OVER 4.5 Rebounds"
     },
     {
+      "player_name": "Neemias Queta",
+      "team": "BOS",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        19,
+        16,
+        17
+      ],
+      "last_3_avg": 17.3,
+      "season_avg": 10.1,
+      "l10_avg": 12.3,
+      "pct_diff_season": 71.3,
+      "pct_diff_l10": 40.7,
+      "comparison": "season",
+      "games_played": 72,
+      "betting_line": {
+        "line": 9.5,
+        "over_price": 1.8,
+        "under_price": 1.96,
+        "market_type": "over_under"
+      },
+      "game": "Toronto Raptors @ Boston Celtics",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-boston-celtics-10329999",
+      "pct_vs_line": 82.1,
+      "score": 310.0,
+      "bet_action": "OVER",
+      "bet_description": "Neemias Queta OVER 9.5 Points"
+    },
+    {
       "player_name": "Kobe Brown",
       "team": "IND",
       "stat": "PTS",
@@ -239,8 +270,8 @@
       "games_played": 52,
       "betting_line": {
         "line": 11.5,
-        "over_price": 1.91,
-        "under_price": 1.85,
+        "over_price": 1.9,
+        "under_price": 1.86,
         "market_type": "over_under"
       },
       "game": "Indiana Pacers @ Cleveland Cavaliers",
@@ -280,37 +311,6 @@
       "score": 301.1,
       "bet_action": "OVER",
       "bet_description": "Jalen Suggs OVER 1.5 Steals"
-    },
-    {
-      "player_name": "Gary Payton II",
-      "team": "GS",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        8,
-        16,
-        15
-      ],
-      "last_3_avg": 13.0,
-      "season_avg": 7.3,
-      "l10_avg": 14.0,
-      "pct_diff_season": 78.1,
-      "pct_diff_l10": -7.1,
-      "comparison": "season",
-      "games_played": 68,
-      "betting_line": {
-        "line": 7.5,
-        "over_price": 1.84,
-        "under_price": 1.92,
-        "market_type": "over_under"
-      },
-      "game": "Houston Rockets @ Golden State Warriors",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-      "pct_vs_line": 73.3,
-      "score": 289.9,
-      "bet_action": "OVER",
-      "bet_description": "Gary Payton II OVER 7.5 Points"
     }
   ],
   "games": [
@@ -483,8 +483,8 @@
         "games_played": 52,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Cleveland Cavaliers",
@@ -1243,8 +1243,8 @@
         "games_played": 13,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -1490,17 +1490,17 @@
         "comparison": "season",
         "games_played": 72,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "line": 9.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-boston-celtics-10329999",
-        "pct_vs_line": 64.8,
-        "score": 268.3,
+        "pct_vs_line": 82.1,
+        "score": 310.0,
         "bet_action": "OVER",
-        "bet_description": "Neemias Queta OVER 10.5 Points"
+        "bet_description": "Neemias Queta OVER 9.5 Points"
       },
       {
         "player_name": "Precious Achiuwa",
@@ -1584,8 +1584,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -2204,8 +2204,8 @@
         "games_played": 42,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Indiana Pacers @ Cleveland Cavaliers",
@@ -2430,7 +2430,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.6
+              "price": 3.5
             },
             "1": {
               "price": 1.53
@@ -3522,10 +3522,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.75
+              "price": 8.25
             },
             "2": {
-              "price": 3.15
+              "price": 3.1
             },
             "1": {
               "price": 1.45
@@ -3592,13 +3592,13 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 2.8
+              "price": 2.85
             },
             "1": {
-              "price": 1.37
+              "price": 1.39
             },
             "3": {
-              "price": 7
+              "price": 7.25
             }
           },
           "market_type": "threshold"
@@ -3754,8 +3754,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Minnesota Timberwolves",
@@ -3785,8 +3785,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Oklahoma City Thunder",
@@ -4559,17 +4559,17 @@
         "comparison": "l10",
         "games_played": 67,
         "betting_line": {
-          "line": 8.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "line": 9.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-boston-celtics-10329999",
-        "pct_vs_line": -29.4,
-        "score": 107.7,
+        "pct_vs_line": -36.8,
+        "score": 125.5,
         "bet_action": "UNDER",
-        "bet_description": "Ja'Kobe Walter UNDER 8.5 Points"
+        "bet_description": "Ja'Kobe Walter UNDER 9.5 Points"
       },
       {
         "player_name": "Zaccharie Risacher",
@@ -4808,8 +4808,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -5148,17 +5148,17 @@
         "comparison": "season",
         "games_played": 67,
         "betting_line": {
-          "line": 23.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "line": 22.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ New Orleans Pelicans",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-new-orleans-pelicans-10330004",
-        "pct_vs_line": -43.4,
-        "score": 171.4,
+        "pct_vs_line": -40.9,
+        "score": 165.3,
         "bet_action": "UNDER",
-        "bet_description": "Paolo Banchero UNDER 23.5 Points"
+        "bet_description": "Paolo Banchero UNDER 22.5 Points"
       },
       {
         "player_name": "Josh Hart",
@@ -5808,7 +5808,7 @@
         "games_played": 19,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.83,
+          "over_price": 1.84,
           "under_price": 1.92,
           "market_type": "over_under"
         },
@@ -5870,7 +5870,7 @@
         "games_played": 66,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.83,
+          "over_price": 1.84,
           "under_price": 1.92,
           "market_type": "over_under"
         },
