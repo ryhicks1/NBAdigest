@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T13:18:31.554637+11:00",
+  "generated_at": "2026-04-05T13:23:29.840354+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1664,6 +1664,37 @@
         "bet_description": "Scottie Barnes UNDER 17.5 Points"
       },
       {
+        "player_name": "Chet Holmgren",
+        "team": "OKC",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          1,
+          1,
+          0
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 1.2,
+        "l10_avg": 0.8,
+        "pct_diff_season": -41.7,
+        "pct_diff_l10": -12.5,
+        "comparison": "season",
+        "games_played": 69,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.75,
+          "under_price": 1.4,
+          "market_type": "over_under"
+        },
+        "game": "Utah Jazz @ Oklahoma City Thunder",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-oklahoma-city-thunder-10330001",
+        "pct_vs_line": -53.3,
+        "score": 158.4,
+        "bet_action": "UNDER",
+        "bet_description": "Chet Holmgren UNDER 1.5 Threes"
+      },
+      {
         "player_name": "Payton Pritchard",
         "team": "BOS",
         "stat": "REB",
@@ -1786,6 +1817,37 @@
         "score": 68.4,
         "bet_action": "UNDER",
         "bet_description": "Obi Toppin UNDER 3.5 Rebounds"
+      },
+      {
+        "player_name": "Chet Holmgren",
+        "team": "OKC",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          7,
+          13,
+          16
+        ],
+        "last_3_avg": 12.0,
+        "season_avg": 16.3,
+        "l10_avg": 14.7,
+        "pct_diff_season": -26.4,
+        "pct_diff_l10": -18.4,
+        "comparison": "season",
+        "games_played": 69,
+        "betting_line": {
+          "line": 15.5,
+          "over_price": 2.02,
+          "under_price": 1.76,
+          "market_type": "over_under"
+        },
+        "game": "Utah Jazz @ Oklahoma City Thunder",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/utah-jazz-at-oklahoma-city-thunder-10330001",
+        "pct_vs_line": -22.6,
+        "score": 104.6,
+        "bet_action": "UNDER",
+        "bet_description": "Chet Holmgren UNDER 15.5 Points"
       },
       {
         "player_name": "LaMelo Ball",
@@ -1951,7 +2013,7 @@
   "meta": {
     "total_players_analyzed": 512,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 57,
+    "players_with_sportsbet_markets": 59,
     "events_count": 11
   }
 }
