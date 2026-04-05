@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T19:07:00.569944+11:00",
+  "generated_at": "2026-04-05T20:07:00.999389+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -414,10 +414,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.25
+              "price": 7.75
             },
             "2": {
-              "price": 3.05
+              "price": 2.95
             },
             "1": {
               "price": 1.41
@@ -1053,10 +1053,10 @@
               "price": 1.41
             },
             "3": {
-              "price": 7.75
+              "price": 7.5
             },
             "2": {
-              "price": 2.95
+              "price": 2.9
             }
           },
           "market_type": "threshold"
@@ -1491,8 +1491,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -1708,8 +1708,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -2235,8 +2235,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Oklahoma City Thunder",
@@ -2391,10 +2391,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7.75
+              "price": 7.25
             },
             "2": {
-              "price": 2.95
+              "price": 2.9
             },
             "1": {
               "price": 1.41
@@ -2430,7 +2430,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.7
+              "price": 3.6
             },
             "1": {
               "price": 1.53
@@ -2497,7 +2497,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 1.8,
-          "under_price": 1.96,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Dallas Mavericks",
@@ -2992,8 +2992,8 @@
         "games_played": 13,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -3397,8 +3397,8 @@
         "games_played": 14,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ New Orleans Pelicans",
@@ -3521,8 +3521,11 @@
         "games_played": 73,
         "betting_line": {
           "thresholds": {
+            "3": {
+              "price": 8.75
+            },
             "2": {
-              "price": 3.25
+              "price": 3.15
             },
             "1": {
               "price": 1.45
@@ -3782,8 +3785,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Oklahoma City Thunder",
@@ -4433,8 +4436,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.5,
-          "under_price": 1.48,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Utah Jazz @ Oklahoma City Thunder",
@@ -4557,8 +4560,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -4805,8 +4808,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Boston Celtics",
@@ -4868,7 +4871,7 @@
         "betting_line": {
           "line": 14.5,
           "over_price": 1.87,
-          "under_price": 1.88,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ New Orleans Pelicans",
@@ -5867,8 +5870,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ New Orleans Pelicans",
@@ -5898,8 +5901,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Minnesota Timberwolves",
