@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-04-06T15:07:01.289058+11:00",
+  "generated_at": "2026-04-06T16:07:01.792144+11:00",
   "season": "2025-26",
   "featured_bets": [
-    {
-      "player_name": "Reed Sheppard",
-      "team": "HOU",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "hot",
-      "last_3": [
-        4,
-        9,
-        4
-      ],
-      "last_3_avg": 5.7,
-      "season_avg": 2.8,
-      "l10_avg": 3.9,
-      "pct_diff_season": 103.6,
-      "pct_diff_l10": 46.2,
-      "comparison": "season",
-      "games_played": 77,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 2.07,
-        "under_price": 1.68,
-        "market_type": "over_under"
-      },
-      "game": "Houston Rockets @ Golden State Warriors",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-      "pct_vs_line": 280.0,
-      "score": 676.1,
-      "bet_action": "OVER",
-      "bet_description": "Reed Sheppard OVER 1.5 Threes"
-    },
     {
       "player_name": "Jrue Holiday",
       "team": "POR",
@@ -127,37 +96,6 @@
       "bet_description": "Jalen Suggs OVER 1.5 Steals"
     },
     {
-      "player_name": "Brandin Podziemski",
-      "team": "GS",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "hot",
-      "last_3": [
-        2,
-        2,
-        5
-      ],
-      "last_3_avg": 3.0,
-      "season_avg": 1.8,
-      "l10_avg": 2.0,
-      "pct_diff_season": 66.7,
-      "pct_diff_l10": 50.0,
-      "comparison": "season",
-      "games_played": 77,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 2.5,
-        "under_price": 1.47,
-        "market_type": "over_under"
-      },
-      "game": "Houston Rockets @ Golden State Warriors",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-      "pct_vs_line": 100.0,
-      "score": 277.6,
-      "bet_action": "OVER",
-      "bet_description": "Brandin Podziemski OVER 1.5 Threes"
-    },
-    {
       "player_name": "Paul George",
       "team": "PHI",
       "stat": "STL",
@@ -239,8 +177,8 @@
       "games_played": 73,
       "betting_line": {
         "line": 12.5,
-        "over_price": 1.87,
-        "under_price": 1.89,
+        "over_price": 1.86,
+        "under_price": 1.9,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ Denver Nuggets",
@@ -301,8 +239,8 @@
       "games_played": 67,
       "betting_line": {
         "line": 6.5,
-        "over_price": 1.78,
-        "under_price": 2,
+        "over_price": 1.64,
+        "under_price": 2.15,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Orlando Magic",
@@ -311,13 +249,79 @@
       "score": 242.2,
       "bet_action": "OVER",
       "bet_description": "Daniss Jenkins OVER 6.5 Assists"
+    },
+    {
+      "player_name": "Jevon Carter",
+      "team": "ORL",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "cold",
+      "last_3": [
+        5,
+        3,
+        0
+      ],
+      "last_3_avg": 2.7,
+      "season_avg": 6.7,
+      "l10_avg": 7.4,
+      "pct_diff_season": -59.7,
+      "pct_diff_l10": -63.5,
+      "comparison": "l10",
+      "games_played": 46,
+      "betting_line": {
+        "line": 7.5,
+        "over_price": 1.85,
+        "under_price": 1.91,
+        "market_type": "over_under"
+      },
+      "game": "Detroit Pistons @ Orlando Magic",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-orlando-magic-10335739",
+      "pct_vs_line": -64.0,
+      "score": 231.2,
+      "bet_action": "UNDER",
+      "bet_description": "Jevon Carter UNDER 7.5 Points"
+    },
+    {
+      "player_name": "Toumani Camara",
+      "team": "POR",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "hot",
+      "last_3": [
+        6,
+        3,
+        4
+      ],
+      "last_3_avg": 4.3,
+      "season_avg": 2.6,
+      "l10_avg": 3.5,
+      "pct_diff_season": 65.4,
+      "pct_diff_l10": 22.9,
+      "comparison": "season",
+      "games_played": 78,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 1.68,
+        "under_price": 2.1,
+        "market_type": "over_under"
+      },
+      "game": "Portland Trail Blazers @ Denver Nuggets",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-denver-nuggets-10335738",
+      "pct_vs_line": 72.0,
+      "score": 225.8,
+      "bet_action": "OVER",
+      "bet_description": "Toumani Camara OVER 2.5 Threes"
     }
   ],
   "games": [
+    "Charlotte Hornets @ Boston Celtics",
     "Cleveland Cavaliers @ Memphis Grizzlies",
+    "Dallas Mavericks @ Los Angeles Clippers",
     "Detroit Pistons @ Orlando Magic",
-    "Houston Rockets @ Golden State Warriors",
+    "Houston Rockets @ Phoenix Suns",
+    "Miami Heat @ Toronto Raptors",
     "New York Knicks @ Atlanta Hawks",
+    "Oklahoma City Thunder @ Los Angeles Lakers",
     "Philadelphia 76ers @ San Antonio Spurs",
     "Portland Trail Blazers @ Denver Nuggets"
   ],
@@ -343,8 +347,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -373,17 +377,17 @@
         "comparison": "season",
         "games_played": 67,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "line": 17.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-orlando-magic-10335739",
-        "pct_vs_line": 27.3,
-        "score": 233.8,
+        "pct_vs_line": 20.0,
+        "score": 216.4,
         "bet_action": "OVER",
-        "bet_description": "Daniss Jenkins OVER 16.5 Points"
+        "bet_description": "Daniss Jenkins OVER 17.5 Points"
       },
       {
         "player_name": "Jrue Holiday",
@@ -436,8 +440,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -446,37 +450,6 @@
         "score": 148.7,
         "bet_action": "OVER",
         "bet_description": "Daniss Jenkins OVER 4.5 Rebounds"
-      },
-      {
-        "player_name": "Reed Sheppard",
-        "team": "HOU",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "hot",
-        "last_3": [
-          4,
-          9,
-          4
-        ],
-        "last_3_avg": 5.7,
-        "season_avg": 2.8,
-        "l10_avg": 3.9,
-        "pct_diff_season": 103.6,
-        "pct_diff_l10": 46.2,
-        "comparison": "season",
-        "games_played": 77,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.07,
-          "under_price": 1.68,
-          "market_type": "over_under"
-        },
-        "game": "Houston Rockets @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-        "pct_vs_line": 280.0,
-        "score": 676.1,
-        "bet_action": "OVER",
-        "bet_description": "Reed Sheppard OVER 1.5 Threes"
       },
       {
         "player_name": "Jalen Suggs",
@@ -603,68 +576,6 @@
         "bet_description": "Jalen Duren OVER 2.5 Assists"
       },
       {
-        "player_name": "Kevin Durant",
-        "team": "HOU",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          6,
-          9,
-          8
-        ],
-        "last_3_avg": 7.7,
-        "season_avg": 4.6,
-        "l10_avg": 6.5,
-        "pct_diff_season": 67.4,
-        "pct_diff_l10": 18.5,
-        "comparison": "season",
-        "games_played": 77,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.66,
-          "under_price": 2.05,
-          "market_type": "over_under"
-        },
-        "game": "Houston Rockets @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-        "pct_vs_line": 40.0,
-        "score": 184.3,
-        "bet_action": "OVER",
-        "bet_description": "Kevin Durant OVER 5.5 Assists"
-      },
-      {
-        "player_name": "Brandin Podziemski",
-        "team": "GS",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "hot",
-        "last_3": [
-          2,
-          2,
-          5
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 1.8,
-        "l10_avg": 2.0,
-        "pct_diff_season": 66.7,
-        "pct_diff_l10": 50.0,
-        "comparison": "season",
-        "games_played": 77,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.5,
-          "under_price": 1.47,
-          "market_type": "over_under"
-        },
-        "game": "Houston Rockets @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-        "pct_vs_line": 100.0,
-        "score": 277.6,
-        "bet_action": "OVER",
-        "bet_description": "Brandin Podziemski OVER 1.5 Threes"
-      },
-      {
         "player_name": "Paul George",
         "team": "PHI",
         "stat": "STL",
@@ -715,8 +626,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ Denver Nuggets",
@@ -746,8 +657,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ Denver Nuggets",
@@ -851,37 +762,6 @@
         "bet_description": "Victor Wembanyama OVER 28.5 Points"
       },
       {
-        "player_name": "Gui Santos",
-        "team": "GS",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "hot",
-        "last_3": [
-          4,
-          10,
-          4
-        ],
-        "last_3_avg": 6.0,
-        "season_avg": 3.9,
-        "l10_avg": 5.0,
-        "pct_diff_season": 53.8,
-        "pct_diff_l10": 20.0,
-        "comparison": "season",
-        "games_played": 65,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 1.44,
-          "under_price": 2.53,
-          "market_type": "over_under"
-        },
-        "game": "Houston Rockets @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-        "pct_vs_line": 33.3,
-        "score": 144.5,
-        "bet_action": "OVER",
-        "bet_description": "Gui Santos OVER 4.5 Rebounds"
-      },
-      {
         "player_name": "Jalen Suggs",
         "team": "ORL",
         "stat": "AST",
@@ -942,37 +822,6 @@
         "score": 211.4,
         "bet_action": "OVER",
         "bet_description": "Paul George OVER 17.5 Points"
-      },
-      {
-        "player_name": "Brandin Podziemski",
-        "team": "GS",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          25,
-          14,
-          23
-        ],
-        "last_3_avg": 20.7,
-        "season_avg": 13.5,
-        "l10_avg": 16.6,
-        "pct_diff_season": 53.3,
-        "pct_diff_l10": 24.7,
-        "comparison": "season",
-        "games_played": 77,
-        "betting_line": {
-          "line": 17.5,
-          "over_price": 1.69,
-          "under_price": 2.07,
-          "market_type": "over_under"
-        },
-        "game": "Houston Rockets @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-        "pct_vs_line": 18.3,
-        "score": 129.6,
-        "bet_action": "OVER",
-        "bet_description": "Brandin Podziemski OVER 17.5 Points"
       },
       {
         "player_name": "Victor Wembanyama",
@@ -1057,7 +906,7 @@
         "betting_line": {
           "line": 4.5,
           "over_price": 2.2,
-          "under_price": 1.6,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -1087,8 +936,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ San Antonio Spurs",
@@ -1242,8 +1091,8 @@
         "games_played": 33,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Atlanta Hawks",
@@ -1428,8 +1277,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ San Antonio Spurs",
@@ -1802,8 +1651,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ Denver Nuggets",
@@ -1895,8 +1744,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ San Antonio Spurs",
@@ -2081,8 +1930,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Atlanta Hawks",
@@ -2391,8 +2240,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -2713,37 +2562,6 @@
         "bet_description": "Robert Williams III UNDER 7.5 Points"
       },
       {
-        "player_name": "Stephen Curry",
-        "team": "GS",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          4,
-          4,
-          3
-        ],
-        "last_3_avg": 3.7,
-        "season_avg": 4.5,
-        "l10_avg": 3.7,
-        "pct_diff_season": -17.8,
-        "pct_diff_l10": 0.0,
-        "comparison": "season",
-        "games_played": 39,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 2.13,
-          "under_price": 1.66,
-          "market_type": "over_under"
-        },
-        "game": "Houston Rockets @ Golden State Warriors",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-golden-state-warriors-10330008",
-        "pct_vs_line": 5.7,
-        "score": 45.3,
-        "bet_action": "UNDER",
-        "bet_description": "Stephen Curry UNDER 3.5 Threes"
-      },
-      {
         "player_name": "Joel Embiid",
         "team": "PHI",
         "stat": "PTS",
@@ -2762,17 +2580,17 @@
         "comparison": "l10",
         "games_played": 37,
         "betting_line": {
-          "line": 27.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "line": 28.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-san-antonio-spurs-10335740",
-        "pct_vs_line": -10.2,
-        "score": 51.3,
+        "pct_vs_line": -13.3,
+        "score": 58.9,
         "bet_action": "UNDER",
-        "bet_description": "Joel Embiid UNDER 27.5 Points"
+        "bet_description": "Joel Embiid UNDER 28.5 Points"
       },
       {
         "player_name": "Jalen Johnson",
@@ -2808,13 +2626,42 @@
     ]
   },
   "team_anomalies": {
-    "hot": [],
+    "hot": [
+      {
+        "team_name": "Boston Celtics",
+        "team_abbr": "BOS",
+        "stat": "total_points",
+        "stat_label": "Total Points",
+        "direction": "hot",
+        "last_3": [
+          115,
+          133,
+          147
+        ],
+        "last_3_avg": 131.7,
+        "season_avg": 114.6,
+        "l10_avg": 116.8,
+        "pct_diff": 14.9,
+        "games_played": 78,
+        "betting_line": {
+          "line": 220.5,
+          "over_price": 1.89,
+          "under_price": 1.91
+        },
+        "game": "Charlotte Hornets @ Boston Celtics",
+        "pct_vs_line": -40.3,
+        "score": 137.1,
+        "bet_action": "OVER",
+        "bet_description": "Boston Celtics OVER 220.5 Total Points",
+        "is_team": true
+      }
+    ],
     "cold": []
   },
   "meta": {
     "total_players_analyzed": 509,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 66,
-    "events_count": 6
+    "players_with_sportsbet_markets": 58,
+    "events_count": 10
   }
 }
