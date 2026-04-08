@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T20:07:01.079789+11:00",
+  "generated_at": "2026-04-08T21:07:01.339987+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -736,7 +736,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.75
+              "price": 3.7
             },
             "1": {
               "price": 1.58
@@ -864,8 +864,8 @@
         "games_played": 33,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1359,37 +1359,6 @@
         "bet_description": "Donovan Clingan UNDER 12.5 Points"
       },
       {
-        "player_name": "CJ McCollum",
-        "team": "ATL",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          2,
-          1,
-          1
-        ],
-        "last_3_avg": 1.3,
-        "season_avg": 3.3,
-        "l10_avg": 2.3,
-        "pct_diff_season": -60.6,
-        "pct_diff_l10": -43.5,
-        "comparison": "season",
-        "games_played": 73,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
-          "market_type": "over_under"
-        },
-        "game": "Atlanta Hawks @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/atlanta-hawks-at-cleveland-cavaliers-10341708",
-        "pct_vs_line": -48.0,
-        "score": 188.1,
-        "bet_action": "UNDER",
-        "bet_description": "CJ McCollum UNDER 2.5 Rebounds"
-      },
-      {
         "player_name": "Cooper Flagg",
         "team": "DAL",
         "stat": "AST",
@@ -1719,8 +1688,8 @@
         "games_played": 50,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1874,8 +1843,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -2091,7 +2060,7 @@
         "games_played": 72,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.87,
+          "over_price": 1.86,
           "under_price": 1.89,
           "market_type": "over_under"
         },
