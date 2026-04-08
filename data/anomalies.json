@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T02:07:00.961183+11:00",
+  "generated_at": "2026-04-09T03:07:00.903727+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -437,8 +437,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -530,8 +530,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -685,8 +685,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -871,7 +871,7 @@
         "games_played": 79,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.83,
+          "over_price": 1.8,
           "under_price": 1.93,
           "market_type": "over_under"
         },
@@ -1031,8 +1031,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Memphis Grizzlies @ Denver Nuggets",
@@ -1093,8 +1093,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1219,8 +1219,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Memphis Grizzlies @ Denver Nuggets",
@@ -1250,8 +1250,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1322,37 +1322,6 @@
         "score": 211.3,
         "bet_action": "UNDER",
         "bet_description": "Harrison Barnes UNDER 9.5 Points"
-      },
-      {
-        "player_name": "Anthony Black",
-        "team": "ORL",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          1,
-          3,
-          1
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 3.9,
-        "l10_avg": 2.9,
-        "pct_diff_season": -56.4,
-        "pct_diff_l10": -41.4,
-        "comparison": "season",
-        "games_played": 60,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Orlando Magic",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-orlando-magic-10341711",
-        "pct_vs_line": -32.0,
-        "score": 143.4,
-        "bet_action": "UNDER",
-        "bet_description": "Anthony Black UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -1436,8 +1405,8 @@
         "games_played": 43,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1446,37 +1415,6 @@
         "score": 114.8,
         "bet_action": "UNDER",
         "bet_description": "Darius Garland UNDER 2.5 Threes"
-      },
-      {
-        "player_name": "Franz Wagner",
-        "team": "ORL",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          2,
-          1,
-          2
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 3.4,
-        "l10_avg": 2.8,
-        "pct_diff_season": -50.0,
-        "pct_diff_l10": -39.3,
-        "comparison": "season",
-        "games_played": 31,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Orlando Magic",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-orlando-magic-10341711",
-        "pct_vs_line": -32.0,
-        "score": 138.1,
-        "bet_action": "UNDER",
-        "bet_description": "Franz Wagner UNDER 2.5 Assists"
       },
       {
         "player_name": "Nickeil Alexander-Walker",
@@ -1510,68 +1448,6 @@
         "bet_description": "Nickeil Alexander-Walker UNDER 3.5 Assists"
       },
       {
-        "player_name": "Isaiah Hartenstein",
-        "team": "OKC",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          2,
-          3,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.6,
-        "l10_avg": 3.9,
-        "pct_diff_season": -36.1,
-        "pct_diff_l10": -41.0,
-        "comparison": "l10",
-        "games_played": 46,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Clippers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-clippers-10341713",
-        "pct_vs_line": -8.0,
-        "score": 72.6,
-        "bet_action": "UNDER",
-        "bet_description": "Isaiah Hartenstein UNDER 2.5 Assists"
-      },
-      {
-        "player_name": "Anthony Black",
-        "team": "ORL",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          2,
-          3,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.9,
-        "l10_avg": 2.8,
-        "pct_diff_season": -41.0,
-        "pct_diff_l10": -17.9,
-        "comparison": "season",
-        "games_played": 60,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Orlando Magic",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-orlando-magic-10341711",
-        "pct_vs_line": -8.0,
-        "score": 83.5,
-        "bet_action": "UNDER",
-        "bet_description": "Anthony Black UNDER 2.5 Assists"
-      },
-      {
         "player_name": "Franz Wagner",
         "team": "ORL",
         "stat": "REB",
@@ -1591,8 +1467,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1746,8 +1622,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1808,8 +1684,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1839,8 +1715,8 @@
         "games_played": 27,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1901,8 +1777,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -2025,7 +1901,7 @@
         "games_played": 67,
         "betting_line": {
           "line": 29.5,
-          "over_price": 1.88,
+          "over_price": 1.87,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -2089,7 +1965,7 @@
         "games_played": 79,
         "betting_line": {
           "line": 226.5,
-          "over_price": 1.86,
+          "over_price": 1.88,
           "under_price": 1.94
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -2133,7 +2009,7 @@
   "meta": {
     "total_players_analyzed": 514,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 54,
+    "players_with_sportsbet_markets": 55,
     "events_count": 7
   }
 }
