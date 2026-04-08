@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T06:07:00.739935+11:00",
+  "generated_at": "2026-04-09T07:07:00.759776+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 79,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.64,
-        "under_price": 2.15,
+        "over_price": 1.6,
+        "under_price": 2.2,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -84,8 +84,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -127,37 +127,6 @@
       "bet_description": "Jalen Suggs OVER 5.5 Assists"
     },
     {
-      "player_name": "Cooper Flagg",
-      "team": "DAL",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        25,
-        45,
-        51
-      ],
-      "last_3_avg": 40.3,
-      "season_avg": 21.2,
-      "l10_avg": 26.9,
-      "pct_diff_season": 90.1,
-      "pct_diff_l10": 49.8,
-      "comparison": "season",
-      "games_played": 67,
-      "betting_line": {
-        "line": 25.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
-        "market_type": "over_under"
-      },
-      "game": "Dallas Mavericks @ Phoenix Suns",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/dallas-mavericks-at-phoenix-suns-10341709",
-      "pct_vs_line": 58.0,
-      "score": 267.5,
-      "bet_action": "OVER",
-      "bet_description": "Cooper Flagg OVER 25.5 Points"
-    },
-    {
       "player_name": "Scoot Henderson",
       "team": "POR",
       "stat": "FG3M",
@@ -187,6 +156,37 @@
       "score": 264.7,
       "bet_action": "OVER",
       "bet_description": "Scoot Henderson OVER 1.5 Threes"
+    },
+    {
+      "player_name": "Cooper Flagg",
+      "team": "DAL",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        25,
+        45,
+        51
+      ],
+      "last_3_avg": 40.3,
+      "season_avg": 21.2,
+      "l10_avg": 26.9,
+      "pct_diff_season": 90.1,
+      "pct_diff_l10": 49.8,
+      "comparison": "season",
+      "games_played": 67,
+      "betting_line": {
+        "line": 27.5,
+        "over_price": 1.96,
+        "under_price": 1.8,
+        "market_type": "over_under"
+      },
+      "game": "Dallas Mavericks @ Phoenix Suns",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/dallas-mavericks-at-phoenix-suns-10341709",
+      "pct_vs_line": 46.5,
+      "score": 239.9,
+      "bet_action": "OVER",
+      "bet_description": "Cooper Flagg OVER 27.5 Points"
     },
     {
       "player_name": "Toumani Camara",
@@ -239,8 +239,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 2.5,
-        "over_price": 2.15,
-        "under_price": 1.64,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -301,8 +301,8 @@
       "games_played": 75,
       "betting_line": {
         "line": 9.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 2.05,
+        "under_price": 1.74,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -375,8 +375,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -405,17 +405,17 @@
         "comparison": "season",
         "games_played": 67,
         "betting_line": {
-          "line": 25.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 27.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Dallas Mavericks @ Phoenix Suns",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/dallas-mavericks-at-phoenix-suns-10341709",
-        "pct_vs_line": 58.0,
-        "score": 267.5,
+        "pct_vs_line": 46.5,
+        "score": 239.9,
         "bet_action": "OVER",
-        "bet_description": "Cooper Flagg OVER 25.5 Points"
+        "bet_description": "Cooper Flagg OVER 27.5 Points"
       },
       {
         "player_name": "Luguentz Dort",
@@ -437,8 +437,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -561,8 +561,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -654,8 +654,8 @@
         "games_played": 50,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -809,8 +809,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -871,11 +871,14 @@
         "games_played": 67,
         "betting_line": {
           "thresholds": {
+            "3": {
+              "price": 8.75
+            },
             "2": {
-              "price": 3.7
+              "price": 3.25
             },
             "1": {
-              "price": 1.58
+              "price": 1.49
             }
           },
           "market_type": "threshold"
@@ -906,17 +909,17 @@
         "comparison": "l10",
         "games_played": 73,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "line": 9.5,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/atlanta-hawks-at-cleveland-cavaliers-10341708",
-        "pct_vs_line": 14.3,
-        "score": 78.4,
+        "pct_vs_line": 26.3,
+        "score": 104.9,
         "bet_action": "OVER",
-        "bet_description": "Jalen Johnson OVER 10.5 Rebounds"
+        "bet_description": "Jalen Johnson OVER 9.5 Rebounds"
       },
       {
         "player_name": "Shai Gilgeous-Alexander",
@@ -1000,8 +1003,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Memphis Grizzlies @ Denver Nuggets",
@@ -1062,8 +1065,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1126,8 +1129,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1157,8 +1160,8 @@
         "games_played": 34,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1188,8 +1191,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Memphis Grizzlies @ Denver Nuggets",
@@ -1219,8 +1222,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1281,8 +1284,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1355,37 +1358,6 @@
         "bet_description": "Tim Hardaway Jr. UNDER 2.5 Threes"
       },
       {
-        "player_name": "Darius Garland",
-        "team": "LAC",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          2,
-          2,
-          1
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 2.8,
-        "l10_avg": 3.4,
-        "pct_diff_season": -39.3,
-        "pct_diff_l10": -50.0,
-        "comparison": "l10",
-        "games_played": 43,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Clippers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-clippers-10341713",
-        "pct_vs_line": -32.0,
-        "score": 114.8,
-        "bet_action": "UNDER",
-        "bet_description": "Darius Garland UNDER 2.5 Threes"
-      },
-      {
         "player_name": "Franz Wagner",
         "team": "ORL",
         "stat": "AST",
@@ -1436,8 +1408,8 @@
         "games_played": 80,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1634,37 +1606,6 @@
         "bet_description": "Wendell Carter Jr. UNDER 7.5 Rebounds"
       },
       {
-        "player_name": "Darius Garland",
-        "team": "LAC",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          4,
-          6,
-          3
-        ],
-        "last_3_avg": 4.3,
-        "season_avg": 6.7,
-        "l10_avg": 6.2,
-        "pct_diff_season": -35.8,
-        "pct_diff_l10": -30.6,
-        "comparison": "season",
-        "games_played": 43,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Clippers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-clippers-10341713",
-        "pct_vs_line": -21.8,
-        "score": 99.9,
-        "bet_action": "UNDER",
-        "bet_description": "Darius Garland UNDER 5.5 Assists"
-      },
-      {
         "player_name": "Anthony Black",
         "team": "ORL",
         "stat": "PTS",
@@ -1684,8 +1625,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1715,8 +1656,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1746,8 +1687,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1838,17 +1779,17 @@
         "comparison": "l10",
         "games_played": 67,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "line": 4.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10341712",
-        "pct_vs_line": -22.9,
-        "score": 94.6,
+        "pct_vs_line": -40.0,
+        "score": 132.3,
         "bet_action": "UNDER",
-        "bet_description": "Dylan Harper UNDER 3.5 Rebounds"
+        "bet_description": "Dylan Harper UNDER 4.5 Rebounds"
       },
       {
         "player_name": "Luke Kornet",
@@ -1870,8 +1811,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1902,7 +1843,7 @@
         "betting_line": {
           "line": 29.5,
           "over_price": 1.88,
-          "under_price": 1.87,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1932,8 +1873,8 @@
         "games_played": 80,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1964,15 +1905,15 @@
         "pct_diff": 14.0,
         "games_played": 79,
         "betting_line": {
-          "line": 227.5,
+          "line": 226.5,
           "over_price": 1.9,
           "under_price": 1.9
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
-        "pct_vs_line": -40.2,
-        "score": 135.8,
+        "pct_vs_line": -40.0,
+        "score": 135.1,
         "bet_action": "OVER",
-        "bet_description": "Oklahoma City Thunder OVER 227.5 Total Points",
+        "bet_description": "Oklahoma City Thunder OVER 226.5 Total Points",
         "is_team": true
       },
       {
@@ -2009,7 +1950,7 @@
   "meta": {
     "total_players_analyzed": 514,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 52,
+    "players_with_sportsbet_markets": 50,
     "events_count": 7
   }
 }
