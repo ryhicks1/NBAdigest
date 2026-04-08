@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-04-09T05:07:00.680752+11:00",
+  "generated_at": "2026-04-09T06:07:00.739935+11:00",
   "season": "2025-26",
   "featured_bets": [
+    {
+      "player_name": "Toumani Camara",
+      "team": "POR",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "hot",
+      "last_3": [
+        8,
+        6,
+        3
+      ],
+      "last_3_avg": 5.7,
+      "season_avg": 2.7,
+      "l10_avg": 4.1,
+      "pct_diff_season": 111.1,
+      "pct_diff_l10": 39.0,
+      "comparison": "season",
+      "games_played": 79,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 1.64,
+        "under_price": 2.15,
+        "market_type": "over_under"
+      },
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10341712",
+      "pct_vs_line": 128.0,
+      "score": 381.2,
+      "bet_action": "OVER",
+      "bet_description": "Toumani Camara OVER 2.5 Threes"
+    },
     {
       "player_name": "Jrue Holiday",
       "team": "POR",
@@ -160,37 +191,6 @@
     {
       "player_name": "Toumani Camara",
       "team": "POR",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "hot",
-      "last_3": [
-        8,
-        6,
-        3
-      ],
-      "last_3_avg": 5.7,
-      "season_avg": 2.7,
-      "l10_avg": 4.1,
-      "pct_diff_season": 111.1,
-      "pct_diff_l10": 39.0,
-      "comparison": "season",
-      "games_played": 79,
-      "betting_line": {
-        "line": 3.5,
-        "over_price": 2.45,
-        "under_price": 1.5,
-        "market_type": "over_under"
-      },
-      "game": "Portland Trail Blazers @ San Antonio Spurs",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10341712",
-      "pct_vs_line": 62.9,
-      "score": 250.9,
-      "bet_action": "OVER",
-      "bet_description": "Toumani Camara OVER 3.5 Threes"
-    },
-    {
-      "player_name": "Toumani Camara",
-      "team": "POR",
       "stat": "PTS",
       "stat_label": "Points",
       "direction": "hot",
@@ -208,8 +208,8 @@
       "games_played": 79,
       "betting_line": {
         "line": 15.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2.05,
+        "under_price": 1.74,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -374,17 +374,17 @@
         "comparison": "season",
         "games_played": 79,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "line": 2.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10341712",
-        "pct_vs_line": 62.9,
-        "score": 250.9,
+        "pct_vs_line": 128.0,
+        "score": 381.2,
         "bet_action": "OVER",
-        "bet_description": "Toumani Camara OVER 3.5 Threes"
+        "bet_description": "Toumani Camara OVER 2.5 Threes"
       },
       {
         "player_name": "Cooper Flagg",
@@ -468,8 +468,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -685,8 +685,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -716,8 +716,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -809,8 +809,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.93,
-          "under_price": 1.8,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -872,10 +872,10 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.75
+              "price": 3.7
             },
             "1": {
-              "price": 1.59
+              "price": 1.58
             }
           },
           "market_type": "threshold"
@@ -907,8 +907,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1062,8 +1062,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1374,8 +1374,8 @@
         "games_played": 43,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1415,6 +1415,37 @@
         "score": 138.1,
         "bet_action": "UNDER",
         "bet_description": "Franz Wagner UNDER 2.5 Assists"
+      },
+      {
+        "player_name": "Keldon Johnson",
+        "team": "SA",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          1,
+          0,
+          1
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 1.2,
+        "l10_avg": 1.4,
+        "pct_diff_season": -41.7,
+        "pct_diff_l10": -50.0,
+        "comparison": "l10",
+        "games_played": 80,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.3,
+          "under_price": 1.56,
+          "market_type": "over_under"
+        },
+        "game": "Portland Trail Blazers @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10341712",
+        "pct_vs_line": -53.3,
+        "score": 158.4,
+        "bet_action": "UNDER",
+        "bet_description": "Keldon Johnson UNDER 1.5 Threes"
       },
       {
         "player_name": "Nickeil Alexander-Walker",
@@ -1653,8 +1684,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.92,
-          "under_price": 1.83,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1684,8 +1715,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 14.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1871,7 +1902,7 @@
         "betting_line": {
           "line": 29.5,
           "over_price": 1.88,
-          "under_price": 1.88,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1880,6 +1911,37 @@
         "score": 94.3,
         "bet_action": "UNDER",
         "bet_description": "Shai Gilgeous-Alexander UNDER 29.5 Points"
+      },
+      {
+        "player_name": "Keldon Johnson",
+        "team": "SA",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          13,
+          10,
+          13
+        ],
+        "last_3_avg": 12.0,
+        "season_avg": 12.9,
+        "l10_avg": 14.4,
+        "pct_diff_season": -7.0,
+        "pct_diff_l10": -16.7,
+        "comparison": "l10",
+        "games_played": 80,
+        "betting_line": {
+          "line": 13.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Portland Trail Blazers @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10341712",
+        "pct_vs_line": -11.1,
+        "score": 60.9,
+        "bet_action": "UNDER",
+        "bet_description": "Keldon Johnson UNDER 13.5 Points"
       }
     ]
   },
@@ -1930,15 +1992,15 @@
         "pct_diff": 10.3,
         "games_played": 79,
         "betting_line": {
-          "line": 245.5,
-          "over_price": 1.88,
-          "under_price": 1.92
+          "line": 246.5,
+          "over_price": 1.9,
+          "under_price": 1.9
         },
         "game": "Memphis Grizzlies @ Denver Nuggets",
-        "pct_vs_line": -45.3,
-        "score": 144.2,
+        "pct_vs_line": -45.5,
+        "score": 144.7,
         "bet_action": "OVER",
-        "bet_description": "Denver Nuggets OVER 245.5 Total Points",
+        "bet_description": "Denver Nuggets OVER 246.5 Total Points",
         "is_team": true
       }
     ],
@@ -1947,7 +2009,7 @@
   "meta": {
     "total_players_analyzed": 514,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 51,
+    "players_with_sportsbet_markets": 52,
     "events_count": 7
   }
 }
