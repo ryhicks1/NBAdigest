@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T00:09:53.938178+11:00",
+  "generated_at": "2026-04-09T00:14:54.964424+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1560,8 +1560,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1901,8 +1901,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
