@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T00:05:01.257092+11:00",
+  "generated_at": "2026-04-09T00:09:53.938178+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1031,8 +1031,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Memphis Grizzlies @ Denver Nuggets",
@@ -1405,8 +1405,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Memphis Grizzlies @ Denver Nuggets",
