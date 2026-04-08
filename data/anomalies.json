@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T01:07:01.268636+11:00",
+  "generated_at": "2026-04-09T02:07:00.961183+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -239,8 +239,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 2.5,
-        "over_price": 2.15,
-        "under_price": 1.64,
+        "over_price": 2.1,
+        "under_price": 1.68,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -301,8 +301,8 @@
       "games_played": 75,
       "betting_line": {
         "line": 9.5,
-        "over_price": 2.05,
-        "under_price": 1.74,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -437,8 +437,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -530,8 +530,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -561,8 +561,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -685,8 +685,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -871,8 +871,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -903,10 +903,10 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.8
+              "price": 3.75
             },
             "1": {
-              "price": 1.59
+              "price": 1.58
             }
           },
           "market_type": "threshold"
@@ -1000,8 +1000,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1093,8 +1093,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ Cleveland Cavaliers",
@@ -1250,8 +1250,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1312,8 +1312,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1436,8 +1436,8 @@
         "games_played": 43,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1467,8 +1467,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1746,8 +1746,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -1808,8 +1808,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
@@ -1901,8 +1901,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.92,
-          "under_price": 1.83,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -2056,8 +2056,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Orlando Magic",
@@ -2088,15 +2088,15 @@
         "pct_diff": 14.0,
         "games_played": 79,
         "betting_line": {
-          "line": 225.5,
+          "line": 226.5,
           "over_price": 1.86,
           "under_price": 1.94
         },
         "game": "Oklahoma City Thunder @ Los Angeles Clippers",
-        "pct_vs_line": -39.7,
-        "score": 134.4,
+        "pct_vs_line": -40.0,
+        "score": 135.1,
         "bet_action": "OVER",
-        "bet_description": "Oklahoma City Thunder OVER 225.5 Total Points",
+        "bet_description": "Oklahoma City Thunder OVER 226.5 Total Points",
         "is_team": true
       },
       {
