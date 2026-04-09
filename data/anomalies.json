@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T20:07:01.195368+11:00",
+  "generated_at": "2026-04-09T21:07:00.996136+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 75,
       "betting_line": {
         "line": 5.5,
-        "over_price": 2.1,
-        "under_price": 1.68,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Los Angeles Lakers @ Golden State Warriors",
@@ -84,8 +84,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 2.5,
-        "over_price": 2.6,
-        "under_price": 1.45,
+        "over_price": 2.5,
+        "under_price": 1.48,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Houston Rockets",
@@ -508,8 +508,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Golden State Warriors",
@@ -694,8 +694,8 @@
         "games_played": 60,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Golden State Warriors",
@@ -756,8 +756,8 @@
         "games_played": 34,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Houston Rockets",
@@ -882,8 +882,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Houston Rockets",
@@ -1285,7 +1285,7 @@
         "games_played": 43,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.85,
+          "over_price": 1.86,
           "under_price": 1.9,
           "market_type": "over_under"
         },
@@ -1440,8 +1440,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Miami Heat @ Toronto Raptors",
