@@ -12,6 +12,7 @@ from fetch_stats import fetch_all_stats
 from fetch_odds import fetch_all_odds
 from analyze import detect_player_anomalies, detect_team_anomalies, merge_with_odds, pick_featured_bets
 from config import apply_affiliate_tag
+from track_results import load_or_init_history, record_bets, resolve_pending, save_history, build_summary
 
 
 STATS_CACHE_PATH = os.path.join(
@@ -103,7 +104,22 @@ def run_pipeline(odds_only=False):
     for i, f in enumerate(featured, 1):
         print(f"  {i}. {f['bet_description']} (score: {f['score']})")
 
-    # Step 6: Build output
+    # Step 6: Track bet outcomes
+    print("--- Step 6: Tracking bet outcomes ---")
+    today_str = now.strftime("%Y-%m-%d")
+    bet_history = load_or_init_history()
+    added = record_bets(bet_history, featured, today_str)
+    print(f"Recorded {added} new bets for {today_str}")
+    settled = resolve_pending(bet_history, stats_data)
+    print(f"Settled {settled} pending bets")
+    save_history(bet_history)
+    tracking_summary = build_summary(bet_history)
+    total_s = tracking_summary["settled"]
+    wins = tracking_summary["wins"]
+    win_rate = tracking_summary["win_rate"]
+    print(f"All-time: {wins}W/{tracking_summary['losses']}L out of {total_s} ({win_rate}% win rate)")
+
+    # Step 7: Build output
     # Build games list for the filter dropdown
     games = []
     for event in odds_data.get("events", []):
@@ -118,6 +134,7 @@ def run_pipeline(odds_only=False):
         "generated_at": now.isoformat(),
         "season": "2025-26",
         "featured_bets": featured,
+        "tracking": tracking_summary,
         "games": sorted(set(games)),
         "player_anomalies": {
             "hot": [a for a in player_anomalies if a["direction"] == "hot"],

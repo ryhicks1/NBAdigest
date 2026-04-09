@@ -16,7 +16,7 @@ fi
 python3 src/main.py "$@"
 
 # Commit and push if data changed
-git add data/anomalies.json
+git add data/anomalies.json data/bet_history.json
 if ! git diff --staged --quiet; then
   git commit -m "Update anomalies digest $(date +%Y-%m-%d-%H%M)"
   git push
