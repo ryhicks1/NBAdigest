@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T20:07:01.088827+11:00",
+  "generated_at": "2026-04-16T21:07:01.449875+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -208,8 +208,8 @@
       "games_played": 76,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.72,
-        "under_price": 2.08,
+        "over_price": 1.74,
+        "under_price": 2.05,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -541,8 +541,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1037,8 +1037,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1536,13 +1536,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.25
+              "price": 7.75
             },
             "1": {
-              "price": 1.43
+              "price": 1.45
             },
             "2": {
-              "price": 3.1
+              "price": 3.05
             }
           },
           "market_type": "threshold"
@@ -1575,10 +1575,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.25
+              "price": 8.5
             },
             "1": {
-              "price": 1.44
+              "price": 1.45
             },
             "2": {
               "price": 3.1
@@ -2110,7 +2110,7 @@
         "betting_line": {
           "line": 10.5,
           "over_price": 1.8,
-          "under_price": 1.96,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -2636,8 +2636,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2671,7 +2671,7 @@
               "price": 2.2
             },
             "1": {
-              "price": 1.24
+              "price": 1.23
             },
             "3": {
               "price": 5.1
@@ -2799,8 +2799,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2892,8 +2892,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
