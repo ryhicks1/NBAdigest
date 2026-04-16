@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T16:07:00.842285+11:00",
+  "generated_at": "2026-04-16T17:07:01.260517+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -856,7 +856,7 @@
         "games_played": 71,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.08,
+          "over_price": 2.1,
           "under_price": 1.72,
           "market_type": "over_under"
         },
@@ -887,8 +887,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -980,8 +980,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -1042,8 +1042,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -1476,8 +1476,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -1663,7 +1663,7 @@
         "betting_line": {
           "line": 21.5,
           "over_price": 1.92,
-          "under_price": 1.85,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1693,8 +1693,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 27.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -2052,8 +2052,8 @@
         "games_played": 32,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2114,8 +2114,8 @@
         "games_played": 11,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.5,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2765,8 +2765,8 @@
         "games_played": 45,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2889,8 +2889,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3013,8 +3013,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -3424,8 +3424,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3517,8 +3517,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 18.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -3827,8 +3827,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3859,7 +3859,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 2.2,
-          "under_price": 1.6,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
