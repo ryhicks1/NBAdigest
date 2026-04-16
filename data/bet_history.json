@@ -2599,6 +2599,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-16|Payton Pritchard|FG3M|1.5|OVER",
+      "suggested_date": "2026-04-16",
+      "player_name": "Payton Pritchard",
+      "team": "BOS",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 1.5,
+      "under_price": 2.45,
+      "bet_description": "Payton Pritchard OVER 1.5 Threes",
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "last_3_avg": 4.0,
+      "season_avg": 2.7,
+      "score": 400.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }

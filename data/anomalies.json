@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T17:07:01.260517+11:00",
+  "generated_at": "2026-04-16T18:07:01.144733+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -32,6 +32,37 @@
       "score": 454.9,
       "bet_action": "OVER",
       "bet_description": "Mitchell Robinson OVER 4.5 Points"
+    },
+    {
+      "player_name": "Payton Pritchard",
+      "team": "BOS",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "hot",
+      "last_3": [
+        5,
+        3,
+        4
+      ],
+      "last_3_avg": 4.0,
+      "season_avg": 2.7,
+      "l10_avg": 3.5,
+      "pct_diff_season": 48.1,
+      "pct_diff_l10": 14.3,
+      "comparison": "season",
+      "games_played": 79,
+      "betting_line": {
+        "line": 1.5,
+        "over_price": 1.5,
+        "under_price": 2.45,
+        "market_type": "over_under"
+      },
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10380294",
+      "pct_vs_line": 166.7,
+      "score": 400.3,
+      "bet_action": "OVER",
+      "bet_description": "Payton Pritchard OVER 1.5 Threes"
     },
     {
       "player_name": "Donovan Clingan",
@@ -280,45 +311,14 @@
       "score": 254.5,
       "bet_action": "UNDER",
       "bet_description": "Onyeka Okongwu UNDER 2.5 Assists"
-    },
-    {
-      "player_name": "Marcus Smart",
-      "team": "LAL",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "cold",
-      "last_3": [
-        0,
-        0,
-        1
-      ],
-      "last_3_avg": 0.3,
-      "season_avg": 1.6,
-      "l10_avg": 1.7,
-      "pct_diff_season": -81.2,
-      "pct_diff_l10": -82.4,
-      "comparison": "l10",
-      "games_played": 61,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
-        "market_type": "over_under"
-      },
-      "game": "Houston Rockets @ Los Angeles Lakers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10368480",
-      "pct_vs_line": -80.0,
-      "score": 251.2,
-      "bet_action": "UNDER",
-      "bet_description": "Marcus Smart UNDER 1.5 Threes"
     }
   ],
   "tracking": {
-    "total_bets": 130,
+    "total_bets": 131,
     "settled": 100,
     "wins": 55,
     "losses": 45,
-    "pending": 12,
+    "pending": 13,
     "no_game": 18,
     "win_rate": 55.0,
     "recent_win_rate": 60.0,
@@ -857,7 +857,7 @@
         "betting_line": {
           "line": 4.5,
           "over_price": 2.1,
-          "under_price": 1.72,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -1021,6 +1021,37 @@
         "score": 190.4,
         "bet_action": "OVER",
         "bet_description": "Amen Thompson OVER 18.5 Points"
+      },
+      {
+        "player_name": "Payton Pritchard",
+        "team": "BOS",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "hot",
+        "last_3": [
+          5,
+          3,
+          4
+        ],
+        "last_3_avg": 4.0,
+        "season_avg": 2.7,
+        "l10_avg": 3.5,
+        "pct_diff_season": 48.1,
+        "pct_diff_l10": 14.3,
+        "comparison": "season",
+        "games_played": 79,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 1.5,
+          "under_price": 2.45,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Boston Celtics",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10380294",
+        "pct_vs_line": 166.7,
+        "score": 400.3,
+        "bet_action": "OVER",
+        "bet_description": "Payton Pritchard OVER 1.5 Threes"
       },
       {
         "player_name": "VJ Edgecombe",
@@ -1259,8 +1290,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1352,8 +1383,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 26.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -1476,8 +1507,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -1788,8 +1819,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2052,8 +2083,8 @@
         "games_played": 32,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -3424,8 +3455,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3517,8 +3548,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 18.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -3589,6 +3620,37 @@
         "score": 112.7,
         "bet_action": "UNDER",
         "bet_description": "Wendell Carter Jr. UNDER 7.5 Rebounds"
+      },
+      {
+        "player_name": "Tim Hardaway Jr.",
+        "team": "DEN",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          13,
+          13,
+          3
+        ],
+        "last_3_avg": 9.7,
+        "season_avg": 13.5,
+        "l10_avg": 10.7,
+        "pct_diff_season": -28.1,
+        "pct_diff_l10": -9.3,
+        "comparison": "season",
+        "games_played": 80,
+        "betting_line": {
+          "line": 11.5,
+          "over_price": 1.91,
+          "under_price": 1.85,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ Denver Nuggets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10368483",
+        "pct_vs_line": -15.7,
+        "score": 83.8,
+        "bet_action": "UNDER",
+        "bet_description": "Tim Hardaway Jr. UNDER 11.5 Points"
       },
       {
         "player_name": "Jamal Murray",
@@ -3827,8 +3889,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -4028,7 +4090,7 @@
   "meta": {
     "total_players_analyzed": 517,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 86,
+    "players_with_sportsbet_markets": 88,
     "events_count": 8
   }
 }
