@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T04:07:01.365970+11:00",
+  "generated_at": "2026-04-18T05:07:01.190194+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -84,8 +84,8 @@
       "games_played": 63,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.3,
-        "under_price": 1.56,
+        "over_price": 2.4,
+        "under_price": 1.52,
         "market_type": "over_under"
       },
       "game": "Houston Rockets @ Los Angeles Lakers",
@@ -146,8 +146,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.15,
-        "under_price": 1.64,
+        "over_price": 2.2,
+        "under_price": 1.6,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -270,8 +270,8 @@
       "games_played": 56,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.76,
-        "under_price": 2.02,
+        "over_price": 1.78,
+        "under_price": 2,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -546,8 +546,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -670,8 +670,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -887,8 +887,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1012,7 +1012,7 @@
         "betting_line": {
           "line": 18.5,
           "over_price": 1.86,
-          "under_price": 1.89,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1104,8 +1104,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -1639,8 +1639,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.89,
-          "under_price": 1.86,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1703,8 +1703,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1808,6 +1808,37 @@
         "bet_description": "Onyeka Okongwu UNDER 2.5 Assists"
       },
       {
+        "player_name": "Grayson Allen",
+        "team": "PHX",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          1,
+          0,
+          1
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 3.1,
+        "l10_avg": 2.0,
+        "pct_diff_season": -77.4,
+        "pct_diff_l10": -65.0,
+        "comparison": "season",
+        "games_played": 51,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 1.6,
+          "under_price": 2.2,
+          "market_type": "over_under"
+        },
+        "game": "Golden State Warriors @ Phoenix Suns",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-phoenix-suns-10372542",
+        "pct_vs_line": -53.3,
+        "score": 194.1,
+        "bet_action": "UNDER",
+        "bet_description": "Grayson Allen UNDER 1.5 Threes"
+      },
+      {
         "player_name": "Alperen Sengun",
         "team": "HOU",
         "stat": "BLK",
@@ -1831,10 +1862,10 @@
               "price": 8
             },
             "1": {
-              "price": 1.45
+              "price": 1.44
             },
             "2": {
-              "price": 3.15
+              "price": 3.05
             }
           },
           "market_type": "threshold"
@@ -1867,13 +1898,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.75
+              "price": 8.5
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.2
+              "price": 3.25
             }
           },
           "market_type": "threshold"
@@ -1967,8 +1998,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1998,8 +2029,8 @@
         "games_played": 33,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2029,8 +2060,8 @@
         "games_played": 33,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2320,6 +2351,37 @@
         "bet_description": "Neemias Queta UNDER 1.5 Blocks"
       },
       {
+        "player_name": "Grayson Allen",
+        "team": "PHX",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          8,
+          8,
+          6
+        ],
+        "last_3_avg": 7.3,
+        "season_avg": 16.5,
+        "l10_avg": 12.5,
+        "pct_diff_season": -55.8,
+        "pct_diff_l10": -41.6,
+        "comparison": "season",
+        "games_played": 51,
+        "betting_line": {
+          "line": 9.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Golden State Warriors @ Phoenix Suns",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-phoenix-suns-10372542",
+        "pct_vs_line": -23.2,
+        "score": 147.9,
+        "bet_action": "UNDER",
+        "bet_description": "Grayson Allen UNDER 9.5 Points"
+      },
+      {
         "player_name": "Josh Hart",
         "team": "NY",
         "stat": "REB",
@@ -2402,7 +2464,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 1.88,
-          "under_price": 1.87,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2462,17 +2524,17 @@
         "comparison": "season",
         "games_played": 62,
         "betting_line": {
-          "line": 11.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 10.5,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10368480",
-        "pct_vs_line": -62.6,
-        "score": 230.7,
+        "pct_vs_line": -59.0,
+        "score": 222.1,
         "bet_action": "UNDER",
-        "bet_description": "Marcus Smart UNDER 11.5 Points"
+        "bet_description": "Marcus Smart UNDER 10.5 Points"
       },
       {
         "player_name": "Draymond Green",
@@ -2619,7 +2681,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 2.2,
-          "under_price": 1.6,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2680,8 +2742,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2711,8 +2773,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2866,8 +2928,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3595,7 +3657,7 @@
         "games_played": 69,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.87,
+          "over_price": 1.88,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -3719,8 +3781,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3751,7 +3813,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 1.88,
-          "under_price": 1.88,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -3936,8 +3998,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -4246,8 +4308,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 15.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4297,7 +4359,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 108,
+    "players_with_sportsbet_markets": 109,
     "events_count": 8
   }
 }
