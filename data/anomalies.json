@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T05:07:01.190194+11:00",
+  "generated_at": "2026-04-18T06:07:01.511804+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -84,8 +84,8 @@
       "games_played": 63,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.4,
-        "under_price": 1.52,
+        "over_price": 2.3,
+        "under_price": 1.56,
         "market_type": "over_under"
       },
       "game": "Houston Rockets @ Los Angeles Lakers",
@@ -546,8 +546,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -887,8 +887,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1011,8 +1011,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1827,8 +1827,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -1859,10 +1859,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8
+              "price": 7.75
             },
             "1": {
-              "price": 1.44
+              "price": 1.45
             },
             "2": {
               "price": 3.05
@@ -1904,7 +1904,7 @@
               "price": 1.45
             },
             "2": {
-              "price": 3.25
+              "price": 3.1
             }
           },
           "market_type": "threshold"
@@ -1937,7 +1937,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 2.3,
-          "under_price": 1.56,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2773,8 +2773,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2928,8 +2928,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3180,10 +3180,10 @@
               "price": 2.7
             },
             "1": {
-              "price": 1.35
+              "price": 1.36
             },
             "3": {
-              "price": 6.75
+              "price": 7
             }
           },
           "market_type": "threshold"
@@ -3813,7 +3813,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 1.88,
-          "under_price": 1.87,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -3998,8 +3998,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
