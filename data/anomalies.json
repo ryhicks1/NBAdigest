@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T07:07:01.024109+11:00",
+  "generated_at": "2026-04-18T08:07:00.711852+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1135,7 +1135,7 @@
         "games_played": 83,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.86,
+          "over_price": 1.87,
           "under_price": 1.89,
           "market_type": "over_under"
         },
@@ -1484,8 +1484,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -1515,8 +1515,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2680,8 +2680,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2711,8 +2711,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2742,8 +2742,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2927,17 +2927,17 @@
         "comparison": "season",
         "games_played": 82,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "line": 17.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": -39.4,
-        "score": 167.3,
+        "pct_vs_line": -42.9,
+        "score": 175.6,
         "bet_action": "UNDER",
-        "bet_description": "Kon Knueppel UNDER 16.5 Points"
+        "bet_description": "Kon Knueppel UNDER 17.5 Points"
       },
       {
         "player_name": "Derrick White",
@@ -3219,7 +3219,7 @@
               "price": 2.2
             },
             "1": {
-              "price": 1.23
+              "price": 1.25
             },
             "3": {
               "price": 5
