@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T23:07:01.503195+11:00",
+  "generated_at": "2026-04-18T00:07:01.146374+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 144,
+    "total_bets": 154,
     "settled": 103,
     "wins": 57,
     "losses": 46,
-    "pending": 23,
+    "pending": 33,
     "no_game": 18,
     "win_rate": 55.3,
     "recent_win_rate": 70.0,
@@ -1321,8 +1321,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1515,7 +1515,7 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.88,
+          "over_price": 1.87,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -1997,17 +1997,17 @@
         "comparison": "l10",
         "games_played": 33,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.56,
-          "under_price": 2.3,
+          "line": 3.5,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-phoenix-suns-10372542",
-        "pct_vs_line": -60.0,
-        "score": 208.2,
+        "pct_vs_line": -71.4,
+        "score": 233.4,
         "bet_action": "UNDER",
-        "bet_description": "Jalen Green UNDER 2.5 Assists"
+        "bet_description": "Jalen Green UNDER 3.5 Assists"
       },
       {
         "player_name": "Jalen Green",
@@ -3052,8 +3052,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3595,8 +3595,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
