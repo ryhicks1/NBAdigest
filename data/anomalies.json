@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T21:07:01.628570+11:00",
+  "generated_at": "2026-04-17T22:07:01.403349+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -3052,8 +3052,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
