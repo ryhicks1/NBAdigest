@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T02:07:01.082800+11:00",
+  "generated_at": "2026-04-18T03:07:00.796858+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -511,7 +511,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 4.1
+              "price": 4
             },
             "1": {
               "price": 1.63
@@ -1515,8 +1515,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2029,8 +2029,8 @@
         "games_played": 33,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2277,8 +2277,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -2834,17 +2834,17 @@
         "comparison": "season",
         "games_played": 79,
         "betting_line": {
-          "line": 9.5,
+          "line": 8.5,
           "over_price": 1.8,
           "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": -33.7,
-        "score": 148.3,
+        "pct_vs_line": -25.9,
+        "score": 129.6,
         "bet_action": "UNDER",
-        "bet_description": "Wendell Carter Jr. UNDER 9.5 Points"
+        "bet_description": "Wendell Carter Jr. UNDER 8.5 Points"
       },
       {
         "player_name": "Kon Knueppel",
@@ -2866,8 +2866,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3118,7 +3118,7 @@
               "price": 2.7
             },
             "1": {
-              "price": 1.36
+              "price": 1.35
             },
             "3": {
               "price": 6.75
@@ -3316,8 +3316,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3409,8 +3409,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -3596,7 +3596,7 @@
         "betting_line": {
           "line": 8.5,
           "over_price": 1.87,
-          "under_price": 1.89,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -3781,8 +3781,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4122,8 +4122,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
