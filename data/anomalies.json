@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T18:07:00.563102+11:00",
+  "generated_at": "2026-04-17T19:00:01.669941+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1515,8 +1515,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -3409,8 +3409,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
