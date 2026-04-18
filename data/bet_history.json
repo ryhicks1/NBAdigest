@@ -2236,9 +2236,9 @@
       "last_3_avg": 0.7,
       "season_avg": 3.1,
       "score": 254.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-18T00:07:25.748563"
     },
     {
       "id": "2026-04-15|Marcus Smart|FG3M|1.5|UNDER",
@@ -2256,9 +2256,9 @@
       "last_3_avg": 0.3,
       "season_avg": 1.6,
       "score": 251.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-18T00:07:25.748632"
     },
     {
       "id": "2026-04-15|Draymond Green|FG3M|1.5|UNDER",
