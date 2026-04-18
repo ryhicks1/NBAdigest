@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:07:01.621252+11:00",
+  "generated_at": "2026-04-18T11:04:27.956201+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1515,8 +1515,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.75,
-          "under_price": 1.93,
+          "over_price": 1.78,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -1905,8 +1905,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.47,
-          "under_price": 2.5,
+          "over_price": 1.51,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2680,8 +2680,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.18,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.57,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2711,8 +2711,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.75,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2742,8 +2742,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.49,
-          "under_price": 2.38,
+          "over_price": 1.5,
+          "under_price": 2.35,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2773,8 +2773,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.51,
-          "under_price": 2.4,
+          "over_price": 1.55,
+          "under_price": 2.3,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2897,8 +2897,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.72,
-          "under_price": 1.97,
+          "over_price": 1.8,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2927,17 +2927,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.49,
-          "under_price": 2.38,
+          "line": 3.5,
+          "over_price": 1.5,
+          "under_price": 2.37,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": -20.0,
-        "score": 108.6,
+        "pct_vs_line": -42.9,
+        "score": 158.9,
         "bet_action": "UNDER",
-        "bet_description": "Anthony Black UNDER 2.5 Assists"
+        "bet_description": "Anthony Black UNDER 3.5 Assists"
       },
       {
         "player_name": "Kon Knueppel",
@@ -2958,17 +2958,17 @@
         "comparison": "season",
         "games_played": 82,
         "betting_line": {
-          "line": 12.5,
-          "over_price": 1.9,
-          "under_price": 1.78,
+          "line": 13.5,
+          "over_price": 1.95,
+          "under_price": 1.73,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": -20.0,
-        "score": 120.7,
+        "pct_vs_line": -25.9,
+        "score": 134.9,
         "bet_action": "UNDER",
-        "bet_description": "Kon Knueppel UNDER 12.5 Points"
+        "bet_description": "Kon Knueppel UNDER 13.5 Points"
       },
       {
         "player_name": "Derrick White",
@@ -3145,8 +3145,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2,
-          "under_price": 1.7,
+          "over_price": 2.1,
+          "under_price": 1.63,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3719,8 +3719,8 @@
         "games_played": 35,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.12,
-          "under_price": 1.62,
+          "over_price": 2.18,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3781,8 +3781,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.62,
-          "under_price": 2.12,
+          "over_price": 1.72,
+          "under_price": 1.97,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -4184,8 +4184,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.87,
-          "under_price": 1.8,
+          "over_price": 1.9,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
