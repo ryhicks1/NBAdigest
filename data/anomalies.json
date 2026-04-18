@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:04:27.956201+11:00",
+  "generated_at": "2026-04-18T12:00:50.520198+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -127,6 +127,37 @@
       "bet_description": "Andre Drummond OVER 6.5 Points"
     },
     {
+      "player_name": "LaMelo Ball",
+      "team": "CHA",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "hot",
+      "last_3": [
+        5,
+        7,
+        5
+      ],
+      "last_3_avg": 5.7,
+      "season_avg": 4.8,
+      "l10_avg": 4.7,
+      "pct_diff_season": 18.8,
+      "pct_diff_l10": 21.3,
+      "comparison": "l10",
+      "games_played": 73,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 1.87,
+        "under_price": 1.8,
+        "market_type": "over_under"
+      },
+      "game": "Charlotte Hornets @ Orlando Magic",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
+      "pct_vs_line": 128.0,
+      "score": 324.3,
+      "bet_action": "OVER",
+      "bet_description": "LaMelo Ball OVER 2.5 Rebounds"
+    },
+    {
       "player_name": "Ja'Kobe Walter",
       "team": "TOR",
       "stat": "FG3M",
@@ -146,8 +177,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.2,
-        "under_price": 1.6,
+        "over_price": 2.15,
+        "under_price": 1.64,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -280,45 +311,14 @@
       "score": 278.6,
       "bet_action": "UNDER",
       "bet_description": "Jarrett Allen UNDER 1.5 Assists"
-    },
-    {
-      "player_name": "Onyeka Okongwu",
-      "team": "ATL",
-      "stat": "AST",
-      "stat_label": "Assists",
-      "direction": "cold",
-      "last_3": [
-        1,
-        0,
-        1
-      ],
-      "last_3_avg": 0.7,
-      "season_avg": 3.1,
-      "l10_avg": 2.4,
-      "pct_diff_season": -77.4,
-      "pct_diff_l10": -70.8,
-      "comparison": "season",
-      "games_played": 74,
-      "betting_line": {
-        "line": 2.5,
-        "over_price": 2.1,
-        "under_price": 1.68,
-        "market_type": "over_under"
-      },
-      "game": "Atlanta Hawks @ New York Knicks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/atlanta-hawks-at-new-york-knicks-10368252",
-      "pct_vs_line": -72.0,
-      "score": 254.5,
-      "bet_action": "UNDER",
-      "bet_description": "Onyeka Okongwu UNDER 2.5 Assists"
     }
   ],
   "tracking": {
-    "total_bets": 154,
+    "total_bets": 155,
     "settled": 103,
     "wins": 57,
     "losses": 46,
-    "pending": 31,
+    "pending": 32,
     "no_game": 20,
     "win_rate": 55.3,
     "recent_win_rate": 70.0,
@@ -670,8 +670,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1042,8 +1042,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1453,8 +1453,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -1484,8 +1484,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -1514,17 +1514,17 @@
         "comparison": "l10",
         "games_played": 73,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
+          "line": 2.5,
+          "over_price": 1.87,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": 26.7,
-        "score": 101.3,
+        "pct_vs_line": 128.0,
+        "score": 324.3,
         "bet_action": "OVER",
-        "bet_description": "LaMelo Ball OVER 4.5 Rebounds"
+        "bet_description": "LaMelo Ball OVER 2.5 Rebounds"
       },
       {
         "player_name": "Brandin Podziemski",
@@ -1608,8 +1608,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1905,8 +1905,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.51,
-          "under_price": 2.4,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2091,8 +2091,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.5,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2339,8 +2339,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2432,8 +2432,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2525,8 +2525,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.5,
-          "under_price": 1.48,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2649,8 +2649,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
@@ -2659,37 +2659,6 @@
         "score": 170.4,
         "bet_action": "UNDER",
         "bet_description": "Al Horford UNDER 4.5 Rebounds"
-      },
-      {
-        "player_name": "Tristan da Silva",
-        "team": "ORL",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          4,
-          8,
-          2
-        ],
-        "last_3_avg": 4.7,
-        "season_avg": 9.8,
-        "l10_avg": 8.9,
-        "pct_diff_season": -52.0,
-        "pct_diff_l10": -47.2,
-        "comparison": "season",
-        "games_played": 78,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 2.2,
-          "under_price": 1.57,
-          "market_type": "over_under"
-        },
-        "game": "Charlotte Hornets @ Orlando Magic",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": 4.4,
-        "score": 85.1,
-        "bet_action": "UNDER",
-        "bet_description": "Tristan da Silva UNDER 4.5 Points"
       },
       {
         "player_name": "Desmond Bane",
@@ -2710,48 +2679,17 @@
         "comparison": "season",
         "games_played": 83,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.87,
+          "line": 4.5,
+          "over_price": 1.82,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": -69.2,
-        "score": 222.7,
+        "pct_vs_line": -55.6,
+        "score": 192.6,
         "bet_action": "UNDER",
-        "bet_description": "Desmond Bane UNDER 6.5 Rebounds"
-      },
-      {
-        "player_name": "Coby White",
-        "team": "CHA",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          3,
-          2,
-          1
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 4.0,
-        "l10_avg": 2.4,
-        "pct_diff_season": -50.0,
-        "pct_diff_l10": -16.7,
-        "comparison": "season",
-        "games_played": 51,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.5,
-          "under_price": 2.35,
-          "market_type": "over_under"
-        },
-        "game": "Charlotte Hornets @ Orlando Magic",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": 33.3,
-        "score": 142.4,
-        "bet_action": "UNDER",
-        "bet_description": "Coby White UNDER 1.5 Assists"
+        "bet_description": "Desmond Bane UNDER 4.5 Rebounds"
       },
       {
         "player_name": "Kon Knueppel",
@@ -2773,8 +2711,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.55,
-          "under_price": 2.3,
+          "over_price": 1.52,
+          "under_price": 2.35,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2897,8 +2835,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.8,
-          "under_price": 1.87,
+          "over_price": 1.97,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2928,8 +2866,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.5,
-          "under_price": 2.37,
+          "over_price": 1.9,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -2958,17 +2896,17 @@
         "comparison": "season",
         "games_played": 82,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 1.95,
-          "under_price": 1.73,
+          "line": 14.5,
+          "over_price": 1.97,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": -25.9,
-        "score": 134.9,
+        "pct_vs_line": -31.0,
+        "score": 147.2,
         "bet_action": "UNDER",
-        "bet_description": "Kon Knueppel UNDER 13.5 Points"
+        "bet_description": "Kon Knueppel UNDER 14.5 Points"
       },
       {
         "player_name": "Derrick White",
@@ -3145,8 +3083,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.1,
-          "under_price": 1.63,
+          "over_price": 1.66,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3719,8 +3657,8 @@
         "games_played": 35,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.18,
-          "under_price": 1.58,
+          "over_price": 2.1,
+          "under_price": 1.63,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -3760,37 +3698,6 @@
         "score": 137.8,
         "bet_action": "UNDER",
         "bet_description": "Onyeka Okongwu UNDER 1.5 Blocks"
-      },
-      {
-        "player_name": "Desmond Bane",
-        "team": "ORL",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          3,
-          1,
-          4
-        ],
-        "last_3_avg": 2.7,
-        "season_avg": 4.1,
-        "l10_avg": 3.3,
-        "pct_diff_season": -34.1,
-        "pct_diff_l10": -18.2,
-        "comparison": "season",
-        "games_played": 83,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.72,
-          "under_price": 1.97,
-          "market_type": "over_under"
-        },
-        "game": "Charlotte Hornets @ Orlando Magic",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/charlotte-hornets-at-orlando-magic-10373177",
-        "pct_vs_line": 8.0,
-        "score": 67.2,
-        "bet_action": "UNDER",
-        "bet_description": "Desmond Bane UNDER 2.5 Assists"
       },
       {
         "player_name": "James Harden",
@@ -3875,7 +3782,7 @@
         "betting_line": {
           "line": 3.5,
           "over_price": 2.1,
-          "under_price": 1.68,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3936,8 +3843,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3997,17 +3904,17 @@
         "comparison": "l10",
         "games_played": 71,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "line": 5.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Golden State Warriors @ Phoenix Suns",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/golden-state-warriors-at-phoenix-suns-10372542",
-        "pct_vs_line": -17.8,
-        "score": 89.3,
+        "pct_vs_line": -32.7,
+        "score": 122.2,
         "bet_action": "UNDER",
-        "bet_description": "Jordan Goodwin UNDER 4.5 Rebounds"
+        "bet_description": "Jordan Goodwin UNDER 5.5 Rebounds"
       },
       {
         "player_name": "Tim Hardaway Jr.",
@@ -4091,8 +3998,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4184,8 +4091,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.9,
-          "under_price": 1.78,
+          "over_price": 1.77,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Charlotte Hornets @ Orlando Magic",
@@ -4359,7 +4266,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 109,
+    "players_with_sportsbet_markets": 106,
     "events_count": 8
   }
 }

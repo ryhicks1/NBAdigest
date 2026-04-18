@@ -3079,6 +3079,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-18|LaMelo Ball|REB|2.5|OVER",
+      "suggested_date": "2026-04-18",
+      "player_name": "LaMelo Ball",
+      "team": "CHA",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 1.87,
+      "under_price": 1.8,
+      "bet_description": "LaMelo Ball OVER 2.5 Rebounds",
+      "game": "Charlotte Hornets @ Orlando Magic",
+      "last_3_avg": 5.7,
+      "season_avg": 4.8,
+      "score": 324.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
