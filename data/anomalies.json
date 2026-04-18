@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T23:07:01.254712+11:00",
+  "generated_at": "2026-04-19T00:07:01.317016+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 61,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.76,
-        "under_price": 2.02,
+        "over_price": 1.78,
+        "under_price": 2,
         "market_type": "over_under"
       },
       "game": "Atlanta Hawks @ New York Knicks",
@@ -239,8 +239,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.05,
-        "under_price": 1.74,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -270,8 +270,8 @@
       "games_played": 36,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.83,
-        "under_price": 1.93,
+        "over_price": 1.84,
+        "under_price": 1.92,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 157,
+    "total_bets": 167,
     "settled": 105,
     "wins": 58,
     "losses": 47,
-    "pending": 32,
+    "pending": 42,
     "no_game": 20,
     "win_rate": 55.2,
     "recent_win_rate": 65.0,
@@ -675,8 +675,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -768,8 +768,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -861,8 +861,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1140,8 +1140,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1326,8 +1326,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -1388,8 +1388,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 18.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1418,17 +1418,17 @@
         "comparison": "season",
         "games_played": 68,
         "betting_line": {
-          "line": 24.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 23.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10372754",
-        "pct_vs_line": 37.6,
-        "score": 160.2,
+        "pct_vs_line": 43.4,
+        "score": 174.3,
         "bet_action": "OVER",
-        "bet_description": "Deni Avdija OVER 24.5 Points"
+        "bet_description": "Deni Avdija OVER 23.5 Points"
       },
       {
         "player_name": "Stephon Castle",
@@ -1512,8 +1512,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1800,7 +1800,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.2
+              "price": 5.4
             },
             "1": {
               "price": 1.86
@@ -2024,7 +2024,7 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.5
+              "price": 8.25
             },
             "1": {
               "price": 1.45
@@ -2094,13 +2094,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.75
+              "price": 8.25
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.25
+              "price": 3.15
             }
           },
           "market_type": "threshold"
@@ -2133,13 +2133,10 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.3
+              "price": 3.35
             },
             "1": {
               "price": 1.49
-            },
-            "3": {
-              "price": 8.75
             }
           },
           "market_type": "threshold"
@@ -2326,8 +2323,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.5,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2357,8 +2354,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 11.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2915,8 +2912,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3412,7 +3409,7 @@
         "betting_line": {
           "line": 4.5,
           "over_price": 2.2,
-          "under_price": 1.58,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -3536,7 +3533,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 1.88,
-          "under_price": 1.87,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3635,7 +3632,7 @@
               "price": 1.25
             },
             "3": {
-              "price": 5
+              "price": 4.9
             }
           },
           "market_type": "threshold"
@@ -3760,8 +3757,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3791,8 +3788,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4039,8 +4036,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4318,8 +4315,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -4474,13 +4471,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 6.25
+              "price": 6.75
             },
             "2": {
               "price": 2.7
             },
             "1": {
-              "price": 1.35
+              "price": 1.38
             }
           },
           "market_type": "threshold"
@@ -4543,8 +4540,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
