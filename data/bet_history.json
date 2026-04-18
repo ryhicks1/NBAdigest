@@ -2556,9 +2556,9 @@
       "last_3_avg": 4.7,
       "season_avg": 3.2,
       "score": 260.7,
-      "status": "pending",
-      "actual_value": null,
-      "settled_at": null
+      "status": "loss",
+      "actual_value": 1,
+      "settled_at": "2026-04-18T10:33:54.320562"
     },
     {
       "id": "2026-04-16|Onyeka Okongwu|AST|2.5|UNDER",
@@ -2796,9 +2796,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.6,
       "score": 312.5,
-      "status": "pending",
-      "actual_value": null,
-      "settled_at": null
+      "status": "win",
+      "actual_value": 4,
+      "settled_at": "2026-04-18T10:33:54.320838"
     },
     {
       "id": "2026-04-17|Aaron Gordon|AST|2.5|OVER",
@@ -3096,6 +3096,46 @@
       "last_3_avg": 5.7,
       "season_avg": 4.8,
       "score": 324.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-18|Bruce Brown|REB|2.5|OVER",
+      "suggested_date": "2026-04-18",
+      "player_name": "Bruce Brown",
+      "team": "DEN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 1.64,
+      "under_price": 2.15,
+      "bet_description": "Bruce Brown OVER 2.5 Rebounds",
+      "game": "Minnesota Timberwolves @ Denver Nuggets",
+      "last_3_avg": 6.3,
+      "season_avg": 3.9,
+      "score": 420.6,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-18|Bruce Brown|PTS|5.5|OVER",
+      "suggested_date": "2026-04-18",
+      "player_name": "Bruce Brown",
+      "team": "DEN",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 5.5,
+      "over_price": 1.85,
+      "under_price": 1.91,
+      "bet_description": "Bruce Brown OVER 5.5 Points",
+      "game": "Minnesota Timberwolves @ Denver Nuggets",
+      "last_3_avg": 12.3,
+      "season_avg": 7.9,
+      "score": 388.6,
       "status": "pending",
       "actual_value": null,
       "settled_at": null
