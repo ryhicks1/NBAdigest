@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T00:07:01.045450+11:00",
+  "generated_at": "2026-04-20T01:07:01.026266+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -856,8 +856,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -1073,8 +1073,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 17.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1135,8 +1135,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -1232,7 +1232,7 @@
               "price": 1.58
             },
             "2": {
-              "price": 3.7
+              "price": 3.75
             }
           },
           "market_type": "threshold"
@@ -1481,8 +1481,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1798,8 +1798,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1830,7 +1830,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 2.1,
-          "under_price": 1.64,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -1957,7 +1957,7 @@
               "price": 1.74
             },
             "2": {
-              "price": 4.9
+              "price": 4.5
             }
           },
           "market_type": "threshold"
@@ -2268,8 +2268,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2702,8 +2702,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2993,37 +2993,6 @@
         "bet_description": "Nickeil Alexander-Walker UNDER 3.5 Assists"
       },
       {
-        "player_name": "Isaiah Hartenstein",
-        "team": "OKC",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          2,
-          3
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 3.5,
-        "l10_avg": 3.7,
-        "pct_diff_season": -42.9,
-        "pct_diff_l10": -45.9,
-        "comparison": "l10",
-        "games_played": 47,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -20.0,
-        "score": 99.8,
-        "bet_action": "UNDER",
-        "bet_description": "Isaiah Hartenstein UNDER 2.5 Assists"
-      },
-      {
         "player_name": "Derrick White",
         "team": "BOS",
         "stat": "AST",
@@ -3043,8 +3012,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3323,7 +3292,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 1.88,
-          "under_price": 1.88,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3388,7 +3357,7 @@
               "price": 2.2
             },
             "1": {
-              "price": 1.26
+              "price": 1.24
             },
             "3": {
               "price": 5
@@ -3516,8 +3485,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3640,8 +3609,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3888,8 +3857,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -3949,17 +3918,17 @@
         "comparison": "l10",
         "games_played": 47,
         "betting_line": {
-          "line": 8.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "line": 7.5,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -21.2,
-        "score": 94.0,
+        "pct_vs_line": -10.7,
+        "score": 70.9,
         "bet_action": "UNDER",
-        "bet_description": "Isaiah Hartenstein UNDER 8.5 Rebounds"
+        "bet_description": "Isaiah Hartenstein UNDER 7.5 Rebounds"
       },
       {
         "player_name": "Devin Vassell",
@@ -3991,37 +3960,6 @@
         "score": 123.8,
         "bet_action": "UNDER",
         "bet_description": "Devin Vassell UNDER 2.5 Assists"
-      },
-      {
-        "player_name": "Alex Caruso",
-        "team": "OKC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          2,
-          6,
-          5
-        ],
-        "last_3_avg": 4.3,
-        "season_avg": 6.3,
-        "l10_avg": 4.5,
-        "pct_diff_season": -31.7,
-        "pct_diff_l10": -4.4,
-        "comparison": "season",
-        "games_played": 55,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -21.8,
-        "score": 106.2,
-        "bet_action": "UNDER",
-        "bet_description": "Alex Caruso UNDER 5.5 Points"
       },
       {
         "player_name": "Max Strus",
@@ -4074,8 +4012,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -4477,8 +4415,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -4508,8 +4446,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -4570,8 +4508,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
