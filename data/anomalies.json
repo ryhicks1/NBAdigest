@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T03:07:00.773205+11:00",
+  "generated_at": "2026-04-20T04:07:01.390838+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -84,8 +84,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.68,
-        "under_price": 2.1,
+        "over_price": 1.78,
+        "under_price": 2,
         "market_type": "over_under"
       },
       "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -115,8 +115,8 @@
       "games_played": 64,
       "betting_line": {
         "line": 6.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.85,
+        "under_price": 1.91,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Boston Celtics",
@@ -147,7 +147,7 @@
       "betting_line": {
         "line": 1.5,
         "over_price": 1.83,
-        "under_price": 1.93,
+        "under_price": 1.92,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -545,7 +545,7 @@
               "price": 1.63
             },
             "2": {
-              "price": 4
+              "price": 4.1
             }
           },
           "market_type": "threshold"
@@ -608,8 +608,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -640,7 +640,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 1.83,
-          "under_price": 1.93,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -701,8 +701,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -918,8 +918,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -1042,8 +1042,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 17.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1073,8 +1073,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -1197,8 +1197,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -1357,8 +1357,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1419,8 +1419,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1481,8 +1481,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1543,8 +1543,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -1605,8 +1605,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -1674,7 +1674,7 @@
               "price": 2.85
             },
             "3": {
-              "price": 7.25
+              "price": 7.75
             }
           },
           "market_type": "threshold"
@@ -1737,8 +1737,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1863,8 +1863,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -1960,7 +1960,7 @@
               "price": 1.74
             },
             "2": {
-              "price": 4.6
+              "price": 4.8
             }
           },
           "market_type": "threshold"
@@ -2054,8 +2054,8 @@
         "games_played": 84,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2302,8 +2302,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2457,8 +2457,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.6,
-          "under_price": 1.44,
+          "over_price": 2.75,
+          "under_price": 1.4,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2488,8 +2488,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -2798,8 +2798,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2952,17 +2952,17 @@
         "comparison": "season",
         "games_played": 57,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "line": 2.5,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -51.4,
-        "score": 177.5,
+        "pct_vs_line": -32.0,
+        "score": 134.8,
         "bet_action": "UNDER",
-        "bet_description": "Ajay Mitchell UNDER 3.5 Rebounds"
+        "bet_description": "Ajay Mitchell UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Derrick White",
@@ -2984,8 +2984,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3046,8 +3046,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3108,8 +3108,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 26.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -3170,8 +3170,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3294,8 +3294,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3391,7 +3391,7 @@
               "price": 2.2
             },
             "1": {
-              "price": 1.24
+              "price": 1.29
             },
             "3": {
               "price": 5
@@ -3457,8 +3457,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 14.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3674,7 +3674,7 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.5,
+          "over_price": 2.45,
           "under_price": 1.48,
           "market_type": "over_under"
         },
@@ -3736,8 +3736,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -4046,8 +4046,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -4387,8 +4387,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -4449,8 +4449,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
