@@ -2418,7 +2418,7 @@
       "score": 454.9,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894701"
+      "settled_at": "2026-04-19T05:46:10.697948"
     },
     {
       "id": "2026-04-16|Donovan Clingan|FG3M|1.5|OVER",
@@ -2458,7 +2458,7 @@
       "score": 316.8,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894750"
+      "settled_at": "2026-04-19T05:46:10.697985"
     },
     {
       "id": "2026-04-16|Aaron Gordon|AST|2.5|OVER",
@@ -2478,7 +2478,7 @@
       "score": 288.3,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894784"
+      "settled_at": "2026-04-19T05:46:10.698010"
     },
     {
       "id": "2026-04-16|Luke Kennard|AST|5.5|OVER",
@@ -2498,7 +2498,7 @@
       "score": 287.5,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894815"
+      "settled_at": "2026-04-19T05:46:10.698073"
     },
     {
       "id": "2026-04-16|Brandin Podziemski|PTS|12.5|OVER",
@@ -2538,7 +2538,7 @@
       "score": 278.6,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894846"
+      "settled_at": "2026-04-19T05:46:10.698118"
     },
     {
       "id": "2026-04-16|Miles Bridges|AST|2.5|OVER",
@@ -2578,7 +2578,7 @@
       "score": 254.5,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894875"
+      "settled_at": "2026-04-19T05:46:10.698262"
     },
     {
       "id": "2026-04-16|Marcus Smart|FG3M|1.5|UNDER",
@@ -2598,7 +2598,7 @@
       "score": 251.2,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894904"
+      "settled_at": "2026-04-19T05:46:10.698352"
     },
     {
       "id": "2026-04-16|Payton Pritchard|FG3M|1.5|OVER",
@@ -2618,7 +2618,7 @@
       "score": 400.3,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894931"
+      "settled_at": "2026-04-19T05:46:10.698454"
     },
     {
       "id": "2026-04-16|LeBron James|STL|1.5|OVER",
@@ -2638,7 +2638,7 @@
       "score": 330.1,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894959"
+      "settled_at": "2026-04-19T05:46:10.698478"
     },
     {
       "id": "2026-04-16|Jordan Goodwin|FG3M|1.5|OVER",
@@ -2678,7 +2678,7 @@
       "score": 283.5,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-19T05:46:09.894990"
+      "settled_at": "2026-04-19T05:46:10.698498"
     },
     {
       "id": "2026-04-17|Mitchell Robinson|PTS|4.5|OVER",
@@ -2998,7 +2998,7 @@
       "score": 312.5,
       "status": "win",
       "actual_value": 4,
-      "settled_at": "2026-04-19T05:46:09.895432"
+      "settled_at": "2026-04-19T05:46:10.698929"
     },
     {
       "id": "2026-04-18|Aaron Gordon|AST|2.5|OVER",
@@ -3098,7 +3098,7 @@
       "score": 324.3,
       "status": "loss",
       "actual_value": 2,
-      "settled_at": "2026-04-19T05:46:09.895548"
+      "settled_at": "2026-04-19T05:46:10.698999"
     },
     {
       "id": "2026-04-18|Bruce Brown|REB|2.5|OVER",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T08:03:30.843176+11:00",
+  "generated_at": "2026-04-19T09:09:47.697502+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -2590,6 +2590,37 @@
         "bet_description": "Ja'Kobe Walter UNDER 2.5 Rebounds"
       },
       {
+        "player_name": "Jaylen Brown",
+        "team": "BOS",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "cold",
+        "last_3": [
+          1,
+          3,
+          3
+        ],
+        "last_3_avg": 2.3,
+        "season_avg": 4.9,
+        "l10_avg": 5.0,
+        "pct_diff_season": -53.1,
+        "pct_diff_l10": -54.0,
+        "comparison": "l10",
+        "games_played": 74,
+        "betting_line": {
+          "line": 4.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Boston Celtics",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10380294",
+        "pct_vs_line": -48.9,
+        "score": 180.2,
+        "bet_action": "UNDER",
+        "bet_description": "Jaylen Brown UNDER 4.5 Assists"
+      },
+      {
         "player_name": "Marcus Smart",
         "team": "LAL",
         "stat": "PTS",
@@ -4557,7 +4588,7 @@
     "cold": []
   },
   "meta": {
-    "total_players_analyzed": 524,
+    "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
     "players_with_sportsbet_markets": 111,
     "events_count": 8
