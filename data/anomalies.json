@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T08:07:00.474658+11:00",
+  "generated_at": "2026-04-20T09:00:01.157225+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 78,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.92,
-        "under_price": 1.84,
+        "over_price": 1.91,
+        "under_price": 1.85,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -665,8 +665,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -727,8 +727,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -861,37 +861,6 @@
         "score": 213.9,
         "bet_action": "OVER",
         "bet_description": "Jalen Suggs OVER 3.5 Rebounds"
-      },
-      {
-        "player_name": "Jalen Williams",
-        "team": "OKC",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          6,
-          7,
-          8
-        ],
-        "last_3_avg": 7.0,
-        "season_avg": 5.5,
-        "l10_avg": 4.9,
-        "pct_diff_season": 27.3,
-        "pct_diff_l10": 42.9,
-        "comparison": "l10",
-        "games_played": 33,
-        "betting_line": {
-          "line": 7.5,
-          "over_price": 1.62,
-          "under_price": 2.12,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -6.7,
-        "score": 62.8,
-        "bet_action": "OVER",
-        "bet_description": "Jalen Williams OVER 7.5 Assists"
       },
       {
         "player_name": "Dyson Daniels",
@@ -1037,8 +1006,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1111,37 +1080,6 @@
         "bet_description": "Rui Hachimura OVER 13.5 Points"
       },
       {
-        "player_name": "Shai Gilgeous-Alexander",
-        "team": "OKC",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          11,
-          8,
-          7
-        ],
-        "last_3_avg": 8.7,
-        "season_avg": 6.6,
-        "l10_avg": 6.5,
-        "pct_diff_season": 31.8,
-        "pct_diff_l10": 33.8,
-        "comparison": "l10",
-        "games_played": 68,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 2.14,
-          "under_price": 1.61,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": 58.2,
-        "score": 184.0,
-        "bet_action": "OVER",
-        "bet_description": "Shai Gilgeous-Alexander OVER 5.5 Assists"
-      },
-      {
         "player_name": "Jaden McDaniels",
         "team": "MIN",
         "stat": "PTS",
@@ -1161,8 +1099,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1981,37 +1919,6 @@
         "bet_description": "Marcus Smart UNDER 10.5 Points"
       },
       {
-        "player_name": "Shai Gilgeous-Alexander",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          4
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 4.3,
-        "l10_avg": 3.3,
-        "pct_diff_season": -53.5,
-        "pct_diff_l10": -39.4,
-        "comparison": "season",
-        "games_played": 68,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.87,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -20.0,
-        "score": 113.9,
-        "bet_action": "UNDER",
-        "bet_description": "Shai Gilgeous-Alexander UNDER 2.5 Rebounds"
-      },
-      {
         "player_name": "Shaedon Sharpe",
         "team": "POR",
         "stat": "PTS",
@@ -2032,7 +1939,7 @@
         "betting_line": {
           "line": 10.5,
           "over_price": 1.92,
-          "under_price": 1.84,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2124,8 +2031,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2229,37 +2136,6 @@
         "bet_description": "Anthony Edwards UNDER 2.5 Threes"
       },
       {
-        "player_name": "Ajay Mitchell",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          1,
-          3,
-          1
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 3.3,
-        "l10_avg": 2.8,
-        "pct_diff_season": -48.5,
-        "pct_diff_l10": -39.3,
-        "comparison": "season",
-        "games_played": 57,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 2.02,
-          "under_price": 1.68,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -51.4,
-        "score": 177.5,
-        "bet_action": "UNDER",
-        "bet_description": "Ajay Mitchell UNDER 3.5 Rebounds"
-      },
-      {
         "player_name": "Nickeil Alexander-Walker",
         "team": "ATL",
         "stat": "AST",
@@ -2289,37 +2165,6 @@
         "score": 158.9,
         "bet_action": "UNDER",
         "bet_description": "Nickeil Alexander-Walker UNDER 3.5 Assists"
-      },
-      {
-        "player_name": "Luguentz Dort",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          1,
-          3,
-          2
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 3.6,
-        "l10_avg": 2.3,
-        "pct_diff_season": -44.4,
-        "pct_diff_l10": -13.0,
-        "comparison": "season",
-        "games_played": 69,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 2.3,
-          "under_price": 1.52,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -42.9,
-        "score": 157.2,
-        "bet_action": "UNDER",
-        "bet_description": "Luguentz Dort UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Anthony Edwards",
@@ -2415,37 +2260,6 @@
         "bet_description": "Jalen Johnson UNDER 6.5 Assists"
       },
       {
-        "player_name": "Ajay Mitchell",
-        "team": "OKC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          7,
-          9,
-          7
-        ],
-        "last_3_avg": 7.7,
-        "season_avg": 13.6,
-        "l10_avg": 10.2,
-        "pct_diff_season": -43.4,
-        "pct_diff_l10": -24.5,
-        "comparison": "season",
-        "games_played": 57,
-        "betting_line": {
-          "line": 11.5,
-          "over_price": 1.96,
-          "under_price": 1.73,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -33.0,
-        "score": 156.9,
-        "bet_action": "UNDER",
-        "bet_description": "Ajay Mitchell UNDER 11.5 Points"
-      },
-      {
         "player_name": "Toumani Camara",
         "team": "POR",
         "stat": "FG3M",
@@ -2534,7 +2348,7 @@
               "price": 1.24
             },
             "3": {
-              "price": 4.9
+              "price": 5.1
             }
           },
           "market_type": "threshold"
@@ -2981,37 +2795,6 @@
         "bet_description": "RJ Barrett UNDER 3.5 Assists"
       },
       {
-        "player_name": "Isaiah Hartenstein",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          7,
-          5,
-          8
-        ],
-        "last_3_avg": 6.7,
-        "season_avg": 9.4,
-        "l10_avg": 9.9,
-        "pct_diff_season": -28.7,
-        "pct_diff_l10": -32.3,
-        "comparison": "l10",
-        "games_played": 47,
-        "betting_line": {
-          "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.87,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": 3.1,
-        "score": 54.2,
-        "bet_action": "UNDER",
-        "bet_description": "Isaiah Hartenstein UNDER 6.5 Rebounds"
-      },
-      {
         "player_name": "Devin Vassell",
         "team": "SA",
         "stat": "AST",
@@ -3074,37 +2857,6 @@
         "bet_description": "Max Strus UNDER 3.5 Rebounds"
       },
       {
-        "player_name": "Luguentz Dort",
-        "team": "OKC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          6,
-          5,
-          6
-        ],
-        "last_3_avg": 5.7,
-        "season_avg": 8.3,
-        "l10_avg": 8.3,
-        "pct_diff_season": -31.3,
-        "pct_diff_l10": -31.3,
-        "comparison": "season",
-        "games_played": 69,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.62,
-          "under_price": 2.12,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": 3.6,
-        "score": 73.3,
-        "bet_action": "UNDER",
-        "bet_description": "Luguentz Dort UNDER 5.5 Points"
-      },
-      {
         "player_name": "Jalen Brunson",
         "team": "NY",
         "stat": "REB",
@@ -3134,37 +2886,6 @@
         "score": 122.9,
         "bet_action": "UNDER",
         "bet_description": "Jalen Brunson UNDER 3.5 Rebounds"
-      },
-      {
-        "player_name": "Shai Gilgeous-Alexander",
-        "team": "OKC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          20,
-          25,
-          20
-        ],
-        "last_3_avg": 21.7,
-        "season_avg": 31.1,
-        "l10_avg": 29.0,
-        "pct_diff_season": -30.2,
-        "pct_diff_l10": -25.2,
-        "comparison": "season",
-        "games_played": 68,
-        "betting_line": {
-          "line": 26.5,
-          "over_price": 1.93,
-          "under_price": 1.75,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -18.1,
-        "score": 105.8,
-        "bet_action": "UNDER",
-        "bet_description": "Shai Gilgeous-Alexander UNDER 26.5 Points"
       },
       {
         "player_name": "Tim Hardaway Jr.",
@@ -3217,8 +2938,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3353,37 +3074,6 @@
         "bet_description": "Julius Randle UNDER 4.5 Assists"
       },
       {
-        "player_name": "Dillon Brooks",
-        "team": "PHX",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          13,
-          20,
-          12
-        ],
-        "last_3_avg": 15.0,
-        "season_avg": 20.1,
-        "l10_avg": 14.8,
-        "pct_diff_season": -25.4,
-        "pct_diff_l10": 1.4,
-        "comparison": "season",
-        "games_played": 58,
-        "betting_line": {
-          "line": 17.5,
-          "over_price": 2.03,
-          "under_price": 1.67,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": -14.3,
-        "score": 86.2,
-        "bet_action": "UNDER",
-        "bet_description": "Dillon Brooks UNDER 17.5 Points"
-      },
-      {
         "player_name": "Jalen Johnson",
         "team": "ATL",
         "stat": "PTS",
@@ -3434,8 +3124,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -3444,37 +3134,6 @@
         "score": 77.1,
         "bet_action": "UNDER",
         "bet_description": "Ausar Thompson UNDER 5.5 Rebounds"
-      },
-      {
-        "player_name": "Luguentz Dort",
-        "team": "OKC",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          2,
-          1,
-          2
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 1.9,
-        "l10_avg": 2.1,
-        "pct_diff_season": -10.5,
-        "pct_diff_l10": -19.0,
-        "comparison": "l10",
-        "games_played": 69,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.77,
-          "under_price": 1.96,
-          "market_type": "over_under"
-        },
-        "game": "Phoenix Suns @ Oklahoma City Thunder",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10384606",
-        "pct_vs_line": 13.3,
-        "score": 53.7,
-        "bet_action": "UNDER",
-        "bet_description": "Luguentz Dort UNDER 1.5 Threes"
       },
       {
         "player_name": "Franz Wagner",
@@ -3578,7 +3237,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 91,
+    "players_with_sportsbet_markets": 80,
     "events_count": 8
   }
 }
