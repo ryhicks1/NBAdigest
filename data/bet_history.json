@@ -3639,6 +3639,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Onyeka Okongwu|AST|2.5|UNDER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Onyeka Okongwu",
+      "team": "ATL",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "UNDER",
+      "line": 2.5,
+      "over_price": 2.1,
+      "under_price": 1.68,
+      "bet_description": "Onyeka Okongwu UNDER 2.5 Assists",
+      "game": "Atlanta Hawks @ New York Knicks",
+      "last_3_avg": 0.7,
+      "season_avg": 3.1,
+      "score": 254.5,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
