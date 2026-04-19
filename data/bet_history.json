@@ -3619,6 +3619,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Ausar Thompson|AST|2.5|OVER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Ausar Thompson",
+      "team": "DET",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 1.64,
+      "under_price": 2.15,
+      "bet_description": "Ausar Thompson OVER 2.5 Assists",
+      "game": "Orlando Magic @ Detroit Pistons",
+      "last_3_avg": 4.7,
+      "season_avg": 3.2,
+      "score": 266.0,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
