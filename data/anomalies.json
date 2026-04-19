@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T21:07:01.582920+11:00",
+  "generated_at": "2026-04-19T22:07:00.519486+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -948,17 +948,17 @@
         "comparison": "l10",
         "games_played": 64,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "line": 9.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10380294",
-        "pct_vs_line": 21.0,
-        "score": 121.4,
+        "pct_vs_line": 33.7,
+        "score": 149.5,
         "bet_action": "OVER",
-        "bet_description": "Andre Drummond OVER 10.5 Rebounds"
+        "bet_description": "Andre Drummond OVER 9.5 Rebounds"
       },
       {
         "player_name": "VJ Edgecombe",
@@ -1357,8 +1357,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2113,8 +2113,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3322,7 +3322,7 @@
         "games_played": 83,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.89,
+          "over_price": 1.88,
           "under_price": 1.87,
           "market_type": "over_under"
         },
@@ -3388,7 +3388,7 @@
               "price": 2.2
             },
             "1": {
-              "price": 1.23
+              "price": 1.24
             },
             "3": {
               "price": 5
