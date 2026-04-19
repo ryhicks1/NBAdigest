@@ -3739,6 +3739,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Keldon Johnson|PTS|10.5|OVER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Keldon Johnson",
+      "team": "SA",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 10.5,
+      "over_price": 1.96,
+      "under_price": 1.8,
+      "bet_description": "Keldon Johnson OVER 10.5 Points",
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "last_3_avg": 18.3,
+      "season_avg": 13.1,
+      "score": 253.5,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Keldon Johnson|REB|3.5|OVER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Keldon Johnson",
+      "team": "SA",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 3.5,
+      "over_price": 1.68,
+      "under_price": 2.1,
+      "bet_description": "Keldon Johnson OVER 3.5 Rebounds",
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "last_3_avg": 6.7,
+      "season_avg": 5.3,
+      "score": 253.1,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
