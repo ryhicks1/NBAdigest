@@ -3799,6 +3799,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Marcus Smart|FG3M|1.5|UNDER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "UNDER",
+      "line": 1.5,
+      "over_price": 1.85,
+      "under_price": 1.91,
+      "bet_description": "Marcus Smart UNDER 1.5 Threes",
+      "game": "Houston Rockets @ Los Angeles Lakers",
+      "last_3_avg": 0.3,
+      "season_avg": 1.6,
+      "score": 251.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Jalen Duren|AST|2.5|OVER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Jalen Duren",
+      "team": "DET",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 2.15,
+      "under_price": 1.64,
+      "bet_description": "Jalen Duren OVER 2.5 Assists",
+      "game": "Orlando Magic @ Detroit Pistons",
+      "last_3_avg": 3.7,
+      "season_avg": 1.9,
+      "score": 233.0,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
