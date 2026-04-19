@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T20:07:01.319780+11:00",
+  "generated_at": "2026-04-19T21:07:01.582920+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1356,17 +1356,17 @@
         "comparison": "l10",
         "games_played": 76,
         "betting_line": {
-          "line": 18.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "line": 17.5,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10372754",
-        "pct_vs_line": 20.5,
-        "score": 103.8,
+        "pct_vs_line": 27.4,
+        "score": 120.3,
         "bet_action": "OVER",
-        "bet_description": "De'Aaron Fox OVER 18.5 Points"
+        "bet_description": "De'Aaron Fox OVER 17.5 Points"
       },
       {
         "player_name": "Deni Avdija",
@@ -3322,7 +3322,7 @@
         "games_played": 83,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.88,
+          "over_price": 1.89,
           "under_price": 1.87,
           "market_type": "over_under"
         },
@@ -3388,10 +3388,10 @@
               "price": 2.2
             },
             "1": {
-              "price": 1.24
+              "price": 1.23
             },
             "3": {
-              "price": 5.2
+              "price": 5
             }
           },
           "market_type": "threshold"
@@ -3516,8 +3516,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
