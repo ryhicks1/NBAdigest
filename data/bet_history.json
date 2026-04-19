@@ -3779,6 +3779,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Jordan Goodwin|PTS|5.5|OVER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Jordan Goodwin",
+      "team": "PHX",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 5.5,
+      "over_price": 1.83,
+      "under_price": 1.83,
+      "bet_description": "Jordan Goodwin OVER 5.5 Points",
+      "game": "Phoenix Suns @ Oklahoma City Thunder",
+      "last_3_avg": 13.3,
+      "season_avg": 8.9,
+      "score": 418.4,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
