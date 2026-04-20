@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T07:07:00.822213+11:00",
+  "generated_at": "2026-04-21T08:07:01.051806+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -146,8 +146,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.08,
-        "under_price": 1.72,
+        "over_price": 2.1,
+        "under_price": 1.68,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -208,8 +208,8 @@
       "games_played": 83,
       "betting_line": {
         "line": 9.5,
-        "over_price": 1.88,
-        "under_price": 1.88,
+        "over_price": 1.87,
+        "under_price": 1.89,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -239,8 +239,8 @@
       "games_played": 36,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -572,8 +572,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -758,8 +758,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -851,8 +851,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -975,8 +975,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 17.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1160,17 +1160,17 @@
         "comparison": "season",
         "games_played": 76,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "line": 7.5,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/atlanta-hawks-at-new-york-knicks-10389095",
-        "pct_vs_line": 49.2,
-        "score": 175.6,
+        "pct_vs_line": 29.3,
+        "score": 131.9,
         "bet_action": "OVER",
-        "bet_description": "Dyson Daniels OVER 6.5 Rebounds"
+        "bet_description": "Dyson Daniels OVER 7.5 Rebounds"
       },
       {
         "player_name": "Keldon Johnson",
@@ -1192,8 +1192,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1347,8 +1347,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1439,17 +1439,17 @@
         "comparison": "season",
         "games_played": 73,
         "betting_line": {
-          "line": 14.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 15.5,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": 35.9,
-        "score": 148.7,
+        "pct_vs_line": 27.1,
+        "score": 127.7,
         "bet_action": "OVER",
-        "bet_description": "Jaden McDaniels OVER 14.5 Points"
+        "bet_description": "Jaden McDaniels OVER 15.5 Points"
       },
       {
         "player_name": "Jonathan Kuminga",
@@ -1634,8 +1634,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1729,8 +1729,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1792,13 +1792,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.5
+              "price": 7.75
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.15
+              "price": 3.05
             }
           },
           "market_type": "threshold"
@@ -1868,7 +1868,7 @@
               "price": 2.95
             },
             "3": {
-              "price": 8
+              "price": 7.75
             }
           },
           "market_type": "threshold"
@@ -1932,7 +1932,7 @@
         "betting_line": {
           "line": 3.5,
           "over_price": 2.1,
-          "under_price": 1.68,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -2086,8 +2086,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2241,8 +2241,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2271,17 +2271,17 @@
         "comparison": "season",
         "games_played": 66,
         "betting_line": {
-          "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "line": 2.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -53.3,
-        "score": 175.5,
+        "pct_vs_line": -72.0,
+        "score": 212.8,
         "bet_action": "UNDER",
-        "bet_description": "Nikola Jokic UNDER 1.5 Threes"
+        "bet_description": "Nikola Jokic UNDER 2.5 Threes"
       },
       {
         "player_name": "Donte DiVincenzo",
@@ -2427,8 +2427,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.56,
-          "under_price": 2.3,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2520,8 +2520,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -2644,8 +2644,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3047,8 +3047,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -3109,7 +3109,7 @@
         "games_played": 75,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.88,
+          "over_price": 1.89,
           "under_price": 1.87,
           "market_type": "over_under"
         },
@@ -3357,8 +3357,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -3419,8 +3419,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -3574,8 +3574,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3884,8 +3884,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4007,17 +4007,17 @@
         "comparison": "season",
         "games_played": 80,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 9.5,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -7.6,
-        "score": 64.5,
+        "pct_vs_line": 2.1,
+        "score": 51.3,
         "bet_action": "UNDER",
-        "bet_description": "Tim Hardaway Jr. UNDER 10.5 Points"
+        "bet_description": "Tim Hardaway Jr. UNDER 9.5 Points"
       },
       {
         "player_name": "Scoot Henderson",
@@ -4038,17 +4038,17 @@
         "comparison": "l10",
         "games_played": 31,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "line": 9.5,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": 4.8,
-        "score": 52.6,
+        "pct_vs_line": 15.8,
+        "score": 79.1,
         "bet_action": "UNDER",
-        "bet_description": "Scoot Henderson UNDER 10.5 Points"
+        "bet_description": "Scoot Henderson UNDER 9.5 Points"
       },
       {
         "player_name": "Immanuel Quickley",
@@ -4070,8 +4070,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4349,8 +4349,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4380,8 +4380,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 11.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
