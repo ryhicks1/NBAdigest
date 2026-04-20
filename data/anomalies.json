@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T15:07:01.295476+11:00",
+  "generated_at": "2026-04-20T16:07:00.930432+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1440,7 +1440,7 @@
         "games_played": 73,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.88,
+          "over_price": 1.87,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -1665,8 +1665,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 27.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -1993,8 +1993,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.45,
+          "under_price": 2.6,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2241,8 +2241,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2334,7 +2334,7 @@
         "games_played": 51,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.92,
+          "over_price": 1.93,
           "under_price": 1.83,
           "market_type": "over_under"
         },
@@ -2675,8 +2675,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2737,8 +2737,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2892,7 +2892,7 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.1,
+          "over_price": 2.15,
           "under_price": 1.64,
           "market_type": "over_under"
         },
@@ -3636,8 +3636,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -4008,8 +4008,8 @@
         "games_played": 80,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4194,8 +4194,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
