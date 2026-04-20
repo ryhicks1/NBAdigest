@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T23:07:00.595551+11:00",
+  "generated_at": "2026-04-21T00:07:01.530799+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 82,
       "betting_line": {
         "line": 5.5,
-        "over_price": 1.76,
-        "under_price": 2.02,
+        "over_price": 1.74,
+        "under_price": 2.05,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 201,
+    "total_bets": 211,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 54,
+    "pending": 64,
     "no_game": 39,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -944,8 +944,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1634,8 +1634,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1664,17 +1664,17 @@
         "comparison": "l10",
         "games_played": 78,
         "betting_line": {
-          "line": 27.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 26.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/atlanta-hawks-at-new-york-knicks-10389095",
-        "pct_vs_line": 1.8,
-        "score": 44.9,
+        "pct_vs_line": 5.7,
+        "score": 54.1,
         "bet_action": "OVER",
-        "bet_description": "Jalen Brunson OVER 27.5 Points"
+        "bet_description": "Jalen Brunson OVER 26.5 Points"
       }
     ],
     "cold": [
@@ -1792,13 +1792,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7.75
+              "price": 8.25
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.05
+              "price": 3.15
             }
           },
           "market_type": "threshold"
@@ -1865,7 +1865,7 @@
               "price": 1.41
             },
             "2": {
-              "price": 2.95
+              "price": 3
             },
             "3": {
               "price": 7.75
@@ -1931,8 +1931,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -2241,8 +2241,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2892,8 +2892,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -3388,8 +3388,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4008,8 +4008,8 @@
         "games_played": 80,
         "betting_line": {
           "line": 10.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4102,7 +4102,7 @@
         "betting_line": {
           "line": 26.5,
           "over_price": 1.92,
-          "under_price": 1.85,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4195,7 +4195,7 @@
         "betting_line": {
           "line": 21.5,
           "over_price": 1.88,
-          "under_price": 1.87,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
