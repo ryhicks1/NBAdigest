@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T09:00:01.568745+11:00",
+  "generated_at": "2026-04-21T09:07:01.568880+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -3109,7 +3109,7 @@
         "games_played": 75,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.89,
+          "over_price": 1.88,
           "under_price": 1.87,
           "market_type": "over_under"
         },
