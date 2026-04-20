@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T11:07:01.093868+11:00",
+  "generated_at": "2026-04-20T11:04:29.570279+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.44,
-        "under_price": 2.53,
+        "over_price": 1.57,
+        "under_price": 2.2,
         "market_type": "over_under"
       },
       "game": "Orlando Magic @ Detroit Pistons",
@@ -239,8 +239,8 @@
       "games_played": 84,
       "betting_line": {
         "line": 5.5,
-        "over_price": 2.2,
-        "under_price": 1.58,
+        "over_price": 2.27,
+        "under_price": 1.54,
         "market_type": "over_under"
       },
       "game": "Orlando Magic @ Detroit Pistons",
@@ -542,7 +542,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5
+              "price": 4.8
             },
             "1": {
               "price": 1.8
@@ -618,6 +618,37 @@
         "score": 454.9,
         "bet_action": "OVER",
         "bet_description": "Mitchell Robinson OVER 4.5 Points"
+      },
+      {
+        "player_name": "Tyrese Maxey",
+        "team": "PHI",
+        "stat": "STL",
+        "stat_label": "Steals",
+        "direction": "hot",
+        "last_3": [
+          1,
+          1,
+          2
+        ],
+        "last_3_avg": 1.3,
+        "season_avg": 1.8,
+        "l10_avg": 0.7,
+        "pct_diff_season": -27.8,
+        "pct_diff_l10": 85.7,
+        "comparison": "l10",
+        "games_played": 74,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.45,
+          "under_price": 1.5,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Boston Celtics",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
+        "pct_vs_line": -13.3,
+        "score": 62.0,
+        "bet_action": "OVER",
+        "bet_description": "Tyrese Maxey OVER 1.5 Steals"
       },
       {
         "player_name": "Aaron Gordon",
@@ -701,8 +732,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.87,
-          "under_price": 1.8,
+          "over_price": 1.97,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -742,6 +773,37 @@
         "score": 160.9,
         "bet_action": "OVER",
         "bet_description": "Rui Hachimura OVER 1.5 Threes"
+      },
+      {
+        "player_name": "VJ Edgecombe",
+        "team": "PHI",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          11,
+          7,
+          9
+        ],
+        "last_3_avg": 9.0,
+        "season_avg": 5.7,
+        "l10_avg": 5.8,
+        "pct_diff_season": 57.9,
+        "pct_diff_l10": 55.2,
+        "comparison": "season",
+        "games_played": 76,
+        "betting_line": {
+          "line": 5.5,
+          "over_price": 2.25,
+          "under_price": 1.58,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Boston Celtics",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
+        "pct_vs_line": 63.6,
+        "score": 225.2,
+        "bet_action": "OVER",
+        "bet_description": "VJ Edgecombe OVER 5.5 Rebounds"
       },
       {
         "player_name": "Harrison Barnes",
@@ -825,8 +887,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.44,
-          "under_price": 2.53,
+          "over_price": 1.57,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -886,17 +948,17 @@
         "comparison": "season",
         "games_played": 59,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 1.87,
-          "under_price": 1.8,
+          "line": 5.5,
+          "over_price": 2.05,
+          "under_price": 1.66,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-detroit-pistons-10384649",
-        "pct_vs_line": 26.7,
-        "score": 134.2,
+        "pct_vs_line": 3.6,
+        "score": 83.6,
         "bet_action": "OVER",
-        "bet_description": "Jalen Suggs OVER 4.5 Rebounds"
+        "bet_description": "Jalen Suggs OVER 5.5 Rebounds"
       },
       {
         "player_name": "Dyson Daniels",
@@ -1011,7 +1073,7 @@
         "games_played": 68,
         "betting_line": {
           "line": 22.5,
-          "over_price": 1.83,
+          "over_price": 1.84,
           "under_price": 1.92,
           "market_type": "over_under"
         },
@@ -1540,8 +1602,8 @@
         "games_played": 84,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.2,
-          "under_price": 1.58,
+          "over_price": 2.27,
+          "under_price": 1.54,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -1571,8 +1633,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.64,
-          "under_price": 2.12,
+          "over_price": 1.72,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -1726,8 +1788,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.82,
-          "under_price": 1.85,
+          "over_price": 2.01,
+          "under_price": 1.69,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -1756,17 +1818,17 @@
         "comparison": "l10",
         "games_played": 63,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.49,
-          "under_price": 2.38,
+          "line": 3.5,
+          "over_price": 1.54,
+          "under_price": 2.27,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-detroit-pistons-10384649",
-        "pct_vs_line": -48.0,
-        "score": 169.4,
+        "pct_vs_line": -62.9,
+        "score": 202.1,
         "bet_action": "UNDER",
-        "bet_description": "Tobias Harris UNDER 2.5 Assists"
+        "bet_description": "Tobias Harris UNDER 3.5 Assists"
       },
       {
         "player_name": "Anthony Edwards",
@@ -1974,8 +2036,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.89,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2159,17 +2221,17 @@
         "comparison": "season",
         "games_played": 67,
         "betting_line": {
-          "line": 26.5,
-          "over_price": 1.83,
-          "under_price": 1.84,
+          "line": 27.5,
+          "over_price": 1.91,
+          "under_price": 1.77,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-detroit-pistons-10384649",
-        "pct_vs_line": -57.4,
-        "score": 219.1,
+        "pct_vs_line": -58.9,
+        "score": 222.9,
         "bet_action": "UNDER",
-        "bet_description": "Cade Cunningham UNDER 26.5 Points"
+        "bet_description": "Cade Cunningham UNDER 27.5 Points"
       },
       {
         "player_name": "Anthony Edwards",
@@ -2284,8 +2346,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2718,8 +2780,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2749,8 +2811,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2759,6 +2821,37 @@
         "score": 74.8,
         "bet_action": "UNDER",
         "bet_description": "Shaedon Sharpe UNDER 1.5 Threes"
+      },
+      {
+        "player_name": "Tyrese Maxey",
+        "team": "PHI",
+        "stat": "AST",
+        "stat_label": "Assists",
+        "direction": "cold",
+        "last_3": [
+          6,
+          1,
+          5
+        ],
+        "last_3_avg": 4.0,
+        "season_avg": 6.4,
+        "l10_avg": 6.0,
+        "pct_diff_season": -37.5,
+        "pct_diff_l10": -33.3,
+        "comparison": "season",
+        "games_played": 74,
+        "betting_line": {
+          "line": 5.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Boston Celtics",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
+        "pct_vs_line": -27.3,
+        "score": 112.2,
+        "bet_action": "UNDER",
+        "bet_description": "Tyrese Maxey UNDER 5.5 Assists"
       },
       {
         "player_name": "Dean Wade",
@@ -2842,8 +2935,8 @@
         "games_played": 59,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.52,
-          "under_price": 2.3,
+          "over_price": 1.55,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -3121,8 +3214,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.97,
-          "under_price": 1.72,
+          "over_price": 2.05,
+          "under_price": 1.67,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -3276,8 +3369,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.5,
-          "under_price": 2.35,
+          "over_price": 1.63,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -3307,8 +3400,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.87,
-          "under_price": 1.8,
+          "over_price": 1.96,
+          "under_price": 1.73,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
