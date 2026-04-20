@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T09:07:01.568880+11:00",
+  "generated_at": "2026-04-21T10:07:00.965392+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -146,8 +146,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.85,
-        "under_price": 1.91,
+        "over_price": 1.8,
+        "under_price": 1.96,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -572,8 +572,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1006,7 +1006,7 @@
         "games_played": 79,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.3,
+          "over_price": 2.4,
           "under_price": 1.56,
           "market_type": "over_under"
         },
@@ -1564,11 +1564,8 @@
         "games_played": 77,
         "betting_line": {
           "thresholds": {
-            "3": {
-              "price": 8.5
-            },
             "2": {
-              "price": 3.3
+              "price": 3.1
             },
             "1": {
               "price": 1.45
@@ -1634,8 +1631,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2304,7 +2301,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 1.92,
-          "under_price": 1.83,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -2396,8 +2393,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -2489,8 +2486,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2644,8 +2641,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2985,8 +2982,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3047,7 +3044,7 @@
         "games_played": 64,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.83,
+          "over_price": 1.84,
           "under_price": 1.92,
           "market_type": "over_under"
         },
@@ -3263,17 +3260,17 @@
         "comparison": "l10",
         "games_played": 46,
         "betting_line": {
-          "line": 9.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "line": 8.5,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10389097",
-        "pct_vs_line": -26.3,
-        "score": 113.6,
+        "pct_vs_line": -17.6,
+        "score": 92.8,
         "bet_action": "UNDER",
-        "bet_description": "Jakob Poeltl UNDER 9.5 Points"
+        "bet_description": "Jakob Poeltl UNDER 8.5 Points"
       },
       {
         "player_name": "Derrick White",
@@ -3295,8 +3292,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 14.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3574,8 +3571,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4163,8 +4160,8 @@
         "games_played": 75,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -4369,7 +4366,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 110,
+    "players_with_sportsbet_markets": 111,
     "events_count": 8
   }
 }
