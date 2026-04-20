@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T17:07:01.456838+11:00",
+  "generated_at": "2026-04-20T18:07:00.794451+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 82,
       "betting_line": {
         "line": 5.5,
-        "over_price": 1.74,
-        "under_price": 2.05,
+        "over_price": 1.76,
+        "under_price": 2.02,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -603,8 +603,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -944,8 +944,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1440,7 +1440,7 @@
         "games_played": 73,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.87,
+          "over_price": 1.88,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -1634,8 +1634,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2086,8 +2086,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2241,8 +2241,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2427,8 +2427,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.56,
-          "under_price": 2.3,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2675,8 +2675,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -3388,8 +3388,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3574,8 +3574,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3636,8 +3636,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.5,
-          "under_price": 1.48,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -4008,8 +4008,8 @@
         "games_played": 80,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4101,8 +4101,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4349,8 +4349,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
