@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T18:07:00.794451+11:00",
+  "generated_at": "2026-04-20T19:00:00.930583+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -852,7 +852,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 1.72,
-          "under_price": 2.1,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1729,7 +1729,7 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.89,
+          "over_price": 1.9,
           "under_price": 1.86,
           "market_type": "over_under"
         },
@@ -1792,13 +1792,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.25
+              "price": 7.75
             },
             "1": {
               "price": 1.45
             },
             "2": {
-              "price": 3.1
+              "price": 3.05
             }
           },
           "market_type": "threshold"
@@ -2334,8 +2334,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -2892,7 +2892,7 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
+          "over_price": 2.1,
           "under_price": 1.64,
           "market_type": "over_under"
         },
