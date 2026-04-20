@@ -3939,6 +3939,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-20|Marcus Smart|PTS|11.5|UNDER",
+      "suggested_date": "2026-04-20",
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "UNDER",
+      "line": 11.5,
+      "over_price": 1.96,
+      "under_price": 1.8,
+      "bet_description": "Marcus Smart UNDER 11.5 Points",
+      "game": "Houston Rockets @ Los Angeles Lakers",
+      "last_3_avg": 4.3,
+      "season_avg": 9.3,
+      "score": 230.7,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
