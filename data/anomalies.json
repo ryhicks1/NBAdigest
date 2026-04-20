@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T20:07:01.525073+11:00",
+  "generated_at": "2026-04-20T21:07:00.561617+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -2985,8 +2985,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -4225,8 +4225,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
