@@ -2896,9 +2896,9 @@
       "last_3_avg": 10.7,
       "season_avg": 5.6,
       "score": 454.9,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.005738"
     },
     {
       "id": "2026-04-18|Payton Pritchard|FG3M|1.5|OVER",
@@ -2916,9 +2916,9 @@
       "last_3_avg": 4.0,
       "season_avg": 2.7,
       "score": 400.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.005822"
     },
     {
       "id": "2026-04-18|LeBron James|STL|1.5|OVER",
@@ -2936,9 +2936,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.2,
       "score": 330.1,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.005866"
     },
     {
       "id": "2026-04-18|Andre Drummond|PTS|6.5|OVER",
@@ -2956,9 +2956,9 @@
       "last_3_avg": 12.0,
       "season_avg": 6.5,
       "score": 329.7,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006257"
     },
     {
       "id": "2026-04-18|Ja'Kobe Walter|FG3M|1.5|OVER",
@@ -2976,9 +2976,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.5,
       "score": 316.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006298"
     },
     {
       "id": "2026-04-18|Jordan Goodwin|FG3M|1.5|OVER",
@@ -3016,9 +3016,9 @@
       "last_3_avg": 4.7,
       "season_avg": 2.7,
       "score": 288.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006336"
     },
     {
       "id": "2026-04-18|De'Aaron Fox|FG3M|1.5|OVER",
@@ -3036,9 +3036,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.8,
       "score": 283.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006396"
     },
     {
       "id": "2026-04-18|Jarrett Allen|AST|1.5|UNDER",
@@ -3056,9 +3056,9 @@
       "last_3_avg": 0.3,
       "season_avg": 1.8,
       "score": 278.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006454"
     },
     {
       "id": "2026-04-18|Onyeka Okongwu|AST|2.5|UNDER",
@@ -3076,9 +3076,9 @@
       "last_3_avg": 0.7,
       "season_avg": 3.1,
       "score": 254.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006496"
     },
     {
       "id": "2026-04-18|LaMelo Ball|REB|2.5|OVER",
@@ -3116,9 +3116,9 @@
       "last_3_avg": 6.3,
       "season_avg": 3.9,
       "score": 420.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006532"
     },
     {
       "id": "2026-04-18|Bruce Brown|PTS|5.5|OVER",
@@ -3136,9 +3136,9 @@
       "last_3_avg": 12.3,
       "season_avg": 7.9,
       "score": 388.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-21T01:05:33.006565"
     },
     {
       "id": "2026-04-19|Mitchell Robinson|PTS|4.5|OVER",
@@ -4236,6 +4236,46 @@
       "last_3_avg": 6.3,
       "season_avg": 3.9,
       "score": 420.6,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-21|Dyson Daniels|REB|4.5|OVER",
+      "suggested_date": "2026-04-21",
+      "player_name": "Dyson Daniels",
+      "team": "ATL",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 4.5,
+      "over_price": 1.87,
+      "under_price": 1.8,
+      "bet_description": "Dyson Daniels OVER 4.5 Rebounds",
+      "game": "Atlanta Hawks @ New York Knicks",
+      "last_3_avg": 9.7,
+      "season_avg": 6.8,
+      "score": 321.5,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-21|Jonathan Kuminga|REB|2.5|OVER",
+      "suggested_date": "2026-04-21",
+      "player_name": "Jonathan Kuminga",
+      "team": "ATL",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 1.9,
+      "under_price": 1.78,
+      "bet_description": "Jonathan Kuminga OVER 2.5 Rebounds",
+      "game": "Atlanta Hawks @ New York Knicks",
+      "last_3_avg": 5.3,
+      "season_avg": 5.6,
+      "score": 271.4,
       "status": "pending",
       "actual_value": null,
       "settled_at": null
