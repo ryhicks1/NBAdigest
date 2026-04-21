@@ -4419,6 +4419,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-21|Anthony Edwards|REB|9.5|UNDER",
+      "suggested_date": "2026-04-21",
+      "player_name": "Anthony Edwards",
+      "team": "MIN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "UNDER",
+      "line": 9.5,
+      "over_price": 1.46,
+      "under_price": 2.45,
+      "bet_description": "Anthony Edwards UNDER 9.5 Rebounds",
+      "game": "Minnesota Timberwolves @ Denver Nuggets",
+      "last_3_avg": 2.0,
+      "season_avg": 4.9,
+      "score": 266.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }

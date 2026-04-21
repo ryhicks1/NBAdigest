@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T15:07:01.347831+11:00",
+  "generated_at": "2026-04-21T16:07:01.534198+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -96,37 +96,6 @@
       "bet_description": "Karl-Anthony Towns OVER 2.5 Assists"
     },
     {
-      "player_name": "Jaden McDaniels",
-      "team": "MIN",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        16,
-        18,
-        25
-      ],
-      "last_3_avg": 19.7,
-      "season_avg": 14.8,
-      "l10_avg": 15.5,
-      "pct_diff_season": 33.1,
-      "pct_diff_l10": 27.1,
-      "comparison": "season",
-      "games_played": 73,
-      "betting_line": {
-        "line": 9.5,
-        "over_price": 1.72,
-        "under_price": 1.97,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ Denver Nuggets",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-      "pct_vs_line": 107.4,
-      "score": 320.3,
-      "bet_action": "OVER",
-      "bet_description": "Jaden McDaniels OVER 9.5 Points"
-    },
-    {
       "player_name": "Chet Holmgren",
       "team": "OKC",
       "stat": "BLK",
@@ -208,8 +177,8 @@
       "games_played": 76,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -218,6 +187,37 @@
       "score": 283.5,
       "bet_action": "OVER",
       "bet_description": "De'Aaron Fox OVER 1.5 Threes"
+    },
+    {
+      "player_name": "Anthony Edwards",
+      "team": "MIN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "cold",
+      "last_3": [
+        2,
+        2,
+        2
+      ],
+      "last_3_avg": 2.0,
+      "season_avg": 4.9,
+      "l10_avg": 3.7,
+      "pct_diff_season": -59.2,
+      "pct_diff_l10": -45.9,
+      "comparison": "season",
+      "games_played": 64,
+      "betting_line": {
+        "line": 9.5,
+        "over_price": 1.46,
+        "under_price": 2.45,
+        "market_type": "over_under"
+      },
+      "game": "Minnesota Timberwolves @ Denver Nuggets",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
+      "pct_vs_line": -78.9,
+      "score": 266.3,
+      "bet_action": "UNDER",
+      "bet_description": "Anthony Edwards UNDER 9.5 Rebounds"
     },
     {
       "player_name": "Ausar Thompson",
@@ -282,43 +282,43 @@
       "bet_description": "Onyeka Okongwu UNDER 2.5 Assists"
     },
     {
-      "player_name": "Anthony Edwards",
-      "team": "MIN",
+      "player_name": "Keldon Johnson",
+      "team": "SA",
       "stat": "REB",
       "stat_label": "Rebounds",
-      "direction": "cold",
+      "direction": "hot",
       "last_3": [
-        2,
-        2,
-        2
+        6,
+        6,
+        8
       ],
-      "last_3_avg": 2.0,
-      "season_avg": 4.9,
-      "l10_avg": 3.7,
-      "pct_diff_season": -59.2,
-      "pct_diff_l10": -45.9,
-      "comparison": "season",
-      "games_played": 64,
+      "last_3_avg": 6.7,
+      "season_avg": 5.3,
+      "l10_avg": 4.9,
+      "pct_diff_season": 26.4,
+      "pct_diff_l10": 36.7,
+      "comparison": "l10",
+      "games_played": 83,
       "betting_line": {
-        "line": 7.5,
-        "over_price": 1.75,
-        "under_price": 1.93,
+        "line": 3.5,
+        "over_price": 1.64,
+        "under_price": 2.15,
         "market_type": "over_under"
       },
-      "game": "Minnesota Timberwolves @ Denver Nuggets",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-      "pct_vs_line": -73.3,
-      "score": 254.0,
-      "bet_action": "UNDER",
-      "bet_description": "Anthony Edwards UNDER 7.5 Rebounds"
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
+      "pct_vs_line": 91.4,
+      "score": 253.1,
+      "bet_action": "OVER",
+      "bet_description": "Keldon Johnson OVER 3.5 Rebounds"
     }
   ],
   "tracking": {
-    "total_bets": 221,
+    "total_bets": 222,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 63,
+    "pending": 64,
     "no_game": 50,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -541,8 +541,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -706,37 +706,6 @@
         "score": 233.7,
         "bet_action": "OVER",
         "bet_description": "Amen Thompson OVER 1.5 Steals"
-      },
-      {
-        "player_name": "Aaron Gordon",
-        "team": "DEN",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          6,
-          5,
-          3
-        ],
-        "last_3_avg": 4.7,
-        "season_avg": 2.7,
-        "l10_avg": 3.1,
-        "pct_diff_season": 74.1,
-        "pct_diff_l10": 51.6,
-        "comparison": "season",
-        "games_played": 36,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 2.25,
-          "under_price": 1.55,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Denver Nuggets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -14.5,
-        "score": 126.7,
-        "bet_action": "OVER",
-        "bet_description": "Aaron Gordon OVER 5.5 Assists"
       },
       {
         "player_name": "Karl-Anthony Towns",
@@ -913,8 +882,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 17.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1099,8 +1068,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Atlanta Hawks",
@@ -1192,8 +1161,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 23.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1285,8 +1254,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1377,17 +1346,48 @@
         "comparison": "season",
         "games_played": 73,
         "betting_line": {
-          "line": 9.5,
-          "over_price": 1.72,
-          "under_price": 1.97,
+          "line": 13.5,
+          "over_price": 1.84,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": 107.4,
-        "score": 320.3,
+        "pct_vs_line": 45.9,
+        "score": 172.9,
         "bet_action": "OVER",
-        "bet_description": "Jaden McDaniels OVER 9.5 Points"
+        "bet_description": "Jaden McDaniels OVER 13.5 Points"
+      },
+      {
+        "player_name": "Jonathan Kuminga",
+        "team": "ATL",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          5,
+          6,
+          5
+        ],
+        "last_3_avg": 5.3,
+        "season_avg": 5.6,
+        "l10_avg": 4.0,
+        "pct_diff_season": -5.4,
+        "pct_diff_l10": 32.5,
+        "comparison": "l10",
+        "games_played": 36,
+        "betting_line": {
+          "line": 5.5,
+          "over_price": 2.08,
+          "under_price": 1.72,
+          "market_type": "over_under"
+        },
+        "game": "New York Knicks @ Atlanta Hawks",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-atlanta-hawks-10392180",
+        "pct_vs_line": -3.6,
+        "score": 33.0,
+        "bet_action": "OVER",
+        "bet_description": "Jonathan Kuminga OVER 5.5 Rebounds"
       },
       {
         "player_name": "Jalen Brunson",
@@ -1532,17 +1532,17 @@
         "comparison": "l10",
         "games_played": 78,
         "betting_line": {
-          "line": 25.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 26.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Atlanta Hawks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-atlanta-hawks-10392180",
-        "pct_vs_line": 9.8,
-        "score": 64.1,
+        "pct_vs_line": 5.7,
+        "score": 54.1,
         "bet_action": "OVER",
-        "bet_description": "Jalen Brunson OVER 25.5 Points"
+        "bet_description": "Jalen Brunson OVER 26.5 Points"
       }
     ],
     "cold": [
@@ -1597,8 +1597,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1659,8 +1659,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.5,
-          "under_price": 2.45,
+          "over_price": 1.52,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1826,37 +1826,6 @@
         "bet_description": "Immanuel Quickley UNDER 11.5 Points"
       },
       {
-        "player_name": "Ayo Dosunmu",
-        "team": "MIN",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          0
-        ],
-        "last_3_avg": 0.7,
-        "season_avg": 1.8,
-        "l10_avg": 1.8,
-        "pct_diff_season": -61.1,
-        "pct_diff_l10": -61.1,
-        "comparison": "season",
-        "games_played": 69,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.69,
-          "under_price": 2.05,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Denver Nuggets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -53.3,
-        "score": 177.8,
-        "bet_action": "UNDER",
-        "bet_description": "Ayo Dosunmu UNDER 1.5 Threes"
-      },
-      {
         "player_name": "Daniss Jenkins",
         "team": "DET",
         "stat": "PTS",
@@ -1937,17 +1906,48 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 7.5,
-          "over_price": 1.75,
-          "under_price": 1.93,
+          "line": 9.5,
+          "over_price": 1.46,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -73.3,
-        "score": 254.0,
+        "pct_vs_line": -78.9,
+        "score": 266.3,
         "bet_action": "UNDER",
-        "bet_description": "Anthony Edwards UNDER 7.5 Rebounds"
+        "bet_description": "Anthony Edwards UNDER 9.5 Rebounds"
+      },
+      {
+        "player_name": "Nikola Jokic",
+        "team": "DEN",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          1,
+          0,
+          1
+        ],
+        "last_3_avg": 0.7,
+        "season_avg": 1.7,
+        "l10_avg": 1.2,
+        "pct_diff_season": -58.8,
+        "pct_diff_l10": -41.7,
+        "comparison": "season",
+        "games_played": 66,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 3.25,
+          "under_price": 1.32,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ Denver Nuggets",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
+        "pct_vs_line": -53.3,
+        "score": 175.5,
+        "bet_action": "UNDER",
+        "bet_description": "Nikola Jokic UNDER 1.5 Threes"
       },
       {
         "player_name": "Neemias Queta",
@@ -2010,37 +2010,6 @@
         "score": 195.1,
         "bet_action": "UNDER",
         "bet_description": "Josh Hart UNDER 7.5 Rebounds"
-      },
-      {
-        "player_name": "Ayo Dosunmu",
-        "team": "MIN",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          0,
-          5,
-          4
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 3.4,
-        "l10_avg": 6.6,
-        "pct_diff_season": -11.8,
-        "pct_diff_l10": -54.5,
-        "comparison": "l10",
-        "games_played": 69,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 1.91,
-          "under_price": 1.77,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Denver Nuggets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -33.3,
-        "score": 97.3,
-        "bet_action": "UNDER",
-        "bet_description": "Ayo Dosunmu UNDER 4.5 Rebounds"
       },
       {
         "player_name": "Jaylen Brown",
@@ -2186,8 +2155,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2196,37 +2165,6 @@
         "score": 105.6,
         "bet_action": "UNDER",
         "bet_description": "Shaedon Sharpe UNDER 10.5 Points"
-      },
-      {
-        "player_name": "Ayo Dosunmu",
-        "team": "MIN",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          4,
-          1,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.6,
-        "l10_avg": 4.8,
-        "pct_diff_season": -36.1,
-        "pct_diff_l10": -52.1,
-        "comparison": "l10",
-        "games_played": 69,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 2.14,
-          "under_price": 1.61,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Denver Nuggets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -34.3,
-        "score": 126.1,
-        "bet_action": "UNDER",
-        "bet_description": "Ayo Dosunmu UNDER 3.5 Assists"
       },
       {
         "player_name": "Cade Cunningham",
@@ -2309,17 +2247,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.03,
-          "under_price": 1.73,
+          "line": 3.5,
+          "over_price": 2.37,
+          "under_price": 1.54,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -62.2,
-        "score": 182.9,
+        "pct_vs_line": -51.4,
+        "score": 161.4,
         "bet_action": "UNDER",
-        "bet_description": "Anthony Edwards UNDER 4.5 Threes"
+        "bet_description": "Anthony Edwards UNDER 3.5 Threes"
       },
       {
         "player_name": "Ajay Mitchell",
@@ -2558,8 +2496,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 35.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
+          "over_price": 1.9,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2849,37 +2787,6 @@
         "bet_description": "Toumani Camara UNDER 11.5 Points"
       },
       {
-        "player_name": "Donte DiVincenzo",
-        "team": "MIN",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          3,
-          2,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.8,
-        "l10_avg": 2.2,
-        "pct_diff_season": -39.5,
-        "pct_diff_l10": 4.5,
-        "comparison": "season",
-        "games_played": 82,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.73,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ Denver Nuggets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -58.2,
-        "score": 192.2,
-        "bet_action": "UNDER",
-        "bet_description": "Donte DiVincenzo UNDER 5.5 Assists"
-      },
-      {
         "player_name": "Jrue Holiday",
         "team": "POR",
         "stat": "AST",
@@ -3159,6 +3066,37 @@
         "bet_description": "James Harden UNDER 6.5 Assists"
       },
       {
+        "player_name": "Robert Williams III",
+        "team": "POR",
+        "stat": "BLK",
+        "stat_label": "Blocks",
+        "direction": "cold",
+        "last_3": [
+          1,
+          1,
+          1
+        ],
+        "last_3_avg": 1.0,
+        "season_avg": 1.5,
+        "l10_avg": 1.2,
+        "pct_diff_season": -33.3,
+        "pct_diff_l10": -16.7,
+        "comparison": "season",
+        "games_played": 60,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.9,
+          "under_price": 1.36,
+          "market_type": "over_under"
+        },
+        "game": "Portland Trail Blazers @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
+        "pct_vs_line": -33.3,
+        "score": 112.5,
+        "bet_action": "UNDER",
+        "bet_description": "Robert Williams III UNDER 1.5 Blocks"
+      },
+      {
         "player_name": "Reed Sheppard",
         "team": "HOU",
         "stat": "AST",
@@ -3425,17 +3363,17 @@
         "comparison": "season",
         "games_played": 80,
         "betting_line": {
-          "line": 19.5,
-          "over_price": 1.93,
-          "under_price": 1.75,
+          "line": 17.5,
+          "over_price": 1.84,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -50.3,
-        "score": 166.8,
+        "pct_vs_line": -44.6,
+        "score": 153.2,
         "bet_action": "UNDER",
-        "bet_description": "Tim Hardaway Jr. UNDER 19.5 Points"
+        "bet_description": "Tim Hardaway Jr. UNDER 17.5 Points"
       },
       {
         "player_name": "Scoot Henderson",
@@ -3518,17 +3456,17 @@
         "comparison": "l10",
         "games_played": 77,
         "betting_line": {
-          "line": 37.5,
-          "over_price": 1.91,
-          "under_price": 1.77,
+          "line": 33.5,
+          "over_price": 2.03,
+          "under_price": 1.67,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10389115",
-        "pct_vs_line": -45.9,
-        "score": 153.9,
+        "pct_vs_line": -39.4,
+        "score": 138.4,
         "bet_action": "UNDER",
-        "bet_description": "Jamal Murray UNDER 37.5 Points"
+        "bet_description": "Jamal Murray UNDER 33.5 Points"
       },
       {
         "player_name": "Julius Randle",
@@ -3550,8 +3488,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.55,
-          "under_price": 2.25,
+          "over_price": 1.68,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -3798,8 +3736,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "New York Knicks @ Atlanta Hawks",
@@ -3818,7 +3756,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 101,
+    "players_with_sportsbet_markets": 100,
     "events_count": 8
   }
 }
