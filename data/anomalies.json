@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T23:07:00.888973+11:00",
+  "generated_at": "2026-04-22T00:07:00.975893+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 222,
+    "total_bets": 232,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 64,
+    "pending": 74,
     "no_game": 50,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -851,8 +851,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1193,7 +1193,7 @@
         "betting_line": {
           "line": 16.5,
           "over_price": 1.86,
-          "under_price": 1.9,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1224,7 +1224,7 @@
         "betting_line": {
           "line": 23.5,
           "over_price": 1.87,
-          "under_price": 1.88,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1316,8 +1316,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1752,7 +1752,7 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.1,
+          "over_price": 2.15,
           "under_price": 1.64,
           "market_type": "over_under"
         },
@@ -2217,8 +2217,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2341,8 +2341,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2682,8 +2682,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2899,8 +2899,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2960,17 +2960,17 @@
         "comparison": "season",
         "games_played": 77,
         "betting_line": {
-          "line": 14.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 13.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
-        "pct_vs_line": -33.1,
-        "score": 152.5,
+        "pct_vs_line": -28.1,
+        "score": 140.6,
         "bet_action": "UNDER",
-        "bet_description": "Derrick White UNDER 14.5 Points"
+        "bet_description": "Derrick White UNDER 13.5 Points"
       },
       {
         "player_name": "Toumani Camara",
