@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T12:07:00.913344+11:00",
+  "generated_at": "2026-04-22T12:09:38.214359+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -96,6 +96,37 @@
       "bet_description": "Karl-Anthony Towns OVER 2.5 Assists"
     },
     {
+      "player_name": "Toumani Camara",
+      "team": "POR",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "cold",
+      "last_3": [
+        8,
+        15,
+        5
+      ],
+      "last_3_avg": 9.3,
+      "season_avg": 13.3,
+      "l10_avg": 15.7,
+      "pct_diff_season": -30.1,
+      "pct_diff_l10": -40.8,
+      "comparison": "l10",
+      "games_played": 83,
+      "betting_line": {
+        "line": 4.5,
+        "over_price": 1.8,
+        "under_price": 1.87,
+        "market_type": "over_under"
+      },
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
+      "pct_vs_line": 106.7,
+      "score": 305.9,
+      "bet_action": "UNDER",
+      "bet_description": "Toumani Camara UNDER 4.5 Points"
+    },
+    {
       "player_name": "Chet Holmgren",
       "team": "OKC",
       "stat": "BLK",
@@ -177,8 +208,8 @@
       "games_played": 76,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.48,
-        "under_price": 2.45,
+        "over_price": 1.6,
+        "under_price": 2.2,
         "market_type": "over_under"
       },
       "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -280,45 +311,14 @@
       "score": 251.2,
       "bet_action": "UNDER",
       "bet_description": "Marcus Smart UNDER 1.5 Threes"
-    },
-    {
-      "player_name": "Julian Champagnie",
-      "team": "SA",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "cold",
-      "last_3": [
-        1,
-        1,
-        0
-      ],
-      "last_3_avg": 0.7,
-      "season_avg": 2.4,
-      "l10_avg": 2.3,
-      "pct_diff_season": -70.8,
-      "pct_diff_l10": -69.6,
-      "comparison": "season",
-      "games_played": 83,
-      "betting_line": {
-        "line": 3.5,
-        "over_price": 2.85,
-        "under_price": 1.37,
-        "market_type": "over_under"
-      },
-      "game": "Portland Trail Blazers @ San Antonio Spurs",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-      "pct_vs_line": -80.0,
-      "score": 240.8,
-      "bet_action": "UNDER",
-      "bet_description": "Julian Champagnie UNDER 3.5 Threes"
     }
   ],
   "tracking": {
-    "total_bets": 235,
+    "total_bets": 236,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 64,
+    "pending": 65,
     "no_game": 63,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -541,8 +541,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.48,
-          "under_price": 2.45,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -837,6 +837,37 @@
         "bet_description": "Rui Hachimura OVER 1.5 Threes"
       },
       {
+        "player_name": "VJ Edgecombe",
+        "team": "PHI",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          11,
+          7,
+          9
+        ],
+        "last_3_avg": 9.0,
+        "season_avg": 5.7,
+        "l10_avg": 5.8,
+        "pct_diff_season": 57.9,
+        "pct_diff_l10": 55.2,
+        "comparison": "season",
+        "games_played": 76,
+        "betting_line": {
+          "line": 9.5,
+          "over_price": 1.36,
+          "under_price": 2.8,
+          "market_type": "over_under"
+        },
+        "game": "Philadelphia 76ers @ Boston Celtics",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
+        "pct_vs_line": -5.3,
+        "score": 96.8,
+        "bet_action": "OVER",
+        "bet_description": "VJ Edgecombe OVER 9.5 Rebounds"
+      },
+      {
         "player_name": "Amen Thompson",
         "team": "HOU",
         "stat": "PTS",
@@ -1041,17 +1072,17 @@
         "comparison": "l10",
         "games_played": 76,
         "betting_line": {
-          "line": 19.5,
-          "over_price": 1.96,
-          "under_price": 1.73,
+          "line": 17.5,
+          "over_price": 1.75,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": 14.4,
-        "score": 88.9,
+        "pct_vs_line": 27.4,
+        "score": 120.3,
         "bet_action": "OVER",
-        "bet_description": "De'Aaron Fox OVER 19.5 Points"
+        "bet_description": "De'Aaron Fox OVER 17.5 Points"
       },
       {
         "player_name": "Deni Avdija",
@@ -1073,8 +1104,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 25.5,
-          "over_price": 1.9,
-          "under_price": 1.78,
+          "over_price": 1.87,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1104,8 +1135,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.91,
-          "under_price": 1.77,
+          "over_price": 2.01,
+          "under_price": 1.69,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1539,17 +1570,17 @@
         "comparison": "season",
         "games_played": 83,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 2.85,
-          "under_price": 1.37,
+          "line": 2.5,
+          "over_price": 1.48,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": -80.0,
-        "score": 240.8,
+        "pct_vs_line": -72.0,
+        "score": 224.8,
         "bet_action": "UNDER",
-        "bet_description": "Julian Champagnie UNDER 3.5 Threes"
+        "bet_description": "Julian Champagnie UNDER 2.5 Threes"
       },
       {
         "player_name": "Luke Kennard",
@@ -1986,37 +2017,6 @@
         "bet_description": "Ayo Dosunmu UNDER 2.5 Rebounds"
       },
       {
-        "player_name": "Jaylen Brown",
-        "team": "BOS",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          3,
-          3
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 4.9,
-        "l10_avg": 5.0,
-        "pct_diff_season": -53.1,
-        "pct_diff_l10": -54.0,
-        "comparison": "l10",
-        "games_played": 74,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.45,
-          "under_price": 2.5,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ Boston Celtics",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
-        "pct_vs_line": -34.3,
-        "score": 148.0,
-        "bet_action": "UNDER",
-        "bet_description": "Jaylen Brown UNDER 3.5 Assists"
-      },
-      {
         "player_name": "Marcus Smart",
         "team": "LAL",
         "stat": "PTS",
@@ -2098,8 +2098,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.97,
-          "under_price": 1.72,
+          "over_price": 1.83,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2315,8 +2315,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.67,
-          "under_price": 2.03,
+          "over_price": 2.1,
+          "under_price": 1.63,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2439,8 +2439,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.65,
-          "under_price": 2.07,
+          "over_price": 1.97,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2606,37 +2606,6 @@
         "bet_description": "Ajay Mitchell UNDER 9.5 Points"
       },
       {
-        "player_name": "Toumani Camara",
-        "team": "POR",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          2,
-          3,
-          1
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 2.7,
-        "l10_avg": 3.5,
-        "pct_diff_season": -25.9,
-        "pct_diff_l10": -42.9,
-        "comparison": "l10",
-        "games_played": 83,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.75,
-          "under_price": 1.4,
-          "market_type": "over_under"
-        },
-        "game": "Portland Trail Blazers @ San Antonio Spurs",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": 33.3,
-        "score": 105.4,
-        "bet_action": "UNDER",
-        "bet_description": "Toumani Camara UNDER 1.5 Threes"
-      },
-      {
         "player_name": "Tristan da Silva",
         "team": "ORL",
         "stat": "PTS",
@@ -2686,17 +2655,17 @@
         "comparison": "season",
         "games_played": 77,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 1.83,
-          "under_price": 1.84,
+          "line": 9.5,
+          "over_price": 1.85,
+          "under_price": 1.82,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
-        "pct_vs_line": -7.6,
-        "score": 91.4,
+        "pct_vs_line": 2.1,
+        "score": 78.1,
         "bet_action": "UNDER",
-        "bet_description": "Derrick White UNDER 10.5 Points"
+        "bet_description": "Derrick White UNDER 9.5 Points"
       },
       {
         "player_name": "Toumani Camara",
@@ -2717,17 +2686,17 @@
         "comparison": "season",
         "games_played": 83,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 1.97,
-          "under_price": 1.72,
+          "line": 5.5,
+          "over_price": 2.03,
+          "under_price": 1.67,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": -33.3,
-        "score": 130.6,
+        "pct_vs_line": -45.5,
+        "score": 157.3,
         "bet_action": "UNDER",
-        "bet_description": "Toumani Camara UNDER 4.5 Rebounds"
+        "bet_description": "Toumani Camara UNDER 5.5 Rebounds"
       },
       {
         "player_name": "Toumani Camara",
@@ -2748,17 +2717,17 @@
         "comparison": "l10",
         "games_played": 83,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 2.05,
-          "under_price": 1.66,
+          "line": 4.5,
+          "over_price": 1.8,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": 69.1,
-        "score": 215.7,
+        "pct_vs_line": 106.7,
+        "score": 305.9,
         "bet_action": "UNDER",
-        "bet_description": "Toumani Camara UNDER 5.5 Points"
+        "bet_description": "Toumani Camara UNDER 4.5 Points"
       },
       {
         "player_name": "Max Strus",
@@ -2842,8 +2811,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.47,
-          "under_price": 2.5,
+          "over_price": 1.54,
+          "under_price": 2.3,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2873,8 +2842,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.25,
-          "under_price": 1.56,
+          "over_price": 2.03,
+          "under_price": 1.71,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2935,8 +2904,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.5,
-          "under_price": 2.37,
+          "over_price": 1.53,
+          "under_price": 2.3,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3090,8 +3059,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -3585,17 +3554,17 @@
         "comparison": "l10",
         "games_played": 76,
         "betting_line": {
-          "line": 9.5,
-          "over_price": 1.72,
-          "under_price": 1.97,
+          "line": 8.5,
+          "over_price": 1.87,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
-        "pct_vs_line": 2.1,
-        "score": 33.3,
+        "pct_vs_line": 14.1,
+        "score": 62.1,
         "bet_action": "UNDER",
-        "bet_description": "Neemias Queta UNDER 9.5 Points"
+        "bet_description": "Neemias Queta UNDER 8.5 Points"
       },
       {
         "player_name": "Ausar Thompson",
@@ -3761,7 +3730,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 103,
+    "players_with_sportsbet_markets": 101,
     "events_count": 8
   }
 }
