@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T22:07:00.666769+11:00",
+  "generated_at": "2026-04-22T23:07:01.224549+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -301,8 +301,8 @@
       "games_played": 62,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.6,
-        "under_price": 2.2,
+        "over_price": 1.64,
+        "under_price": 2.15,
         "market_type": "over_under"
       },
       "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1223,8 +1223,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1566,8 +1566,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -3529,8 +3529,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
