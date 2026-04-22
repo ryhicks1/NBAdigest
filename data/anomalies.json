@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:07:01.370174+11:00",
+  "generated_at": "2026-04-22T22:07:00.666769+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -2444,8 +2444,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2847,8 +2847,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -3406,7 +3406,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 1.92,
-          "under_price": 1.83,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -3715,8 +3715,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -4149,8 +4149,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
