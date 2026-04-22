@@ -5059,6 +5059,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-23|Kevin Huerter|AST|1.5|OVER",
+      "suggested_date": "2026-04-23",
+      "player_name": "Kevin Huerter",
+      "team": "DET",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 2.08,
+      "under_price": 1.72,
+      "bet_description": "Kevin Huerter OVER 1.5 Assists",
+      "game": "Orlando Magic @ Detroit Pistons",
+      "last_3_avg": 3.7,
+      "season_avg": 2.6,
+      "score": 388.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-23|Jordan Goodwin|PTS|7.5|OVER",
+      "suggested_date": "2026-04-23",
+      "player_name": "Jordan Goodwin",
+      "team": "PHX",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 7.5,
+      "over_price": 1.89,
+      "under_price": 1.87,
+      "bet_description": "Jordan Goodwin OVER 7.5 Points",
+      "game": "Phoenix Suns @ Oklahoma City Thunder",
+      "last_3_avg": 13.3,
+      "season_avg": 8.9,
+      "score": 263.6,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
