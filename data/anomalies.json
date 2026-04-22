@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T12:01:19.011911+11:00",
+  "generated_at": "2026-04-22T12:07:00.913344+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -282,43 +282,43 @@
       "bet_description": "Marcus Smart UNDER 1.5 Threes"
     },
     {
-      "player_name": "Marcus Smart",
-      "team": "LAL",
-      "stat": "PTS",
-      "stat_label": "Points",
+      "player_name": "Julian Champagnie",
+      "team": "SA",
+      "stat": "FG3M",
+      "stat_label": "Threes",
       "direction": "cold",
       "last_3": [
-        5,
-        6,
-        2
+        1,
+        1,
+        0
       ],
-      "last_3_avg": 4.3,
-      "season_avg": 9.3,
-      "l10_avg": 8.7,
-      "pct_diff_season": -53.8,
-      "pct_diff_l10": -50.6,
+      "last_3_avg": 0.7,
+      "season_avg": 2.4,
+      "l10_avg": 2.3,
+      "pct_diff_season": -70.8,
+      "pct_diff_l10": -69.6,
       "comparison": "season",
-      "games_played": 62,
+      "games_played": 83,
       "betting_line": {
-        "line": 12.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "line": 3.5,
+        "over_price": 2.85,
+        "under_price": 1.37,
         "market_type": "over_under"
       },
-      "game": "Houston Rockets @ Los Angeles Lakers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-      "pct_vs_line": -65.6,
-      "score": 237.8,
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
+      "pct_vs_line": -80.0,
+      "score": 240.8,
       "bet_action": "UNDER",
-      "bet_description": "Marcus Smart UNDER 12.5 Points"
+      "bet_description": "Julian Champagnie UNDER 3.5 Threes"
     }
   ],
   "tracking": {
-    "total_bets": 234,
+    "total_bets": 235,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 63,
+    "pending": 64,
     "no_game": 63,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -576,7 +576,7 @@
               "price": 2.45
             },
             "2": {
-              "price": 7.75
+              "price": 8
             }
           },
           "market_type": "threshold"
@@ -1042,8 +1042,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.8,
-          "under_price": 1.87,
+          "over_price": 1.96,
+          "under_price": 1.73,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1072,17 +1072,17 @@
         "comparison": "season",
         "games_played": 68,
         "betting_line": {
-          "line": 21.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
+          "line": 25.5,
+          "over_price": 1.9,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": 56.7,
-        "score": 206.3,
+        "pct_vs_line": 32.2,
+        "score": 147.3,
         "bet_action": "OVER",
-        "bet_description": "Deni Avdija OVER 21.5 Points"
+        "bet_description": "Deni Avdija OVER 25.5 Points"
       },
       {
         "player_name": "Stephon Castle",
@@ -1104,8 +1104,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.96,
-          "under_price": 1.73,
+          "over_price": 1.91,
+          "under_price": 1.77,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -1539,17 +1539,17 @@
         "comparison": "season",
         "games_played": 83,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.39,
-          "under_price": 2.75,
+          "line": 3.5,
+          "over_price": 2.85,
+          "under_price": 1.37,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
-        "pct_vs_line": -72.0,
-        "score": 224.8,
+        "pct_vs_line": -80.0,
+        "score": 240.8,
         "bet_action": "UNDER",
-        "bet_description": "Julian Champagnie UNDER 2.5 Threes"
+        "bet_description": "Julian Champagnie UNDER 3.5 Threes"
       },
       {
         "player_name": "Luke Kennard",
@@ -2005,8 +2005,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.37,
-          "under_price": 2.75,
+          "over_price": 1.45,
+          "under_price": 2.5,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2098,8 +2098,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.9,
-          "under_price": 1.78,
+          "over_price": 1.97,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2314,17 +2314,17 @@
         "comparison": "season",
         "games_played": 77,
         "betting_line": {
-          "line": 1.5,
-          "over_price": 1.58,
-          "under_price": 2.18,
+          "line": 2.5,
+          "over_price": 1.67,
+          "under_price": 2.03,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-boston-celtics-10389096",
-        "pct_vs_line": 53.3,
-        "score": 190.6,
+        "pct_vs_line": -8.0,
+        "score": 90.9,
         "bet_action": "UNDER",
-        "bet_description": "Derrick White UNDER 1.5 Rebounds"
+        "bet_description": "Derrick White UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Nickeil Alexander-Walker",
@@ -2439,8 +2439,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.53,
-          "under_price": 2.3,
+          "over_price": 1.65,
+          "under_price": 2.07,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2625,8 +2625,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.7,
-          "under_price": 1.41,
+          "over_price": 2.75,
+          "under_price": 1.4,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2687,8 +2687,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 10.5,
-          "over_price": 1.69,
-          "under_price": 2.01,
+          "over_price": 1.83,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2749,8 +2749,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.95,
-          "under_price": 1.73,
+          "over_price": 2.05,
+          "under_price": 1.66,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2842,8 +2842,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.48,
-          "under_price": 2.45,
+          "over_price": 1.47,
+          "under_price": 2.5,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2873,8 +2873,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.2,
-          "under_price": 1.58,
+          "over_price": 2.25,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Portland Trail Blazers @ San Antonio Spurs",
@@ -2935,8 +2935,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.44,
-          "under_price": 2.53,
+          "over_price": 1.5,
+          "under_price": 2.37,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3350,6 +3350,37 @@
         "bet_description": "Tim Hardaway Jr. UNDER 10.5 Points"
       },
       {
+        "player_name": "Scoot Henderson",
+        "team": "POR",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "cold",
+        "last_3": [
+          9,
+          15,
+          9
+        ],
+        "last_3_avg": 11.0,
+        "season_avg": 14.1,
+        "l10_avg": 15.3,
+        "pct_diff_season": -22.0,
+        "pct_diff_l10": -28.1,
+        "comparison": "l10",
+        "games_played": 31,
+        "betting_line": {
+          "line": 25.5,
+          "over_price": 1.78,
+          "under_price": 1.9,
+          "market_type": "over_under"
+        },
+        "game": "Portland Trail Blazers @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/portland-trail-blazers-at-san-antonio-spurs-10389098",
+        "pct_vs_line": -56.9,
+        "score": 177.6,
+        "bet_action": "UNDER",
+        "bet_description": "Scoot Henderson UNDER 25.5 Points"
+      },
+      {
         "player_name": "Anthony Black",
         "team": "ORL",
         "stat": "PTS",
@@ -3555,8 +3586,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 9.5,
-          "over_price": 1.6,
-          "under_price": 2.15,
+          "over_price": 1.72,
+          "under_price": 1.97,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3730,7 +3761,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 101,
+    "players_with_sportsbet_markets": 103,
     "events_count": 8
   }
 }

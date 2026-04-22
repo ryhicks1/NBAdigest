@@ -4679,6 +4679,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-22|Julian Champagnie|FG3M|3.5|UNDER",
+      "suggested_date": "2026-04-22",
+      "player_name": "Julian Champagnie",
+      "team": "SA",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "UNDER",
+      "line": 3.5,
+      "over_price": 2.85,
+      "under_price": 1.37,
+      "bet_description": "Julian Champagnie UNDER 3.5 Threes",
+      "game": "Portland Trail Blazers @ San Antonio Spurs",
+      "last_3_avg": 0.7,
+      "season_avg": 2.4,
+      "score": 240.8,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
