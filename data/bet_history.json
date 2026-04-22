@@ -4819,6 +4819,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-22|Anthony Edwards|REB|5.5|UNDER",
+      "suggested_date": "2026-04-22",
+      "player_name": "Anthony Edwards",
+      "team": "MIN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "UNDER",
+      "line": 5.5,
+      "over_price": 1.78,
+      "under_price": 2,
+      "bet_description": "Anthony Edwards UNDER 5.5 Rebounds",
+      "game": "Denver Nuggets @ Minnesota Timberwolves",
+      "last_3_avg": 2.0,
+      "season_avg": 4.9,
+      "score": 232.6,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-22|Cade Cunningham|PTS|28.5|UNDER",
+      "suggested_date": "2026-04-22",
+      "player_name": "Cade Cunningham",
+      "team": "DET",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "UNDER",
+      "line": 28.5,
+      "over_price": 1.88,
+      "under_price": 1.88,
+      "bet_description": "Cade Cunningham UNDER 28.5 Points",
+      "game": "Orlando Magic @ Detroit Pistons",
+      "last_3_avg": 11.3,
+      "season_avg": 23.1,
+      "score": 226.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
