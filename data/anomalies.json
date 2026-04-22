@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T14:07:01.426775+11:00",
+  "generated_at": "2026-04-22T15:07:00.741729+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -177,8 +177,8 @@
       "games_played": 62,
       "betting_line": {
         "line": 4.5,
-        "over_price": 2.1,
-        "under_price": 1.66,
+        "over_price": 1.49,
+        "under_price": 2.4,
         "market_type": "over_under"
       },
       "game": "Houston Rockets @ Los Angeles Lakers",
@@ -207,17 +207,17 @@
       "comparison": "season",
       "games_played": 62,
       "betting_line": {
-        "line": 21.5,
-        "over_price": 1.95,
-        "under_price": 1.73,
+        "line": 23.5,
+        "over_price": 1.73,
+        "under_price": 1.96,
         "market_type": "over_under"
       },
       "game": "Houston Rockets @ Los Angeles Lakers",
       "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-      "pct_vs_line": -80.0,
-      "score": 272.4,
+      "pct_vs_line": -81.7,
+      "score": 276.5,
       "bet_action": "UNDER",
-      "bet_description": "Marcus Smart UNDER 21.5 Points"
+      "bet_description": "Marcus Smart UNDER 23.5 Points"
     },
     {
       "player_name": "Ausar Thompson",
@@ -282,43 +282,43 @@
       "bet_description": "Onyeka Okongwu UNDER 2.5 Assists"
     },
     {
-      "player_name": "Jalen Duren",
-      "team": "DET",
-      "stat": "AST",
-      "stat_label": "Assists",
+      "player_name": "Amen Thompson",
+      "team": "HOU",
+      "stat": "PTS",
+      "stat_label": "Points",
       "direction": "hot",
       "last_3": [
-        4,
-        3,
-        4
+        41,
+        19,
+        22
       ],
-      "last_3_avg": 3.7,
-      "season_avg": 1.9,
-      "l10_avg": 3.9,
-      "pct_diff_season": 94.7,
-      "pct_diff_l10": -5.1,
+      "last_3_avg": 27.3,
+      "season_avg": 18.3,
+      "l10_avg": 19.9,
+      "pct_diff_season": 49.2,
+      "pct_diff_l10": 37.2,
       "comparison": "season",
-      "games_played": 73,
+      "games_played": 79,
       "betting_line": {
-        "line": 2.5,
-        "over_price": 2.4,
-        "under_price": 1.52,
+        "line": 16.5,
+        "over_price": 1.72,
+        "under_price": 2.02,
         "market_type": "over_under"
       },
-      "game": "Orlando Magic @ Detroit Pistons",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-detroit-pistons-10392178",
-      "pct_vs_line": 48.0,
-      "score": 233.0,
+      "game": "Houston Rockets @ Los Angeles Lakers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
+      "pct_vs_line": 65.5,
+      "score": 233.3,
       "bet_action": "OVER",
-      "bet_description": "Jalen Duren OVER 2.5 Assists"
+      "bet_description": "Amen Thompson OVER 16.5 Points"
     }
   ],
   "tracking": {
-    "total_bets": 239,
+    "total_bets": 241,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 68,
+    "pending": 70,
     "no_game": 63,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -726,17 +726,17 @@
         "comparison": "l10",
         "games_played": 68,
         "betting_line": {
-          "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.72,
+          "line": 2.5,
+          "over_price": 1.59,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-        "pct_vs_line": 53.3,
-        "score": 160.9,
+        "pct_vs_line": -8.0,
+        "score": 70.2,
         "bet_action": "OVER",
-        "bet_description": "Rui Hachimura OVER 1.5 Threes"
+        "bet_description": "Rui Hachimura OVER 2.5 Threes"
       },
       {
         "player_name": "VJ Edgecombe",
@@ -788,17 +788,17 @@
         "comparison": "season",
         "games_played": 79,
         "betting_line": {
-          "line": 20.5,
-          "over_price": 1.96,
-          "under_price": 1.76,
+          "line": 16.5,
+          "over_price": 1.72,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-        "pct_vs_line": 33.2,
-        "score": 155.8,
+        "pct_vs_line": 65.5,
+        "score": 233.3,
         "bet_action": "OVER",
-        "bet_description": "Amen Thompson OVER 20.5 Points"
+        "bet_description": "Amen Thompson OVER 16.5 Points"
       },
       {
         "player_name": "Ausar Thompson",
@@ -881,17 +881,17 @@
         "comparison": "season",
         "games_played": 59,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "line": 4.5,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/orlando-magic-at-detroit-pistons-10392178",
-        "pct_vs_line": 62.9,
-        "score": 213.9,
+        "pct_vs_line": 26.7,
+        "score": 134.2,
         "bet_action": "OVER",
-        "bet_description": "Jalen Suggs OVER 3.5 Rebounds"
+        "bet_description": "Jalen Suggs OVER 4.5 Rebounds"
       },
       {
         "player_name": "Jalen Williams",
@@ -1068,8 +1068,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.93,
-          "under_price": 1.75,
+          "over_price": 1.91,
+          "under_price": 1.77,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1099,8 +1099,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -1161,8 +1161,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -1411,8 +1411,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.1,
-          "under_price": 1.66,
+          "over_price": 1.49,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
@@ -1473,8 +1473,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.5,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Portland Trail Blazers",
@@ -1503,17 +1503,17 @@
         "comparison": "l10",
         "games_played": 78,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.59,
-          "under_price": 2.17,
+          "line": 3.5,
+          "over_price": 1.67,
+          "under_price": 2.03,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-        "pct_vs_line": -60.0,
-        "score": 205.2,
+        "pct_vs_line": -71.4,
+        "score": 230.3,
         "bet_action": "UNDER",
-        "bet_description": "Luke Kennard UNDER 2.5 Rebounds"
+        "bet_description": "Luke Kennard UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Desmond Bane",
@@ -1690,8 +1690,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -1814,8 +1814,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -1969,8 +1969,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
@@ -1999,17 +1999,17 @@
         "comparison": "season",
         "games_played": 62,
         "betting_line": {
-          "line": 21.5,
-          "over_price": 1.95,
-          "under_price": 1.73,
+          "line": 23.5,
+          "over_price": 1.73,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-        "pct_vs_line": -80.0,
-        "score": 272.4,
+        "pct_vs_line": -81.7,
+        "score": 276.5,
         "bet_action": "UNDER",
-        "bet_description": "Marcus Smart UNDER 21.5 Points"
+        "bet_description": "Marcus Smart UNDER 23.5 Points"
       },
       {
         "player_name": "Shai Gilgeous-Alexander",
@@ -2124,8 +2124,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.92,
-          "under_price": 1.83,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2309,17 +2309,17 @@
         "comparison": "l10",
         "games_played": 66,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 1.7,
-          "under_price": 2,
+          "line": 3.5,
+          "over_price": 2.07,
+          "under_price": 1.65,
           "market_type": "over_under"
         },
         "game": "Houston Rockets @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-        "pct_vs_line": 8.0,
-        "score": 67.2,
+        "pct_vs_line": -22.9,
+        "score": 99.9,
         "bet_action": "UNDER",
-        "bet_description": "Jaxson Hayes UNDER 2.5 Rebounds"
+        "bet_description": "Jaxson Hayes UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Isaiah Hartenstein",
@@ -2373,7 +2373,7 @@
         "betting_line": {
           "line": 4.5,
           "over_price": 1.87,
-          "under_price": 1.88,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
@@ -2899,8 +2899,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
@@ -2961,8 +2961,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -2992,8 +2992,8 @@
         "games_played": 59,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Orlando Magic @ Detroit Pistons",
@@ -3033,37 +3033,6 @@
         "score": 97.6,
         "bet_action": "UNDER",
         "bet_description": "James Harden UNDER 6.5 Assists"
-      },
-      {
-        "player_name": "Reed Sheppard",
-        "team": "HOU",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          3,
-          3,
-          1
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.4,
-        "l10_avg": 3.2,
-        "pct_diff_season": -32.4,
-        "pct_diff_l10": -28.1,
-        "comparison": "season",
-        "games_played": 82,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.82,
-          "under_price": 1.85,
-          "market_type": "over_under"
-        },
-        "game": "Houston Rockets @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/houston-rockets-at-los-angeles-lakers-10389101",
-        "pct_vs_line": -34.3,
-        "score": 125.3,
-        "bet_action": "UNDER",
-        "bet_description": "Reed Sheppard UNDER 3.5 Assists"
       },
       {
         "player_name": "RJ Barrett",
@@ -3178,8 +3147,8 @@
         "games_played": 55,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -3240,8 +3209,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -3302,8 +3271,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 29.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
@@ -3363,17 +3332,17 @@
         "comparison": "l10",
         "games_played": 31,
         "betting_line": {
-          "line": 12.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 13.5,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Portland Trail Blazers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-portland-trail-blazers-10395657",
-        "pct_vs_line": -12.0,
-        "score": 70.0,
+        "pct_vs_line": -18.5,
+        "score": 85.6,
         "bet_action": "UNDER",
-        "bet_description": "Scoot Henderson UNDER 12.5 Points"
+        "bet_description": "Scoot Henderson UNDER 13.5 Points"
       },
       {
         "player_name": "Anthony Black",
@@ -3457,8 +3426,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 25.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -3518,17 +3487,17 @@
         "comparison": "season",
         "games_played": 58,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 17.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Phoenix Suns @ Oklahoma City Thunder",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/phoenix-suns-at-oklahoma-city-thunder-10392181",
-        "pct_vs_line": -9.1,
-        "score": 73.8,
+        "pct_vs_line": -14.3,
+        "score": 86.2,
         "bet_action": "UNDER",
-        "bet_description": "Dillon Brooks UNDER 16.5 Points"
+        "bet_description": "Dillon Brooks UNDER 17.5 Points"
       },
       {
         "player_name": "Jalen Johnson",
@@ -3756,7 +3725,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 0,
-    "players_with_sportsbet_markets": 99,
+    "players_with_sportsbet_markets": 96,
     "events_count": 8
   }
 }

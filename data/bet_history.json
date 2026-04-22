@@ -4779,6 +4779,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-22|Marcus Smart|PTS|23.5|UNDER",
+      "suggested_date": "2026-04-22",
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "UNDER",
+      "line": 23.5,
+      "over_price": 1.78,
+      "under_price": 1.9,
+      "bet_description": "Marcus Smart UNDER 23.5 Points",
+      "game": "Houston Rockets @ Los Angeles Lakers",
+      "last_3_avg": 4.3,
+      "season_avg": 9.3,
+      "score": 276.5,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-22|Amen Thompson|PTS|16.5|OVER",
+      "suggested_date": "2026-04-22",
+      "player_name": "Amen Thompson",
+      "team": "HOU",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 16.5,
+      "over_price": 1.72,
+      "under_price": 2.02,
+      "bet_description": "Amen Thompson OVER 16.5 Points",
+      "game": "Houston Rockets @ Los Angeles Lakers",
+      "last_3_avg": 27.3,
+      "season_avg": 18.3,
+      "score": 233.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
