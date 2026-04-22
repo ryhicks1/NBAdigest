@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:07:00.918780+11:00",
+  "generated_at": "2026-04-23T08:07:00.876583+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1418,7 +1418,7 @@
         "betting_line": {
           "line": 15.5,
           "over_price": 1.93,
-          "under_price": 1.83,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -2213,7 +2213,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 1.92,
-          "under_price": 1.83,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -2894,8 +2894,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -4072,8 +4072,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
