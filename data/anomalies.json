@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T20:34:01.390215+11:00",
+  "generated_at": "2026-04-23T21:07:00.842788+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1481,8 +1481,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2935,8 +2935,8 @@
         "games_played": 47,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3865,8 +3865,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 31.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4050,17 +4050,17 @@
         "comparison": "season",
         "games_played": 58,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "line": 17.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-phoenix-suns-10399008",
-        "pct_vs_line": -9.1,
-        "score": 73.8,
+        "pct_vs_line": -14.3,
+        "score": 86.2,
         "bet_action": "UNDER",
-        "bet_description": "Dillon Brooks UNDER 16.5 Points"
+        "bet_description": "Dillon Brooks UNDER 17.5 Points"
       },
       {
         "player_name": "Jalen Johnson",
