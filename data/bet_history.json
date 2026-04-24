@@ -5439,6 +5439,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-24|Amen Thompson|STL|1.5|OVER",
+      "suggested_date": "2026-04-24",
+      "player_name": "Amen Thompson",
+      "team": "HOU",
+      "stat": "STL",
+      "stat_label": "Steals",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 2.2,
+      "under_price": 1.6,
+      "bet_description": "Amen Thompson OVER 1.5 Steals",
+      "game": "Los Angeles Lakers @ Houston Rockets",
+      "last_3_avg": 2.7,
+      "season_avg": 1.5,
+      "score": 233.7,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
