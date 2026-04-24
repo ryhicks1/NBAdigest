@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T19:07:00.929134+11:00",
+  "generated_at": "2026-04-24T20:07:00.821720+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1447,8 +1447,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -1950,8 +1950,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2477,8 +2477,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2849,8 +2849,8 @@
         "games_played": 47,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3035,8 +3035,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3880,8 +3880,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3942,8 +3942,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 31.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4252,8 +4252,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.87,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
