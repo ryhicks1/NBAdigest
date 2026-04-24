@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T18:07:01.244818+11:00",
+  "generated_at": "2026-04-24T19:00:01.485858+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1044,8 +1044,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.92,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1076,7 +1076,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 2.2,
-          "under_price": 1.58,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
@@ -1385,8 +1385,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 13.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1760,7 +1760,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.7
+              "price": 3.8
             },
             "1": {
               "price": 1.58
@@ -2446,8 +2446,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 12.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -3725,8 +3725,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -4364,7 +4364,7 @@
   },
   "meta": {
     "total_players_analyzed": 525,
-    "total_teams_analyzed": 0,
+    "total_teams_analyzed": 6,
     "players_with_sportsbet_markets": 108,
     "events_count": 8
   }
