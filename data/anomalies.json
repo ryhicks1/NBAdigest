@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T21:07:00.722892+11:00",
+  "generated_at": "2026-04-24T22:07:01.458381+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -84,8 +84,8 @@
       "games_played": 64,
       "betting_line": {
         "line": 6.5,
-        "over_price": 1.92,
-        "under_price": 1.84,
+        "over_price": 1.91,
+        "under_price": 1.85,
         "market_type": "over_under"
       },
       "game": "Boston Celtics @ Philadelphia 76ers",
@@ -511,7 +511,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 4.4
+              "price": 4.3
             },
             "1": {
               "price": 1.69
@@ -641,8 +641,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
@@ -1076,7 +1076,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 2.2,
-          "under_price": 1.6,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
