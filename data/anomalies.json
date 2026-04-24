@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T22:07:01.458381+11:00",
+  "generated_at": "2026-04-24T23:07:00.942174+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -84,7 +84,7 @@
       "games_played": 64,
       "betting_line": {
         "line": 6.5,
-        "over_price": 1.91,
+        "over_price": 1.9,
         "under_price": 1.85,
         "market_type": "over_under"
       },
@@ -208,8 +208,8 @@
       "games_played": 36,
       "betting_line": {
         "line": 2.5,
-        "over_price": 2.15,
-        "under_price": 1.64,
+        "over_price": 2.05,
+        "under_price": 1.74,
         "market_type": "over_under"
       },
       "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -641,7 +641,7 @@
         "games_played": 64,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.91,
+          "over_price": 1.9,
           "under_price": 1.85,
           "market_type": "over_under"
         },
@@ -858,8 +858,8 @@
         "games_played": 36,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -1044,8 +1044,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.92,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1075,7 +1075,7 @@
         "games_played": 79,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.2,
+          "over_price": 2.25,
           "under_price": 1.58,
           "market_type": "over_under"
         },
@@ -1478,8 +1478,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -2694,8 +2694,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -2942,8 +2942,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -4066,8 +4066,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 25.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -4097,8 +4097,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
