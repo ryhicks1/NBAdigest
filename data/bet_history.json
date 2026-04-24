@@ -5419,6 +5419,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-24|Mitchell Robinson|PTS|3.5|OVER",
+      "suggested_date": "2026-04-24",
+      "player_name": "Mitchell Robinson",
+      "team": "NY",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 3.5,
+      "over_price": 1.6,
+      "under_price": 2.15,
+      "bet_description": "Mitchell Robinson OVER 3.5 Points",
+      "game": "New York Knicks @ Atlanta Hawks",
+      "last_3_avg": 10.7,
+      "season_avg": 5.6,
+      "score": 617.9,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
