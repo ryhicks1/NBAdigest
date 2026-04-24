@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:07:00.942174+11:00",
+  "generated_at": "2026-04-25T00:07:01.430618+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -84,7 +84,7 @@
       "games_played": 64,
       "betting_line": {
         "line": 6.5,
-        "over_price": 1.9,
+        "over_price": 1.91,
         "under_price": 1.85,
         "market_type": "over_under"
       },
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 277,
+    "total_bets": 287,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 55,
+    "pending": 65,
     "no_game": 114,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -511,7 +511,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 4.3
+              "price": 4.4
             },
             "1": {
               "price": 1.69
@@ -641,7 +641,7 @@
         "games_played": 64,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.9,
+          "over_price": 1.91,
           "under_price": 1.85,
           "market_type": "over_under"
         },
@@ -1044,8 +1044,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1230,8 +1230,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Portland Trail Blazers",
@@ -1261,7 +1261,7 @@
         "games_played": 76,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.92,
+          "over_price": 1.91,
           "under_price": 1.85,
           "market_type": "over_under"
         },
@@ -1291,17 +1291,17 @@
         "comparison": "season",
         "games_played": 68,
         "betting_line": {
-          "line": 22.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 23.5,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Portland Trail Blazers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-portland-trail-blazers-10395657",
-        "pct_vs_line": 49.8,
-        "score": 189.5,
+        "pct_vs_line": 43.4,
+        "score": 174.3,
         "bet_action": "OVER",
-        "bet_description": "Deni Avdija OVER 22.5 Points"
+        "bet_description": "Deni Avdija OVER 23.5 Points"
       },
       {
         "player_name": "Stephon Castle",
@@ -1478,8 +1478,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -1697,8 +1697,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -1760,7 +1760,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.8
+              "price": 3.9
             },
             "1": {
               "price": 1.58
@@ -2012,8 +2012,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
@@ -2198,8 +2198,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
@@ -2818,8 +2818,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -3067,7 +3067,7 @@
         "betting_line": {
           "line": 7.5,
           "over_price": 1.88,
-          "under_price": 1.88,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
@@ -3228,17 +3228,17 @@
         "comparison": "season",
         "games_played": 77,
         "betting_line": {
-          "line": 14.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 13.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Boston Celtics @ Philadelphia 76ers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/boston-celtics-at-philadelphia-76ers-10395656",
-        "pct_vs_line": -33.1,
-        "score": 152.5,
+        "pct_vs_line": -28.1,
+        "score": 140.6,
         "bet_action": "UNDER",
-        "bet_description": "Derrick White UNDER 14.5 Points"
+        "bet_description": "Derrick White UNDER 13.5 Points"
       },
       {
         "player_name": "Toumani Camara",
@@ -3353,7 +3353,7 @@
         "games_played": 82,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.84,
+          "over_price": 1.83,
           "under_price": 1.92,
           "market_type": "over_under"
         },
@@ -3415,8 +3415,8 @@
         "games_played": 31,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Portland Trail Blazers",
@@ -3725,8 +3725,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Houston Rockets",
@@ -4097,8 +4097,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Denver Nuggets @ Minnesota Timberwolves",
