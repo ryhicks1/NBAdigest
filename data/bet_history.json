@@ -5379,6 +5379,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-24|Mitchell Robinson|PTS|4.5|OVER",
+      "suggested_date": "2026-04-24",
+      "player_name": "Mitchell Robinson",
+      "team": "NY",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 4.5,
+      "over_price": 2.07,
+      "under_price": 1.65,
+      "bet_description": "Mitchell Robinson OVER 4.5 Points",
+      "game": "New York Knicks @ Atlanta Hawks",
+      "last_3_avg": 10.7,
+      "season_avg": 5.6,
+      "score": 454.9,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-24|Bruce Brown|REB|3.5|OVER",
+      "suggested_date": "2026-04-24",
+      "player_name": "Bruce Brown",
+      "team": "DEN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 3.5,
+      "over_price": 1.64,
+      "under_price": 2.15,
+      "bet_description": "Bruce Brown OVER 3.5 Rebounds",
+      "game": "Denver Nuggets @ Minnesota Timberwolves",
+      "last_3_avg": 6.3,
+      "season_avg": 3.9,
+      "score": 262.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
