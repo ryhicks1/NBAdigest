@@ -4616,9 +4616,9 @@
       "last_3_avg": 4.7,
       "season_avg": 3.2,
       "score": 266.0,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-25T11:22:38.139086"
     },
     {
       "id": "2026-04-22|Onyeka Okongwu|AST|2.5|UNDER",
@@ -4816,9 +4816,9 @@
       "last_3_avg": 27.3,
       "season_avg": 18.3,
       "score": 233.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-25T11:22:38.139187"
     },
     {
       "id": "2026-04-22|Anthony Edwards|REB|5.5|UNDER",
@@ -5776,6 +5776,26 @@
       "last_3_avg": 6.3,
       "season_avg": 3.9,
       "score": 262.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-25|Marcus Smart|FG3M|1.5|UNDER",
+      "suggested_date": "2026-04-25",
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "UNDER",
+      "line": 1.5,
+      "over_price": 1.6,
+      "under_price": 2.2,
+      "bet_description": "Marcus Smart UNDER 1.5 Threes",
+      "game": "Los Angeles Lakers @ Houston Rockets",
+      "last_3_avg": 0.3,
+      "season_avg": 1.6,
+      "score": 251.2,
       "status": "pending",
       "actual_value": null,
       "settled_at": null
