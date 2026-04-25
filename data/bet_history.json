@@ -4458,7 +4458,7 @@
       "score": 454.9,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505319"
+      "settled_at": "2026-04-25T11:22:07.189255"
     },
     {
       "id": "2026-04-22|LeBron James|STL|1.5|OVER",
@@ -4478,7 +4478,7 @@
       "score": 330.1,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505417"
+      "settled_at": "2026-04-25T11:22:07.189333"
     },
     {
       "id": "2026-04-22|Andre Drummond|PTS|6.5|OVER",
@@ -4498,7 +4498,7 @@
       "score": 329.7,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505470"
+      "settled_at": "2026-04-25T11:22:07.189380"
     },
     {
       "id": "2026-04-22|Karl-Anthony Towns|AST|2.5|OVER",
@@ -4518,7 +4518,7 @@
       "score": 321.8,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505631"
+      "settled_at": "2026-04-25T11:22:07.189451"
     },
     {
       "id": "2026-04-22|Chet Holmgren|BLK|1.5|OVER",
@@ -4538,7 +4538,7 @@
       "score": 305.8,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505709"
+      "settled_at": "2026-04-25T11:22:07.189533"
     },
     {
       "id": "2026-04-22|Keldon Johnson|PTS|9.5|OVER",
@@ -4558,7 +4558,7 @@
       "score": 297.6,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505761"
+      "settled_at": "2026-04-25T11:22:07.189583"
     },
     {
       "id": "2026-04-22|Aaron Gordon|AST|2.5|OVER",
@@ -4578,7 +4578,7 @@
       "score": 288.3,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505812"
+      "settled_at": "2026-04-25T11:22:07.189628"
     },
     {
       "id": "2026-04-22|De'Aaron Fox|FG3M|1.5|OVER",
@@ -4598,7 +4598,7 @@
       "score": 283.5,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505904"
+      "settled_at": "2026-04-25T11:22:07.189677"
     },
     {
       "id": "2026-04-22|Ausar Thompson|AST|2.5|OVER",
@@ -4616,9 +4616,9 @@
       "last_3_avg": 4.7,
       "season_avg": 3.2,
       "score": 266.0,
-      "status": "no_game",
+      "status": "pending",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505945"
+      "settled_at": null
     },
     {
       "id": "2026-04-22|Onyeka Okongwu|AST|2.5|UNDER",
@@ -4638,7 +4638,7 @@
       "score": 254.5,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.505995"
+      "settled_at": "2026-04-25T11:22:07.189735"
     },
     {
       "id": "2026-04-22|Marcus Smart|FG3M|1.5|UNDER",
@@ -4658,7 +4658,7 @@
       "score": 251.2,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506066"
+      "settled_at": "2026-04-25T11:22:07.189844"
     },
     {
       "id": "2026-04-22|Marcus Smart|PTS|12.5|UNDER",
@@ -4678,7 +4678,7 @@
       "score": 237.8,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506111"
+      "settled_at": "2026-04-25T11:22:07.189881"
     },
     {
       "id": "2026-04-22|Julian Champagnie|FG3M|3.5|UNDER",
@@ -4698,7 +4698,7 @@
       "score": 240.8,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506158"
+      "settled_at": "2026-04-25T11:22:07.189921"
     },
     {
       "id": "2026-04-22|Toumani Camara|PTS|4.5|UNDER",
@@ -4716,9 +4716,9 @@
       "last_3_avg": 9.3,
       "season_avg": 13.3,
       "score": 305.9,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-25T11:22:07.189957"
     },
     {
       "id": "2026-04-22|Marcus Smart|FG3M|4.5|UNDER",
@@ -4738,7 +4738,7 @@
       "score": 277.9,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506207"
+      "settled_at": "2026-04-25T11:22:07.189993"
     },
     {
       "id": "2026-04-22|Marcus Smart|PTS|21.5|UNDER",
@@ -4758,7 +4758,7 @@
       "score": 272.4,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506243"
+      "settled_at": "2026-04-25T11:22:07.190026"
     },
     {
       "id": "2026-04-22|Jalen Duren|AST|2.5|OVER",
@@ -4778,7 +4778,7 @@
       "score": 233.0,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506281"
+      "settled_at": "2026-04-25T11:22:07.190065"
     },
     {
       "id": "2026-04-22|Marcus Smart|PTS|23.5|UNDER",
@@ -4798,7 +4798,7 @@
       "score": 276.5,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506316"
+      "settled_at": "2026-04-25T11:22:07.190099"
     },
     {
       "id": "2026-04-22|Amen Thompson|PTS|16.5|OVER",
@@ -4816,9 +4816,9 @@
       "last_3_avg": 27.3,
       "season_avg": 18.3,
       "score": 233.3,
-      "status": "no_game",
+      "status": "pending",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506352"
+      "settled_at": null
     },
     {
       "id": "2026-04-22|Anthony Edwards|REB|5.5|UNDER",
@@ -4836,9 +4836,9 @@
       "last_3_avg": 2.0,
       "season_avg": 4.9,
       "score": 232.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-25T11:22:07.190151"
     },
     {
       "id": "2026-04-22|Cade Cunningham|PTS|28.5|UNDER",
@@ -4858,7 +4858,7 @@
       "score": 226.3,
       "status": "no_game",
       "actual_value": null,
-      "settled_at": "2026-04-25T11:22:03.506400"
+      "settled_at": "2026-04-25T11:22:07.190191"
     },
     {
       "id": "2026-04-23|Mitchell Robinson|PTS|4.5|OVER",
