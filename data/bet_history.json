@@ -5016,9 +5016,9 @@
       "last_3_avg": 4.7,
       "season_avg": 3.2,
       "score": 266.0,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-04-26T11:38:06.746718"
     },
     {
       "id": "2026-04-23|Onyeka Okongwu|AST|2.5|UNDER",
@@ -6056,6 +6056,26 @@
       "last_3_avg": 12.3,
       "season_avg": 7.9,
       "score": 306.1,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-04-26|Jaylon Tyson|PTS|4.5|OVER",
+      "suggested_date": "2026-04-26",
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 4.5,
+      "over_price": 1.74,
+      "under_price": 2.05,
+      "bet_description": "Jaylon Tyson OVER 4.5 Points",
+      "game": "Cleveland Cavaliers @ Toronto Raptors",
+      "last_3_avg": 17.0,
+      "season_avg": 13.2,
+      "score": 728.2,
       "status": "pending",
       "actual_value": null,
       "settled_at": null
