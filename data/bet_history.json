@@ -6539,6 +6539,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-28|Baylor Scheierman|PTS|4.5|OVER",
+      "suggested_date": "2026-04-28",
+      "player_name": "Baylor Scheierman",
+      "team": "BOS",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 4.5,
+      "over_price": 1.8,
+      "under_price": 1.96,
+      "bet_description": "Baylor Scheierman OVER 4.5 Points",
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "last_3_avg": 19.7,
+      "season_avg": 5.5,
+      "score": 1134.8,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
