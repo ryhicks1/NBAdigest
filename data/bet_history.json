@@ -6319,6 +6319,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-27|Jaylon Tyson|PTS|6.5|OVER",
+      "suggested_date": "2026-04-27",
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 6.5,
+      "over_price": 1.96,
+      "under_price": 1.8,
+      "bet_description": "Jaylon Tyson OVER 6.5 Points",
+      "game": "Toronto Raptors @ Cleveland Cavaliers",
+      "last_3_avg": 17.0,
+      "season_avg": 13.2,
+      "score": 449.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }

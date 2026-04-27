@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T17:07:00.789927+11:00",
+  "generated_at": "2026-04-27T17:06:34.886378+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -94,6 +94,37 @@
       "score": 450.0,
       "bet_action": "OVER",
       "bet_description": "Jalen Duren OVER 1.5 Assists"
+    },
+    {
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        18,
+        15,
+        18
+      ],
+      "last_3_avg": 17.0,
+      "season_avg": 13.2,
+      "l10_avg": 11.5,
+      "pct_diff_season": 28.8,
+      "pct_diff_l10": 47.8,
+      "comparison": "l10",
+      "games_played": 66,
+      "betting_line": {
+        "line": 6.5,
+        "over_price": 1.96,
+        "under_price": 1.8,
+        "market_type": "over_under"
+      },
+      "game": "Toronto Raptors @ Cleveland Cavaliers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10413913",
+      "pct_vs_line": 161.5,
+      "score": 449.3,
+      "bet_action": "OVER",
+      "bet_description": "Jaylon Tyson OVER 6.5 Points"
     },
     {
       "player_name": "Keldon Johnson",
@@ -280,45 +311,14 @@
       "score": 316.8,
       "bet_action": "OVER",
       "bet_description": "Ja'Kobe Walter OVER 1.5 Threes"
-    },
-    {
-      "player_name": "Chet Holmgren",
-      "team": "OKC",
-      "stat": "BLK",
-      "stat_label": "Blocks",
-      "direction": "hot",
-      "last_3": [
-        4,
-        2,
-        4
-      ],
-      "last_3_avg": 3.3,
-      "season_avg": 1.8,
-      "l10_avg": 2.1,
-      "pct_diff_season": 83.3,
-      "pct_diff_l10": 57.1,
-      "comparison": "season",
-      "games_played": 72,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.64,
-        "under_price": 2.15,
-        "market_type": "over_under"
-      },
-      "game": "Oklahoma City Thunder @ Phoenix Suns",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-phoenix-suns-10406603",
-      "pct_vs_line": 120.0,
-      "score": 305.8,
-      "bet_action": "OVER",
-      "bet_description": "Chet Holmgren OVER 1.5 Blocks"
     }
   ],
   "tracking": {
-    "total_bets": 316,
+    "total_bets": 317,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 39,
+    "pending": 40,
     "no_game": 169,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -1258,6 +1258,37 @@
         "bet_description": "Payton Pritchard OVER 2.5 Threes"
       },
       {
+        "player_name": "Jaylon Tyson",
+        "team": "CLE",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          18,
+          15,
+          18
+        ],
+        "last_3_avg": 17.0,
+        "season_avg": 13.2,
+        "l10_avg": 11.5,
+        "pct_diff_season": 28.8,
+        "pct_diff_l10": 47.8,
+        "comparison": "l10",
+        "games_played": 66,
+        "betting_line": {
+          "line": 6.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
+          "market_type": "over_under"
+        },
+        "game": "Toronto Raptors @ Cleveland Cavaliers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10413913",
+        "pct_vs_line": 161.5,
+        "score": 449.3,
+        "bet_action": "OVER",
+        "bet_description": "Jaylon Tyson OVER 6.5 Points"
+      },
+      {
         "player_name": "Ausar Thompson",
         "team": "DET",
         "stat": "AST",
@@ -1905,8 +1936,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1969,8 +2000,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3545,8 +3576,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3855,8 +3886,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4692,8 +4723,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4782,7 +4813,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 16,
-    "players_with_sportsbet_markets": 114,
+    "players_with_sportsbet_markets": 116,
     "events_count": 8
   }
 }
