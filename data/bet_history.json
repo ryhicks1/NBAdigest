@@ -6559,6 +6559,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-28|Jaylon Tyson|REB|2.5|OVER",
+      "suggested_date": "2026-04-28",
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 2.05,
+      "under_price": 1.74,
+      "bet_description": "Jaylon Tyson OVER 2.5 Rebounds",
+      "game": "Toronto Raptors @ Cleveland Cavaliers",
+      "last_3_avg": 7.0,
+      "season_avg": 5.1,
+      "score": 450.7,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }

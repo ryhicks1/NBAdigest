@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T03:07:01.014009+11:00",
+  "generated_at": "2026-04-28T04:07:01.194340+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -96,6 +96,37 @@
       "bet_description": "Mitchell Robinson OVER 4.5 Points"
     },
     {
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "hot",
+      "last_3": [
+        6,
+        4,
+        11
+      ],
+      "last_3_avg": 7.0,
+      "season_avg": 5.1,
+      "l10_avg": 3.6,
+      "pct_diff_season": 37.3,
+      "pct_diff_l10": 94.4,
+      "comparison": "l10",
+      "games_played": 66,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 2.05,
+        "under_price": 1.74,
+        "market_type": "over_under"
+      },
+      "game": "Toronto Raptors @ Cleveland Cavaliers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10413913",
+      "pct_vs_line": 180.0,
+      "score": 450.7,
+      "bet_action": "OVER",
+      "bet_description": "Jaylon Tyson OVER 2.5 Rebounds"
+    },
+    {
       "player_name": "Jalen Duren",
       "team": "DET",
       "stat": "AST",
@@ -146,8 +177,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 6.5,
-        "over_price": 2,
-        "under_price": 1.78,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -280,45 +311,14 @@
       "score": 349.7,
       "bet_action": "OVER",
       "bet_description": "Mike Conley OVER 1.5 Threes"
-    },
-    {
-      "player_name": "Jordan Goodwin",
-      "team": "PHX",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        19,
-        12,
-        9
-      ],
-      "last_3_avg": 13.3,
-      "season_avg": 8.9,
-      "l10_avg": 9.9,
-      "pct_diff_season": 49.4,
-      "pct_diff_l10": 34.3,
-      "comparison": "season",
-      "games_played": 72,
-      "betting_line": {
-        "line": 6.5,
-        "over_price": 1.93,
-        "under_price": 1.83,
-        "market_type": "over_under"
-      },
-      "game": "Oklahoma City Thunder @ Phoenix Suns",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-phoenix-suns-10406603",
-      "pct_vs_line": 104.6,
-      "score": 329.1,
-      "bet_action": "OVER",
-      "bet_description": "Jordan Goodwin OVER 6.5 Points"
     }
   ],
   "tracking": {
-    "total_bets": 328,
+    "total_bets": 329,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 51,
+    "pending": 52,
     "no_game": 169,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -744,7 +744,7 @@
               "price": 1.74
             },
             "2": {
-              "price": 4.6
+              "price": 4.75
             }
           },
           "market_type": "threshold"
@@ -776,8 +776,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -817,6 +817,37 @@
         "score": 450.0,
         "bet_action": "OVER",
         "bet_description": "Jalen Duren OVER 1.5 Assists"
+      },
+      {
+        "player_name": "Jaylon Tyson",
+        "team": "CLE",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "hot",
+        "last_3": [
+          6,
+          4,
+          11
+        ],
+        "last_3_avg": 7.0,
+        "season_avg": 5.1,
+        "l10_avg": 3.6,
+        "pct_diff_season": 37.3,
+        "pct_diff_l10": 94.4,
+        "comparison": "l10",
+        "games_played": 66,
+        "betting_line": {
+          "line": 2.5,
+          "over_price": 2.05,
+          "under_price": 1.74,
+          "market_type": "over_under"
+        },
+        "game": "Toronto Raptors @ Cleveland Cavaliers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10413913",
+        "pct_vs_line": 180.0,
+        "score": 450.7,
+        "bet_action": "OVER",
+        "bet_description": "Jaylon Tyson OVER 2.5 Rebounds"
       },
       {
         "player_name": "Jordan Goodwin",
@@ -901,7 +932,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.1
+              "price": 5.25
             },
             "1": {
               "price": 1.86
@@ -1215,8 +1246,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -1308,8 +1339,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1464,10 +1495,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7.25
+              "price": 7.75
             },
             "2": {
-              "price": 2.9
+              "price": 3
             },
             "1": {
               "price": 1.41
@@ -1781,8 +1812,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 17.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -1967,8 +1998,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 20.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2164,7 +2195,7 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7.5
+              "price": 7
             },
             "2": {
               "price": 2.85
@@ -2203,7 +2234,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.4
+              "price": 5.5
             },
             "1": {
               "price": 1.86
@@ -2424,8 +2455,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -2465,6 +2496,37 @@
         "score": 192.6,
         "bet_action": "UNDER",
         "bet_description": "Collin Gillespie UNDER 3.5 Assists"
+      },
+      {
+        "player_name": "Sam Merrill",
+        "team": "CLE",
+        "stat": "REB",
+        "stat_label": "Rebounds",
+        "direction": "cold",
+        "last_3": [
+          0,
+          2,
+          2
+        ],
+        "last_3_avg": 1.3,
+        "season_avg": 2.6,
+        "l10_avg": 3.4,
+        "pct_diff_season": -50.0,
+        "pct_diff_l10": -61.8,
+        "comparison": "l10",
+        "games_played": 52,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
+          "market_type": "over_under"
+        },
+        "game": "Toronto Raptors @ Cleveland Cavaliers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10413913",
+        "pct_vs_line": -13.3,
+        "score": 95.3,
+        "bet_action": "UNDER",
+        "bet_description": "Sam Merrill UNDER 1.5 Rebounds"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -2672,8 +2734,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2983,7 +3045,7 @@
         "betting_line": {
           "line": 28.5,
           "over_price": 1.89,
-          "under_price": 1.86,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -3044,8 +3106,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3386,7 +3448,7 @@
         "betting_line": {
           "line": 15.5,
           "over_price": 1.8,
-          "under_price": 1.96,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3416,8 +3478,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3510,7 +3572,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 4.1
+              "price": 3.9
             },
             "1": {
               "price": 1.63
@@ -3576,8 +3638,8 @@
         "games_played": 46,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3700,8 +3762,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -3824,8 +3886,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -4166,7 +4228,7 @@
         "betting_line": {
           "line": 6.5,
           "over_price": 1.9,
-          "under_price": 1.86,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4413,8 +4475,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -4444,8 +4506,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4475,7 +4537,7 @@
         "games_played": 79,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.25,
+          "over_price": 2.2,
           "under_price": 1.58,
           "market_type": "over_under"
         },
@@ -4723,8 +4785,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -4755,13 +4817,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7.25
+              "price": 6.75
             },
             "2": {
               "price": 2.85
             },
             "1": {
-              "price": 1.42
+              "price": 1.41
             }
           },
           "market_type": "threshold"
