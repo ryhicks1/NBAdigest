@@ -6299,6 +6299,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-04-27|Mike Conley|FG3M|1.5|OVER",
+      "suggested_date": "2026-04-27",
+      "player_name": "Mike Conley",
+      "team": "MIN",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 2.6,
+      "under_price": 1.44,
+      "bet_description": "Mike Conley OVER 1.5 Threes",
+      "game": "Minnesota Timberwolves @ Denver Nuggets",
+      "last_3_avg": 2.7,
+      "season_avg": 1.0,
+      "score": 349.7,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
