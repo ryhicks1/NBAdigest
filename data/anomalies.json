@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T05:07:00.978925+11:00",
+  "generated_at": "2026-04-28T06:07:01.272369+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 77,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Philadelphia 76ers @ Boston Celtics",
@@ -220,37 +220,6 @@
       "bet_description": "Keldon Johnson OVER 7.5 Points"
     },
     {
-      "player_name": "Bruce Brown",
-      "team": "DEN",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "hot",
-      "last_3": [
-        14,
-        10,
-        13
-      ],
-      "last_3_avg": 12.3,
-      "season_avg": 7.9,
-      "l10_avg": 9.6,
-      "pct_diff_season": 55.7,
-      "pct_diff_l10": 28.1,
-      "comparison": "season",
-      "games_played": 82,
-      "betting_line": {
-        "line": 5.5,
-        "over_price": 1.74,
-        "under_price": 2.05,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ Denver Nuggets",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10406606",
-      "pct_vs_line": 123.6,
-      "score": 388.6,
-      "bet_action": "OVER",
-      "bet_description": "Bruce Brown OVER 5.5 Points"
-    },
-    {
       "player_name": "Jordan Goodwin",
       "team": "PHX",
       "stat": "FG3M",
@@ -301,8 +270,8 @@
       "games_played": 54,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.75,
-        "under_price": 1.4,
+        "over_price": 1.86,
+        "under_price": 1.89,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -311,6 +280,37 @@
       "score": 349.7,
       "bet_action": "OVER",
       "bet_description": "Mike Conley OVER 1.5 Threes"
+    },
+    {
+      "player_name": "Jordan Goodwin",
+      "team": "PHX",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        19,
+        12,
+        9
+      ],
+      "last_3_avg": 13.3,
+      "season_avg": 8.9,
+      "l10_avg": 9.9,
+      "pct_diff_season": 49.4,
+      "pct_diff_l10": 34.3,
+      "comparison": "season",
+      "games_played": 72,
+      "betting_line": {
+        "line": 6.5,
+        "over_price": 1.96,
+        "under_price": 1.8,
+        "market_type": "over_under"
+      },
+      "game": "Oklahoma City Thunder @ Phoenix Suns",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-phoenix-suns-10406603",
+      "pct_vs_line": 104.6,
+      "score": 329.1,
+      "bet_action": "OVER",
+      "bet_description": "Jordan Goodwin OVER 6.5 Points"
     }
   ],
   "tracking": {
@@ -510,8 +510,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -520,42 +520,6 @@
         "score": 1134.8,
         "bet_action": "OVER",
         "bet_description": "Baylor Scheierman OVER 4.5 Points"
-      },
-      {
-        "player_name": "Mike Conley",
-        "team": "MIN",
-        "stat": "STL",
-        "stat_label": "Steals",
-        "direction": "hot",
-        "last_3": [
-          1,
-          3,
-          1
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 0.6,
-        "l10_avg": 0.9,
-        "pct_diff_season": 183.3,
-        "pct_diff_l10": 88.9,
-        "comparison": "season",
-        "games_played": 54,
-        "betting_line": {
-          "thresholds": {
-            "1": {
-              "price": 1.63
-            },
-            "2": {
-              "price": 3.9
-            }
-          },
-          "market_type": "threshold"
-        },
-        "game": "Minnesota Timberwolves @ Denver Nuggets",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10406606",
-        "pct_vs_line": null,
-        "score": 174.0,
-        "bet_action": "OVER",
-        "bet_description": "Mike Conley Steals trending HOT"
       },
       {
         "player_name": "Mike Conley",
@@ -577,8 +541,8 @@
         "games_played": 54,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.75,
-          "under_price": 1.4,
+          "over_price": 1.86,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -744,7 +708,7 @@
               "price": 1.74
             },
             "2": {
-              "price": 4.6
+              "price": 4.75
             }
           },
           "market_type": "threshold"
@@ -932,7 +896,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5
+              "price": 5.3
             },
             "1": {
               "price": 1.86
@@ -1214,17 +1178,17 @@
         "comparison": "season",
         "games_played": 82,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "line": 6.5,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-denver-nuggets-10406606",
-        "pct_vs_line": 123.6,
-        "score": 388.6,
+        "pct_vs_line": 89.2,
+        "score": 306.1,
         "bet_action": "OVER",
-        "bet_description": "Bruce Brown OVER 5.5 Points"
+        "bet_description": "Bruce Brown OVER 6.5 Points"
       },
       {
         "player_name": "Jordan Goodwin",
@@ -1495,10 +1459,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8
+              "price": 7.5
             },
             "2": {
-              "price": 3
+              "price": 2.95
             },
             "1": {
               "price": 1.41
@@ -1948,37 +1912,6 @@
         "bet_description": "CJ McCollum OVER 3.5 Assists"
       },
       {
-        "player_name": "Isaiah Joe",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "hot",
-        "last_3": [
-          2,
-          2,
-          2
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 2.5,
-        "l10_avg": 1.7,
-        "pct_diff_season": -20.0,
-        "pct_diff_l10": 17.6,
-        "comparison": "season",
-        "games_played": 71,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Phoenix Suns",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-phoenix-suns-10406603",
-        "pct_vs_line": 33.3,
-        "score": 122.8,
-        "bet_action": "OVER",
-        "bet_description": "Isaiah Joe OVER 1.5 Rebounds"
-      },
-      {
         "player_name": "James Harden",
         "team": "CLE",
         "stat": "PTS",
@@ -2125,7 +2058,7 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 6.75
+              "price": 6.25
             },
             "2": {
               "price": 2.7
@@ -2195,10 +2128,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7.25
+              "price": 7
             },
             "2": {
-              "price": 2.8
+              "price": 2.85
             },
             "1": {
               "price": 1.41
@@ -2234,7 +2167,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.4
+              "price": 5.6
             },
             "1": {
               "price": 1.86
@@ -2672,8 +2605,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.9,
-          "under_price": 1.36,
+          "over_price": 2.8,
+          "under_price": 1.38,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -3044,8 +2977,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -3447,8 +3380,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3478,8 +3411,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3540,8 +3473,8 @@
         "games_played": 38,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -3572,7 +3505,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 4.1
+              "price": 3.9
             },
             "1": {
               "price": 1.63
@@ -4010,8 +3943,8 @@
         "games_played": 59,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -4227,8 +4160,8 @@
         "games_played": 55,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4351,8 +4284,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 31.5,
-          "over_price": 1.85,
-          "under_price": 1.91,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4506,8 +4439,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4538,7 +4471,7 @@
         "betting_line": {
           "line": 5.5,
           "over_price": 2.2,
-          "under_price": 1.58,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4567,17 +4500,17 @@
         "comparison": "season",
         "games_played": 58,
         "betting_line": {
-          "line": 18.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "line": 17.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-phoenix-suns-10406603",
-        "pct_vs_line": -18.9,
-        "score": 97.4,
+        "pct_vs_line": -14.3,
+        "score": 86.2,
         "bet_action": "UNDER",
-        "bet_description": "Dillon Brooks UNDER 18.5 Points"
+        "bet_description": "Dillon Brooks UNDER 17.5 Points"
       },
       {
         "player_name": "Austin Reaves",
@@ -4723,8 +4656,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4823,7 +4756,7 @@
               "price": 2.85
             },
             "1": {
-              "price": 1.4
+              "price": 1.41
             }
           },
           "market_type": "threshold"
