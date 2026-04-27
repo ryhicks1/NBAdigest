@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T19:07:00.684317+11:00",
+  "generated_at": "2026-04-27T20:07:01.169669+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -177,7 +177,7 @@
       "games_played": 82,
       "betting_line": {
         "line": 5.5,
-        "over_price": 1.74,
+        "over_price": 1.76,
         "under_price": 2.05,
         "market_type": "over_under"
       },
@@ -514,7 +514,7 @@
               "price": 1.63
             },
             "2": {
-              "price": 4
+              "price": 4.25
             }
           },
           "market_type": "threshold"
@@ -1153,7 +1153,7 @@
         "games_played": 82,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.74,
+          "over_price": 1.76,
           "under_price": 2.05,
           "market_type": "over_under"
         },
@@ -1433,10 +1433,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8
+              "price": 8.25
             },
             "2": {
-              "price": 3
+              "price": 3.05
             },
             "1": {
               "price": 1.41
@@ -2133,10 +2133,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7
+              "price": 7.25
             },
             "2": {
-              "price": 2.85
+              "price": 2.9
             },
             "1": {
               "price": 1.41
@@ -2172,7 +2172,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.6
+              "price": 5.5
             },
             "1": {
               "price": 1.86
@@ -2362,8 +2362,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -2455,8 +2455,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.5,
-          "under_price": 2.45,
+          "over_price": 1.52,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -2765,8 +2765,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ Boston Celtics",
@@ -3354,8 +3354,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3510,7 +3510,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 3.9
+              "price": 4
             },
             "1": {
               "price": 1.63
@@ -4289,8 +4289,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 31.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4444,8 +4444,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.92,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4475,7 +4475,7 @@
         "games_played": 79,
         "betting_line": {
           "line": 5.5,
-          "over_price": 2.25,
+          "over_price": 2.2,
           "under_price": 1.58,
           "market_type": "over_under"
         },
