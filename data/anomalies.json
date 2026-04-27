@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T17:00:42.106608+11:00",
+  "generated_at": "2026-04-27T17:07:00.789927+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 61,
       "betting_line": {
         "line": 4.5,
-        "over_price": 1.84,
-        "under_price": 1.92,
+        "over_price": 1.89,
+        "under_price": 1.87,
         "market_type": "over_under"
       },
       "game": "Atlanta Hawks @ New York Knicks",
@@ -838,8 +838,8 @@
         "games_played": 61,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -1936,8 +1936,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
@@ -4762,8 +4762,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Atlanta Hawks @ New York Knicks",
