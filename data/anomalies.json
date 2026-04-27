@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T00:07:00.838497+11:00",
+  "generated_at": "2026-04-28T01:07:00.788467+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -514,7 +514,7 @@
               "price": 1.63
             },
             "2": {
-              "price": 4.1
+              "price": 4
             }
           },
           "market_type": "threshold"
@@ -713,7 +713,7 @@
               "price": 1.74
             },
             "2": {
-              "price": 4.5
+              "price": 4.6
             }
           },
           "market_type": "threshold"
@@ -870,7 +870,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.2
+              "price": 5.1
             },
             "1": {
               "price": 1.86
@@ -1028,17 +1028,17 @@
         "comparison": "l10",
         "games_played": 36,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "line": 4.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-orlando-magic-10406602",
-        "pct_vs_line": -9.1,
-        "score": 36.8,
+        "pct_vs_line": 11.1,
+        "score": 41.3,
         "bet_action": "OVER",
-        "bet_description": "Franz Wagner OVER 5.5 Rebounds"
+        "bet_description": "Franz Wagner OVER 4.5 Rebounds"
       },
       {
         "player_name": "Rui Hachimura",
@@ -1433,10 +1433,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 8.25
+              "price": 7.5
             },
             "2": {
-              "price": 3.05
+              "price": 2.95
             },
             "1": {
               "price": 1.41
@@ -1688,8 +1688,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2063,13 +2063,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 6.5
+              "price": 6.25
             },
             "2": {
               "price": 2.7
             },
             "1": {
-              "price": 1.37
+              "price": 1.36
             }
           },
           "market_type": "threshold"
@@ -2133,10 +2133,10 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 7
+              "price": 7.5
             },
             "2": {
-              "price": 2.85
+              "price": 2.95
             },
             "1": {
               "price": 1.41
@@ -2172,7 +2172,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.3
+              "price": 5.6
             },
             "1": {
               "price": 1.86
@@ -2300,8 +2300,8 @@
         "games_played": 82,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2641,8 +2641,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -2951,8 +2951,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -3013,8 +3013,8 @@
         "games_played": 65,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -3354,7 +3354,7 @@
         "games_played": 57,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.84,
+          "over_price": 1.83,
           "under_price": 1.92,
           "market_type": "over_under"
         },
@@ -3364,37 +3364,6 @@
         "score": 198.4,
         "bet_action": "UNDER",
         "bet_description": "Ajay Mitchell UNDER 15.5 Points"
-      },
-      {
-        "player_name": "Jamal Cain",
-        "team": "ORL",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          1,
-          2,
-          2
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 2.1,
-        "l10_avg": 3.0,
-        "pct_diff_season": -19.0,
-        "pct_diff_l10": -43.3,
-        "comparison": "l10",
-        "games_played": 38,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Orlando Magic",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-orlando-magic-10406602",
-        "pct_vs_line": 13.3,
-        "score": 62.9,
-        "bet_action": "UNDER",
-        "bet_description": "Jamal Cain UNDER 1.5 Rebounds"
       },
       {
         "player_name": "Nikola Vucevic",
@@ -3478,8 +3447,8 @@
         "games_played": 38,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Orlando Magic",
@@ -4289,8 +4258,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 31.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Phoenix Suns",
@@ -4444,8 +4413,8 @@
         "games_played": 77,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ Denver Nuggets",
@@ -4755,13 +4724,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 6.75
+              "price": 7
             },
             "2": {
               "price": 2.85
             },
             "1": {
-              "price": 1.39
+              "price": 1.41
             }
           },
           "market_type": "threshold"
