@@ -6336,9 +6336,9 @@
       "last_3_avg": 17.0,
       "season_avg": 13.2,
       "score": 449.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.080739"
     },
     {
       "id": "2026-04-28|Bones Hyland|FG3M|1.5|OVER",
@@ -6416,9 +6416,9 @@
       "last_3_avg": 17.0,
       "season_avg": 13.2,
       "score": 449.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.080854"
     },
     {
       "id": "2026-04-28|Keldon Johnson|PTS|7.5|OVER",
@@ -6576,9 +6576,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.1,
       "score": 450.7,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.080939"
     },
     {
       "id": "2026-04-28|Jordan Goodwin|PTS|5.5|OVER",
@@ -6616,9 +6616,9 @@
       "last_3_avg": 10.7,
       "season_avg": 5.6,
       "score": 617.9,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081019"
     },
     {
       "id": "2026-04-29|Bones Hyland|FG3M|1.5|OVER",
@@ -6636,9 +6636,9 @@
       "last_3_avg": 4.0,
       "season_avg": 1.7,
       "score": 487.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081093"
     },
     {
       "id": "2026-04-29|Jaylon Tyson|REB|2.5|OVER",
@@ -6656,9 +6656,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.1,
       "score": 450.7,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081165"
     },
     {
       "id": "2026-04-29|Jaylon Tyson|PTS|6.5|OVER",
@@ -6676,9 +6676,9 @@
       "last_3_avg": 17.0,
       "season_avg": 13.2,
       "score": 449.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081255"
     },
     {
       "id": "2026-04-29|LeBron James|STL|1.5|OVER",
@@ -6696,9 +6696,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.2,
       "score": 330.1,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081334"
     },
     {
       "id": "2026-04-29|Ja'Kobe Walter|FG3M|1.5|OVER",
@@ -6716,9 +6716,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.5,
       "score": 316.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081412"
     },
     {
       "id": "2026-04-29|Bruce Brown|PTS|6.5|OVER",
@@ -6736,9 +6736,9 @@
       "last_3_avg": 12.3,
       "season_avg": 7.9,
       "score": 306.1,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081483"
     },
     {
       "id": "2026-04-29|Ausar Thompson|AST|2.5|OVER",
@@ -6756,9 +6756,9 @@
       "last_3_avg": 4.7,
       "season_avg": 3.2,
       "score": 266.0,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081567"
     },
     {
       "id": "2026-04-29|Bruce Brown|REB|3.5|OVER",
@@ -6776,9 +6776,9 @@
       "last_3_avg": 6.3,
       "season_avg": 3.9,
       "score": 262.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081649"
     },
     {
       "id": "2026-04-29|Onyeka Okongwu|AST|2.5|UNDER",
@@ -6796,9 +6796,9 @@
       "last_3_avg": 0.7,
       "season_avg": 3.1,
       "score": 254.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-02T00:13:50.081718"
     },
     {
       "id": "2026-05-02|Baylor Scheierman|PTS|3.5|OVER",
@@ -6996,6 +6996,86 @@
       "last_3_avg": 4.7,
       "season_avg": 3.2,
       "score": 266.0,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-02|Keldon Johnson|REB|3.5|OVER",
+      "suggested_date": "2026-05-02",
+      "player_name": "Keldon Johnson",
+      "team": "SA",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 3.5,
+      "over_price": 1.92,
+      "under_price": 1.84,
+      "bet_description": "Keldon Johnson OVER 3.5 Rebounds",
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "last_3_avg": 6.7,
+      "season_avg": 5.3,
+      "score": 253.1,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-02|Marcus Smart|FG3M|1.5|UNDER",
+      "suggested_date": "2026-05-02",
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "UNDER",
+      "line": 1.5,
+      "over_price": 1.74,
+      "under_price": 2.05,
+      "bet_description": "Marcus Smart UNDER 1.5 Threes",
+      "game": "Los Angeles Lakers @ Houston Rockets",
+      "last_3_avg": 0.3,
+      "season_avg": 1.6,
+      "score": 251.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-02|Amen Thompson|STL|1.5|OVER",
+      "suggested_date": "2026-05-02",
+      "player_name": "Amen Thompson",
+      "team": "HOU",
+      "stat": "STL",
+      "stat_label": "Steals",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 1.8,
+      "under_price": 1.96,
+      "bet_description": "Amen Thompson OVER 1.5 Steals",
+      "game": "Los Angeles Lakers @ Houston Rockets",
+      "last_3_avg": 2.7,
+      "season_avg": 1.5,
+      "score": 233.7,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-02|VJ Edgecombe|REB|5.5|OVER",
+      "suggested_date": "2026-05-02",
+      "player_name": "VJ Edgecombe",
+      "team": "PHI",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 5.5,
+      "over_price": 1.88,
+      "under_price": 1.88,
+      "bet_description": "VJ Edgecombe OVER 5.5 Rebounds",
+      "game": "Philadelphia 76ers @ Boston Celtics",
+      "last_3_avg": 9.0,
+      "season_avg": 5.7,
+      "score": 225.2,
       "status": "pending",
       "actual_value": null,
       "settled_at": null
