@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T23:07:01.050797+11:00",
+  "generated_at": "2026-05-05T00:07:01.492879+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -177,8 +177,8 @@
       "games_played": 83,
       "betting_line": {
         "line": 8.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -239,8 +239,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "over_price": 1.68,
+        "under_price": 2.1,
         "market_type": "over_under"
       },
       "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -270,8 +270,8 @@
       "games_played": 76,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.84,
-        "under_price": 1.92,
+        "over_price": 1.86,
+        "under_price": 1.9,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 382,
+    "total_bets": 392,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 42,
+    "pending": 52,
     "no_game": 232,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -537,8 +537,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -692,8 +692,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -723,8 +723,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -1010,8 +1010,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1041,8 +1041,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1165,8 +1165,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -1196,8 +1196,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -1462,8 +1462,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.5,
+          "under_price": 2.45,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1896,8 +1896,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -1989,8 +1989,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -2082,7 +2082,7 @@
         "games_played": 51,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
+          "over_price": 1.56,
           "under_price": 2.4,
           "market_type": "over_under"
         },
@@ -2393,7 +2393,7 @@
         "betting_line": {
           "line": 2.5,
           "over_price": 2.1,
-          "under_price": 1.68,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -2671,8 +2671,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
