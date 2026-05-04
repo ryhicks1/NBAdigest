@@ -7599,6 +7599,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-05-04|Jaylon Tyson|REB|2.5|OVER",
+      "suggested_date": "2026-05-04",
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 1.9,
+      "under_price": 1.86,
+      "bet_description": "Jaylon Tyson OVER 2.5 Rebounds",
+      "game": "Cleveland Cavaliers @ Detroit Pistons",
+      "last_3_avg": 7.0,
+      "season_avg": 5.1,
+      "score": 450.7,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-04|Jaylon Tyson|PTS|6.5|OVER",
+      "suggested_date": "2026-05-04",
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 6.5,
+      "over_price": 2.05,
+      "under_price": 1.74,
+      "bet_description": "Jaylon Tyson OVER 6.5 Points",
+      "game": "Cleveland Cavaliers @ Detroit Pistons",
+      "last_3_avg": 17.0,
+      "season_avg": 13.2,
+      "score": 449.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
