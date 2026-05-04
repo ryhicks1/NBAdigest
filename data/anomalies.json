@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-05-04T12:07:01.012271+11:00",
+  "generated_at": "2026-05-04T13:07:01.200575+11:00",
   "season": "2025-26",
   "featured_bets": [
-    {
-      "player_name": "Jakob Poeltl",
-      "team": "TOR",
-      "stat": "PTS",
-      "stat_label": "Points",
-      "direction": "cold",
-      "last_3": [
-        11,
-        4,
-        6
-      ],
-      "last_3_avg": 7.0,
-      "season_avg": 10.7,
-      "l10_avg": 12.0,
-      "pct_diff_season": -34.6,
-      "pct_diff_l10": -41.7,
-      "comparison": "l10",
-      "games_played": 46,
-      "betting_line": {
-        "line": 2.5,
-        "over_price": 2.02,
-        "under_price": 1.68,
-        "market_type": "over_under"
-      },
-      "game": "Toronto Raptors @ Cleveland Cavaliers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-      "pct_vs_line": 180.0,
-      "score": 482.4,
-      "bet_action": "UNDER",
-      "bet_description": "Jakob Poeltl UNDER 2.5 Points"
-    },
     {
       "player_name": "Mitchell Robinson",
       "team": "NY",
@@ -65,37 +34,6 @@
       "bet_description": "Mitchell Robinson OVER 4.5 Points"
     },
     {
-      "player_name": "Donovan Mitchell",
-      "team": "CLE",
-      "stat": "REB",
-      "stat_label": "Rebounds",
-      "direction": "hot",
-      "last_3": [
-        7,
-        6,
-        6
-      ],
-      "last_3_avg": 6.3,
-      "season_avg": 4.3,
-      "l10_avg": 5.1,
-      "pct_diff_season": 46.5,
-      "pct_diff_l10": 23.5,
-      "comparison": "season",
-      "games_played": 73,
-      "betting_line": {
-        "line": 2.5,
-        "over_price": 1.52,
-        "under_price": 2.3,
-        "market_type": "over_under"
-      },
-      "game": "Toronto Raptors @ Cleveland Cavaliers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-      "pct_vs_line": 152.0,
-      "score": 410.6,
-      "bet_action": "OVER",
-      "bet_description": "Donovan Mitchell OVER 2.5 Rebounds"
-    },
-    {
       "player_name": "Keldon Johnson",
       "team": "SA",
       "stat": "PTS",
@@ -115,8 +53,8 @@
       "games_played": 83,
       "betting_line": {
         "line": 8.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -156,37 +94,6 @@
       "score": 330.1,
       "bet_action": "OVER",
       "bet_description": "LeBron James OVER 1.5 Steals"
-    },
-    {
-      "player_name": "Ja'Kobe Walter",
-      "team": "TOR",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "hot",
-      "last_3": [
-        3,
-        4,
-        2
-      ],
-      "last_3_avg": 3.0,
-      "season_avg": 1.5,
-      "l10_avg": 2.6,
-      "pct_diff_season": 100.0,
-      "pct_diff_l10": 15.4,
-      "comparison": "season",
-      "games_played": 72,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.59,
-        "under_price": 2.2,
-        "market_type": "over_under"
-      },
-      "game": "Toronto Raptors @ Cleveland Cavaliers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-      "pct_vs_line": 100.0,
-      "score": 316.8,
-      "bet_action": "OVER",
-      "bet_description": "Ja'Kobe Walter OVER 1.5 Threes"
     },
     {
       "player_name": "Chet Holmgren",
@@ -239,8 +146,8 @@
       "games_played": 76,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.87,
-        "under_price": 1.89,
+        "over_price": 1.86,
+        "under_price": 1.9,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -311,14 +218,107 @@
       "score": 251.2,
       "bet_action": "UNDER",
       "bet_description": "Marcus Smart UNDER 1.5 Threes"
+    },
+    {
+      "player_name": "VJ Edgecombe",
+      "team": "PHI",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "hot",
+      "last_3": [
+        11,
+        7,
+        9
+      ],
+      "last_3_avg": 9.0,
+      "season_avg": 5.7,
+      "l10_avg": 5.8,
+      "pct_diff_season": 57.9,
+      "pct_diff_l10": 55.2,
+      "comparison": "season",
+      "games_played": 76,
+      "betting_line": {
+        "line": 5.5,
+        "over_price": 1.78,
+        "under_price": 2,
+        "market_type": "over_under"
+      },
+      "game": "Philadelphia 76ers @ New York Knicks",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
+      "pct_vs_line": 63.6,
+      "score": 225.2,
+      "bet_action": "OVER",
+      "bet_description": "VJ Edgecombe OVER 5.5 Rebounds"
+    },
+    {
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "cold",
+      "last_3": [
+        5,
+        6,
+        2
+      ],
+      "last_3_avg": 4.3,
+      "season_avg": 9.3,
+      "l10_avg": 8.7,
+      "pct_diff_season": -53.8,
+      "pct_diff_l10": -50.6,
+      "comparison": "season",
+      "games_played": 62,
+      "betting_line": {
+        "line": 10.5,
+        "over_price": 1.96,
+        "under_price": 1.8,
+        "market_type": "over_under"
+      },
+      "game": "Los Angeles Lakers @ Oklahoma City Thunder",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-lakers-at-oklahoma-city-thunder-10418414",
+      "pct_vs_line": -59.0,
+      "score": 222.1,
+      "bet_action": "UNDER",
+      "bet_description": "Marcus Smart UNDER 10.5 Points"
+    },
+    {
+      "player_name": "Anthony Edwards",
+      "team": "MIN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "cold",
+      "last_3": [
+        2,
+        2,
+        2
+      ],
+      "last_3_avg": 2.0,
+      "season_avg": 4.9,
+      "l10_avg": 3.7,
+      "pct_diff_season": -59.2,
+      "pct_diff_l10": -45.9,
+      "comparison": "season",
+      "games_played": 64,
+      "betting_line": {
+        "line": 4.5,
+        "over_price": 1.68,
+        "under_price": 2.1,
+        "market_type": "over_under"
+      },
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+      "pct_vs_line": -55.6,
+      "score": 214.8,
+      "bet_action": "UNDER",
+      "bet_description": "Anthony Edwards UNDER 4.5 Rebounds"
     }
   ],
   "tracking": {
-    "total_bets": 374,
+    "total_bets": 377,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 34,
+    "pending": 37,
     "no_game": 232,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -537,8 +537,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -547,37 +547,6 @@
         "score": 283.5,
         "bet_action": "OVER",
         "bet_description": "De'Aaron Fox OVER 1.5 Threes"
-      },
-      {
-        "player_name": "Ja'Kobe Walter",
-        "team": "TOR",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "hot",
-        "last_3": [
-          3,
-          4,
-          2
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 1.5,
-        "l10_avg": 2.6,
-        "pct_diff_season": 100.0,
-        "pct_diff_l10": 15.4,
-        "comparison": "season",
-        "games_played": 72,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.59,
-          "under_price": 2.2,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": 100.0,
-        "score": 316.8,
-        "bet_action": "OVER",
-        "bet_description": "Ja'Kobe Walter OVER 1.5 Threes"
       },
       {
         "player_name": "Mitchell Robinson",
@@ -692,8 +661,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -766,37 +735,6 @@
         "bet_description": "VJ Edgecombe OVER 5.5 Rebounds"
       },
       {
-        "player_name": "Donovan Mitchell",
-        "team": "CLE",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "hot",
-        "last_3": [
-          7,
-          6,
-          6
-        ],
-        "last_3_avg": 6.3,
-        "season_avg": 4.3,
-        "l10_avg": 5.1,
-        "pct_diff_season": 46.5,
-        "pct_diff_l10": 23.5,
-        "comparison": "season",
-        "games_played": 73,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.52,
-          "under_price": 2.3,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": 152.0,
-        "score": 410.6,
-        "bet_action": "OVER",
-        "bet_description": "Donovan Mitchell OVER 2.5 Rebounds"
-      },
-      {
         "player_name": "Keldon Johnson",
         "team": "SA",
         "stat": "PTS",
@@ -816,8 +754,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -847,8 +785,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1033,8 +971,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1095,8 +1033,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.77,
-          "under_price": 1.91,
+          "over_price": 2.1,
+          "under_price": 1.63,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
@@ -1303,37 +1241,6 @@
         "bet_description": "VJ Edgecombe UNDER 1.5 Threes"
       },
       {
-        "player_name": "Max Strus",
-        "team": "CLE",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          1,
-          0,
-          2
-        ],
-        "last_3_avg": 1.0,
-        "season_avg": 2.8,
-        "l10_avg": 2.5,
-        "pct_diff_season": -64.3,
-        "pct_diff_l10": -60.0,
-        "comparison": "season",
-        "games_played": 12,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.59,
-          "under_price": 2.2,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": -33.3,
-        "score": 131.0,
-        "bet_action": "UNDER",
-        "bet_description": "Max Strus UNDER 1.5 Threes"
-      },
-      {
         "player_name": "Anthony Edwards",
         "team": "MIN",
         "stat": "REB",
@@ -1365,37 +1272,6 @@
         "bet_description": "Anthony Edwards UNDER 4.5 Rebounds"
       },
       {
-        "player_name": "Jamal Shead",
-        "team": "TOR",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          4,
-          2,
-          3
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 5.4,
-        "l10_avg": 6.8,
-        "pct_diff_season": -44.4,
-        "pct_diff_l10": -55.9,
-        "comparison": "l10",
-        "games_played": 82,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 2.3,
-          "under_price": 1.53,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": -33.3,
-        "score": 140.7,
-        "bet_action": "UNDER",
-        "bet_description": "Jamal Shead UNDER 4.5 Assists"
-      },
-      {
         "player_name": "Josh Hart",
         "team": "NY",
         "stat": "REB",
@@ -1425,37 +1301,6 @@
         "score": 206.5,
         "bet_action": "UNDER",
         "bet_description": "Josh Hart UNDER 8.5 Rebounds"
-      },
-      {
-        "player_name": "Ja'Kobe Walter",
-        "team": "TOR",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          0,
-          2,
-          3
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 2.6,
-        "l10_avg": 3.7,
-        "pct_diff_season": -34.6,
-        "pct_diff_l10": -54.1,
-        "comparison": "l10",
-        "games_played": 72,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2,
-          "under_price": 1.7,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": -32.0,
-        "score": 119.5,
-        "bet_action": "UNDER",
-        "bet_description": "Ja'Kobe Walter UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Marcus Smart",
@@ -1518,37 +1363,6 @@
         "score": 192.1,
         "bet_action": "UNDER",
         "bet_description": "Shai Gilgeous-Alexander UNDER 4.5 Rebounds"
-      },
-      {
-        "player_name": "Jakob Poeltl",
-        "team": "TOR",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          5,
-          3,
-          2
-        ],
-        "last_3_avg": 3.3,
-        "season_avg": 7.0,
-        "l10_avg": 5.2,
-        "pct_diff_season": -52.9,
-        "pct_diff_l10": -36.5,
-        "comparison": "season",
-        "games_played": 46,
-        "betting_line": {
-          "line": 6.5,
-          "over_price": 2.25,
-          "under_price": 1.55,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": -49.2,
-        "score": 176.2,
-        "bet_action": "UNDER",
-        "bet_description": "Jakob Poeltl UNDER 6.5 Rebounds"
       },
       {
         "player_name": "Jaden McDaniels",
@@ -1725,8 +1539,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 24.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1861,68 +1675,6 @@
         "bet_description": "Victor Wembanyama UNDER 1.5 Steals"
       },
       {
-        "player_name": "Jakob Poeltl",
-        "team": "TOR",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          11,
-          4,
-          6
-        ],
-        "last_3_avg": 7.0,
-        "season_avg": 10.7,
-        "l10_avg": 12.0,
-        "pct_diff_season": -34.6,
-        "pct_diff_l10": -41.7,
-        "comparison": "l10",
-        "games_played": 46,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.02,
-          "under_price": 1.68,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": 180.0,
-        "score": 482.4,
-        "bet_action": "UNDER",
-        "bet_description": "Jakob Poeltl UNDER 2.5 Points"
-      },
-      {
-        "player_name": "Max Strus",
-        "team": "CLE",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          10,
-          2,
-          8
-        ],
-        "last_3_avg": 6.7,
-        "season_avg": 11.2,
-        "l10_avg": 10.4,
-        "pct_diff_season": -40.2,
-        "pct_diff_l10": -35.6,
-        "comparison": "season",
-        "games_played": 12,
-        "betting_line": {
-          "line": 8.5,
-          "over_price": 1.84,
-          "under_price": 1.83,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": -21.2,
-        "score": 99.1,
-        "bet_action": "UNDER",
-        "bet_description": "Max Strus UNDER 8.5 Points"
-      },
-      {
         "player_name": "Tyrese Maxey",
         "team": "PHI",
         "stat": "AST",
@@ -1985,68 +1737,6 @@
         "bet_description": "Ajay Mitchell UNDER 1.5 Threes"
       },
       {
-        "player_name": "James Harden",
-        "team": "CLE",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          5,
-          4,
-          7
-        ],
-        "last_3_avg": 5.3,
-        "season_avg": 8.0,
-        "l10_avg": 7.6,
-        "pct_diff_season": -33.8,
-        "pct_diff_l10": -30.3,
-        "comparison": "season",
-        "games_played": 70,
-        "betting_line": {
-          "line": 4.5,
-          "over_price": 1.63,
-          "under_price": 2.1,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": 17.8,
-        "score": 96.1,
-        "bet_action": "UNDER",
-        "bet_description": "James Harden UNDER 4.5 Assists"
-      },
-      {
-        "player_name": "RJ Barrett",
-        "team": "TOR",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          2,
-          3,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.3,
-        "l10_avg": 3.4,
-        "pct_diff_season": -30.3,
-        "pct_diff_l10": -32.4,
-        "comparison": "l10",
-        "games_played": 57,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.65,
-          "under_price": 2.07,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": -34.3,
-        "score": 129.5,
-        "bet_action": "UNDER",
-        "bet_description": "RJ Barrett UNDER 3.5 Assists"
-      },
-      {
         "player_name": "Isaiah Hartenstein",
         "team": "OKC",
         "stat": "REB",
@@ -2107,37 +1797,6 @@
         "score": 123.8,
         "bet_action": "UNDER",
         "bet_description": "Devin Vassell UNDER 2.5 Assists"
-      },
-      {
-        "player_name": "Max Strus",
-        "team": "CLE",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          5,
-          4,
-          2
-        ],
-        "last_3_avg": 3.7,
-        "season_avg": 5.4,
-        "l10_avg": 5.1,
-        "pct_diff_season": -31.5,
-        "pct_diff_l10": -27.5,
-        "comparison": "season",
-        "games_played": 12,
-        "betting_line": {
-          "line": 5.5,
-          "over_price": 1.72,
-          "under_price": 1.97,
-          "market_type": "over_under"
-        },
-        "game": "Toronto Raptors @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": -32.7,
-        "score": 111.9,
-        "bet_action": "UNDER",
-        "bet_description": "Max Strus UNDER 5.5 Rebounds"
       },
       {
         "player_name": "Luguentz Dort",
@@ -2313,17 +1972,17 @@
         "comparison": "l10",
         "games_played": 56,
         "betting_line": {
-          "line": 10.5,
-          "over_price": 1.9,
-          "under_price": 1.78,
+          "line": 23.5,
+          "over_price": 1.66,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Toronto Raptors @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/toronto-raptors-at-cleveland-cavaliers-10428256",
-        "pct_vs_line": 42.9,
-        "score": 132.6,
+        "pct_vs_line": -36.2,
+        "score": 116.6,
         "bet_action": "UNDER",
-        "bet_description": "Jarrett Allen UNDER 10.5 Points"
+        "bet_description": "Jarrett Allen UNDER 23.5 Points"
       }
     ]
   },
@@ -2334,7 +1993,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 16,
-    "players_with_sportsbet_markets": 51,
+    "players_with_sportsbet_markets": 43,
     "events_count": 4
   }
 }
