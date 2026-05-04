@@ -7939,6 +7939,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-05-05|Terrence Shannon Jr.|PTS|7.5|OVER",
+      "suggested_date": "2026-05-05",
+      "player_name": "Terrence Shannon Jr.",
+      "team": "MIN",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 7.5,
+      "over_price": 1.96,
+      "under_price": 1.8,
+      "bet_description": "Terrence Shannon Jr. OVER 7.5 Points",
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "last_3_avg": 27.3,
+      "season_avg": 6.0,
+      "score": 1078.1,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T07:07:01.561455+11:00",
+  "generated_at": "2026-05-05T08:07:01.538065+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -21,17 +21,17 @@
       "comparison": "season",
       "games_played": 40,
       "betting_line": {
-        "line": 6.5,
-        "over_price": 1.8,
-        "under_price": 1.96,
+        "line": 7.5,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
       "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-      "pct_vs_line": 320.0,
-      "score": 1212.5,
+      "pct_vs_line": 264.0,
+      "score": 1078.1,
       "bet_action": "OVER",
-      "bet_description": "Terrence Shannon Jr. OVER 6.5 Points"
+      "bet_description": "Terrence Shannon Jr. OVER 7.5 Points"
     },
     {
       "player_name": "Andre Drummond",
@@ -84,8 +84,8 @@
       "games_played": 69,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 2.1,
+        "under_price": 1.68,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -146,8 +146,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.9,
-        "under_price": 1.86,
+        "over_price": 1.86,
+        "under_price": 1.9,
         "market_type": "over_under"
       },
       "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -177,8 +177,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 6.5,
-        "over_price": 2.05,
-        "under_price": 1.74,
+        "over_price": 2.08,
+        "under_price": 1.72,
         "market_type": "over_under"
       },
       "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -208,8 +208,8 @@
       "games_played": 69,
       "betting_line": {
         "line": 7.5,
-        "over_price": 2,
-        "under_price": 1.78,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -271,7 +271,7 @@
       "betting_line": {
         "line": 1.5,
         "over_price": 2.6,
-        "under_price": 1.45,
+        "under_price": 1.44,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 397,
+    "total_bets": 398,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 57,
+    "pending": 58,
     "no_game": 232,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -505,17 +505,17 @@
         "comparison": "season",
         "games_played": 40,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "line": 7.5,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": 320.0,
-        "score": 1212.5,
+        "pct_vs_line": 264.0,
+        "score": 1078.1,
         "bet_action": "OVER",
-        "bet_description": "Terrence Shannon Jr. OVER 6.5 Points"
+        "bet_description": "Terrence Shannon Jr. OVER 7.5 Points"
       },
       {
         "player_name": "Mike Conley",
@@ -538,7 +538,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.2
+              "price": 5.4
             },
             "1": {
               "price": 1.86
@@ -574,7 +574,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 2.6,
-          "under_price": 1.45,
+          "under_price": 1.44,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -635,8 +635,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.1,
+          "under_price": 1.68,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -697,8 +697,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -821,8 +821,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -851,17 +851,17 @@
         "comparison": "season",
         "games_played": 78,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "line": 4.5,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
-        "pct_vs_line": 42.9,
-        "score": 196.0,
+        "pct_vs_line": 11.1,
+        "score": 126.2,
         "bet_action": "OVER",
-        "bet_description": "Karl-Anthony Towns OVER 3.5 Assists"
+        "bet_description": "Karl-Anthony Towns OVER 4.5 Assists"
       },
       {
         "player_name": "Rui Hachimura",
@@ -976,8 +976,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1007,8 +1007,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1038,8 +1038,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1356,8 +1356,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1387,8 +1387,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -1418,8 +1418,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1653,8 +1653,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1684,8 +1684,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -1715,8 +1715,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.5,
-          "under_price": 2.45,
+          "over_price": 1.52,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1746,7 +1746,7 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.76,
+          "over_price": 1.74,
           "under_price": 2.05,
           "market_type": "over_under"
         },
@@ -1776,17 +1776,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "line": 3.5,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": -55.6,
-        "score": 214.8,
+        "pct_vs_line": -42.9,
+        "score": 186.9,
         "bet_action": "UNDER",
-        "bet_description": "Anthony Edwards UNDER 4.5 Rebounds"
+        "bet_description": "Anthony Edwards UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Josh Hart",
@@ -1932,8 +1932,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -2149,8 +2149,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -2304,8 +2304,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -2676,8 +2676,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 31.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
