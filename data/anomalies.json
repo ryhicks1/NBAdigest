@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T01:07:01.176249+11:00",
+  "generated_at": "2026-05-05T02:07:01.113910+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -146,8 +146,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 6.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 2.05,
+        "under_price": 1.74,
         "market_type": "over_under"
       },
       "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -847,8 +847,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1524,8 +1524,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1617,8 +1617,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1803,8 +1803,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 29.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -2299,8 +2299,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
