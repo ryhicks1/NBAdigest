@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:07:00.553264+11:00",
+  "generated_at": "2026-05-05T10:07:01.486287+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 40,
       "betting_line": {
         "line": 7.5,
-        "over_price": 2.02,
-        "under_price": 1.76,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -506,8 +506,8 @@
         "games_played": 40,
         "betting_line": {
           "line": 7.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -538,7 +538,7 @@
         "betting_line": {
           "thresholds": {
             "2": {
-              "price": 5.4
+              "price": 5.25
             },
             "1": {
               "price": 1.86
@@ -1448,17 +1448,17 @@
         "comparison": "l10",
         "games_played": 78,
         "betting_line": {
-          "line": 26.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 25.5,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
-        "pct_vs_line": 5.7,
-        "score": 54.1,
+        "pct_vs_line": 9.8,
+        "score": 64.1,
         "bet_action": "OVER",
-        "bet_description": "Jalen Brunson OVER 26.5 Points"
+        "bet_description": "Jalen Brunson OVER 25.5 Points"
       }
     ],
     "cold": [
@@ -1777,8 +1777,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1808,8 +1808,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 8.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -2148,17 +2148,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 21.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 20.5,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": -27.0,
-        "score": 134.1,
+        "pct_vs_line": -23.4,
+        "score": 125.6,
         "bet_action": "UNDER",
-        "bet_description": "Anthony Edwards UNDER 21.5 Points"
+        "bet_description": "Anthony Edwards UNDER 20.5 Points"
       },
       {
         "player_name": "Josh Hart",
@@ -2180,8 +2180,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.76,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
