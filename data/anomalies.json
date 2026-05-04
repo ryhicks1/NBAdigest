@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-05-05T06:07:01.447313+11:00",
+  "generated_at": "2026-05-05T07:07:01.561455+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
-      "player_name": "Andre Drummond",
-      "team": "PHI",
+      "player_name": "Terrence Shannon Jr.",
+      "team": "MIN",
       "stat": "PTS",
       "stat_label": "Points",
       "direction": "hot",
       "last_3": [
-        14,
-        12,
-        10
+        26,
+        23,
+        33
       ],
-      "last_3_avg": 12.0,
-      "season_avg": 6.5,
-      "l10_avg": 6.0,
-      "pct_diff_season": 84.6,
-      "pct_diff_l10": 100.0,
-      "comparison": "l10",
-      "games_played": 64,
+      "last_3_avg": 27.3,
+      "season_avg": 6.0,
+      "l10_avg": 10.6,
+      "pct_diff_season": 355.0,
+      "pct_diff_l10": 157.5,
+      "comparison": "season",
+      "games_played": 40,
       "betting_line": {
-        "line": 2.5,
-        "over_price": 2.08,
-        "under_price": 1.72,
+        "line": 6.5,
+        "over_price": 1.8,
+        "under_price": 1.96,
         "market_type": "over_under"
       },
-      "game": "Philadelphia 76ers @ New York Knicks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
-      "pct_vs_line": 380.0,
-      "score": 1038.6,
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+      "pct_vs_line": 320.0,
+      "score": 1212.5,
       "bet_action": "OVER",
-      "bet_description": "Andre Drummond OVER 2.5 Points"
+      "bet_description": "Terrence Shannon Jr. OVER 6.5 Points"
     },
     {
       "player_name": "Andre Drummond",
@@ -65,6 +65,68 @@
       "bet_description": "Andre Drummond OVER 2.5 Rebounds"
     },
     {
+      "player_name": "Bones Hyland",
+      "team": "MIN",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "hot",
+      "last_3": [
+        3,
+        4,
+        5
+      ],
+      "last_3_avg": 4.0,
+      "season_avg": 1.7,
+      "l10_avg": 2.8,
+      "pct_diff_season": 135.3,
+      "pct_diff_l10": 42.9,
+      "comparison": "season",
+      "games_played": 69,
+      "betting_line": {
+        "line": 1.5,
+        "over_price": 2.02,
+        "under_price": 1.76,
+        "market_type": "over_under"
+      },
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+      "pct_vs_line": 166.7,
+      "score": 487.5,
+      "bet_action": "OVER",
+      "bet_description": "Bones Hyland OVER 1.5 Threes"
+    },
+    {
+      "player_name": "Mitchell Robinson",
+      "team": "NY",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        7,
+        8,
+        17
+      ],
+      "last_3_avg": 10.7,
+      "season_avg": 5.6,
+      "l10_avg": 7.6,
+      "pct_diff_season": 91.1,
+      "pct_diff_l10": 40.8,
+      "comparison": "season",
+      "games_played": 61,
+      "betting_line": {
+        "line": 4.5,
+        "over_price": 1.76,
+        "under_price": 2.02,
+        "market_type": "over_under"
+      },
+      "game": "Philadelphia 76ers @ New York Knicks",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
+      "pct_vs_line": 137.8,
+      "score": 454.9,
+      "bet_action": "OVER",
+      "bet_description": "Mitchell Robinson OVER 4.5 Points"
+    },
+    {
       "player_name": "Jaylon Tyson",
       "team": "CLE",
       "stat": "REB",
@@ -84,8 +146,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 2.5,
-        "over_price": 1.89,
-        "under_price": 1.87,
+        "over_price": 1.9,
+        "under_price": 1.86,
         "market_type": "over_under"
       },
       "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -115,8 +177,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 6.5,
-        "over_price": 2.08,
-        "under_price": 1.72,
+        "over_price": 2.05,
+        "under_price": 1.74,
         "market_type": "over_under"
       },
       "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -125,6 +187,37 @@
       "score": 449.3,
       "bet_action": "OVER",
       "bet_description": "Jaylon Tyson OVER 6.5 Points"
+    },
+    {
+      "player_name": "Bones Hyland",
+      "team": "MIN",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        9,
+        19,
+        18
+      ],
+      "last_3_avg": 15.3,
+      "season_avg": 8.8,
+      "l10_avg": 13.9,
+      "pct_diff_season": 73.9,
+      "pct_diff_l10": 10.1,
+      "comparison": "season",
+      "games_played": 69,
+      "betting_line": {
+        "line": 7.5,
+        "over_price": 2,
+        "under_price": 1.78,
+        "market_type": "over_under"
+      },
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+      "pct_vs_line": 104.0,
+      "score": 357.7,
+      "bet_action": "OVER",
+      "bet_description": "Bones Hyland OVER 7.5 Points"
     },
     {
       "player_name": "Keldon Johnson",
@@ -146,8 +239,8 @@
       "games_played": 83,
       "betting_line": {
         "line": 8.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 1.8,
+        "under_price": 1.96,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -158,35 +251,35 @@
       "bet_description": "Keldon Johnson OVER 8.5 Points"
     },
     {
-      "player_name": "Mitchell Robinson",
-      "team": "NY",
-      "stat": "PTS",
-      "stat_label": "Points",
+      "player_name": "Mike Conley",
+      "team": "MIN",
+      "stat": "FG3M",
+      "stat_label": "Threes",
       "direction": "hot",
       "last_3": [
-        7,
-        8,
-        17
+        3,
+        2,
+        3
       ],
-      "last_3_avg": 10.7,
-      "season_avg": 5.6,
-      "l10_avg": 7.6,
-      "pct_diff_season": 91.1,
-      "pct_diff_l10": 40.8,
+      "last_3_avg": 2.7,
+      "season_avg": 1.0,
+      "l10_avg": 1.4,
+      "pct_diff_season": 170.0,
+      "pct_diff_l10": 92.9,
       "comparison": "season",
-      "games_played": 61,
+      "games_played": 54,
       "betting_line": {
-        "line": 5.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "line": 1.5,
+        "over_price": 2.6,
+        "under_price": 1.45,
         "market_type": "over_under"
       },
-      "game": "Philadelphia 76ers @ New York Knicks",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
-      "pct_vs_line": 94.5,
-      "score": 351.1,
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+      "pct_vs_line": 80.0,
+      "score": 349.7,
       "bet_action": "OVER",
-      "bet_description": "Mitchell Robinson OVER 5.5 Points"
+      "bet_description": "Mike Conley OVER 1.5 Threes"
     },
     {
       "player_name": "LeBron James",
@@ -218,107 +311,14 @@
       "score": 330.1,
       "bet_action": "OVER",
       "bet_description": "LeBron James OVER 1.5 Steals"
-    },
-    {
-      "player_name": "Chet Holmgren",
-      "team": "OKC",
-      "stat": "BLK",
-      "stat_label": "Blocks",
-      "direction": "hot",
-      "last_3": [
-        4,
-        2,
-        4
-      ],
-      "last_3_avg": 3.3,
-      "season_avg": 1.8,
-      "l10_avg": 2.1,
-      "pct_diff_season": 83.3,
-      "pct_diff_l10": 57.1,
-      "comparison": "season",
-      "games_played": 72,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.68,
-        "under_price": 2.1,
-        "market_type": "over_under"
-      },
-      "game": "Los Angeles Lakers @ Oklahoma City Thunder",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/los-angeles-lakers-at-oklahoma-city-thunder-10418414",
-      "pct_vs_line": 120.0,
-      "score": 305.8,
-      "bet_action": "OVER",
-      "bet_description": "Chet Holmgren OVER 1.5 Blocks"
-    },
-    {
-      "player_name": "De'Aaron Fox",
-      "team": "SA",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "hot",
-      "last_3": [
-        4,
-        2,
-        3
-      ],
-      "last_3_avg": 3.0,
-      "season_avg": 1.8,
-      "l10_avg": 1.3,
-      "pct_diff_season": 66.7,
-      "pct_diff_l10": 130.8,
-      "comparison": "l10",
-      "games_played": 76,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.86,
-        "under_price": 1.9,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ San Antonio Spurs",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-      "pct_vs_line": 100.0,
-      "score": 283.5,
-      "bet_action": "OVER",
-      "bet_description": "De'Aaron Fox OVER 1.5 Threes"
-    },
-    {
-      "player_name": "Keldon Johnson",
-      "team": "SA",
-      "stat": "REB",
-      "stat_label": "Rebounds",
-      "direction": "hot",
-      "last_3": [
-        6,
-        6,
-        8
-      ],
-      "last_3_avg": 6.7,
-      "season_avg": 5.3,
-      "l10_avg": 4.9,
-      "pct_diff_season": 26.4,
-      "pct_diff_l10": 36.7,
-      "comparison": "l10",
-      "games_played": 83,
-      "betting_line": {
-        "line": 3.5,
-        "over_price": 1.78,
-        "under_price": 2,
-        "market_type": "over_under"
-      },
-      "game": "Minnesota Timberwolves @ San Antonio Spurs",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-      "pct_vs_line": 91.4,
-      "score": 253.1,
-      "bet_action": "OVER",
-      "bet_description": "Keldon Johnson OVER 3.5 Rebounds"
     }
   ],
   "tracking": {
-    "total_bets": 393,
+    "total_bets": 397,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 53,
+    "pending": 57,
     "no_game": 232,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -487,6 +487,104 @@
   "player_anomalies": {
     "hot": [
       {
+        "player_name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          26,
+          23,
+          33
+        ],
+        "last_3_avg": 27.3,
+        "season_avg": 6.0,
+        "l10_avg": 10.6,
+        "pct_diff_season": 355.0,
+        "pct_diff_l10": 157.5,
+        "comparison": "season",
+        "games_played": 40,
+        "betting_line": {
+          "line": 6.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+        "pct_vs_line": 320.0,
+        "score": 1212.5,
+        "bet_action": "OVER",
+        "bet_description": "Terrence Shannon Jr. OVER 6.5 Points"
+      },
+      {
+        "player_name": "Mike Conley",
+        "team": "MIN",
+        "stat": "STL",
+        "stat_label": "Steals",
+        "direction": "hot",
+        "last_3": [
+          1,
+          3,
+          1
+        ],
+        "last_3_avg": 1.7,
+        "season_avg": 0.6,
+        "l10_avg": 0.9,
+        "pct_diff_season": 183.3,
+        "pct_diff_l10": 88.9,
+        "comparison": "season",
+        "games_played": 54,
+        "betting_line": {
+          "thresholds": {
+            "2": {
+              "price": 5.2
+            },
+            "1": {
+              "price": 1.86
+            }
+          },
+          "market_type": "threshold"
+        },
+        "game": "Minnesota Timberwolves @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+        "pct_vs_line": null,
+        "score": 174.0,
+        "bet_action": "OVER",
+        "bet_description": "Mike Conley Steals trending HOT"
+      },
+      {
+        "player_name": "Mike Conley",
+        "team": "MIN",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "hot",
+        "last_3": [
+          3,
+          2,
+          3
+        ],
+        "last_3_avg": 2.7,
+        "season_avg": 1.0,
+        "l10_avg": 1.4,
+        "pct_diff_season": 170.0,
+        "pct_diff_l10": 92.9,
+        "comparison": "season",
+        "games_played": 54,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.6,
+          "under_price": 1.45,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+        "pct_vs_line": 80.0,
+        "score": 349.7,
+        "bet_action": "OVER",
+        "bet_description": "Mike Conley OVER 1.5 Threes"
+      },
+      {
         "player_name": "LeBron James",
         "team": "LAL",
         "stat": "STL",
@@ -516,6 +614,37 @@
         "score": 330.1,
         "bet_action": "OVER",
         "bet_description": "LeBron James OVER 1.5 Steals"
+      },
+      {
+        "player_name": "Bones Hyland",
+        "team": "MIN",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "hot",
+        "last_3": [
+          3,
+          4,
+          5
+        ],
+        "last_3_avg": 4.0,
+        "season_avg": 1.7,
+        "l10_avg": 2.8,
+        "pct_diff_season": 135.3,
+        "pct_diff_l10": 42.9,
+        "comparison": "season",
+        "games_played": 69,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 2.02,
+          "under_price": 1.76,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+        "pct_vs_line": 166.7,
+        "score": 487.5,
+        "bet_action": "OVER",
+        "bet_description": "Bones Hyland OVER 1.5 Threes"
       },
       {
         "player_name": "De'Aaron Fox",
@@ -549,37 +678,6 @@
         "bet_description": "De'Aaron Fox OVER 1.5 Threes"
       },
       {
-        "player_name": "Andre Drummond",
-        "team": "PHI",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "hot",
-        "last_3": [
-          14,
-          12,
-          10
-        ],
-        "last_3_avg": 12.0,
-        "season_avg": 6.5,
-        "l10_avg": 6.0,
-        "pct_diff_season": 84.6,
-        "pct_diff_l10": 100.0,
-        "comparison": "l10",
-        "games_played": 64,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
-          "market_type": "over_under"
-        },
-        "game": "Philadelphia 76ers @ New York Knicks",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
-        "pct_vs_line": 380.0,
-        "score": 1038.6,
-        "bet_action": "OVER",
-        "bet_description": "Andre Drummond OVER 2.5 Points"
-      },
-      {
         "player_name": "Jaylon Tyson",
         "team": "CLE",
         "stat": "REB",
@@ -599,8 +697,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -629,17 +727,17 @@
         "comparison": "season",
         "games_played": 61,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 4.5,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
-        "pct_vs_line": 94.5,
-        "score": 351.1,
+        "pct_vs_line": 137.8,
+        "score": 454.9,
         "bet_action": "OVER",
-        "bet_description": "Mitchell Robinson OVER 5.5 Points"
+        "bet_description": "Mitchell Robinson OVER 4.5 Points"
       },
       {
         "player_name": "Tyrese Maxey",
@@ -661,8 +759,8 @@
         "games_played": 74,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.6,
-          "under_price": 1.45,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -704,6 +802,37 @@
         "bet_description": "Chet Holmgren OVER 1.5 Blocks"
       },
       {
+        "player_name": "Bones Hyland",
+        "team": "MIN",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          9,
+          19,
+          18
+        ],
+        "last_3_avg": 15.3,
+        "season_avg": 8.8,
+        "l10_avg": 13.9,
+        "pct_diff_season": 73.9,
+        "pct_diff_l10": 10.1,
+        "comparison": "season",
+        "games_played": 69,
+        "betting_line": {
+          "line": 7.5,
+          "over_price": 2,
+          "under_price": 1.78,
+          "market_type": "over_under"
+        },
+        "game": "Minnesota Timberwolves @ San Antonio Spurs",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
+        "pct_vs_line": 104.0,
+        "score": 357.7,
+        "bet_action": "OVER",
+        "bet_description": "Bones Hyland OVER 7.5 Points"
+      },
+      {
         "player_name": "Karl-Anthony Towns",
         "team": "NY",
         "stat": "AST",
@@ -723,8 +852,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.58,
-          "under_price": 2.25,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -754,8 +883,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -847,8 +976,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -909,8 +1038,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.2,
+          "under_price": 1.6,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -975,7 +1104,7 @@
               "price": 3.1
             },
             "3": {
-              "price": 8.5
+              "price": 8.25
             },
             "1": {
               "price": 1.45
@@ -1010,8 +1139,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1041,8 +1170,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1103,8 +1232,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1134,8 +1263,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 11.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -1196,8 +1325,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -1226,17 +1355,17 @@
         "comparison": "season",
         "games_played": 73,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "line": 14.5,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": 45.9,
-        "score": 172.9,
+        "pct_vs_line": 35.9,
+        "score": 148.7,
         "bet_action": "OVER",
-        "bet_description": "Jaden McDaniels OVER 13.5 Points"
+        "bet_description": "Jaden McDaniels OVER 14.5 Points"
       },
       {
         "player_name": "Jalen Brunson",
@@ -1258,8 +1387,8 @@
         "games_played": 78,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -1289,8 +1418,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1353,8 +1482,8 @@
         "games_played": 62,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
+          "over_price": 1.76,
+          "under_price": 2.02,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -1388,10 +1517,10 @@
               "price": 2.7
             },
             "3": {
-              "price": 6.75
+              "price": 6.25
             },
             "1": {
-              "price": 1.36
+              "price": 1.35
             }
           },
           "market_type": "threshold"
@@ -1427,7 +1556,7 @@
               "price": 2.95
             },
             "3": {
-              "price": 7.5
+              "price": 7.25
             },
             "1": {
               "price": 1.41
@@ -1598,37 +1727,6 @@
         "bet_description": "Max Strus UNDER 1.5 Threes"
       },
       {
-        "player_name": "Ayo Dosunmu",
-        "team": "MIN",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          1,
-          1,
-          0
-        ],
-        "last_3_avg": 0.7,
-        "season_avg": 1.8,
-        "l10_avg": 1.8,
-        "pct_diff_season": -61.1,
-        "pct_diff_l10": -61.1,
-        "comparison": "season",
-        "games_played": 69,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ San Antonio Spurs",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": -53.3,
-        "score": 177.8,
-        "bet_action": "UNDER",
-        "bet_description": "Ayo Dosunmu UNDER 1.5 Threes"
-      },
-      {
         "player_name": "Daniss Jenkins",
         "team": "DET",
         "stat": "PTS",
@@ -1648,8 +1746,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.76,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1679,8 +1777,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1720,37 +1818,6 @@
         "score": 206.5,
         "bet_action": "UNDER",
         "bet_description": "Josh Hart UNDER 8.5 Rebounds"
-      },
-      {
-        "player_name": "Ayo Dosunmu",
-        "team": "MIN",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          0,
-          5,
-          4
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 3.4,
-        "l10_avg": 6.6,
-        "pct_diff_season": -11.8,
-        "pct_diff_l10": -54.5,
-        "comparison": "l10",
-        "games_played": 69,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ San Antonio Spurs",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": -14.3,
-        "score": 55.4,
-        "bet_action": "UNDER",
-        "bet_description": "Ayo Dosunmu UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Marcus Smart",
@@ -1815,37 +1882,6 @@
         "bet_description": "Shai Gilgeous-Alexander UNDER 4.5 Rebounds"
       },
       {
-        "player_name": "Ayo Dosunmu",
-        "team": "MIN",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          4,
-          1,
-          2
-        ],
-        "last_3_avg": 2.3,
-        "season_avg": 3.6,
-        "l10_avg": 4.8,
-        "pct_diff_season": -36.1,
-        "pct_diff_l10": -52.1,
-        "comparison": "l10",
-        "games_played": 69,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
-          "market_type": "over_under"
-        },
-        "game": "Minnesota Timberwolves @ San Antonio Spurs",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": -34.3,
-        "score": 126.1,
-        "bet_action": "UNDER",
-        "bet_description": "Ayo Dosunmu UNDER 3.5 Assists"
-      },
-      {
         "player_name": "Jaden McDaniels",
         "team": "MIN",
         "stat": "AST",
@@ -1865,8 +1901,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1896,8 +1932,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -1957,17 +1993,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "line": 2.5,
+          "over_price": 1.68,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": -51.4,
-        "score": 161.4,
+        "pct_vs_line": -32.0,
+        "score": 122.5,
         "bet_action": "UNDER",
-        "bet_description": "Anthony Edwards UNDER 3.5 Threes"
+        "bet_description": "Anthony Edwards UNDER 2.5 Threes"
       },
       {
         "player_name": "Ajay Mitchell",
@@ -2112,17 +2148,17 @@
         "comparison": "season",
         "games_played": 64,
         "betting_line": {
-          "line": 24.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 21.5,
+          "over_price": 1.86,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": -35.9,
-        "score": 155.6,
+        "pct_vs_line": -27.0,
+        "score": 134.1,
         "bet_action": "UNDER",
-        "bet_description": "Anthony Edwards UNDER 24.5 Points"
+        "bet_description": "Anthony Edwards UNDER 21.5 Points"
       },
       {
         "player_name": "Josh Hart",
@@ -2144,8 +2180,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 4.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
@@ -2206,8 +2242,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.83,
-          "under_price": 1.92,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -2268,8 +2304,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -2298,17 +2334,17 @@
         "comparison": "season",
         "games_played": 74,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "line": 5.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/philadelphia-76ers-at-new-york-knicks-10441932",
-        "pct_vs_line": -38.5,
-        "score": 136.9,
+        "pct_vs_line": -27.3,
+        "score": 112.2,
         "bet_action": "UNDER",
-        "bet_description": "Tyrese Maxey UNDER 6.5 Assists"
+        "bet_description": "Tyrese Maxey UNDER 5.5 Assists"
       },
       {
         "player_name": "Dean Wade",
@@ -2330,8 +2366,8 @@
         "games_played": 58,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
@@ -2485,8 +2521,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -2516,8 +2552,8 @@
         "games_played": 55,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.93,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -2640,8 +2676,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 31.5,
-          "over_price": 1.89,
-          "under_price": 1.87,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Los Angeles Lakers @ Oklahoma City Thunder",
@@ -2670,17 +2706,17 @@
         "comparison": "season",
         "games_played": 79,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "line": 4.5,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/minnesota-timberwolves-at-san-antonio-spurs-10434821",
-        "pct_vs_line": 5.7,
-        "score": 64.4,
+        "pct_vs_line": -17.8,
+        "score": 90.9,
         "bet_action": "UNDER",
-        "bet_description": "Julius Randle UNDER 3.5 Assists"
+        "bet_description": "Julius Randle UNDER 4.5 Assists"
       },
       {
         "player_name": "Austin Reaves",
@@ -2815,7 +2851,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 16,
-    "players_with_sportsbet_markets": 58,
+    "players_with_sportsbet_markets": 61,
     "events_count": 4
   }
 }
