@@ -7539,6 +7539,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-05-04|Cade Cunningham|PTS|29.5|UNDER",
+      "suggested_date": "2026-05-04",
+      "player_name": "Cade Cunningham",
+      "team": "DET",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "UNDER",
+      "line": 29.5,
+      "over_price": 1.91,
+      "under_price": 1.85,
+      "bet_description": "Cade Cunningham UNDER 29.5 Points",
+      "game": "Cleveland Cavaliers @ Detroit Pistons",
+      "last_3_avg": 11.3,
+      "season_avg": 23.1,
+      "score": 229.5,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
