@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T04:07:01.338630+11:00",
+  "generated_at": "2026-05-05T05:07:00.554307+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -270,7 +270,7 @@
       "games_played": 76,
       "betting_line": {
         "line": 1.5,
-        "over_price": 1.88,
+        "over_price": 1.87,
         "under_price": 1.88,
         "market_type": "over_under"
       },
@@ -537,7 +537,7 @@
         "games_played": 76,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.88,
+          "over_price": 1.87,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -1041,8 +1041,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1227,8 +1227,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 15.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1617,7 +1617,7 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.85,
+          "over_price": 1.84,
           "under_price": 1.92,
           "market_type": "over_under"
         },
