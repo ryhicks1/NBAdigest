@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T00:07:01.492879+11:00",
+  "generated_at": "2026-05-05T01:07:01.176249+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -816,8 +816,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.92,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Philadelphia 76ers @ New York Knicks",
