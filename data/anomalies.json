@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T17:13:45.146748+11:00",
+  "generated_at": "2026-05-04T17:19:45.100648+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -1803,7 +1803,7 @@
         "games_played": 67,
         "betting_line": {
           "line": 29.5,
-          "over_price": 1.92,
+          "over_price": 1.93,
           "under_price": 1.83,
           "market_type": "over_under"
         },
@@ -2236,17 +2236,17 @@
         "comparison": "season",
         "games_played": 58,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.2,
-          "under_price": 1.6,
+          "line": 3.5,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Cleveland Cavaliers @ Detroit Pistons",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/cleveland-cavaliers-at-detroit-pistons-10445275",
-        "pct_vs_line": -40.0,
-        "score": 141.0,
+        "pct_vs_line": -22.9,
+        "score": 103.3,
         "bet_action": "UNDER",
-        "bet_description": "Dean Wade UNDER 4.5 Rebounds"
+        "bet_description": "Dean Wade UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Ajay Mitchell",
