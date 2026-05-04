@@ -7559,6 +7559,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-05-04|Andre Drummond|PTS|2.5|OVER",
+      "suggested_date": "2026-05-04",
+      "player_name": "Andre Drummond",
+      "team": "PHI",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 2.05,
+      "under_price": 1.74,
+      "bet_description": "Andre Drummond OVER 2.5 Points",
+      "game": "Philadelphia 76ers @ New York Knicks",
+      "last_3_avg": 12.0,
+      "season_avg": 6.5,
+      "score": 1038.6,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-04|Andre Drummond|REB|2.5|OVER",
+      "suggested_date": "2026-05-04",
+      "player_name": "Andre Drummond",
+      "team": "PHI",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 1.58,
+      "under_price": 2.25,
+      "bet_description": "Andre Drummond OVER 2.5 Rebounds",
+      "game": "Philadelphia 76ers @ New York Knicks",
+      "last_3_avg": 12.7,
+      "season_avg": 8.5,
+      "score": 973.0,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
