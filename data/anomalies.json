@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T11:07:01.076031+11:00",
+  "generated_at": "2026-05-10T12:07:00.829680+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -96,68 +96,6 @@
       "bet_description": "Keldon Johnson OVER 8.5 Points"
     },
     {
-      "player_name": "LeBron James",
-      "team": "LAL",
-      "stat": "STL",
-      "stat_label": "Steals",
-      "direction": "hot",
-      "last_3": [
-        3,
-        4,
-        2
-      ],
-      "last_3_avg": 3.0,
-      "season_avg": 1.2,
-      "l10_avg": 1.4,
-      "pct_diff_season": 150.0,
-      "pct_diff_l10": 114.3,
-      "comparison": "season",
-      "games_played": 63,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 2.75,
-        "under_price": 1.4,
-        "market_type": "over_under"
-      },
-      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-      "pct_vs_line": 100.0,
-      "score": 330.1,
-      "bet_action": "OVER",
-      "bet_description": "LeBron James OVER 1.5 Steals"
-    },
-    {
-      "player_name": "Chet Holmgren",
-      "team": "OKC",
-      "stat": "BLK",
-      "stat_label": "Blocks",
-      "direction": "hot",
-      "last_3": [
-        4,
-        2,
-        4
-      ],
-      "last_3_avg": 3.3,
-      "season_avg": 1.8,
-      "l10_avg": 2.1,
-      "pct_diff_season": 83.3,
-      "pct_diff_l10": 57.1,
-      "comparison": "season",
-      "games_played": 72,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.74,
-        "under_price": 2.05,
-        "market_type": "over_under"
-      },
-      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-      "pct_vs_line": 120.0,
-      "score": 305.8,
-      "bet_action": "OVER",
-      "bet_description": "Chet Holmgren OVER 1.5 Blocks"
-    },
-    {
       "player_name": "De'Aaron Fox",
       "team": "SA",
       "stat": "FG3M",
@@ -187,6 +125,37 @@
       "score": 283.5,
       "bet_action": "OVER",
       "bet_description": "De'Aaron Fox OVER 1.5 Threes"
+    },
+    {
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "cold",
+      "last_3": [
+        1,
+        0,
+        0
+      ],
+      "last_3_avg": 0.3,
+      "season_avg": 1.6,
+      "l10_avg": 1.5,
+      "pct_diff_season": -81.2,
+      "pct_diff_l10": -80.0,
+      "comparison": "season",
+      "games_played": 62,
+      "betting_line": {
+        "line": 2.5,
+        "over_price": 2.35,
+        "under_price": 1.53,
+        "market_type": "over_under"
+      },
+      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
+      "pct_vs_line": -88.0,
+      "score": 267.2,
+      "bet_action": "UNDER",
+      "bet_description": "Marcus Smart UNDER 2.5 Threes"
     },
     {
       "player_name": "Ausar Thompson",
@@ -251,37 +220,6 @@
       "bet_description": "Keldon Johnson OVER 3.5 Rebounds"
     },
     {
-      "player_name": "Marcus Smart",
-      "team": "LAL",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "cold",
-      "last_3": [
-        1,
-        0,
-        0
-      ],
-      "last_3_avg": 0.3,
-      "season_avg": 1.6,
-      "l10_avg": 1.5,
-      "pct_diff_season": -81.2,
-      "pct_diff_l10": -80.0,
-      "comparison": "season",
-      "games_played": 62,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.52,
-        "under_price": 2.4,
-        "market_type": "over_under"
-      },
-      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-      "pct_vs_line": -80.0,
-      "score": 251.2,
-      "bet_action": "UNDER",
-      "bet_description": "Marcus Smart UNDER 1.5 Threes"
-    },
-    {
       "player_name": "Daniss Jenkins",
       "team": "DET",
       "stat": "FG3M",
@@ -311,14 +249,76 @@
       "score": 240.0,
       "bet_action": "UNDER",
       "bet_description": "Daniss Jenkins UNDER 1.5 Threes"
+    },
+    {
+      "player_name": "Anthony Edwards",
+      "team": "MIN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "cold",
+      "last_3": [
+        2,
+        2,
+        2
+      ],
+      "last_3_avg": 2.0,
+      "season_avg": 4.9,
+      "l10_avg": 3.7,
+      "pct_diff_season": -59.2,
+      "pct_diff_l10": -45.9,
+      "comparison": "season",
+      "games_played": 64,
+      "betting_line": {
+        "line": 5.5,
+        "over_price": 1.74,
+        "under_price": 2.05,
+        "market_type": "over_under"
+      },
+      "game": "San Antonio Spurs @ Minnesota Timberwolves",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-minnesota-timberwolves-10455379",
+      "pct_vs_line": -63.6,
+      "score": 232.6,
+      "bet_action": "UNDER",
+      "bet_description": "Anthony Edwards UNDER 5.5 Rebounds"
+    },
+    {
+      "player_name": "VJ Edgecombe",
+      "team": "PHI",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "hot",
+      "last_3": [
+        11,
+        7,
+        9
+      ],
+      "last_3_avg": 9.0,
+      "season_avg": 5.7,
+      "l10_avg": 5.8,
+      "pct_diff_season": 57.9,
+      "pct_diff_l10": 55.2,
+      "comparison": "season",
+      "games_played": 76,
+      "betting_line": {
+        "line": 5.5,
+        "over_price": 2.1,
+        "under_price": 1.68,
+        "market_type": "over_under"
+      },
+      "game": "New York Knicks @ Philadelphia 76ers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/new-york-knicks-at-philadelphia-76ers-10455374",
+      "pct_vs_line": 63.6,
+      "score": 225.2,
+      "bet_action": "OVER",
+      "bet_description": "VJ Edgecombe OVER 5.5 Rebounds"
     }
   ],
   "tracking": {
-    "total_bets": 440,
+    "total_bets": 443,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 22,
+    "pending": 25,
     "no_game": 310,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -518,37 +518,6 @@
         "bet_description": "Terrence Shannon Jr. OVER 7.5 Points"
       },
       {
-        "player_name": "LeBron James",
-        "team": "LAL",
-        "stat": "STL",
-        "stat_label": "Steals",
-        "direction": "hot",
-        "last_3": [
-          3,
-          4,
-          2
-        ],
-        "last_3_avg": 3.0,
-        "season_avg": 1.2,
-        "l10_avg": 1.4,
-        "pct_diff_season": 150.0,
-        "pct_diff_l10": 114.3,
-        "comparison": "season",
-        "games_played": 63,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.75,
-          "under_price": 1.4,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": 100.0,
-        "score": 330.1,
-        "bet_action": "OVER",
-        "bet_description": "LeBron James OVER 1.5 Steals"
-      },
-      {
         "player_name": "De'Aaron Fox",
         "team": "SA",
         "stat": "FG3M",
@@ -642,37 +611,6 @@
         "bet_description": "Tyrese Maxey OVER 1.5 Steals"
       },
       {
-        "player_name": "Chet Holmgren",
-        "team": "OKC",
-        "stat": "BLK",
-        "stat_label": "Blocks",
-        "direction": "hot",
-        "last_3": [
-          4,
-          2,
-          4
-        ],
-        "last_3_avg": 3.3,
-        "season_avg": 1.8,
-        "l10_avg": 2.1,
-        "pct_diff_season": 83.3,
-        "pct_diff_l10": 57.1,
-        "comparison": "season",
-        "games_played": 72,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.74,
-          "under_price": 2.05,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": 120.0,
-        "score": 305.8,
-        "bet_action": "OVER",
-        "bet_description": "Chet Holmgren OVER 1.5 Blocks"
-      },
-      {
         "player_name": "Karl-Anthony Towns",
         "team": "NY",
         "stat": "AST",
@@ -722,17 +660,17 @@
         "comparison": "l10",
         "games_played": 68,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "line": 4.5,
+          "over_price": 2.03,
+          "under_price": 1.71,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -8.0,
-        "score": 70.2,
+        "pct_vs_line": -48.9,
+        "score": 152.0,
         "bet_action": "OVER",
-        "bet_description": "Rui Hachimura OVER 2.5 Threes"
+        "bet_description": "Rui Hachimura OVER 4.5 Threes"
       },
       {
         "player_name": "VJ Edgecombe",
@@ -826,45 +764,6 @@
         "score": 164.2,
         "bet_action": "OVER",
         "bet_description": "Donovan Mitchell OVER 4.5 Rebounds"
-      },
-      {
-        "player_name": "Ajay Mitchell",
-        "team": "OKC",
-        "stat": "STL",
-        "stat_label": "Steals",
-        "direction": "hot",
-        "last_3": [
-          1,
-          1,
-          1
-        ],
-        "last_3_avg": 1.0,
-        "season_avg": 1.2,
-        "l10_avg": 0.7,
-        "pct_diff_season": -16.7,
-        "pct_diff_l10": 42.9,
-        "comparison": "l10",
-        "games_played": 57,
-        "betting_line": {
-          "thresholds": {
-            "1": {
-              "price": 1.37
-            },
-            "3": {
-              "price": 7.25
-            },
-            "2": {
-              "price": 2.85
-            }
-          },
-          "market_type": "threshold"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": null,
-        "score": 37.5,
-        "bet_action": "OVER",
-        "bet_description": "Ajay Mitchell Steals trending HOT"
       },
       {
         "player_name": "Keldon Johnson",
@@ -1009,17 +908,17 @@
         "comparison": "season",
         "games_played": 68,
         "betting_line": {
-          "line": 13.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "line": 18.5,
+          "over_price": 1.97,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": 16.3,
-        "score": 102.6,
+        "pct_vs_line": -15.1,
+        "score": 99.8,
         "bet_action": "OVER",
-        "bet_description": "Rui Hachimura OVER 13.5 Points"
+        "bet_description": "Rui Hachimura OVER 18.5 Points"
       },
       {
         "player_name": "Shai Gilgeous-Alexander",
@@ -1041,8 +940,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "over_price": 2.07,
+          "under_price": 1.65,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -1051,37 +950,6 @@
         "score": 130.5,
         "bet_action": "OVER",
         "bet_description": "Shai Gilgeous-Alexander OVER 6.5 Assists"
-      },
-      {
-        "player_name": "Shai Gilgeous-Alexander",
-        "team": "OKC",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "hot",
-        "last_3": [
-          2,
-          2,
-          2
-        ],
-        "last_3_avg": 2.0,
-        "season_avg": 1.7,
-        "l10_avg": 1.5,
-        "pct_diff_season": 17.6,
-        "pct_diff_l10": 33.3,
-        "comparison": "l10",
-        "games_played": 68,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": 33.3,
-        "score": 109.3,
-        "bet_action": "OVER",
-        "bet_description": "Shai Gilgeous-Alexander OVER 1.5 Threes"
       },
       {
         "player_name": "Jaden McDaniels",
@@ -1103,8 +971,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 16.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -1228,17 +1096,17 @@
         "comparison": "season",
         "games_played": 62,
         "betting_line": {
-          "line": 1.5,
-          "over_price": 1.52,
-          "under_price": 2.4,
+          "line": 2.5,
+          "over_price": 2.35,
+          "under_price": 1.53,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -80.0,
-        "score": 251.2,
+        "pct_vs_line": -88.0,
+        "score": 267.2,
         "bet_action": "UNDER",
-        "bet_description": "Marcus Smart UNDER 1.5 Threes"
+        "bet_description": "Marcus Smart UNDER 2.5 Threes"
       },
       {
         "player_name": "Daniss Jenkins",
@@ -1301,37 +1169,6 @@
         "score": 187.5,
         "bet_action": "UNDER",
         "bet_description": "Julian Champagnie UNDER 1.5 Threes"
-      },
-      {
-        "player_name": "Luke Kennard",
-        "team": "LAL",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          0,
-          1,
-          2
-        ],
-        "last_3_avg": 1.0,
-        "season_avg": 2.3,
-        "l10_avg": 3.4,
-        "pct_diff_season": -56.5,
-        "pct_diff_l10": -70.6,
-        "comparison": "l10",
-        "games_played": 78,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -60.0,
-        "score": 205.2,
-        "bet_action": "UNDER",
-        "bet_description": "Luke Kennard UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Cade Cunningham",
@@ -1631,17 +1468,17 @@
         "comparison": "season",
         "games_played": 62,
         "betting_line": {
-          "line": 11.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "line": 10.5,
+          "over_price": 1.79,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -62.6,
-        "score": 230.7,
+        "pct_vs_line": -59.0,
+        "score": 222.1,
         "bet_action": "UNDER",
-        "bet_description": "Marcus Smart UNDER 11.5 Points"
+        "bet_description": "Marcus Smart UNDER 10.5 Points"
       },
       {
         "player_name": "Shai Gilgeous-Alexander",
@@ -1662,17 +1499,17 @@
         "comparison": "season",
         "games_played": 68,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "line": 5.5,
+          "over_price": 1.7,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -55.6,
-        "score": 192.1,
+        "pct_vs_line": -63.6,
+        "score": 209.8,
         "bet_action": "UNDER",
-        "bet_description": "Shai Gilgeous-Alexander UNDER 4.5 Rebounds"
+        "bet_description": "Shai Gilgeous-Alexander UNDER 5.5 Rebounds"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -1799,37 +1636,6 @@
         "bet_description": "Cade Cunningham UNDER 1.5 Steals"
       },
       {
-        "player_name": "Jaylin Williams",
-        "team": "OKC",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          5,
-          0,
-          6
-        ],
-        "last_3_avg": 3.7,
-        "season_avg": 7.2,
-        "l10_avg": 5.8,
-        "pct_diff_season": -48.6,
-        "pct_diff_l10": -36.2,
-        "comparison": "season",
-        "games_played": 65,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.78,
-          "under_price": 2,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": 5.7,
-        "score": 84.0,
-        "bet_action": "UNDER",
-        "bet_description": "Jaylin Williams UNDER 3.5 Points"
-      },
-      {
         "player_name": "Anthony Edwards",
         "team": "MIN",
         "stat": "FG3M",
@@ -1879,17 +1685,17 @@
         "comparison": "season",
         "games_played": 57,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 2.5,
+          "over_price": 1.8,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -51.4,
-        "score": 177.5,
+        "pct_vs_line": -32.0,
+        "score": 134.8,
         "bet_action": "UNDER",
-        "bet_description": "Ajay Mitchell UNDER 3.5 Rebounds"
+        "bet_description": "Ajay Mitchell UNDER 2.5 Rebounds"
       },
       {
         "player_name": "Jaxson Hayes",
@@ -1911,8 +1717,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.85,
+          "under_price": 1.82,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -1942,8 +1748,8 @@
         "games_played": 47,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 2.3,
+          "under_price": 1.53,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -1973,8 +1779,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.73,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -2065,17 +1871,17 @@
         "comparison": "season",
         "games_played": 51,
         "betting_line": {
-          "line": 2.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "line": 1.5,
+          "over_price": 1.94,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -48.0,
-        "score": 149.5,
+        "pct_vs_line": -13.3,
+        "score": 80.2,
         "bet_action": "UNDER",
-        "bet_description": "Austin Reaves UNDER 2.5 Threes"
+        "bet_description": "Austin Reaves UNDER 1.5 Threes"
       },
       {
         "player_name": "Ajay Mitchell",
@@ -2096,17 +1902,17 @@
         "comparison": "season",
         "games_played": 57,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "line": 12.5,
+          "over_price": 1.9,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -53.3,
-        "score": 205.6,
+        "pct_vs_line": -38.4,
+        "score": 169.8,
         "bet_action": "UNDER",
-        "bet_description": "Ajay Mitchell UNDER 16.5 Points"
+        "bet_description": "Ajay Mitchell UNDER 12.5 Points"
       },
       {
         "player_name": "Victor Wembanyama",
@@ -2264,37 +2070,6 @@
         "bet_description": "Dean Wade UNDER 3.5 Rebounds"
       },
       {
-        "player_name": "Ajay Mitchell",
-        "team": "OKC",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          0,
-          1,
-          1
-        ],
-        "last_3_avg": 0.7,
-        "season_avg": 1.1,
-        "l10_avg": 0.9,
-        "pct_diff_season": -36.4,
-        "pct_diff_l10": -22.2,
-        "comparison": "season",
-        "games_played": 57,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -53.3,
-        "score": 153.1,
-        "bet_action": "UNDER",
-        "bet_description": "Ajay Mitchell UNDER 1.5 Threes"
-      },
-      {
         "player_name": "Daniss Jenkins",
         "team": "DET",
         "stat": "AST",
@@ -2376,8 +2151,8 @@
         "games_played": 47,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.78,
+          "under_price": 1.9,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -2437,17 +2212,17 @@
         "comparison": "season",
         "games_played": 55,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "line": 5.5,
+          "over_price": 1.87,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -33.8,
-        "score": 135.1,
+        "pct_vs_line": -21.8,
+        "score": 106.2,
         "bet_action": "UNDER",
-        "bet_description": "Alex Caruso UNDER 6.5 Points"
+        "bet_description": "Alex Caruso UNDER 5.5 Points"
       },
       {
         "player_name": "Max Strus",
@@ -2499,17 +2274,17 @@
         "comparison": "season",
         "games_played": 69,
         "betting_line": {
-          "line": 6.5,
+          "line": 5.5,
           "over_price": 1.9,
-          "under_price": 1.86,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -12.3,
-        "score": 94.1,
+        "pct_vs_line": 3.6,
+        "score": 73.3,
         "bet_action": "UNDER",
-        "bet_description": "Luguentz Dort UNDER 6.5 Points"
+        "bet_description": "Luguentz Dort UNDER 5.5 Points"
       },
       {
         "player_name": "Jalen Brunson",
@@ -2561,48 +2336,17 @@
         "comparison": "season",
         "games_played": 68,
         "betting_line": {
-          "line": 29.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "line": 25.5,
+          "over_price": 1.93,
+          "under_price": 1.75,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -26.4,
-        "score": 125.7,
+        "pct_vs_line": -14.9,
+        "score": 98.0,
         "bet_action": "UNDER",
-        "bet_description": "Shai Gilgeous-Alexander UNDER 29.5 Points"
-      },
-      {
-        "player_name": "Jaylin Williams",
-        "team": "OKC",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          4,
-          5,
-          3
-        ],
-        "last_3_avg": 4.0,
-        "season_avg": 5.5,
-        "l10_avg": 5.6,
-        "pct_diff_season": -27.3,
-        "pct_diff_l10": -28.6,
-        "comparison": "l10",
-        "games_played": 65,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 2.08,
-          "under_price": 1.72,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": 14.3,
-        "score": 82.2,
-        "bet_action": "UNDER",
-        "bet_description": "Jaylin Williams UNDER 3.5 Rebounds"
+        "bet_description": "Shai Gilgeous-Alexander UNDER 25.5 Points"
       },
       {
         "player_name": "Julius Randle",
@@ -2654,17 +2398,17 @@
         "comparison": "season",
         "games_played": 51,
         "betting_line": {
-          "line": 21.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "line": 17.5,
+          "over_price": 1.87,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": -17.7,
-        "score": 97.4,
+        "pct_vs_line": 1.1,
+        "score": 57.7,
         "bet_action": "UNDER",
-        "bet_description": "Austin Reaves UNDER 21.5 Points"
+        "bet_description": "Austin Reaves UNDER 17.5 Points"
       },
       {
         "player_name": "Ausar Thompson",
@@ -2696,37 +2440,6 @@
         "score": 127.2,
         "bet_action": "UNDER",
         "bet_description": "Ausar Thompson UNDER 7.5 Rebounds"
-      },
-      {
-        "player_name": "Luguentz Dort",
-        "team": "OKC",
-        "stat": "FG3M",
-        "stat_label": "Threes",
-        "direction": "cold",
-        "last_3": [
-          2,
-          1,
-          2
-        ],
-        "last_3_avg": 1.7,
-        "season_avg": 1.9,
-        "l10_avg": 2.1,
-        "pct_diff_season": -10.5,
-        "pct_diff_l10": -19.0,
-        "comparison": "l10",
-        "games_played": 69,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
-          "market_type": "over_under"
-        },
-        "game": "Oklahoma City Thunder @ Los Angeles Lakers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-los-angeles-lakers-10449775",
-        "pct_vs_line": 13.3,
-        "score": 53.7,
-        "bet_action": "UNDER",
-        "bet_description": "Luguentz Dort UNDER 1.5 Threes"
       },
       {
         "player_name": "Jarrett Allen",
@@ -2768,7 +2481,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 16,
-    "players_with_sportsbet_markets": 55,
+    "players_with_sportsbet_markets": 52,
     "events_count": 4
   }
 }
