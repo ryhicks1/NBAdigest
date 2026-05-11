@@ -9279,6 +9279,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-05-12|Daniss Jenkins|FG3M|1.5|UNDER",
+      "suggested_date": "2026-05-12",
+      "player_name": "Daniss Jenkins",
+      "team": "DET",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "UNDER",
+      "line": 1.5,
+      "over_price": 2.45,
+      "under_price": 1.5,
+      "bet_description": "Daniss Jenkins UNDER 1.5 Threes",
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "last_3_avg": 0.3,
+      "season_avg": 1.0,
+      "score": 240.0,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
