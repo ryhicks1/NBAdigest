@@ -8376,9 +8376,9 @@
       "last_3_avg": 27.3,
       "season_avg": 6.0,
       "score": 828.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155081"
     },
     {
       "id": "2026-05-08|Mitchell Robinson|PTS|4.5|OVER",
@@ -8396,9 +8396,9 @@
       "last_3_avg": 10.7,
       "season_avg": 5.6,
       "score": 454.9,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155220"
     },
     {
       "id": "2026-05-08|Jalen Duren|AST|1.5|OVER",
@@ -8416,9 +8416,9 @@
       "last_3_avg": 3.7,
       "season_avg": 1.9,
       "score": 450.0,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155315"
     },
     {
       "id": "2026-05-08|Jaylon Tyson|PTS|7.5|OVER",
@@ -8436,9 +8436,9 @@
       "last_3_avg": 17.0,
       "season_avg": 13.2,
       "score": 365.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155409"
     },
     {
       "id": "2026-05-08|Keldon Johnson|PTS|8.5|OVER",
@@ -8456,9 +8456,9 @@
       "last_3_avg": 18.3,
       "season_avg": 13.1,
       "score": 351.9,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155511"
     },
     {
       "id": "2026-05-08|Mike Conley|FG3M|1.5|OVER",
@@ -8476,9 +8476,9 @@
       "last_3_avg": 2.7,
       "season_avg": 1.0,
       "score": 349.7,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155600"
     },
     {
       "id": "2026-05-08|De'Aaron Fox|FG3M|1.5|OVER",
@@ -8496,9 +8496,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.8,
       "score": 283.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155690"
     },
     {
       "id": "2026-05-08|Jarrett Allen|AST|1.5|UNDER",
@@ -8516,9 +8516,9 @@
       "last_3_avg": 0.3,
       "season_avg": 1.8,
       "score": 278.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155799"
     },
     {
       "id": "2026-05-08|Jaylon Tyson|REB|3.5|OVER",
@@ -8536,9 +8536,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.1,
       "score": 274.7,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155891"
     },
     {
       "id": "2026-05-08|Donovan Mitchell|REB|3.5|OVER",
@@ -8556,9 +8556,9 @@
       "last_3_avg": 6.3,
       "season_avg": 4.3,
       "score": 252.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.155996"
     },
     {
       "id": "2026-05-08|LeBron James|STL|1.5|OVER",
@@ -8576,9 +8576,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.2,
       "score": 330.1,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.156075"
     },
     {
       "id": "2026-05-08|Chet Holmgren|BLK|1.5|OVER",
@@ -8596,9 +8596,9 @@
       "last_3_avg": 3.3,
       "season_avg": 1.8,
       "score": 305.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-11T07:07:26.156164"
     },
     {
       "id": "2026-05-10|Terrence Shannon Jr.|PTS|7.5|OVER",
@@ -8856,6 +8856,206 @@
       "last_3_avg": 9.0,
       "season_avg": 5.7,
       "score": 225.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Jaylon Tyson|PTS|6.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 6.5,
+      "over_price": 1.88,
+      "under_price": 1.88,
+      "bet_description": "Jaylon Tyson OVER 6.5 Points",
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "last_3_avg": 17.0,
+      "season_avg": 13.2,
+      "score": 449.3,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Keldon Johnson|PTS|7.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Keldon Johnson",
+      "team": "SA",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "OVER",
+      "line": 7.5,
+      "over_price": 1.74,
+      "under_price": 2.05,
+      "bet_description": "Keldon Johnson OVER 7.5 Points",
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "last_3_avg": 18.3,
+      "season_avg": 13.1,
+      "score": 420.8,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|LeBron James|STL|1.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "LeBron James",
+      "team": "LAL",
+      "stat": "STL",
+      "stat_label": "Steals",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 2.75,
+      "under_price": 1.4,
+      "bet_description": "LeBron James OVER 1.5 Steals",
+      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+      "last_3_avg": 3.0,
+      "season_avg": 1.2,
+      "score": 330.1,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Chet Holmgren|BLK|1.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Chet Holmgren",
+      "team": "OKC",
+      "stat": "BLK",
+      "stat_label": "Blocks",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 1.74,
+      "under_price": 2.05,
+      "bet_description": "Chet Holmgren OVER 1.5 Blocks",
+      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+      "last_3_avg": 3.3,
+      "season_avg": 1.8,
+      "score": 305.8,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|De'Aaron Fox|FG3M|1.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "De'Aaron Fox",
+      "team": "SA",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "OVER",
+      "line": 1.5,
+      "over_price": 1.93,
+      "under_price": 1.8,
+      "bet_description": "De'Aaron Fox OVER 1.5 Threes",
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "last_3_avg": 3.0,
+      "season_avg": 1.8,
+      "score": 283.5,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Jaylon Tyson|REB|3.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Jaylon Tyson",
+      "team": "CLE",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 3.5,
+      "over_price": 2.25,
+      "under_price": 1.58,
+      "bet_description": "Jaylon Tyson OVER 3.5 Rebounds",
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "last_3_avg": 7.0,
+      "season_avg": 5.1,
+      "score": 274.7,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Ausar Thompson|AST|2.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Ausar Thompson",
+      "team": "DET",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "OVER",
+      "line": 2.5,
+      "over_price": 1.56,
+      "under_price": 2.3,
+      "bet_description": "Ausar Thompson OVER 2.5 Assists",
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "last_3_avg": 4.7,
+      "season_avg": 3.2,
+      "score": 266.0,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Keldon Johnson|REB|3.5|OVER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Keldon Johnson",
+      "team": "SA",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "OVER",
+      "line": 3.5,
+      "over_price": 2.08,
+      "under_price": 1.72,
+      "bet_description": "Keldon Johnson OVER 3.5 Rebounds",
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "last_3_avg": 6.7,
+      "season_avg": 5.3,
+      "score": 253.1,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Marcus Smart|FG3M|1.5|UNDER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Marcus Smart",
+      "team": "LAL",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "UNDER",
+      "line": 1.5,
+      "over_price": 1.52,
+      "under_price": 2.4,
+      "bet_description": "Marcus Smart UNDER 1.5 Threes",
+      "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+      "last_3_avg": 0.3,
+      "season_avg": 1.6,
+      "score": 251.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-11|Anthony Edwards|REB|6.5|UNDER",
+      "suggested_date": "2026-05-11",
+      "player_name": "Anthony Edwards",
+      "team": "MIN",
+      "stat": "REB",
+      "stat_label": "Rebounds",
+      "direction": "UNDER",
+      "line": 6.5,
+      "over_price": 2.15,
+      "under_price": 1.64,
+      "bet_description": "Anthony Edwards UNDER 6.5 Rebounds",
+      "game": "Minnesota Timberwolves @ San Antonio Spurs",
+      "last_3_avg": 2.0,
+      "season_avg": 4.9,
+      "score": 244.9,
       "status": "pending",
       "actual_value": null,
       "settled_at": null
