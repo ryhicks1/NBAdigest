@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T18:07:01.337319+11:00",
+  "generated_at": "2026-05-11T19:00:01.458610+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -629,8 +629,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "over_price": 2.08,
+          "under_price": 1.72,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -1063,8 +1063,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.78,
+          "under_price": 2,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1159,7 +1159,7 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 5.9
+              "price": 5.8
             },
             "2": {
               "price": 2.55
@@ -1197,9 +1197,6 @@
         "games_played": 47,
         "betting_line": {
           "thresholds": {
-            "3": {
-              "price": 8.75
-            },
             "2": {
               "price": 3.3
             },
@@ -2290,8 +2287,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 28.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -2321,7 +2318,7 @@
         "games_played": 65,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.15,
+          "over_price": 2.1,
           "under_price": 1.64,
           "market_type": "over_under"
         },
@@ -2383,8 +2380,8 @@
         "games_played": 51,
         "betting_line": {
           "line": 21.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
