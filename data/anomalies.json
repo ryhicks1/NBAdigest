@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T08:07:01.207914+11:00",
+  "generated_at": "2026-05-12T09:00:01.474626+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 5.5,
-        "over_price": 1.87,
-        "under_price": 1.89,
+        "over_price": 1.88,
+        "under_price": 1.88,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -53,8 +53,8 @@
       "games_played": 83,
       "betting_line": {
         "line": 7.5,
-        "over_price": 1.76,
-        "under_price": 2.02,
+        "over_price": 1.74,
+        "under_price": 2.05,
         "market_type": "over_under"
       },
       "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -177,8 +177,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 3.5,
-        "over_price": 2.25,
-        "under_price": 1.58,
+        "over_price": 2.3,
+        "under_price": 1.56,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -567,8 +567,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.25,
-          "under_price": 1.58,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -660,8 +660,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -691,8 +691,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -815,8 +815,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.76,
-          "under_price": 2.02,
+          "over_price": 1.74,
+          "under_price": 2.05,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -846,8 +846,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Minnesota Timberwolves @ San Antonio Spurs",
@@ -1063,8 +1063,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1197,11 +1197,8 @@
         "games_played": 47,
         "betting_line": {
           "thresholds": {
-            "3": {
-              "price": 8.75
-            },
             "2": {
-              "price": 3.3
+              "price": 3.35
             },
             "1": {
               "price": 1.49
@@ -1267,8 +1264,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.4,
-          "under_price": 1.52,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1360,8 +1357,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.02,
-          "under_price": 1.76,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1453,7 +1450,7 @@
         "games_played": 62,
         "betting_line": {
           "line": 11.5,
-          "over_price": 2.02,
+          "over_price": 2.05,
           "under_price": 1.76,
           "market_type": "over_under"
         },
@@ -1887,8 +1884,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.84,
-          "under_price": 1.92,
+          "over_price": 1.83,
+          "under_price": 1.93,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -1949,8 +1946,8 @@
         "games_played": 12,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -2042,8 +2039,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.64,
-          "under_price": 2.15,
+          "over_price": 1.6,
+          "under_price": 2.2,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -2135,7 +2132,7 @@
         "games_played": 68,
         "betting_line": {
           "line": 2.5,
-          "over_price": 1.93,
+          "over_price": 1.92,
           "under_price": 1.83,
           "market_type": "over_under"
         },
@@ -2383,8 +2380,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.8,
-          "under_price": 1.96,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
