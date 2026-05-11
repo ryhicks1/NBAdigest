@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T07:07:01.417148+11:00",
+  "generated_at": "2026-05-12T08:07:01.207914+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -22,8 +22,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 5.5,
-        "over_price": 1.86,
-        "under_price": 1.9,
+        "over_price": 1.87,
+        "under_price": 1.89,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -177,8 +177,8 @@
       "games_played": 66,
       "betting_line": {
         "line": 3.5,
-        "over_price": 2.3,
-        "under_price": 1.56,
+        "over_price": 2.25,
+        "under_price": 1.58,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -567,8 +567,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.3,
-          "under_price": 1.56,
+          "over_price": 2.25,
+          "under_price": 1.58,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -629,8 +629,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -660,8 +660,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.86,
-          "under_price": 1.9,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1001,8 +1001,8 @@
         "games_played": 68,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.15,
+          "under_price": 1.64,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -1063,8 +1063,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 18.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1165,7 +1165,7 @@
               "price": 2.55
             },
             "1": {
-              "price": 1.33
+              "price": 1.34
             }
           },
           "market_type": "threshold"
@@ -1197,8 +1197,11 @@
         "games_played": 47,
         "betting_line": {
           "thresholds": {
+            "3": {
+              "price": 8.75
+            },
             "2": {
-              "price": 3.25
+              "price": 3.3
             },
             "1": {
               "price": 1.49
@@ -1264,8 +1267,8 @@
         "games_played": 67,
         "betting_line": {
           "line": 2.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.4,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1296,7 +1299,7 @@
         "betting_line": {
           "line": 1.5,
           "over_price": 1.58,
-          "under_price": 2.2,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1357,8 +1360,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1367,37 +1370,6 @@
         "score": 156.0,
         "bet_action": "UNDER",
         "bet_description": "Daniss Jenkins UNDER 9.5 Points"
-      },
-      {
-        "player_name": "Tobias Harris",
-        "team": "DET",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          0,
-          3
-        ],
-        "last_3_avg": 1.3,
-        "season_avg": 2.5,
-        "l10_avg": 3.2,
-        "pct_diff_season": -48.0,
-        "pct_diff_l10": -59.4,
-        "comparison": "l10",
-        "games_played": 63,
-        "betting_line": {
-          "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10458939",
-        "pct_vs_line": -13.3,
-        "score": 93.1,
-        "bet_action": "UNDER",
-        "bet_description": "Tobias Harris UNDER 1.5 Assists"
       },
       {
         "player_name": "Anthony Edwards",
@@ -1760,8 +1732,8 @@
         "games_played": 66,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.1,
-          "under_price": 1.68,
+          "over_price": 2.3,
+          "under_price": 1.56,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -1915,8 +1887,8 @@
         "games_played": 57,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.83,
-          "under_price": 1.93,
+          "over_price": 1.84,
+          "under_price": 1.92,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -2101,8 +2073,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 1.85,
+          "under_price": 1.91,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -2442,8 +2414,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.88,
-          "under_price": 1.88,
+          "over_price": 1.87,
+          "under_price": 1.89,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ Los Angeles Lakers",
@@ -2473,8 +2445,8 @@
         "games_played": 56,
         "betting_line": {
           "line": 12.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
