@@ -9379,6 +9379,46 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-05-12|Daniss Jenkins|PTS|1.5|UNDER",
+      "suggested_date": "2026-05-12",
+      "player_name": "Daniss Jenkins",
+      "team": "DET",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "UNDER",
+      "line": 1.5,
+      "over_price": 1.68,
+      "under_price": 2.02,
+      "bet_description": "Daniss Jenkins UNDER 1.5 Points",
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "last_3_avg": 5.7,
+      "season_avg": 9.5,
+      "score": 732.0,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
+    },
+    {
+      "id": "2026-05-12|Tobias Harris|AST|5.5|UNDER",
+      "suggested_date": "2026-05-12",
+      "player_name": "Tobias Harris",
+      "team": "DET",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "UNDER",
+      "line": 5.5,
+      "over_price": 2.75,
+      "under_price": 1.37,
+      "bet_description": "Tobias Harris UNDER 5.5 Assists",
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "last_3_avg": 1.3,
+      "season_avg": 2.5,
+      "score": 231.8,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
