@@ -10319,6 +10319,26 @@
       "status": "pending",
       "actual_value": null,
       "settled_at": null
+    },
+    {
+      "id": "2026-05-16|Stephon Castle|AST|6.5|OVER",
+      "suggested_date": "2026-05-16",
+      "player_name": "Stephon Castle",
+      "team": "SA",
+      "stat": "AST",
+      "stat_label": "Assists",
+      "direction": "OVER",
+      "line": 6.5,
+      "over_price": 1.88,
+      "under_price": 1.88,
+      "bet_description": "Stephon Castle OVER 6.5 Assists",
+      "game": "San Antonio Spurs @ Minnesota Timberwolves",
+      "last_3_avg": 10.3,
+      "season_avg": 7.4,
+      "score": 193.2,
+      "status": "pending",
+      "actual_value": null,
+      "settled_at": null
     }
   ]
 }
