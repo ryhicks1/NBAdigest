@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T14:17:59.403510+11:00",
+  "generated_at": "2026-05-15T15:07:00.934069+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -271,7 +271,7 @@
       "betting_line": {
         "line": 26.5,
         "over_price": 1.8,
-        "under_price": 1.93,
+        "under_price": 1.96,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -720,17 +720,17 @@
         "comparison": "l10",
         "games_played": 76,
         "betting_line": {
-          "line": 16.5,
-          "over_price": 1.78,
-          "under_price": 2,
+          "line": 17.5,
+          "over_price": 1.92,
+          "under_price": 1.84,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-minnesota-timberwolves-10473409",
-        "pct_vs_line": 35.2,
-        "score": 138.8,
+        "pct_vs_line": 27.4,
+        "score": 120.3,
         "bet_action": "OVER",
-        "bet_description": "De'Aaron Fox OVER 16.5 Points"
+        "bet_description": "De'Aaron Fox OVER 17.5 Points"
       },
       {
         "player_name": "Stephon Castle",
@@ -1033,7 +1033,7 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.87,
+          "over_price": 1.88,
           "under_price": 1.88,
           "market_type": "over_under"
         },
@@ -1064,8 +1064,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 9.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1095,8 +1095,8 @@
         "games_played": 63,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.6,
-          "under_price": 2.2,
+          "over_price": 1.64,
+          "under_price": 2.15,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1251,7 +1251,7 @@
         "betting_line": {
           "line": 26.5,
           "over_price": 1.8,
-          "under_price": 1.93,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1714,17 +1714,17 @@
         "comparison": "l10",
         "games_played": 60,
         "betting_line": {
-          "line": 7.5,
-          "over_price": 2.05,
-          "under_price": 1.74,
+          "line": 6.5,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -16.0,
-        "score": 83.6,
+        "pct_vs_line": -3.1,
+        "score": 52.6,
         "bet_action": "UNDER",
-        "bet_description": "Caris LeVert UNDER 7.5 Points"
+        "bet_description": "Caris LeVert UNDER 6.5 Points"
       }
     ]
   },
