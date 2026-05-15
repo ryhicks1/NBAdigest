@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:07:00.603560+11:00",
+  "generated_at": "2026-05-16T00:07:00.927092+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -239,8 +239,8 @@
       "games_played": 64,
       "betting_line": {
         "line": 5.5,
-        "over_price": 1.68,
-        "under_price": 2.1,
+        "over_price": 1.72,
+        "under_price": 2.08,
         "market_type": "over_under"
       },
       "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -314,11 +314,11 @@
     }
   ],
   "tracking": {
-    "total_bets": 506,
+    "total_bets": 516,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 30,
+    "pending": 40,
     "no_game": 368,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -721,8 +721,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 17.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -1033,8 +1033,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 1.87,
-          "under_price": 1.89,
+          "over_price": 1.88,
+          "under_price": 1.88,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -1126,8 +1126,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 5.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "over_price": 1.72,
+          "under_price": 2.08,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -1529,7 +1529,7 @@
         "games_played": 70,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.9,
+          "over_price": 1.91,
           "under_price": 1.85,
           "market_type": "over_under"
         },
