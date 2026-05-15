@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T01:07:01.418688+11:00",
+  "generated_at": "2026-05-16T02:07:01.313536+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -845,8 +845,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.93,
-          "under_price": 1.83,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1529,8 +1529,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 6.5,
-          "over_price": 1.91,
-          "under_price": 1.85,
+          "over_price": 1.9,
+          "under_price": 1.86,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -1622,8 +1622,8 @@
         "games_played": 79,
         "betting_line": {
           "line": 3.5,
-          "over_price": 1.72,
-          "under_price": 2.08,
+          "over_price": 1.8,
+          "under_price": 1.96,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
