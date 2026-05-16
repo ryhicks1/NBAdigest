@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-05-16T11:07:01.296093+11:00",
+  "generated_at": "2026-05-16T12:07:00.550389+11:00",
   "season": "2025-26",
   "featured_bets": [
+    {
+      "player_name": "Terrence Shannon Jr.",
+      "team": "MIN",
+      "stat": "PTS",
+      "stat_label": "Points",
+      "direction": "hot",
+      "last_3": [
+        26,
+        23,
+        33
+      ],
+      "last_3_avg": 27.3,
+      "season_avg": 6.0,
+      "l10_avg": 10.6,
+      "pct_diff_season": 355.0,
+      "pct_diff_l10": 157.5,
+      "comparison": "season",
+      "games_played": 40,
+      "betting_line": {
+        "line": 6.5,
+        "over_price": 2,
+        "under_price": 1.78,
+        "market_type": "over_under"
+      },
+      "game": "San Antonio Spurs @ Minnesota Timberwolves",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-minnesota-timberwolves-10473409",
+      "pct_vs_line": 320.0,
+      "score": 1212.5,
+      "bet_action": "OVER",
+      "bet_description": "Terrence Shannon Jr. OVER 6.5 Points"
+    },
     {
       "player_name": "Keldon Johnson",
       "team": "SA",
@@ -96,37 +127,6 @@
       "bet_description": "Keldon Johnson OVER 3.5 Rebounds"
     },
     {
-      "player_name": "Donovan Mitchell",
-      "team": "CLE",
-      "stat": "REB",
-      "stat_label": "Rebounds",
-      "direction": "hot",
-      "last_3": [
-        7,
-        6,
-        6
-      ],
-      "last_3_avg": 6.3,
-      "season_avg": 4.3,
-      "l10_avg": 5.1,
-      "pct_diff_season": 46.5,
-      "pct_diff_l10": 23.5,
-      "comparison": "season",
-      "games_played": 73,
-      "betting_line": {
-        "line": 3.5,
-        "over_price": 1.59,
-        "under_price": 2.17,
-        "market_type": "over_under"
-      },
-      "game": "Detroit Pistons @ Cleveland Cavaliers",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-      "pct_vs_line": 80.0,
-      "score": 252.2,
-      "bet_action": "OVER",
-      "bet_description": "Donovan Mitchell OVER 3.5 Rebounds"
-    },
-    {
       "player_name": "Cade Cunningham",
       "team": "DET",
       "stat": "FG3M",
@@ -145,17 +145,48 @@
       "comparison": "l10",
       "games_played": 67,
       "betting_line": {
-        "line": 3.5,
-        "over_price": 2.47,
-        "under_price": 1.5,
+        "line": 5.5,
+        "over_price": 2.42,
+        "under_price": 1.52,
+        "market_type": "over_under"
+      },
+      "game": "Detroit Pistons @ Cleveland Cavaliers",
+      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
+      "pct_vs_line": -87.3,
+      "score": 247.7,
+      "bet_action": "UNDER",
+      "bet_description": "Cade Cunningham UNDER 5.5 Threes"
+    },
+    {
+      "player_name": "Daniss Jenkins",
+      "team": "DET",
+      "stat": "FG3M",
+      "stat_label": "Threes",
+      "direction": "cold",
+      "last_3": [
+        0,
+        0,
+        1
+      ],
+      "last_3_avg": 0.3,
+      "season_avg": 1.0,
+      "l10_avg": 1.5,
+      "pct_diff_season": -70.0,
+      "pct_diff_l10": -80.0,
+      "comparison": "l10",
+      "games_played": 71,
+      "betting_line": {
+        "line": 1.5,
+        "over_price": 3.4,
+        "under_price": 1.27,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Cleveland Cavaliers",
       "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
       "pct_vs_line": -80.0,
-      "score": 233.2,
+      "score": 240.0,
       "bet_action": "UNDER",
-      "bet_description": "Cade Cunningham UNDER 3.5 Threes"
+      "bet_description": "Daniss Jenkins UNDER 1.5 Threes"
     },
     {
       "player_name": "Anthony Edwards",
@@ -207,17 +238,17 @@
       "comparison": "season",
       "games_played": 67,
       "betting_line": {
-        "line": 27.5,
-        "over_price": 1.78,
-        "under_price": 1.9,
+        "line": 25.5,
+        "over_price": 1.95,
+        "under_price": 1.73,
         "market_type": "over_under"
       },
       "game": "Detroit Pistons @ Cleveland Cavaliers",
       "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-      "pct_vs_line": -58.9,
-      "score": 222.9,
+      "pct_vs_line": -55.7,
+      "score": 215.1,
       "bet_action": "UNDER",
-      "bet_description": "Cade Cunningham UNDER 27.5 Points"
+      "bet_description": "Cade Cunningham UNDER 25.5 Points"
     },
     {
       "player_name": "Stephon Castle",
@@ -239,8 +270,8 @@
       "games_played": 69,
       "betting_line": {
         "line": 6.5,
-        "over_price": 2,
-        "under_price": 1.78,
+        "over_price": 1.96,
+        "under_price": 1.8,
         "market_type": "over_under"
       },
       "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -280,45 +311,14 @@
       "score": 187.5,
       "bet_action": "UNDER",
       "bet_description": "Julian Champagnie UNDER 1.5 Threes"
-    },
-    {
-      "player_name": "Ayo Dosunmu",
-      "team": "MIN",
-      "stat": "FG3M",
-      "stat_label": "Threes",
-      "direction": "cold",
-      "last_3": [
-        1,
-        1,
-        0
-      ],
-      "last_3_avg": 0.7,
-      "season_avg": 1.8,
-      "l10_avg": 1.8,
-      "pct_diff_season": -61.1,
-      "pct_diff_l10": -61.1,
-      "comparison": "season",
-      "games_played": 69,
-      "betting_line": {
-        "line": 1.5,
-        "over_price": 1.86,
-        "under_price": 1.9,
-        "market_type": "over_under"
-      },
-      "game": "San Antonio Spurs @ Minnesota Timberwolves",
-      "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-minnesota-timberwolves-10473409",
-      "pct_vs_line": -53.3,
-      "score": 177.8,
-      "bet_action": "UNDER",
-      "bet_description": "Ayo Dosunmu UNDER 1.5 Threes"
     }
   ],
   "tracking": {
-    "total_bets": 522,
+    "total_bets": 524,
     "settled": 108,
     "wins": 60,
     "losses": 48,
-    "pending": 36,
+    "pending": 38,
     "no_game": 378,
     "win_rate": 55.6,
     "recent_win_rate": 60.0,
@@ -485,6 +485,37 @@
   "player_anomalies": {
     "hot": [
       {
+        "player_name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "stat": "PTS",
+        "stat_label": "Points",
+        "direction": "hot",
+        "last_3": [
+          26,
+          23,
+          33
+        ],
+        "last_3_avg": 27.3,
+        "season_avg": 6.0,
+        "l10_avg": 10.6,
+        "pct_diff_season": 355.0,
+        "pct_diff_l10": 157.5,
+        "comparison": "season",
+        "games_played": 40,
+        "betting_line": {
+          "line": 6.5,
+          "over_price": 2,
+          "under_price": 1.78,
+          "market_type": "over_under"
+        },
+        "game": "San Antonio Spurs @ Minnesota Timberwolves",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-minnesota-timberwolves-10473409",
+        "pct_vs_line": 320.0,
+        "score": 1212.5,
+        "bet_action": "OVER",
+        "bet_description": "Terrence Shannon Jr. OVER 6.5 Points"
+      },
+      {
         "player_name": "De'Aaron Fox",
         "team": "SA",
         "stat": "FG3M",
@@ -516,37 +547,6 @@
         "bet_description": "De'Aaron Fox OVER 1.5 Threes"
       },
       {
-        "player_name": "Ausar Thompson",
-        "team": "DET",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "hot",
-        "last_3": [
-          4,
-          6,
-          4
-        ],
-        "last_3_avg": 4.7,
-        "season_avg": 3.2,
-        "l10_avg": 4.1,
-        "pct_diff_season": 46.9,
-        "pct_diff_l10": 14.6,
-        "comparison": "season",
-        "games_played": 72,
-        "betting_line": {
-          "line": 3.5,
-          "over_price": 1.84,
-          "under_price": 1.83,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": 34.3,
-        "score": 147.8,
-        "bet_action": "OVER",
-        "bet_description": "Ausar Thompson OVER 3.5 Assists"
-      },
-      {
         "player_name": "Donovan Mitchell",
         "team": "CLE",
         "stat": "REB",
@@ -565,17 +565,17 @@
         "comparison": "season",
         "games_played": 73,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 1.59,
-          "under_price": 2.17,
+          "line": 4.5,
+          "over_price": 2.75,
+          "under_price": 1.38,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": 80.0,
-        "score": 252.2,
+        "pct_vs_line": 40.0,
+        "score": 164.2,
         "bet_action": "OVER",
-        "bet_description": "Donovan Mitchell OVER 3.5 Rebounds"
+        "bet_description": "Donovan Mitchell OVER 4.5 Rebounds"
       },
       {
         "player_name": "Keldon Johnson",
@@ -659,8 +659,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 6.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 1.96,
+          "under_price": 1.8,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -721,8 +721,8 @@
         "games_played": 73,
         "betting_line": {
           "line": 16.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2.05,
+          "under_price": 1.74,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -752,8 +752,8 @@
         "games_played": 70,
         "betting_line": {
           "line": 19.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
+          "over_price": 1.96,
+          "under_price": 1.73,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -765,6 +765,37 @@
       }
     ],
     "cold": [
+      {
+        "player_name": "Daniss Jenkins",
+        "team": "DET",
+        "stat": "FG3M",
+        "stat_label": "Threes",
+        "direction": "cold",
+        "last_3": [
+          0,
+          0,
+          1
+        ],
+        "last_3_avg": 0.3,
+        "season_avg": 1.0,
+        "l10_avg": 1.5,
+        "pct_diff_season": -70.0,
+        "pct_diff_l10": -80.0,
+        "comparison": "l10",
+        "games_played": 71,
+        "betting_line": {
+          "line": 1.5,
+          "over_price": 3.4,
+          "under_price": 1.27,
+          "market_type": "over_under"
+        },
+        "game": "Detroit Pistons @ Cleveland Cavaliers",
+        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
+        "pct_vs_line": -80.0,
+        "score": 240.0,
+        "bet_action": "UNDER",
+        "bet_description": "Daniss Jenkins UNDER 1.5 Threes"
+      },
       {
         "player_name": "Julian Champagnie",
         "team": "SA",
@@ -815,17 +846,17 @@
         "comparison": "l10",
         "games_played": 67,
         "betting_line": {
-          "line": 3.5,
-          "over_price": 2.47,
-          "under_price": 1.5,
+          "line": 5.5,
+          "over_price": 2.42,
+          "under_price": 1.52,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -80.0,
-        "score": 233.2,
+        "pct_vs_line": -87.3,
+        "score": 247.7,
         "bet_action": "UNDER",
-        "bet_description": "Cade Cunningham UNDER 3.5 Threes"
+        "bet_description": "Cade Cunningham UNDER 5.5 Threes"
       },
       {
         "player_name": "Max Strus",
@@ -846,17 +877,17 @@
         "comparison": "season",
         "games_played": 12,
         "betting_line": {
-          "line": 1.5,
-          "over_price": 2.12,
-          "under_price": 1.64,
+          "line": 2.5,
+          "over_price": 2.15,
+          "under_price": 1.63,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -33.3,
-        "score": 131.0,
+        "pct_vs_line": -60.0,
+        "score": 184.3,
         "bet_action": "UNDER",
-        "bet_description": "Max Strus UNDER 1.5 Threes"
+        "bet_description": "Max Strus UNDER 2.5 Threes"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -909,8 +940,8 @@
         "games_played": 71,
         "betting_line": {
           "line": 8.5,
-          "over_price": 1.87,
-          "under_price": 1.8,
+          "over_price": 1.63,
+          "under_price": 2.1,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -919,37 +950,6 @@
         "score": 139.1,
         "bet_action": "UNDER",
         "bet_description": "Daniss Jenkins UNDER 8.5 Points"
-      },
-      {
-        "player_name": "Tobias Harris",
-        "team": "DET",
-        "stat": "AST",
-        "stat_label": "Assists",
-        "direction": "cold",
-        "last_3": [
-          1,
-          0,
-          3
-        ],
-        "last_3_avg": 1.3,
-        "season_avg": 2.5,
-        "l10_avg": 3.2,
-        "pct_diff_season": -48.0,
-        "pct_diff_l10": -59.4,
-        "comparison": "l10",
-        "games_played": 63,
-        "betting_line": {
-          "line": 2.5,
-          "over_price": 2.62,
-          "under_price": 1.41,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -48.0,
-        "score": 169.4,
-        "bet_action": "UNDER",
-        "bet_description": "Tobias Harris UNDER 2.5 Assists"
       },
       {
         "player_name": "Anthony Edwards",
@@ -1001,17 +1001,17 @@
         "comparison": "l10",
         "games_played": 69,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 2.15,
-          "under_price": 1.64,
+          "line": 3.5,
+          "over_price": 1.58,
+          "under_price": 2.25,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/san-antonio-spurs-at-minnesota-timberwolves-10473409",
-        "pct_vs_line": -33.3,
-        "score": 97.3,
+        "pct_vs_line": -14.3,
+        "score": 55.4,
         "bet_action": "UNDER",
-        "bet_description": "Ayo Dosunmu UNDER 4.5 Rebounds"
+        "bet_description": "Ayo Dosunmu UNDER 3.5 Rebounds"
       },
       {
         "player_name": "Ayo Dosunmu",
@@ -1094,17 +1094,17 @@
         "comparison": "season",
         "games_played": 67,
         "betting_line": {
-          "line": 27.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
+          "line": 25.5,
+          "over_price": 1.95,
+          "under_price": 1.73,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -58.9,
-        "score": 222.9,
+        "pct_vs_line": -55.7,
+        "score": 215.1,
         "bet_action": "UNDER",
-        "bet_description": "Cade Cunningham UNDER 27.5 Points"
+        "bet_description": "Cade Cunningham UNDER 25.5 Points"
       },
       {
         "player_name": "Anthony Edwards",
@@ -1157,8 +1157,8 @@
         "games_played": 64,
         "betting_line": {
           "line": 26.5,
-          "over_price": 1.92,
-          "under_price": 1.84,
+          "over_price": 1.89,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "San Antonio Spurs @ Minnesota Timberwolves",
@@ -1249,48 +1249,48 @@
         "comparison": "season",
         "games_played": 12,
         "betting_line": {
-          "line": 6.5,
-          "over_price": 2.01,
-          "under_price": 1.69,
+          "line": 8.5,
+          "over_price": 1.91,
+          "under_price": 1.77,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": 3.1,
-        "score": 55.6,
+        "pct_vs_line": -21.2,
+        "score": 99.1,
         "bet_action": "UNDER",
-        "bet_description": "Max Strus UNDER 6.5 Points"
+        "bet_description": "Max Strus UNDER 8.5 Points"
       },
       {
-        "player_name": "Dean Wade",
-        "team": "CLE",
-        "stat": "REB",
-        "stat_label": "Rebounds",
+        "player_name": "Daniss Jenkins",
+        "team": "DET",
+        "stat": "AST",
+        "stat_label": "Assists",
         "direction": "cold",
         "last_3": [
-          3,
           4,
-          1
+          3,
+          6
         ],
-        "last_3_avg": 2.7,
-        "season_avg": 4.3,
-        "l10_avg": 4.2,
-        "pct_diff_season": -37.2,
-        "pct_diff_l10": -35.7,
-        "comparison": "season",
-        "games_played": 58,
+        "last_3_avg": 4.3,
+        "season_avg": 3.9,
+        "l10_avg": 6.6,
+        "pct_diff_season": 10.3,
+        "pct_diff_l10": -34.8,
+        "comparison": "l10",
+        "games_played": 71,
         "betting_line": {
           "line": 3.5,
-          "over_price": 2.3,
-          "under_price": 1.53,
+          "over_price": 1.8,
+          "under_price": 1.87,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -22.9,
-        "score": 103.3,
+        "pct_vs_line": 22.9,
+        "score": 79.7,
         "bet_action": "UNDER",
-        "bet_description": "Dean Wade UNDER 3.5 Rebounds"
+        "bet_description": "Daniss Jenkins UNDER 3.5 Assists"
       },
       {
         "player_name": "James Harden",
@@ -1311,17 +1311,17 @@
         "comparison": "season",
         "games_played": 70,
         "betting_line": {
-          "line": 5.5,
-          "over_price": 2.1,
-          "under_price": 1.63,
+          "line": 4.5,
+          "over_price": 2.2,
+          "under_price": 1.57,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -3.6,
-        "score": 65.0,
+        "pct_vs_line": 17.8,
+        "score": 96.1,
         "bet_action": "UNDER",
-        "bet_description": "James Harden UNDER 5.5 Assists"
+        "bet_description": "James Harden UNDER 4.5 Assists"
       },
       {
         "player_name": "Devin Vassell",
@@ -1373,17 +1373,17 @@
         "comparison": "season",
         "games_played": 12,
         "betting_line": {
-          "line": 4.5,
-          "over_price": 1.58,
-          "under_price": 2.18,
+          "line": 5.5,
+          "over_price": 1.48,
+          "under_price": 2.4,
           "market_type": "over_under"
         },
         "game": "Detroit Pistons @ Cleveland Cavaliers",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -17.8,
-        "score": 79.0,
+        "pct_vs_line": -32.7,
+        "score": 111.9,
         "bet_action": "UNDER",
-        "bet_description": "Max Strus UNDER 4.5 Rebounds"
+        "bet_description": "Max Strus UNDER 5.5 Rebounds"
       },
       {
         "player_name": "Julius Randle",
@@ -1415,99 +1415,6 @@
         "score": 64.4,
         "bet_action": "UNDER",
         "bet_description": "Julius Randle UNDER 3.5 Assists"
-      },
-      {
-        "player_name": "Ausar Thompson",
-        "team": "DET",
-        "stat": "REB",
-        "stat_label": "Rebounds",
-        "direction": "cold",
-        "last_3": [
-          5,
-          5,
-          4
-        ],
-        "last_3_avg": 4.7,
-        "season_avg": 5.8,
-        "l10_avg": 5.5,
-        "pct_diff_season": -19.0,
-        "pct_diff_l10": -14.5,
-        "comparison": "season",
-        "games_played": 72,
-        "betting_line": {
-          "line": 8.5,
-          "over_price": 1.78,
-          "under_price": 1.9,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -44.7,
-        "score": 143.5,
-        "bet_action": "UNDER",
-        "bet_description": "Ausar Thompson UNDER 8.5 Rebounds"
-      },
-      {
-        "player_name": "Jarrett Allen",
-        "team": "CLE",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          16,
-          13,
-          16
-        ],
-        "last_3_avg": 15.0,
-        "season_avg": 15.4,
-        "l10_avg": 18.0,
-        "pct_diff_season": -2.6,
-        "pct_diff_l10": -16.7,
-        "comparison": "l10",
-        "games_played": 56,
-        "betting_line": {
-          "line": 12.5,
-          "over_price": 2,
-          "under_price": 1.7,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": 20.0,
-        "score": 77.8,
-        "bet_action": "UNDER",
-        "bet_description": "Jarrett Allen UNDER 12.5 Points"
-      },
-      {
-        "player_name": "Caris LeVert",
-        "team": "DET",
-        "stat": "PTS",
-        "stat_label": "Points",
-        "direction": "cold",
-        "last_3": [
-          6,
-          6,
-          7
-        ],
-        "last_3_avg": 6.3,
-        "season_avg": 7.4,
-        "l10_avg": 7.5,
-        "pct_diff_season": -14.9,
-        "pct_diff_l10": -16.0,
-        "comparison": "l10",
-        "games_played": 60,
-        "betting_line": {
-          "line": 9.5,
-          "over_price": 1.84,
-          "under_price": 1.83,
-          "market_type": "over_under"
-        },
-        "game": "Detroit Pistons @ Cleveland Cavaliers",
-        "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/detroit-pistons-at-cleveland-cavaliers-10473401",
-        "pct_vs_line": -33.7,
-        "score": 126.1,
-        "bet_action": "UNDER",
-        "bet_description": "Caris LeVert UNDER 9.5 Points"
       }
     ]
   },
@@ -1518,7 +1425,7 @@
   "meta": {
     "total_players_analyzed": 525,
     "total_teams_analyzed": 16,
-    "players_with_sportsbet_markets": 31,
+    "players_with_sportsbet_markets": 25,
     "events_count": 2
   }
 }
