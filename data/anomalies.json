@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T01:07:00.633985+11:00",
+  "generated_at": "2026-05-28T02:07:01.183851+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -886,7 +886,7 @@
               "price": 2.12
             },
             "1": {
-              "price": 1.24
+              "price": 1.22
             }
           },
           "market_type": "threshold"
@@ -1134,17 +1134,17 @@
         "comparison": "l10",
         "games_played": 47,
         "betting_line": {
-          "line": 7.5,
-          "over_price": 1.68,
-          "under_price": 2.1,
+          "line": 8.5,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ San Antonio Spurs",
         "sportsbet_url": "https://www.sportsbet.com.au/betting/basketball-us/nba/oklahoma-city-thunder-at-san-antonio-spurs-10524541",
-        "pct_vs_line": -10.7,
-        "score": 70.9,
+        "pct_vs_line": -21.2,
+        "score": 94.0,
         "bet_action": "UNDER",
-        "bet_description": "Isaiah Hartenstein UNDER 7.5 Rebounds"
+        "bet_description": "Isaiah Hartenstein UNDER 8.5 Rebounds"
       },
       {
         "player_name": "Devin Vassell",
@@ -1321,8 +1321,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.5,
-          "under_price": 1.48,
+          "over_price": 2.45,
+          "under_price": 1.5,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ San Antonio Spurs",
