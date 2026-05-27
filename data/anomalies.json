@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T02:07:01.183851+11:00",
+  "generated_at": "2026-05-28T03:07:01.050472+11:00",
   "season": "2025-26",
   "featured_bets": [
     {
@@ -53,8 +53,8 @@
       "games_played": 83,
       "betting_line": {
         "line": 7.5,
-        "over_price": 1.96,
-        "under_price": 1.8,
+        "over_price": 2,
+        "under_price": 1.78,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -84,8 +84,8 @@
       "games_played": 72,
       "betting_line": {
         "line": 1.5,
-        "over_price": 2,
-        "under_price": 1.78,
+        "over_price": 2.02,
+        "under_price": 1.76,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -147,7 +147,7 @@
       "betting_line": {
         "line": 3.5,
         "over_price": 1.92,
-        "under_price": 1.84,
+        "under_price": 1.83,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -301,8 +301,8 @@
       "games_played": 76,
       "betting_line": {
         "line": 14.5,
-        "over_price": 1.9,
-        "under_price": 1.86,
+        "over_price": 1.91,
+        "under_price": 1.85,
         "market_type": "over_under"
       },
       "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -536,8 +536,8 @@
         "games_played": 72,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2,
-          "under_price": 1.78,
+          "over_price": 2.02,
+          "under_price": 1.76,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -599,7 +599,7 @@
         "betting_line": {
           "line": 3.5,
           "over_price": 1.92,
-          "under_price": 1.84,
+          "under_price": 1.83,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -629,8 +629,8 @@
         "games_played": 83,
         "betting_line": {
           "line": 7.5,
-          "over_price": 1.96,
-          "under_price": 1.8,
+          "over_price": 2,
+          "under_price": 1.78,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -660,8 +660,8 @@
         "games_played": 76,
         "betting_line": {
           "line": 14.5,
-          "over_price": 1.9,
-          "under_price": 1.86,
+          "over_price": 1.91,
+          "under_price": 1.85,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ San Antonio Spurs",
@@ -880,13 +880,13 @@
         "betting_line": {
           "thresholds": {
             "3": {
-              "price": 4.5
+              "price": 4.7
             },
             "2": {
               "price": 2.12
             },
             "1": {
-              "price": 1.22
+              "price": 1.23
             }
           },
           "market_type": "threshold"
@@ -1321,8 +1321,8 @@
         "games_played": 69,
         "betting_line": {
           "line": 1.5,
-          "over_price": 2.45,
-          "under_price": 1.5,
+          "over_price": 2.5,
+          "under_price": 1.48,
           "market_type": "over_under"
         },
         "game": "Oklahoma City Thunder @ San Antonio Spurs",
