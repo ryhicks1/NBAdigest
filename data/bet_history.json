@@ -11216,9 +11216,9 @@
       "last_3_avg": 17.0,
       "season_avg": 13.2,
       "score": 1453.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346133"
     },
     {
       "id": "2026-05-25|Jaylon Tyson|REB|1.5|OVER",
@@ -11236,9 +11236,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.1,
       "score": 861.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346269"
     },
     {
       "id": "2026-05-25|Mitchell Robinson|PTS|3.5|OVER",
@@ -11256,9 +11256,9 @@
       "last_3_avg": 10.7,
       "season_avg": 5.6,
       "score": 617.9,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346363"
     },
     {
       "id": "2026-05-25|Keldon Johnson|PTS|7.5|OVER",
@@ -11276,9 +11276,9 @@
       "last_3_avg": 18.3,
       "season_avg": 13.1,
       "score": 420.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346454"
     },
     {
       "id": "2026-05-25|Chet Holmgren|BLK|1.5|OVER",
@@ -11296,9 +11296,9 @@
       "last_3_avg": 3.3,
       "season_avg": 1.8,
       "score": 305.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346551"
     },
     {
       "id": "2026-05-25|De'Aaron Fox|FG3M|1.5|OVER",
@@ -11316,9 +11316,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.8,
       "score": 283.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346645"
     },
     {
       "id": "2026-05-25|Jarrett Allen|AST|1.5|UNDER",
@@ -11336,9 +11336,9 @@
       "last_3_avg": 0.3,
       "season_avg": 1.8,
       "score": 278.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346722"
     },
     {
       "id": "2026-05-25|Jalen Williams|AST|3.5|OVER",
@@ -11356,9 +11356,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.5,
       "score": 268.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346798"
     },
     {
       "id": "2026-05-25|Keldon Johnson|REB|3.5|OVER",
@@ -11376,9 +11376,9 @@
       "last_3_avg": 6.7,
       "season_avg": 5.3,
       "score": 253.1,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346870"
     },
     {
       "id": "2026-05-25|Julian Champagnie|FG3M|2.5|UNDER",
@@ -11396,9 +11396,9 @@
       "last_3_avg": 0.7,
       "season_avg": 2.4,
       "score": 224.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.346944"
     },
     {
       "id": "2026-05-26|Jaylon Tyson|PTS|2.5|OVER",
@@ -11416,9 +11416,9 @@
       "last_3_avg": 17.0,
       "season_avg": 13.2,
       "score": 1453.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347016"
     },
     {
       "id": "2026-05-26|Jaylon Tyson|REB|1.5|OVER",
@@ -11436,9 +11436,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.1,
       "score": 861.3,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347090"
     },
     {
       "id": "2026-05-26|Mitchell Robinson|PTS|3.5|OVER",
@@ -11456,9 +11456,9 @@
       "last_3_avg": 10.7,
       "season_avg": 5.6,
       "score": 617.9,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347175"
     },
     {
       "id": "2026-05-26|Keldon Johnson|PTS|7.5|OVER",
@@ -11476,9 +11476,9 @@
       "last_3_avg": 18.3,
       "season_avg": 13.1,
       "score": 420.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347265"
     },
     {
       "id": "2026-05-26|Chet Holmgren|BLK|1.5|OVER",
@@ -11496,9 +11496,9 @@
       "last_3_avg": 3.3,
       "season_avg": 1.8,
       "score": 305.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347339"
     },
     {
       "id": "2026-05-26|De'Aaron Fox|FG3M|1.5|OVER",
@@ -11516,9 +11516,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.8,
       "score": 283.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347439"
     },
     {
       "id": "2026-05-26|Jarrett Allen|AST|1.5|UNDER",
@@ -11536,9 +11536,9 @@
       "last_3_avg": 0.3,
       "season_avg": 1.8,
       "score": 278.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347523"
     },
     {
       "id": "2026-05-26|Jalen Williams|AST|3.5|OVER",
@@ -11556,9 +11556,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.5,
       "score": 268.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347593"
     },
     {
       "id": "2026-05-26|Keldon Johnson|REB|3.5|OVER",
@@ -11576,9 +11576,9 @@
       "last_3_avg": 6.7,
       "season_avg": 5.3,
       "score": 253.1,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347661"
     },
     {
       "id": "2026-05-26|Julian Champagnie|FG3M|2.5|UNDER",
@@ -11596,9 +11596,9 @@
       "last_3_avg": 0.7,
       "season_avg": 2.4,
       "score": 224.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-05-30T16:37:35.347747"
     },
     {
       "id": "2026-05-28|Keldon Johnson|REB|2.5|OVER",
