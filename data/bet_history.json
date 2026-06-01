@@ -11616,9 +11616,9 @@
       "last_3_avg": 6.7,
       "season_avg": 5.3,
       "score": 421.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754460"
     },
     {
       "id": "2026-05-28|Keldon Johnson|PTS|7.5|OVER",
@@ -11636,9 +11636,9 @@
       "last_3_avg": 18.3,
       "season_avg": 13.1,
       "score": 420.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754483"
     },
     {
       "id": "2026-05-28|Chet Holmgren|BLK|1.5|OVER",
@@ -11656,9 +11656,9 @@
       "last_3_avg": 3.3,
       "season_avg": 1.8,
       "score": 305.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754497"
     },
     {
       "id": "2026-05-28|De'Aaron Fox|FG3M|1.5|OVER",
@@ -11676,9 +11676,9 @@
       "last_3_avg": 3.0,
       "season_avg": 1.8,
       "score": 283.5,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754509"
     },
     {
       "id": "2026-05-28|Jalen Williams|AST|3.5|OVER",
@@ -11696,9 +11696,9 @@
       "last_3_avg": 7.0,
       "season_avg": 5.5,
       "score": 268.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754520"
     },
     {
       "id": "2026-05-28|Julian Champagnie|FG3M|2.5|UNDER",
@@ -11716,9 +11716,9 @@
       "last_3_avg": 0.7,
       "season_avg": 2.4,
       "score": 224.8,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754531"
     },
     {
       "id": "2026-05-28|Josh Hart|REB|7.5|UNDER",
@@ -11736,9 +11736,9 @@
       "last_3_avg": 3.3,
       "season_avg": 7.4,
       "score": 195.1,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754541"
     },
     {
       "id": "2026-05-28|Stephon Castle|AST|6.5|OVER",
@@ -11756,9 +11756,9 @@
       "last_3_avg": 10.3,
       "season_avg": 7.4,
       "score": 193.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754552"
     },
     {
       "id": "2026-05-28|Alex Caruso|PTS|9.5|UNDER",
@@ -11776,9 +11776,9 @@
       "last_3_avg": 4.3,
       "season_avg": 6.3,
       "score": 185.2,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754562"
     },
     {
       "id": "2026-05-28|De'Aaron Fox|PTS|14.5|OVER",
@@ -11796,9 +11796,9 @@
       "last_3_avg": 22.3,
       "season_avg": 17.9,
       "score": 183.6,
-      "status": "pending",
+      "status": "no_game",
       "actual_value": null,
-      "settled_at": null
+      "settled_at": "2026-06-01T09:14:11.754572"
     }
   ]
 }
