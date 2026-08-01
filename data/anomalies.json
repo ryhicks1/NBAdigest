@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:06:56.544389+11:00",
+  "generated_at": "2026-08-02T09:00:00.607571+11:00",
   "season": "2025-26",
   "featured_bets": [],
   "tracking": {
@@ -177,9 +177,9 @@
     "cold": []
   },
   "meta": {
-    "total_players_analyzed": 461,
+    "total_players_analyzed": 462,
     "total_teams_analyzed": 30,
-    "players_with_sportsbet_markets": 461,
+    "players_with_sportsbet_markets": 462,
     "events_count": 0
   }
 }
